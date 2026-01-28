@@ -1,0 +1,95 @@
+{
+  "manufacturer": "little_greene",
+  "displayName": "Little Greene",
+  "displayNamePL": "Little Greene",
+  "displayNameDE": "Little Greene",
+  "displayNameEN": "Little Greene",
+  "country": "Wielka Brytania",
+  "region": "uk",
+  "website": "https://www.littlegreene.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "notes": "Bardzo dobre zasoby cyfrowe, dane LRV dostępne na stronie producenta",
+  "collections": [
+    {
+      "id": "lg-intelligent-matt",
+      "name": "Intelligent Matt",
+      "nameDE": "Intelligentes Matt",
+      "description": "Inteligentna farba matowa - odporna na plamy i ślady dotyku",
+      "productType": "interior",
+      "finish": "matte",
+      "colors": [
+        {"id": "lg-im-001", "code": "LM1", "name": "Absolute White", "nameDE": "Absolute White", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "lg-im-002", "code": "LM2", "name": "Soft White", "nameDE": "Soft White", "hexColor": "EDEADF", "rgb": {"r": 237, "g": 234, "b": 223}, "lrv": 84.0, "category": "white"},
+        {"id": "lg-im-003", "code": "LM3", "name": "Marble", "nameDE": "Marble", "hexColor": "E5DCC8", "rgb": {"r": 229, "g": 220, "b": 200}, "lrv": 78.0, "category": "white"},
+        {"id": "lg-im-004", "code": "LM4", "name": "Portland Stone", "nameDE": "Portland Stone", "hexColor": "DDD0B8", "rgb": {"r": 221, "g": 208, "b": 184}, "lrv": 72.0, "category": "neutral"},
+        {"id": "lg-im-005", "code": "LM5", "name": "Portland Grey", "nameDE": "Portland Grey", "hexColor": "C8C0B0", "rgb": {"r": 200, "g": 192, "b": 176}, "lrv": 65.0, "category": "neutral"},
+        {"id": "lg-im-006", "code": "LM6", "name": "Lagoon", "nameDE": "Lagoon", "hexColor": "98B0A8", "rgb": {"r": 152, "g": 176, "b": 168}, "lrv": 52.0, "category": "green"},
+        {"id": "lg-im-007", "code": "LM7", "name": "Royal Navy", "nameDE": "Royal Navy", "hexColor": "283848", "rgb": {"r": 40, "g": 56, "b": 72}, "lrv": 8.0, "category": "blue"},
+        {"id": "lg-im-008", "code": "LM8", "name": "Deep Forest", "nameDE": "Deep Forest", "hexColor": "283820", "rgb": {"r": 40, "g": 56, "b": 32}, "lrv": 5.0, "category": "green"},
+        {"id": "lg-im-009", "code": "LM9", "name": "Chocolate", "nameDE": "Chocolate", "hexColor": "584828", "rgb": {"r": 88, "g": 72, "b": 40}, "lrv": 14.0, "category": "brown"},
+        {"id": "lg-im-010", "code": "LM10", "name": "Dark Mahogany", "nameDE": "Dark Mahogany", "hexColor": "482818", "rgb": {"r": 72, "g": 40, "b": 24}, "lrv": 4.0, "category": "brown"}
+      ]
+    },
+    {
+      "id": "lg-absolute-matt",
+      "name": "Absolute Matt",
+      "nameDE": "Absolutes Matt",
+      "description": "Klasyczna farba matowa o głębokim wykończeniu",
+      "productType": "interior",
+      "finish": "flat",
+      "colors": [
+        {"id": "lg-am-001", "code": "AM1", "name": "Snow", "nameDE": "Snow", "hexColor": "FAFAF5", "rgb": {"r": 250, "g": 250, "b": 245}, "lrv": 93.0, "category": "white"},
+        {"id": "lg-am-002", "code": "AM2", "name": "Lemon", "nameDE": "Lemon", "hexColor": "F8F0D8", "rgb": {"r": 248, "g": 240, "b": 216}, "lrv": 86.0, "category": "white"},
+        {"id": "lg-am-003", "code": "AM3", "name": "Ming", "nameDE": "Ming", "hexColor": "C8D8C8", "rgb": {"r": 200, "g": 216, "b": 200}, "lrv": 73.0, "category": "green"},
+        {"id": "lg-am-004", "code": "AM4", "name": "Horizon", "nameDE": "Horizon", "hexColor": "B8C0C8", "rgb": {"r": 184, "g": 192, "b": 200}, "lrv": 68.0, "category": "blue"},
+        {"id": "lg-am-005", "code": "AM5", "name": "Flamingo", "nameDE": "Flamingo", "hexColor": "E8C8C8", "rgb": {"r": 232, "g": 200, "b": 200}, "lrv": 72.0, "category": "red"},
+        {"id": "lg-am-006", "code": "AM6", "name": "Slate", "nameDE": "Slate", "hexColor": "586868", "rgb": {"r": 88, "g": 104, "b": 104}, "lrv": 25.0, "category": "neutral"},
+        {"id": "lg-am-007", "code": "AM7", "name": "Night", "nameDE": "Night", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"},
+        {"id": "lg-am-008", "code": "AM8", "name": "Bordeaux", "nameDE": "Bordeaux", "hexColor": "703028", "rgb": {"r": 112, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "lg-am-009", "code": "AM9", "name": "Olive", "nameDE": "Olive", "hexColor": "686838", "rgb": {"r": 104, "g": 104, "b": 56}, "lrv": 20.0, "category": "green"},
+        {"id": "lg-am-010", "code": "AM10", "name": "Midnight", "nameDE": "Midnight", "hexColor": "181828", "rgb": {"r": 24, "g": 24, "b": 40}, "lrv": 3.0, "category": "blue"}
+      ]
+    },
+    {
+      "id": "lg-intelligent-eggshell",
+      "name": "Intelligent Eggshell",
+      "nameDE": "Intelligente Eierschale",
+      "description": "Inteligentna farba softshell do kuchni i łazienek",
+      "productType": "interior",
+      "finish": "eggshell",
+      "colors": [
+        {"id": "lg-ie-001", "code": "IE1", "name": "Porcelain", "nameDE": "Porcelain", "hexColor": "F0F0E8", "rgb": {"r": 240, "g": 240, "b": 232}, "lrv": 88.0, "category": "white"},
+        {"id": "lg-ie-002", "code": "IE2", "name": "Magnolia", "nameDE": "Magnolia", "hexColor": "F5E8D0", "rgb": {"r": 245, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "lg-ie-003", "code": "IE3", "name": "Aqua", "nameDE": "Aqua", "hexColor": "98C8C8", "rgb": {"r": 152, "g": 200, "b": 200}, "lrv": 62.0, "category": "blue"},
+        {"id": "lg-ie-004", "code": "IE4", "name": "Sky", "nameDE": "Sky", "hexColor": "B8D8E8", "rgb": {"r": 184, "g": 216, "b": 232}, "lrv": 72.0, "category": "blue"},
+        {"id": "lg-ie-005", "code": "IE5", "name": "Bottle Green", "nameDE": "Bottle Green", "hexColor": "385830", "rgb": {"r": 56, "g": 88, "b": 48}, "lrv": 10.0, "category": "green"},
+        {"id": "lg-ie-006", "code": "IE6", "name": "Crimson", "nameDE": "Crimson", "hexColor": "A83030", "rgb": {"r": 168, "g": 48, "b": 48}, "lrv": 15.0, "category": "red"},
+        {"id": "lg-ie-007", "code": "IE7", "name": "Terracotta", "nameDE": "Terracotta", "hexColor": "C85838", "rgb": {"r": 200, "g": 88, "b": 56}, "lrv": 28.0, "category": "orange"},
+        {"id": "lg-ie-008", "code": "IE8", "name": "Gold", "nameDE": "Gold", "hexColor": "C8A028", "rgb": {"r": 200, "g": 160, "b": 40}, "lrv": 42.0, "category": "yellow"},
+        {"id": "lg-ie-009", "code": "IE9", "name": "Plum", "nameDE": "Plum", "hexColor": "684858", "rgb": {"r": 104, "g": 72, "b": 88}, "lrv": 15.0, "category": "purple"},
+        {"id": "lg-ie-010", "code": "IE10", "name": "Charcoal", "nameDE": "Charcoal", "hexColor": "383838", "rgb": {"r": 56, "g": 56, "b": 56}, "lrv": 7.0, "category": "black"}
+      ]
+    },
+    {
+      "id": "lg-intelligent-gloss",
+      "name": "Intelligent Gloss",
+      "nameDE": "Intelligenter Glanz",
+      "description": "Inteligentna farba wysokopołyskowa",
+      "productType": "interior",
+      "finish": "high-gloss",
+      "colors": [
+        {"id": "lg-ig-001", "code": "IG1", "name": "China White", "nameDE": "China White", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "lg-ig-002", "code": "IG2", "name": "Pastel", "nameDE": "Pastel", "hexColor": "E0E8D8", "rgb": {"r": 224, "g": 232, "b": 216}, "lrv": 81.0, "category": "white"},
+        {"id": "lg-ig-003", "code": "IG3", "name": "Mid Blue", "nameDE": "Mid Blue", "hexColor": "5888A8", "rgb": {"r": 88, "g": 136, "b": 168}, "lrv": 38.0, "category": "blue"},
+        {"id": "lg-ig-004", "code": "IG4", "name": "Mid Green", "nameDE": "Mid Green", "hexColor": "689868", "rgb": {"r": 104, "g": 152, "b": 104}, "lrv": 38.0, "category": "green"},
+        {"id": "lg-ig-005", "code": "IG5", "name": "Mid Red", "nameDE": "Mid Red", "hexColor": "C84848", "rgb": {"r": 200, "g": 72, "b": 72}, "lrv": 22.0, "category": "red"},
+        {"id": "lg-ig-006", "code": "IG6", "name": "Mid Yellow", "nameDE": "Mid Yellow", "hexColor": "D8B030", "rgb": {"r": 216, "g": 176, "b": 48}, "lrv": 48.0, "category": "yellow"},
+        {"id": "lg-ig-007", "code": "IG7", "name": "Dark Blue", "nameDE": "Dark Blue", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "lg-ig-008", "code": "IG8", "name": "Dark Green", "nameDE": "Dark Green", "hexColor": "285830", "rgb": {"r": 40, "g": 88, "b": 48}, "lrv": 8.0, "category": "green"},
+        {"id": "lg-ig-009", "code": "IG9", "name": "Dark Red", "nameDE": "Dark Red", "hexColor": "803028", "rgb": {"r": 128, "g": 48, "b": 40}, "lrv": 10.0, "category": "red"},
+        {"id": "lg-ig-010", "code": "IG10", "name": "Black", "nameDE": "Black", "hexColor": "202020", "rgb": {"r": 32, "g": 32, "b": 32}, "lrv": 4.0, "category": "black"}
+      ]
+    }
+  ]
+}

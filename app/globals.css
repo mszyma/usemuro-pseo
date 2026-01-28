@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Brand Colors - from Muro Style Guide */
+  --bg-cream: #FAF8F5;
+  --bg-light: #F5F4F2;
+  --text-charcoal: #2D2D2D;
+  --text-secondary: #4A5568;
+  --text-muted: #888888;
+  --accent-terracotta: #C4785A;
+  --accent-terracotta-dark: #A8614A;
+  --border-light: #E8E6E3;
+  --border-medium: rgba(0, 0, 0, 0.1);
+
+  /* Spacing */
+  --section-padding: clamp(80px, 12vw, 140px);
+  --container-max: 1140px;
+  --container-narrow: 720px;
+
+  /* Transitions */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-cream);
+  color: var(--text-charcoal);
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'DM Sans', -apple-system, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}

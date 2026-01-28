@@ -1,0 +1,54 @@
+{
+  "manufacturer": "alpina",
+  "displayName": "Alpina",
+  "displayNamePL": "Alpina",
+  "displayNameDE": "Alpina",
+  "displayNameEN": "Alpina",
+  "country": "Niemcy",
+  "region": "dach",
+  "website": "https://www.alpina-farben.de",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "collections": [
+    {
+      "id": "alpina-color-system",
+      "name": "Alpina Color System",
+      "nameDE": "Alpina Color System",
+      "description": "System kolorystyczny Alpina - ponad 300 kolorów",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "alp-sys-001", "code": "ALP001", "name": "Alpinweiß", "nameDE": "Alpinweiß", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "alp-sys-002", "code": "ALP002", "name": "Offenweiß", "nameDE": "Offenweiß", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "alp-sys-003", "code": "ALP003", "name": "Keramikweiß", "nameDE": "Keramikweiß", "hexColor": "EDEBD9", "rgb": {"r": 237, "g": 235, "b": 217}, "lrv": 83.0, "category": "white"},
+        {"id": "alp-sys-004", "code": "ALP004", "name": "Pergament", "nameDE": "Pergament", "hexColor": "E5DCC8", "rgb": {"r": 229, "g": 220, "b": 200}, "lrv": 78.0, "category": "white"},
+        {"id": "alp-sys-005", "code": "ALP005", "name": "Champagner", "nameDE": "Champagner", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "alp-sys-006", "code": "ALP006", "name": "Sand", "nameDE": "Sand", "hexColor": "C0A880", "rgb": {"r": 192, "g": 168, "b": 128}, "lrv": 52.0, "category": "neutral"},
+        {"id": "alp-sys-007", "code": "ALP007", "name": "Stein", "nameDE": "Stein", "hexColor": "989078", "rgb": {"r": 152, "g": 144, "b": 120}, "lrv": 42.0, "category": "neutral"},
+        {"id": "alp-sys-008", "code": "ALP008", "name": "Grau", "nameDE": "Grau", "hexColor": "787870", "rgb": {"r": 120, "g": 120, "b": 112}, "lrv": 32.0, "category": "neutral"},
+        {"id": "alp-sys-009", "code": "ALP009", "name": "Anthrazit", "nameDE": "Anthrazit", "hexColor": "484848", "rgb": {"r": 72, "g": 72, "b": 72}, "lrv": 10.0, "category": "neutral"},
+        {"id": "alp-sys-010", "code": "ALP010", "name": "Schwarz", "nameDE": "Schwarz", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    },
+    {
+      "id": "alpina-expert",
+      "name": "Alpina Expert",
+      "nameDE": "Alpina Expert",
+      "description": "Linia profesjonalna - 200 kolorów",
+      "productType": "both",
+      "finish": "satin",
+      "colors": [
+        {"id": "alp-exp-001", "code": "EXP001", "name": "Expert Weiß", "nameDE": "Expert Weiß", "hexColor": "F5F5F5", "rgb": {"r": 245, "g": 245, "b": 245}, "lrv": 92.0, "category": "white"},
+        {"id": "alp-exp-002", "code": "EXP002", "name": "Expert Creme", "nameDE": "Expert Creme", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "alp-exp-003", "code": "EXP003", "name": "Expert Beige", "nameDE": "Expert Beige", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "alp-exp-004", "code": "EXP004", "name": "Expert Braun", "nameDE": "Expert Braun", "hexColor": "887858", "rgb": {"r": 136, "g": 120, "b": 88}, "lrv": 35.0, "category": "brown"},
+        {"id": "alp-exp-005", "code": "EXP005", "name": "Expert Oliv", "nameDE": "Expert Oliv", "hexColor": "686838", "rgb": {"r": 104, "g": 104, "b": 56}, "lrv": 20.0, "category": "green"},
+        {"id": "alp-exp-006", "code": "EXP006", "name": "Expert Blau", "nameDE": "Expert Blau", "hexColor": "385878", "rgb": {"r": 56, "g": 88, "b": 120}, "lrv": 18.0, "category": "blue"},
+        {"id": "alp-exp-007", "code": "EXP007", "name": "Expert Rot", "nameDE": "Expert Rot", "hexColor": "A83830", "rgb": {"r": 168, "g": 56, "b": 48}, "lrv": 15.0, "category": "red"},
+        {"id": "alp-exp-008", "code": "EXP008", "name": "Expert Gelb", "nameDE": "Expert Gelb", "hexColor": "D8A830", "rgb": {"r": 216, "g": 168, "b": 48}, "lrv": 45.0, "category": "yellow"},
+        {"id": "alp-exp-009", "code": "EXP009", "name": "Expert Lila", "nameDE": "Expert Lila", "hexColor": "785878", "rgb": {"r": 120, "g": 88, "b": 120}, "lrv": 22.0, "category": "purple"},
+        {"id": "alp-exp-010", "code": "EXP010", "name": "Expert Grau", "nameDE": "Expert Grau", "hexColor": "606060", "rgb": {"r": 96, "g": 96, "b": 96}, "lrv": 22.0, "category": "neutral"}
+      ]
+    }
+  ]
+}

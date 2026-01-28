@@ -1,0 +1,75 @@
+{
+  "manufacturer": "oikos",
+  "displayName": "Oikos",
+  "displayNamePL": "Oikos",
+  "displayNameDE": "Oikos",
+  "displayNameEN": "Oikos",
+  "country": "Włochy",
+  "region": "wlochy",
+  "website": "https://www.oikos-paint.it",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ADSKLIB,BIM",
+  "notes": "Ekologiczne farby dekoracyjne - Kreos, Marmorino",
+  "collections": [
+    {
+      "id": "oikos-kreos",
+      "name": "Kreos",
+      "nameDE": "Kreos",
+      "description": "Efekt drapowania - 200 kolorów",
+      "productType": "interior",
+      "finish": "textured",
+      "colors": [
+        {"id": "oik-kre-001", "code": "KRE001", "name": "Bianco", "nameDE": "Bianco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "oik-kre-002", "code": "KRE002", "name": "Bianco Ghiaccio", "nameDE": "Bianco Ghiaccio", "hexColor": "F0F0E8", "rgb": {"r": 240, "g": 240, "b": 232}, "lrv": 88.0, "category": "white"},
+        {"id": "oik-kre-003", "code": "KRE003", "name": "Avorio", "nameDE": "Avorio", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "oik-kre-004", "code": "KRE004", "name": "Sabbia", "nameDE": "Sabbia", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "oik-kre-005", "code": "KRE005", "name": "Grigio", "nameDE": "Grigio", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "oik-kre-006", "code": "KRE006", "name": "Antracite", "nameDE": "Antracite", "hexColor": "484848", "rgb": {"r": 72, "g": 72, "b": 72}, "lrv": 10.0, "category": "neutral"},
+        {"id": "oik-kre-007", "code": "KRE007", "name": "Blu Notte", "nameDE": "Blu Notte", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "oik-kre-008", "code": "KRE008", "name": "Verde Salvia", "nameDE": "Verde Salvia", "hexColor": "889078", "rgb": {"r": 136, "g": 144, "b": 120}, "lrv": 42.0, "category": "green"},
+        {"id": "oik-kre-009", "code": "KRE009", "name": "Rosso", "nameDE": "Rosso", "hexColor": "A03030", "rgb": {"r": 160, "g": 48, "b": 48}, "lrv": 14.0, "category": "red"},
+        {"id": "oik-kre-010", "code": "KRE010", "name": "Giallo", "nameDE": "Giallo", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "oikos-marmorino",
+      "name": "Marmorino",
+      "nameDE": "Marmorino",
+      "description": "Efekt marmuru - 150 kolorów",
+      "productType": "interior",
+      "finish": "polished",
+      "colors": [
+        {"id": "oik-mar-001", "code": "MAR001", "name": "Marmorino Bianco", "nameDE": "Marmorino Bianco", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "oik-mar-002", "code": "MAR002", "name": "Carrara", "nameDE": "Carrara", "hexColor": "E0DDD5", "rgb": {"r": 224, "g": 221, "b": 213}, "lrv": 80.0, "category": "white"},
+        {"id": "oik-mar-003", "code": "MAR003", "name": "Travertino", "nameDE": "Travertino", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "oik-mar-004", "code": "MAR004", "name": "Pietra Grey", "nameDE": "Pietra Grey", "hexColor": "989890", "rgb": {"r": 152, "g": 152, "b": 144}, "lrv": 45.0, "category": "neutral"},
+        {"id": "oik-mar-005", "code": "MAR005", "name": "Arabescato", "nameDE": "Arabescato", "hexColor": "D8D8D0", "rgb": {"r": 216, "g": 216, "b": 208}, "lrv": 75.0, "category": "white"},
+        {"id": "oik-mar-006", "code": "MAR006", "name": "Verde Alpi", "nameDE": "Verde Alpi", "hexColor": "586848", "rgb": {"r": 88, "g": 104, "b": 72}, "lrv": 22.0, "category": "green"},
+        {"id": "oik-mar-007", "code": "MAR007", "name": "Rosso Verona", "nameDE": "Rosso Verona", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "oik-mar-008", "code": "MAR008", "name": "Giallo Siena", "nameDE": "Giallo Siena", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "oik-mar-009", "code": "MAR009", "name": "Nero Marquinia", "nameDE": "Nero Marquinia", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"},
+        {"id": "oik-mar-010", "code": "MAR010", "name": "Botticino", "nameDE": "Botticino", "hexColor": "C8BFA8", "rgb": {"r": 200, "g": 191, "b": 168}, "lrv": 68.0, "category": "neutral"}
+      ]
+    },
+    {
+      "id": "oikos-deco",
+      "name": "Oikos Deco",
+      "nameDE": "Oikos Deco",
+      "description": "Kolekcja dekoracyjna - 300 kolorów",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "oik-deco-001", "code": "DEC001", "name": "Bianco Puro", "nameDE": "Bianco Puro", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "oik-deco-002", "code": "DEC002", "name": "Rosa Cipria", "nameDE": "Rosa Cipria", "hexColor": "E8C8C0", "rgb": {"r": 232, "g": 200, "b": 192}, "lrv": 72.0, "category": "red"},
+        {"id": "oik-deco-003", "code": "DEC003", "name": "Celeste", "nameDE": "Celeste", "hexColor": "B8D8E8", "rgb": {"r": 184, "g": 216, "b": 232}, "lrv": 72.0, "category": "blue"},
+        {"id": "oik-deco-004", "code": "DEC004", "name": "Menta", "nameDE": "Menta", "hexColor": "A8D8B8", "rgb": {"r": 168, "g": 216, "b": 184}, "lrv": 68.0, "category": "green"},
+        {"id": "oik-deco-005", "code": "DEC005", "name": "Lavanda", "nameDE": "Lavanda", "hexColor": "B8A8C8", "rgb": {"r": 184, "g": 168, "b": 200}, "lrv": 65.0, "category": "purple"},
+        {"id": "oik-deco-006", "code": "DEC006", "name": "Arancione", "nameDE": "Arancione", "hexColor": "D87830", "rgb": {"r": 216, "g": 120, "b": 48}, "lrv": 38.0, "category": "orange"},
+        {"id": "oik-deco-007", "code": "DEC007", "name": "Giallo Limone", "nameDE": "Giallo Limone", "hexColor": "E8D830", "rgb": {"r": 232, "g": 216, "b": 48}, "lrv": 62.0, "category": "yellow"},
+        {"id": "oik-deco-008", "code": "DEC008", "name": "Blu Cielo", "nameDE": "Blu Cielo", "hexColor": "68A8C8", "rgb": {"r": 104, "g": 168, "b": 200}, "lrv": 58.0, "category": "blue"},
+        {"id": "oik-deco-009", "code": "DEC009", "name": "Verde Bosco", "nameDE": "Verde Bosco", "hexColor": "386830", "rgb": {"r": 56, "g": 104, "b": 48}, "lrv": 12.0, "category": "green"},
+        {"id": "oik-deco-010", "code": "DEC010", "name": "Cioccolato", "nameDE": "Cioccolato", "hexColor": "584828", "rgb": {"r": 88, "g": 72, "b": 40}, "lrv": 14.0, "category": "brown"}
+      ]
+    }
+  ]
+}

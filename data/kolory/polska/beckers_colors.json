@@ -1,0 +1,549 @@
+{
+  "manufacturer": "beckers",
+  "displayName": "Beckers",
+  "displayNamePL": "Beckers",
+  "displayNameDE": "Beckers",
+  "displayNameEN": "Beckers",
+  "country": "Szwecja",
+  "region": "polska",
+  "website": "https://www.beckers.pl",
+  "source": "kdybicz/adobe-swatch-for-interior-designers GitHub",
+  "lastUpdated": "2026-01-14",
+  "totalColors": 66,
+  "collections": [
+    {
+      "id": "beckers-designer-colour",
+      "name": "Beckers Designer Colour",
+      "colors": [
+        {
+          "id": "beckers-001",
+          "code": "Admiral",
+          "name": "Admiral",
+          "nameDE": "Admiral",
+          "hexColor": "#023F5B",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-002",
+          "code": "Almond",
+          "name": "Almond",
+          "nameDE": "Almond",
+          "hexColor": "#E2BCA7",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-003",
+          "code": "Angel",
+          "name": "Angel Wings",
+          "nameDE": "Angel Wings",
+          "hexColor": "#EBEAE3",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-004",
+          "code": "Apricot",
+          "name": "Apricot",
+          "nameDE": "Apricot",
+          "hexColor": "#FBE3CD",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-005",
+          "code": "Aqua",
+          "name": "Aqua",
+          "nameDE": "Aqua",
+          "hexColor": "#C3D8ED",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-006",
+          "code": "Azure",
+          "name": "Azure",
+          "nameDE": "Azure",
+          "hexColor": "#688291",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-007",
+          "code": "Banana",
+          "name": "Banana",
+          "nameDE": "Banana",
+          "hexColor": "#F5EFD4",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-008",
+          "code": "Break",
+          "name": "Break Free",
+          "nameDE": "Break Free",
+          "hexColor": "#6B9099",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-009",
+          "code": "Burgundy",
+          "name": "Burgundy",
+          "nameDE": "Burgundy",
+          "hexColor": "#6B1E45",
+          "category": "red"
+        },
+        {
+          "id": "beckers-010",
+          "code": "Candy",
+          "name": "Candy Pink",
+          "nameDE": "Candy Pink",
+          "hexColor": "#F8BECF",
+          "category": "red"
+        },
+        {
+          "id": "beckers-011",
+          "code": "Cappuccino",
+          "name": "Cappuccino",
+          "nameDE": "Cappuccino",
+          "hexColor": "#E6D9CA",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-012",
+          "code": "Caramel",
+          "name": "Caramel Pudding",
+          "nameDE": "Caramel Pudding",
+          "hexColor": "#D5CAC6",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-013",
+          "code": "Cherry",
+          "name": "Cherry",
+          "nameDE": "Cherry",
+          "hexColor": "#AA2D21",
+          "category": "red"
+        },
+        {
+          "id": "beckers-014",
+          "code": "Cleopatra",
+          "name": "Cleopatra",
+          "nameDE": "Cleopatra",
+          "hexColor": "#00697D",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-015",
+          "code": "Cotton",
+          "name": "Cotton Candy",
+          "nameDE": "Cotton Candy",
+          "hexColor": "#DFD9D2",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-016",
+          "code": "Crocus",
+          "name": "Crocus Violet",
+          "nameDE": "Crocus Violet",
+          "hexColor": "#A69EC5",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-017",
+          "code": "Cup",
+          "name": "Cup of Coffee",
+          "nameDE": "Cup of Coffee",
+          "hexColor": "#B79F97",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-018",
+          "code": "Dark",
+          "name": "Dark Raspberry",
+          "nameDE": "Dark Raspberry",
+          "hexColor": "#801124",
+          "category": "red"
+        },
+        {
+          "id": "beckers-019",
+          "code": "Dolce",
+          "name": "Dolce Vita",
+          "nameDE": "Dolce Vita",
+          "hexColor": "#D08E8F",
+          "category": "red"
+        },
+        {
+          "id": "beckers-020",
+          "code": "Dreams",
+          "name": "Dreams",
+          "nameDE": "Dreams",
+          "hexColor": "#D9DFE3",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-021",
+          "code": "Frappe",
+          "name": "Frappe",
+          "nameDE": "Frappe",
+          "hexColor": "#A48A80",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-022",
+          "code": "Gerbera",
+          "name": "Gerbera",
+          "nameDE": "Gerbera",
+          "hexColor": "#FCDDB3",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-023",
+          "code": "Healing",
+          "name": "Healing Grey",
+          "nameDE": "Healing Grey",
+          "hexColor": "#BCC5BD",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-024",
+          "code": "Holiday",
+          "name": "Holiday",
+          "nameDE": "Holiday",
+          "hexColor": "#DCBDB3",
+          "category": "red"
+        },
+        {
+          "id": "beckers-025",
+          "code": "Ideal",
+          "name": "Ideal",
+          "nameDE": "Ideal",
+          "hexColor": "#F8FBF4",
+          "category": "white"
+        },
+        {
+          "id": "beckers-026",
+          "code": "Innocence",
+          "name": "Innocence",
+          "nameDE": "Innocence",
+          "hexColor": "#E2E2DD",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-027",
+          "code": "Iris",
+          "name": "Iris",
+          "nameDE": "Iris",
+          "hexColor": "#FAE8C4",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-028",
+          "code": "Juicy",
+          "name": "Juicy Orange",
+          "nameDE": "Juicy Orange",
+          "hexColor": "#FFB726",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-029",
+          "code": "Lavender",
+          "name": "Lavender",
+          "nameDE": "Lavender",
+          "hexColor": "#CAC7E1",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-030",
+          "code": "Light",
+          "name": "Light Brown",
+          "nameDE": "Light Brown",
+          "hexColor": "#D7B48B",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-031",
+          "code": "Light",
+          "name": "Light Grey",
+          "nameDE": "Light Grey",
+          "hexColor": "#D3D3CF",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-032",
+          "code": "Lovely",
+          "name": "Lovely",
+          "nameDE": "Lovely",
+          "hexColor": "#E9D2CB",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-033",
+          "code": "Luna",
+          "name": "Luna",
+          "nameDE": "Luna",
+          "hexColor": "#D9D9DB",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-034",
+          "code": "Macadamia",
+          "name": "Macadamia",
+          "nameDE": "Macadamia",
+          "hexColor": "#E0D0C1",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-035",
+          "code": "Marina",
+          "name": "Marina Blue",
+          "nameDE": "Marina Blue",
+          "hexColor": "#446296",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-036",
+          "code": "Melody",
+          "name": "Melody",
+          "nameDE": "Melody",
+          "hexColor": "#FBF6F2",
+          "category": "white"
+        },
+        {
+          "id": "beckers-037",
+          "code": "Melon",
+          "name": "Melon",
+          "nameDE": "Melon",
+          "hexColor": "#F9EBD7",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-038",
+          "code": "Misty",
+          "name": "Misty Violet",
+          "nameDE": "Misty Violet",
+          "hexColor": "#D4D2DD",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-039",
+          "code": "Mountain",
+          "name": "Mountain Charm",
+          "nameDE": "Mountain Charm",
+          "hexColor": "#887E82",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-040",
+          "code": "Neutral",
+          "name": "Neutral",
+          "nameDE": "Neutral",
+          "hexColor": "#DEE6EC",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-041",
+          "code": "Panna",
+          "name": "Panna Cotta",
+          "nameDE": "Panna Cotta",
+          "hexColor": "#FFFCE8",
+          "category": "white"
+        },
+        {
+          "id": "beckers-042",
+          "code": "Peace",
+          "name": "Peace",
+          "nameDE": "Peace",
+          "hexColor": "#9BB3A7",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-043",
+          "code": "Pear",
+          "name": "Pear",
+          "nameDE": "Pear",
+          "hexColor": "#E0DBA4",
+          "category": "yellow"
+        },
+        {
+          "id": "beckers-044",
+          "code": "Perfect",
+          "name": "Perfect",
+          "nameDE": "Perfect",
+          "hexColor": "#595B5B",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-045",
+          "code": "Pistachio",
+          "name": "Pistachio",
+          "nameDE": "Pistachio",
+          "hexColor": "#DCEBBC",
+          "category": "green"
+        },
+        {
+          "id": "beckers-046",
+          "code": "Powder",
+          "name": "Powder Pink",
+          "nameDE": "Powder Pink",
+          "hexColor": "#E0CCC9",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-047",
+          "code": "Red",
+          "name": "Red Deluxe",
+          "nameDE": "Red Deluxe",
+          "hexColor": "#AE1B34",
+          "category": "red"
+        },
+        {
+          "id": "beckers-048",
+          "code": "Relax",
+          "name": "Relax",
+          "nameDE": "Relax",
+          "hexColor": "#C0C5CE",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-049",
+          "code": "Sailboat",
+          "name": "Sailboat",
+          "nameDE": "Sailboat",
+          "hexColor": "#EFECE4",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-050",
+          "code": "Salvia",
+          "name": "Salvia",
+          "nameDE": "Salvia",
+          "hexColor": "#DCDEC0",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-051",
+          "code": "Satin",
+          "name": "Satin Blue",
+          "nameDE": "Satin Blue",
+          "hexColor": "#B5D6DB",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-052",
+          "code": "Sea",
+          "name": "Sea Blue",
+          "nameDE": "Sea Blue",
+          "hexColor": "#689CC5",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-053",
+          "code": "Silver",
+          "name": "Silver Pearl",
+          "nameDE": "Silver Pearl",
+          "hexColor": "#E3E9EE",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-054",
+          "code": "Sky",
+          "name": "Sky Grey",
+          "nameDE": "Sky Grey",
+          "hexColor": "#B5C3C6",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-055",
+          "code": "Stony",
+          "name": "Stony Beach",
+          "nameDE": "Stony Beach",
+          "hexColor": "#8C9795",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-056",
+          "code": "Stony",
+          "name": "Stony Grey",
+          "nameDE": "Stony Grey",
+          "hexColor": "#B1B1AF",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-057",
+          "code": "Sunflower",
+          "name": "Sunflower",
+          "nameDE": "Sunflower",
+          "hexColor": "#FAE6C7",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-058",
+          "code": "Sunny",
+          "name": "Sunny Day",
+          "nameDE": "Sunny Day",
+          "hexColor": "#FFDE94",
+          "category": "orange"
+        },
+        {
+          "id": "beckers-059",
+          "code": "Supernova",
+          "name": "Supernova",
+          "nameDE": "Supernova",
+          "hexColor": "#E4EEEC",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-060",
+          "code": "Tender",
+          "name": "Tender",
+          "nameDE": "Tender",
+          "hexColor": "#DEDFDD",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-061",
+          "code": "Trendy",
+          "name": "Trendy",
+          "nameDE": "Trendy",
+          "hexColor": "#4E6962",
+          "category": "blue"
+        },
+        {
+          "id": "beckers-062",
+          "code": "Vanilla",
+          "name": "Vanilla Cream",
+          "nameDE": "Vanilla Cream",
+          "hexColor": "#F1EAE8",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-063",
+          "code": "Vanilla",
+          "name": "Vanilla Muffin",
+          "nameDE": "Vanilla Muffin",
+          "hexColor": "#C9BFB2",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-064",
+          "code": "Wasabi",
+          "name": "Wasabi",
+          "nameDE": "Wasabi",
+          "hexColor": "#B8AE2D",
+          "category": "yellow"
+        },
+        {
+          "id": "beckers-065",
+          "code": "Water",
+          "name": "Water Lily",
+          "nameDE": "Water Lily",
+          "hexColor": "#E5E4E8",
+          "category": "neutral"
+        },
+        {
+          "id": "beckers-066",
+          "code": "Wonderful",
+          "name": "Wonderful",
+          "nameDE": "Wonderful",
+          "hexColor": "#CEB9A7",
+          "category": "orange"
+        }
+      ]
+    }
+  ]
+}

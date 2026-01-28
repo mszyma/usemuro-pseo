@@ -1,0 +1,54 @@
+{
+  "manufacturer": "v33",
+  "displayName": "V33",
+  "displayNamePL": "V33",
+  "displayNameDE": "V33",
+  "displayNameEN": "V33",
+  "country": "Francja",
+  "region": "francja",
+  "website": "https://www.v33.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "collections": [
+    {
+      "id": "v33-couleurs",
+      "name": "V33 Couleurs",
+      "nameDE": "V33 Farben",
+      "description": "Kolekcja kolorów - 300+ odcieni",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "v33-001", "code": "V33001", "name": "Blanc Pur", "nameDE": "Blanc Pur", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "v33-002", "code": "V33002", "name": "Blanc Nuage", "nameDE": "Blanc Nuage", "hexColor": "F0F0E8", "rgb": {"r": 240, "g": 240, "b": 232}, "lrv": 88.0, "category": "white"},
+        {"id": "v33-003", "code": "V33003", "name": "Crème", "nameDE": "Crème", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "v33-004", "code": "V33004", "name": "Gris Clair", "nameDE": "Gris Clair", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "v33-005", "code": "V33005", "name": "Beige Sable", "nameDE": "Beige Sable", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "v33-006", "code": "V33006", "name": "Bleumarine", "nameDE": "Bleumarine", "hexColor": "283848", "rgb": {"r": 40, "g": 56, "b": 72}, "lrv": 8.0, "category": "blue"},
+        {"id": "v33-007", "code": "V33007", "name": "Vert Sapin", "nameDE": "Vert Sapin", "hexColor": "284828", "rgb": {"r": 40, "g": 72, "b": 40}, "lrv": 8.0, "category": "green"},
+        {"id": "v33-008", "code": "V33008", "name": "Rouge Brique", "nameDE": "Rouge Brique", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "v33-009", "code": "V33009", "name": "Jaune Paille", "nameDE": "Jaune Paille", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"},
+        {"id": "v33-010", "code": "V33010", "name": "Noir", "nameDE": "Noir", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    },
+    {
+      "id": "v33-expert",
+      "name": "V33 Expert",
+      "nameDE": "V33 Expert",
+      "description": "Linia profesjonalna - 150 kolorów",
+      "productType": "both",
+      "finish": "satin",
+      "colors": [
+        {"id": "v33-exp-001", "code": "EXP001", "name": "Expert Blanc", "nameDE": "Expert Blanc", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "v33-exp-002", "code": "EXP002", "name": "Expert Gris", "nameDE": "Expert Gris", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "v33-exp-003", "code": "EXP003", "name": "Expert Blanc Cassé", "nameDE": "Expert Blanc Cassé", "hexColor": "E5DCC8", "rgb": {"r": 229, "g": 220, "b": 200}, "lrv": 78.0, "category": "white"},
+        {"id": "v33-exp-004", "code": "EXP004", "name": "Expert Beige", "nameDE": "Expert Beige", "hexColor": "C0A880", "rgb": {"r": 192, "g": 168, "b": 128}, "lrv": 52.0, "category": "neutral"},
+        {"id": "v33-exp-005", "code": "EXP005", "name": "Expert Brun", "nameDE": "Expert Brun", "hexColor": "785838", "rgb": {"r": 120, "g": 88, "b": 56}, "lrv": 22.0, "category": "brown"},
+        {"id": "v33-exp-006", "code": "EXP006", "name": "Expert Bleu", "nameDE": "Expert Bleu", "hexColor": "3860A0", "rgb": {"r": 56, "g": 96, "b": 160}, "lrv": 28.0, "category": "blue"},
+        {"id": "v33-exp-007", "code": "EXP007", "name": "Expert Vert", "nameDE": "Expert Vert", "hexColor": "487848", "rgb": {"r": 72, "g": 120, "b": 72}, "lrv": 28.0, "category": "green"},
+        {"id": "v33-exp-008", "code": "EXP008", "name": "Expert Rouge", "nameDE": "Expert Rouge", "hexColor": "A03030", "rgb": {"r": 160, "g": 48, "b": 48}, "lrv": 14.0, "category": "red"},
+        {"id": "v33-exp-009", "code": "EXP009", "name": "Expert Jaune", "nameDE": "Expert Jaune", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "v33-exp-010", "code": "EXP010", "name": "Expert Noir", "nameDE": "Expert Noir", "hexColor": "303030", "rgb": {"r": 48, "g": 48, "b": 48}, "lrv": 6.0, "category": "black"}
+      ]
+    }
+  ]
+}

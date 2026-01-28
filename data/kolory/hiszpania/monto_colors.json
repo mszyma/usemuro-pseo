@@ -1,0 +1,55 @@
+{
+  "manufacturer": "monto",
+  "displayName": "Montó Pinturas",
+  "displayNamePL": "Montó",
+  "displayNameDE": "Montó",
+  "displayNameEN": "Montó Pinturas",
+  "country": "Hiszpania",
+  "region": "hiszpania",
+  "website": "https://www.montado.es",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "BIM",
+  "notes": "Standard GDO-BIM - ponad 210 zdigitalizowanych profili",
+  "collections": [
+    {
+      "id": "monto-montomix",
+      "name": "Montomix",
+      "nameDE": "Montomix",
+      "description": "System mieszania - 210+ profili kolorystycznych",
+      "productType": "both",
+      "finish": "all",
+      "colors": [
+        {"id": "mon-001", "code": "MON001", "name": "Blanco", "nameDE": "Blanco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "mon-002", "code": "MON002", "name": "Blanco Hueso", "nameDE": "Blanco Hueso", "hexColor": "F5F0E0", "rgb": {"r": 245, "g": 240, "b": 224}, "lrv": 87.0, "category": "white"},
+        {"id": "mon-003", "code": "MON003", "name": "Crema", "nameDE": "Crema", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "mon-004", "code": "MON004", "name": "Arena", "nameDE": "Arena", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "mon-005", "code": "MON005", "name": "Gris Claro", "nameDE": "Gris Claro", "hexColor": "C0C0B8", "rgb": {"r": 192, "g": 192, "b": 184}, "lrv": 68.0, "category": "neutral"},
+        {"id": "mon-006", "code": "MON006", "name": "Gris Oscuro", "nameDE": "Gris Oscuro", "hexColor": "686860", "rgb": {"r": 104, "g": 104, "b": 96}, "lrv": 28.0, "category": "neutral"},
+        {"id": "mon-007", "code": "MON007", "name": "Azul Mar", "nameDE": "Azul Mar", "hexColor": "386878", "rgb": {"r": 56, "g": 104, "b": 120}, "lrv": 22.0, "category": "blue"},
+        {"id": "mon-008", "code": "MON008", "name": "Verde Pino", "nameDE": "Verde Pino", "hexColor": "385830", "rgb": {"r": 56, "g": 88, "b": 48}, "lrv": 10.0, "category": "green"},
+        {"id": "mon-009", "code": "MON009", "name": "Rojo Ladrillo", "nameDE": "Rojo Ladrillo", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "mon-010", "code": "MON010", "name": "Amarillo Arena", "nameDE": "Amarillo Arena", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "monto-professional",
+      "name": "Montó Professional",
+      "nameDE": "Montó Professional",
+      "description": "Linia profesjonalna - 150 kolorów",
+      "productType": "both",
+      "finish": "satin",
+      "colors": [
+        {"id": "mon-pro-001", "code": "PRO001", "name": "Prof Blanco", "nameDE": "Prof Blanco", "hexColor": "F5F5F5", "rgb": {"r": 245, "g": 245, "b": 245}, "lrv": 92.0, "category": "white"},
+        {"id": "mon-pro-002", "code": "PRO002", "name": "Prof Marfil", "nameDE": "Prof Marfil", "hexColor": "EDE8D0", "rgb": {"r": 237, "g": 232, "b": 208}, "lrv": 82.0, "category": "white"},
+        {"id": "mon-pro-003", "code": "PRO003", "name": "Prof Beige", "nameDE": "Prof Beige", "hexColor": "C8BFA8", "rgb": {"r": 200, "g": 191, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "mon-pro-004", "code": "PRO004", "name": "Prof Gris", "nameDE": "Prof Gris", "hexColor": "989890", "rgb": {"r": 152, "g": 152, "b": 144}, "lrv": 45.0, "category": "neutral"},
+        {"id": "mon-pro-005", "code": "PRO005", "name": "Prof Azul", "nameDE": "Prof Azul", "hexColor": "385878", "rgb": {"r": 56, "g": 88, "b": 120}, "lrv": 18.0, "category": "blue"},
+        {"id": "mon-pro-006", "code": "PRO006", "name": "Prof Verde", "nameDE": "Prof Verde", "hexColor": "487848", "rgb": {"r": 72, "g": 120, "b": 72}, "lrv": 28.0, "category": "green"},
+        {"id": "mon-pro-007", "code": "PRO007", "name": "Prof Rojo", "nameDE": "Prof Rojo", "hexColor": "A03028", "rgb": {"r": 160, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "mon-pro-008", "code": "PRO008", "name": "Prof Amarillo", "nameDE": "Prof Amarillo", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "mon-pro-009", "code": "PRO009", "name": "Prof Naranja", "nameDE": "Prof Naranja", "hexColor": "C06030", "rgb": {"r": 192, "g": 96, "b": 48}, "lrv": 28.0, "category": "orange"},
+        {"id": "mon-pro-010", "code": "PRO010", "name": "Prof Negro", "nameDE": "Prof Negro", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    }
+  ]
+}

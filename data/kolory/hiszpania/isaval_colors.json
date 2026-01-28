@@ -1,0 +1,55 @@
+{
+  "manufacturer": "isaval",
+  "displayName": "Isaval",
+  "displayNamePL": "Isaval",
+  "displayNameDE": "Isaval",
+  "displayNameEN": "Isaval",
+  "country": "Hiszpania",
+  "region": "hiszpania",
+  "website": "https://www.isaval.es",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "notes": "Linia ekologiczna Rheco - zrównoważone kolory",
+  "collections": [
+    {
+      "id": "isaval-rheco",
+      "name": "Isaval Rheco",
+      "nameDE": "Isaval Rheco",
+      "description": "Linia ekologiczna - 200+ kolorów",
+      "productType": "both",
+      "finish": "matt",
+      "colors": [
+        {"id": "isa-rhe-001", "code": "RHE001", "name": "Blanco", "nameDE": "Blanco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "isa-rhe-002", "code": "RHE002", "name": "Blanco Natural", "nameDE": "Blanco Natural", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "isa-rhe-003", "code": "RHE003", "name": "Marfil", "nameDE": "Marfil", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "isa-rhe-004", "code": "RHE004", "name": "Arena", "nameDE": "Arena", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "isa-rhe-005", "code": "RHE005", "name": "Gris", "nameDE": "Gris", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "isa-rhe-006", "code": "RHE006", "name": "Gris Pizarra", "nameDE": "Gris Pizarra", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 18.0, "category": "neutral"},
+        {"id": "isa-rhe-007", "code": "RHE007", "name": "Azul Cielo", "nameDE": "Azul Cielo", "hexColor": "98C8E0", "rgb": {"r": 152, "g": 200, "b": 224}, "lrv": 68.0, "category": "blue"},
+        {"id": "isa-rhe-008", "code": "RHE008", "name": "Verde Oliva", "nameDE": "Verde Oliva", "hexColor": "686838", "rgb": {"r": 104, "g": 104, "b": 56}, "lrv": 20.0, "category": "green"},
+        {"id": "isa-rhe-009", "code": "RHE009", "name": "Rojo Terracotta", "nameDE": "Rojo Terracotta", "hexColor": "C06030", "rgb": {"r": 192, "g": 96, "b": 48}, "lrv": 28.0, "category": "orange"},
+        {"id": "isa-rhe-010", "code": "RHE010", "name": "Amarillo Azafran", "nameDE": "Amarillo Azafran", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "isaval-standard",
+      "name": "Isaval Standard",
+      "nameDE": "Isaval Standard",
+      "description": "Kolekcja standardowa - 150 kolorów",
+      "productType": "interior",
+      "finish": "satin",
+      "colors": [
+        {"id": "isa-std-001", "code": "STD001", "name": "Std Blanco", "nameDE": "Std Blanco", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "isa-std-002", "code": "STD002", "name": "Std Crema", "nameDE": "Std Crema", "hexColor": "EDE8D0", "rgb": {"r": 237, "g": 232, "b": 208}, "lrv": 82.0, "category": "white"},
+        {"id": "isa-std-003", "code": "STD003", "name": "Std Beige", "nameDE": "Std Beige", "hexColor": "C8BFA8", "rgb": {"r": 200, "g": 191, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "isa-std-004", "code": "STD004", "name": "Std Gris", "nameDE": "Std Gris", "hexColor": "989890", "rgb": {"r": 152, "g": 152, "b": 144}, "lrv": 45.0, "category": "neutral"},
+        {"id": "isa-std-005", "code": "STD005", "name": "Std Marron", "nameDE": "Std Marron", "hexColor": "785838", "rgb": {"r": 120, "g": 88, "b": 56}, "lrv": 22.0, "category": "brown"},
+        {"id": "isa-std-006", "code": "STD006", "name": "Std Azul", "nameDE": "Std Azul", "hexColor": "385878", "rgb": {"r": 56, "g": 88, "b": 120}, "lrv": 18.0, "category": "blue"},
+        {"id": "isa-std-007", "code": "STD007", "name": "Std Verde", "nameDE": "Std Verde", "hexColor": "487848", "rgb": {"r": 72, "g": 120, "b": 72}, "lrv": 28.0, "category": "green"},
+        {"id": "isa-std-008", "code": "STD008", "name": "Std Rojo", "nameDE": "Std Rojo", "hexColor": "A03028", "rgb": {"r": 160, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "isa-std-009", "code": "STD009", "name": "Std Amarillo", "nameDE": "Std Amarillo", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "isa-std-010", "code": "STD010", "name": "Std Negro", "nameDE": "Std Negro", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    }
+  ]
+}

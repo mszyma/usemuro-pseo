@@ -1,0 +1,75 @@
+{
+  "manufacturer": "keim",
+  "displayName": "Keimfarben",
+  "displayNamePL": "Keim",
+  "displayNameDE": "Keim",
+  "displayNameEN": "Keimfarben",
+  "country": "Niemcy",
+  "region": "dach",
+  "website": "https://www.keimfarben.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE,BIM",
+  "notes": "Specjalizacja w farbach mineralnych krzemianowych",
+  "collections": [
+    {
+      "id": "keim-exclusiv",
+      "name": "Keim Exclusiv",
+      "nameDE": "Keim Exclusiv",
+      "description": "Farba mineralna premium - ponad 400 kolorów",
+      "productType": "both",
+      "finish": "matt",
+      "colors": [
+        {"id": "keim-exc-001", "code": "EXC001", "name": "Keim Weiß", "nameDE": "Keim Weiß", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "keim-exc-002", "code": "EXC002", "name": "Naturweiß", "nameDE": "Naturweiß", "hexColor": "EDEBD9", "rgb": {"r": 237, "g": 235, "b": 217}, "lrv": 83.0, "category": "white"},
+        {"id": "keim-exc-003", "code": "EXC003", "name": "Kalkstein", "nameDE": "Kalkstein", "hexColor": "D8D0C0", "rgb": {"r": 216, "g": 208, "b": 192}, "lrv": 72.0, "category": "neutral"},
+        {"id": "keim-exc-004", "code": "EXC004", "name": "Sandstein", "nameDE": "Sandstein", "hexColor": "C0B8A0", "rgb": {"r": 192, "g": 184, "b": 160}, "lrv": 62.0, "category": "neutral"},
+        {"id": "keim-exc-005", "code": "EXC005", "name": "Graugrün", "nameDE": "Graugrün", "hexColor": "88A088", "rgb": {"r": 136, "g": 160, "b": 136}, "lrv": 48.0, "category": "green"},
+        {"id": "keim-exc-006", "code": "EXC006", "name": "Kieselgrau", "nameDE": "Kieselgrau", "hexColor": "989890", "rgb": {"r": 152, "g": 152, "b": 144}, "lrv": 45.0, "category": "neutral"},
+        {"id": "keim-exc-007", "code": "EXC007", "name": "Graphit", "nameDE": "Graphit", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 18.0, "category": "neutral"},
+        {"id": "keim-exc-008", "code": "EXC008", "name": "Tiefschwarz", "nameDE": "Tiefschwarz", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"},
+        {"id": "keim-exc-009", "code": "EXC009", "name": "Ocker", "nameDE": "Ocker", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "keim-exc-010", "code": "EXC010", "name": "Ziegelrot", "nameDE": "Ziegelrot", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"}
+      ]
+    },
+    {
+      "id": "keim-avantgarde",
+      "name": "Keim Avantgarde",
+      "nameDE": "Keim Avantgarde",
+      "description": "Kolekcja nowoczesnych kolorów - 200 odcieni",
+      "productType": "interior",
+      "finish": "eggshell",
+      "colors": [
+        {"id": "keim-avg-001", "code": "AVG001", "name": "Modern White", "nameDE": "Modern White", "hexColor": "F0F0F0", "rgb": {"r": 240, "g": 240, "b": 240}, "lrv": 88.0, "category": "white"},
+        {"id": "keim-avg-002", "code": "AVG002", "name": "Urban Grey", "nameDE": "Urban Grey", "hexColor": "A0A5A5", "rgb": {"r": 160, "g": 165, "b": 165}, "lrv": 52.0, "category": "neutral"},
+        {"id": "keim-avg-003", "code": "AVG003", "name": "Concrete", "nameDE": "Concrete", "hexColor": "909598", "rgb": {"r": 144, "g": 149, "b": 152}, "lrv": 42.0, "category": "neutral"},
+        {"id": "keim-avg-004", "code": "AVG004", "name": "Industrial", "nameDE": "Industrial", "hexColor": "686868", "rgb": {"r": 104, "g": 104, "b": 104}, "lrv": 25.0, "category": "neutral"},
+        {"id": "keim-avg-005", "code": "AVG005", "name": "Ocean", "nameDE": "Ocean", "hexColor": "386878", "rgb": {"r": 56, "g": 104, "b": 120}, "lrv": 22.0, "category": "blue"},
+        {"id": "keim-avg-006", "code": "AVG006", "name": "Forest", "nameDE": "Forest", "hexColor": "385830", "rgb": {"r": 56, "g": 88, "b": 48}, "lrv": 10.0, "category": "green"},
+        {"id": "keim-avg-007", "code": "AVG007", "name": "Rust", "nameDE": "Rust", "hexColor": "A05030", "rgb": {"r": 160, "g": 80, "b": 48}, "lrv": 20.0, "category": "orange"},
+        {"id": "keim-avg-008", "code": "AVG008", "name": "Citrus", "nameDE": "Citrus", "hexColor": "D8B030", "rgb": {"r": 216, "g": 176, "b": 48}, "lrv": 48.0, "category": "yellow"},
+        {"id": "keim-avg-009", "code": "AVG009", "name": "Berry", "nameDE": "Berry", "hexColor": "784858", "rgb": {"r": 120, "g": 72, "b": 88}, "lrv": 15.0, "category": "purple"},
+        {"id": "keim-avg-010", "code": "AVG010", "name": "Midnight", "nameDE": "Midnight", "hexColor": "282838", "rgb": {"r": 40, "g": 40, "b": 56}, "lrv": 5.0, "category": "blue"}
+      ]
+    },
+    {
+      "id": "keim-natur",
+      "name": "Keim Natur",
+      "nameDE": "Keim Natur",
+      "description": "Naturalne kolory ziemi - 100 odcieni",
+      "productType": "interior",
+      "finish": "flat",
+      "colors": [
+        {"id": "keim-nat-001", "code": "NAT001", "name": "Lehmweiß", "nameDE": "Lehmweiß", "hexColor": "F0E8D8", "rgb": {"r": 240, "g": 232, "b": 216}, "lrv": 82.0, "category": "white"},
+        {"id": "keim-nat-002", "code": "NAT002", "name": "Lehmgelb", "nameDE": "Lehmgelb", "hexColor": "D8C898", "rgb": {"r": 216, "g": 200, "b": 152}, "lrv": 65.0, "category": "yellow"},
+        {"id": "keim-nat-003", "code": "NAT003", "name": "Lehmbraun", "nameDE": "Lehmbraun", "hexColor": "886838", "rgb": {"r": 136, "g": 104, "b": 56}, "lrv": 28.0, "category": "brown"},
+        {"id": "keim-nat-004", "code": "NAT004", "name": "Lehmrot", "nameDE": "Lehmrot", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "keim-nat-005", "code": "NAT005", "name": "Lehmocker", "nameDE": "Lehmocker", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "keim-nat-006", "code": "NAT006", "name": "Lehmgrün", "nameDE": "Lehmgrün", "hexColor": "686848", "rgb": {"r": 104, "g": 104, "b": 72}, "lrv": 22.0, "category": "green"},
+        {"id": "keim-nat-007", "code": "NAT007", "name": "Kalkstein", "nameDE": "Kalkstein", "hexColor": "C8C8B8", "rgb": {"r": 200, "g": 200, "b": 184}, "lrv": 68.0, "category": "neutral"},
+        {"id": "keim-nat-008", "code": "NAT008", "name": "Ton", "nameDE": "Ton", "hexColor": "785838", "rgb": {"r": 120, "g": 88, "b": 56}, "lrv": 22.0, "category": "brown"},
+        {"id": "keim-nat-009", "code": "NAT009", "name": "Schiefer", "nameDE": "Schiefer", "hexColor": "585848", "rgb": {"r": 88, "g": 88, "b": 72}, "lrv": 15.0, "category": "neutral"},
+        {"id": "keim-nat-010", "code": "NAT010", "name": "Erde", "nameDE": "Erde", "hexColor": "484028", "rgb": {"r": 72, "g": 64, "b": 40}, "lrv": 6.0, "category": "brown"}
+      ]
+    }
+  ]
+}

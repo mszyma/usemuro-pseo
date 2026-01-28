@@ -1,0 +1,1051 @@
+{
+  "manufacturer": "magnat",
+  "displayName": "Magnat",
+  "displayNamePL": "Magnat",
+  "displayNameDE": "Magnat",
+  "displayNameEN": "Magnat",
+  "country": "Polska",
+  "region": "polska",
+  "website": "https://www.magnat-paint.pl",
+  "source": "kdybicz/adobe-swatch-for-interior-designers GitHub",
+  "lastUpdated": "2026-01-14",
+  "totalColors": 128,
+  "collections": [
+    {
+      "id": "magnat-ceramic",
+      "name": "Magnat Ceramic",
+      "colors": [
+        {
+          "id": "magnat-mag-001",
+          "code": "C1",
+          "name": "biały diament",
+          "nameDE": "biały diament",
+          "hexColor": "FFFEF2",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-002",
+          "code": "C2",
+          "name": "aksamitny agat",
+          "nameDE": "aksamitny agat",
+          "hexColor": "FFF5E9",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-003",
+          "code": "C3",
+          "name": "waniliowy kryształ",
+          "nameDE": "waniliowy kryształ",
+          "hexColor": "FFF7E0",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-004",
+          "code": "C4",
+          "name": "perła północy",
+          "nameDE": "perła północy",
+          "hexColor": "F6EBD6",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-005",
+          "code": "C5",
+          "name": "dostojna perła",
+          "nameDE": "dostojna perła",
+          "hexColor": "F6DEBF",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-006",
+          "code": "C6",
+          "name": "lniany nefryt",
+          "nameDE": "lniany nefryt",
+          "hexColor": "EED4B3",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-007",
+          "code": "C7",
+          "name": "brązowy jaspis",
+          "nameDE": "brązowy jaspis",
+          "hexColor": "E2C194",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-008",
+          "code": "C8",
+          "name": "spokojny agat",
+          "nameDE": "spokojny agat",
+          "hexColor": "DABEA0",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-009",
+          "code": "C9",
+          "name": "delikatny bronzyt",
+          "nameDE": "delikatny bronzyt",
+          "hexColor": "D1BAA7",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-010",
+          "code": "C10",
+          "name": "szlachetny kryształ",
+          "nameDE": "szlachetny kryształ",
+          "hexColor": "EFE4D1",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-011",
+          "code": "C11",
+          "name": "kamień księżycowy",
+          "nameDE": "kamień księżycowy",
+          "hexColor": "C0B296",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-012",
+          "code": "C12",
+          "name": "kawowy onyks",
+          "nameDE": "kawowy onyks",
+          "hexColor": "826957",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-013",
+          "code": "C13",
+          "name": "kocie oko",
+          "nameDE": "kocie oko",
+          "hexColor": "FFFAE7",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-014",
+          "code": "C14",
+          "name": "pastelowy opal",
+          "nameDE": "pastelowy opal",
+          "hexColor": "FFFCDB",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-015",
+          "code": "C15",
+          "name": "subtelny cytryn",
+          "nameDE": "subtelny cytryn",
+          "hexColor": "FFF5B1",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-016",
+          "code": "C16",
+          "name": "złocisty topaz",
+          "nameDE": "złocisty topaz",
+          "hexColor": "FFF082",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-017",
+          "code": "C17",
+          "name": "miodowy amber",
+          "nameDE": "miodowy amber",
+          "hexColor": "FDD27B",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-018",
+          "code": "C18",
+          "name": "blask kalcytu",
+          "nameDE": "blask kalcytu",
+          "hexColor": "F1D07F",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-019",
+          "code": "C19",
+          "name": "pomarańczowy szafir",
+          "nameDE": "pomarańczowy szafir",
+          "hexColor": "F09654",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-020",
+          "code": "C20",
+          "name": "tygrysie oko",
+          "nameDE": "tygrysie oko",
+          "hexColor": "F77D39",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-021",
+          "code": "C21",
+          "name": "róża pustyni",
+          "nameDE": "róża pustyni",
+          "hexColor": "FFF6CD",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-022",
+          "code": "C22",
+          "name": "bursztynowa komnata",
+          "nameDE": "bursztynowa komnata",
+          "hexColor": "FDE2AA",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-023",
+          "code": "C23",
+          "name": "moc jadeitu",
+          "nameDE": "moc jadeitu",
+          "hexColor": "FFDA9B",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-024",
+          "code": "C24",
+          "name": "gwiezdny kwarc",
+          "nameDE": "gwiezdny kwarc",
+          "hexColor": "FFEACB",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-025",
+          "code": "C25",
+          "name": "wyszukany aragonit",
+          "nameDE": "wyszukany aragonit",
+          "hexColor": "FCD9B6",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-026",
+          "code": "C26",
+          "name": "koralowa laguna",
+          "nameDE": "koralowa laguna",
+          "hexColor": "FBBE91",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-027",
+          "code": "C27",
+          "name": "namiętny karnelian",
+          "nameDE": "namiętny karnelian",
+          "hexColor": "F3485B",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-028",
+          "code": "C28",
+          "name": "kuszący rubin",
+          "nameDE": "kuszący rubin",
+          "hexColor": "A04C4C",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-029",
+          "code": "C29",
+          "name": "szary piryt",
+          "nameDE": "szary piryt",
+          "hexColor": "E2E2E2",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-030",
+          "code": "C30",
+          "name": "srebrzysty granit",
+          "nameDE": "srebrzysty granit",
+          "hexColor": "C8C8C8",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-031",
+          "code": "C31",
+          "name": "grafitowy marmur",
+          "nameDE": "grafitowy marmur",
+          "hexColor": "939393",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-032",
+          "code": "C32",
+          "name": "błękitny topaz",
+          "nameDE": "błękitny topaz",
+          "hexColor": "ABC2D7",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-033",
+          "code": "C33",
+          "name": "królewski diament",
+          "nameDE": "królewski diament",
+          "hexColor": "FCDBD5",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-034",
+          "code": "C34",
+          "name": "różowy kwarc",
+          "nameDE": "różowy kwarc",
+          "hexColor": "E7B5D6",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-035",
+          "code": "C35",
+          "name": "wrzosowy rodonit",
+          "nameDE": "wrzosowy rodonit",
+          "hexColor": "BC6586",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-036",
+          "code": "C36",
+          "name": "fiołkowy ametyst",
+          "nameDE": "fiołkowy ametyst",
+          "hexColor": "C1AED6",
+          "category": "purple"
+        },
+        {
+          "id": "magnat-mag-037",
+          "code": "C38",
+          "name": "szmaragdowa toń",
+          "nameDE": "szmaragdowa toń",
+          "hexColor": "AAD5CB",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-038",
+          "code": "C39",
+          "name": "naturalny turkus",
+          "nameDE": "naturalny turkus",
+          "hexColor": "6CB7CA",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-039",
+          "code": "C40",
+          "name": "czysty oliwin",
+          "nameDE": "czysty oliwin",
+          "hexColor": "ACB069",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-040",
+          "code": "C41",
+          "name": "zielony diament",
+          "nameDE": "zielony diament",
+          "hexColor": "D4DE82",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-041",
+          "code": "C42",
+          "name": "wytworny malachit",
+          "nameDE": "wytworny malachit",
+          "hexColor": "92D66F",
+          "category": "green"
+        },
+        {
+          "id": "magnat-mag-042",
+          "code": "C43",
+          "name": "zwycięski aleksandryt",
+          "nameDE": "zwycięski aleksandryt",
+          "hexColor": "D0F15B",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-043",
+          "code": "C45",
+          "name": "biały",
+          "nameDE": "biały",
+          "hexColor": "FFFFFF",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-044",
+          "code": "C46",
+          "name": "powabny diament",
+          "nameDE": "powabny diament",
+          "hexColor": "FBF3E9",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-045",
+          "code": "C47",
+          "name": "finezyjny opal",
+          "nameDE": "finezyjny opal",
+          "hexColor": "F4EEE5",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-046",
+          "code": "C48",
+          "name": "perłowy dolomit",
+          "nameDE": "perłowy dolomit",
+          "hexColor": "EAE5D8",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-047",
+          "code": "C49",
+          "name": "kamień faraonów",
+          "nameDE": "kamień faraonów",
+          "hexColor": "D3C7B5",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-048",
+          "code": "C50",
+          "name": "czekoladowy krzemień",
+          "nameDE": "czekoladowy krzemień",
+          "hexColor": "7C5846",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-049",
+          "code": "C51",
+          "name": "piaskowy marmur",
+          "nameDE": "piaskowy marmur",
+          "hexColor": "F9E7A7",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-050",
+          "code": "C52",
+          "name": "ognisty karneol",
+          "nameDE": "ognisty karneol",
+          "hexColor": "B74039",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-051",
+          "code": "C53",
+          "name": "jaspis picasso",
+          "nameDE": "jaspis picasso",
+          "hexColor": "B2B2B7",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-052",
+          "code": "C54",
+          "name": "stylowy antracyt",
+          "nameDE": "stylowy antracyt",
+          "hexColor": "5E6063",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-053",
+          "code": "C55",
+          "name": "magiczny almandyn",
+          "nameDE": "magiczny almandyn",
+          "hexColor": "9F7D9D",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-054",
+          "code": "C56",
+          "name": "tajemnica szafiru",
+          "nameDE": "tajemnica szafiru",
+          "hexColor": "91A0B6",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-055",
+          "code": "C57",
+          "name": "niebiański chalcedon",
+          "nameDE": "niebiański chalcedon",
+          "hexColor": "B9D9E1",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-056",
+          "code": "C58",
+          "name": "mglisty krzemień",
+          "nameDE": "mglisty krzemień",
+          "hexColor": "DDDAD1",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-057",
+          "code": "C59",
+          "name": "szary kwarc",
+          "nameDE": "szary kwarc",
+          "hexColor": "918A89",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-058",
+          "code": "C60",
+          "name": "grafitowy antracyt",
+          "nameDE": "grafitowy antracyt",
+          "hexColor": "444951",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-059",
+          "code": "C61",
+          "name": "szmaragdowy akwamaryn",
+          "nameDE": "szmaragdowy akwamaryn",
+          "hexColor": "4090A5",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-060",
+          "code": "C62",
+          "name": "alabastrowy kryształ",
+          "nameDE": "alabastrowy kryształ",
+          "hexColor": "EAE9DF",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-061",
+          "code": "C63",
+          "name": "kremowy jaspis",
+          "nameDE": "kremowy jaspis",
+          "hexColor": "DFD1C2",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-062",
+          "code": "C64",
+          "name": "czarujący kwarc",
+          "nameDE": "czarujący kwarc",
+          "hexColor": "F0D6CB",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-063",
+          "code": "C65",
+          "name": "lawendowy angelit",
+          "nameDE": "lawendowy angelit",
+          "hexColor": "CECEE1",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-064",
+          "code": "C66",
+          "name": "kalifornijski morganit",
+          "nameDE": "kalifornijski morganit",
+          "hexColor": "FFEDC0",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-065",
+          "code": "C67",
+          "name": "bezkresny tanzanit",
+          "nameDE": "bezkresny tanzanit",
+          "hexColor": "404A63",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-066",
+          "code": "C68",
+          "name": "intensywny sodalit",
+          "nameDE": "intensywny sodalit",
+          "hexColor": "7E8B8B",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-067",
+          "code": "C69",
+          "name": "zgaszony kalcyt",
+          "nameDE": "zgaszony kalcyt",
+          "hexColor": "D8D6CF",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-068",
+          "code": "C70",
+          "name": "surowy hematyt",
+          "nameDE": "surowy hematyt",
+          "hexColor": "E4E3E1",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-069",
+          "code": "C71",
+          "name": "liliowy aragonit",
+          "nameDE": "liliowy aragonit",
+          "hexColor": "F3F1ED",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-070",
+          "code": "C72",
+          "name": "nostalgiczny opal",
+          "nameDE": "nostalgiczny opal",
+          "hexColor": "CAC8C4",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-071",
+          "code": "C73",
+          "name": "intensywny szmaragd",
+          "nameDE": "intensywny szmaragd",
+          "hexColor": "2C6261",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-072",
+          "code": "C74",
+          "name": "rajski fluoryt",
+          "nameDE": "rajski fluoryt",
+          "hexColor": "C1D4C3",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-073",
+          "code": "C75",
+          "name": "słoneczny szafir",
+          "nameDE": "słoneczny szafir",
+          "hexColor": "E6B76C",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-074",
+          "code": "C76",
+          "name": "lazurowy agat",
+          "nameDE": "lazurowy agat",
+          "hexColor": "1E7281",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-075",
+          "code": "C77",
+          "name": "biały granit",
+          "nameDE": "biały granit",
+          "hexColor": "FBF9F4",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-076",
+          "code": "C78",
+          "name": "tajemniczy kalcyt",
+          "nameDE": "tajemniczy kalcyt",
+          "hexColor": "FCF8EE",
+          "category": "white"
+        }
+      ]
+    },
+    {
+      "id": "magnat-ceramic-care",
+      "name": "Magnat Ceramic Care",
+      "colors": [
+        {
+          "id": "magnat-mag-001",
+          "code": "A1",
+          "name": "szlachetna biel",
+          "nameDE": "szlachetna biel",
+          "hexColor": "FFFEF8",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-002",
+          "code": "A2",
+          "name": "perłowy agat",
+          "nameDE": "perłowy agat",
+          "hexColor": "FFFCEE",
+          "category": "white"
+        },
+        {
+          "id": "magnat-mag-003",
+          "code": "A3",
+          "name": "szklisty topaz",
+          "nameDE": "szklisty topaz",
+          "hexColor": "DFE9E1",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-004",
+          "code": "A4",
+          "name": "turkusowy akwamaryt",
+          "nameDE": "turkusowy akwamaryt",
+          "hexColor": "CAE7E7",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-005",
+          "code": "A5",
+          "name": "lazurowy tanzanit",
+          "nameDE": "lazurowy tanzanit",
+          "hexColor": "B7D9E4",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-006",
+          "code": "A6",
+          "name": "intrygujący labradoryt",
+          "nameDE": "intrygujący labradoryt",
+          "hexColor": "0C6C76",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-007",
+          "code": "A7",
+          "name": "cejloński szafir",
+          "nameDE": "cejloński szafir",
+          "hexColor": "5E8AA4",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-008",
+          "code": "A8",
+          "name": "śmiały tanzanit",
+          "nameDE": "śmiały tanzanit",
+          "hexColor": "5B7091",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-009",
+          "code": "A9",
+          "name": "błękitny amazonit",
+          "nameDE": "błękitny amazonit",
+          "hexColor": "79ADBB",
+          "category": "blue"
+        },
+        {
+          "id": "magnat-mag-010",
+          "code": "A10",
+          "name": "zielony turmalin",
+          "nameDE": "zielony turmalin",
+          "hexColor": "D2DA5C",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-011",
+          "code": "A11",
+          "name": "świetlisty jassonit",
+          "nameDE": "świetlisty jassonit",
+          "hexColor": "FFE3A1",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-012",
+          "code": "A12",
+          "name": "czerwony koral",
+          "nameDE": "czerwony koral",
+          "hexColor": "D83B39",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-013",
+          "code": "A13",
+          "name": "księżycowy hematyt",
+          "nameDE": "księżycowy hematyt",
+          "hexColor": "5F6264",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-014",
+          "code": "A14",
+          "name": "jasny kalcyt",
+          "nameDE": "jasny kalcyt",
+          "hexColor": "DFDBD6",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-015",
+          "code": "A15",
+          "name": "mleczny chalcedon",
+          "nameDE": "mleczny chalcedon",
+          "hexColor": "CCCDCE",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-016",
+          "code": "A16",
+          "name": "stalowy awenturyn",
+          "nameDE": "stalowy awenturyn",
+          "hexColor": "B1B1B2",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-017",
+          "code": "A17",
+          "name": "nietuzinkowy kwarc",
+          "nameDE": "nietuzinkowy kwarc",
+          "hexColor": "888A8C",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-018",
+          "code": "A18",
+          "name": "odważny onyks",
+          "nameDE": "odważny onyks",
+          "hexColor": "37393A",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-019",
+          "code": "A22",
+          "name": "krystaliczny kalcyt",
+          "nameDE": "krystaliczny kalcyt",
+          "hexColor": "CCC4BA",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-020",
+          "code": "A23",
+          "name": "subtelny chalcedon",
+          "nameDE": "subtelny chalcedon",
+          "hexColor": "DFD7CB",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-021",
+          "code": "A24",
+          "name": "śnieżny dolomit",
+          "nameDE": "śnieżny dolomit",
+          "hexColor": "F0E8D9",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-022",
+          "code": "A25",
+          "name": "szampański agat",
+          "nameDE": "szampański agat",
+          "hexColor": "FAE6D0",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-023",
+          "code": "A26",
+          "name": "alabastrowy jaspis",
+          "nameDE": "alabastrowy jaspis",
+          "hexColor": "F2E0C4",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-024",
+          "code": "A27",
+          "name": "majestatyczny aragonit",
+          "nameDE": "majestatyczny aragonit",
+          "hexColor": "EDCFAA",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-025",
+          "code": "A28",
+          "name": "tajemniczy bronzyt",
+          "nameDE": "tajemniczy bronzyt",
+          "hexColor": "D6BC9F",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-026",
+          "code": "A30",
+          "name": "krzemień pasiasty",
+          "nameDE": "krzemień pasiasty",
+          "hexColor": "886D5F",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-027",
+          "code": "A32",
+          "name": "różowy diament",
+          "nameDE": "różowy diament",
+          "hexColor": "EFC1BB",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-028",
+          "code": "A33",
+          "name": "astralny angelit",
+          "nameDE": "astralny angelit",
+          "hexColor": "B1B8C0",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-029",
+          "code": "A35",
+          "name": "figlarny ametyst",
+          "nameDE": "figlarny ametyst",
+          "hexColor": "C9BDD5",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-030",
+          "code": "A36",
+          "name": "magiczny spinel",
+          "nameDE": "magiczny spinel",
+          "hexColor": "A58697",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-031",
+          "code": "A38",
+          "name": "uroczy morganit",
+          "nameDE": "uroczy morganit",
+          "hexColor": "DDBEB8",
+          "category": "red"
+        },
+        {
+          "id": "magnat-mag-032",
+          "code": "A39",
+          "name": "górski kryształ",
+          "nameDE": "górski kryształ",
+          "hexColor": "FBE4BF",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-033",
+          "code": "A40",
+          "name": "romantyczny diament",
+          "nameDE": "romantyczny diament",
+          "hexColor": "F1ECDD",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-034",
+          "code": "A41",
+          "name": "kremowy marmur",
+          "nameDE": "kremowy marmur",
+          "hexColor": "FFF3D7",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-035",
+          "code": "A42",
+          "name": "eteryczny awenturyn",
+          "nameDE": "eteryczny awenturyn",
+          "hexColor": "CECAAE",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-036",
+          "code": "A43",
+          "name": "energetyczny oliwin",
+          "nameDE": "energetyczny oliwin",
+          "hexColor": "E6DC8C",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-037",
+          "code": "A44",
+          "name": "wrażliwy malachit",
+          "nameDE": "wrażliwy malachit",
+          "hexColor": "B7CF78",
+          "category": "green"
+        },
+        {
+          "id": "magnat-mag-038",
+          "code": "A45",
+          "name": "egipski perydot",
+          "nameDE": "egipski perydot",
+          "hexColor": "798354",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-039",
+          "code": "A46",
+          "name": "zmysłowy aragonit",
+          "nameDE": "zmysłowy aragonit",
+          "hexColor": "FFE3A6",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-040",
+          "code": "A47",
+          "name": "kryształowy chalcedon",
+          "nameDE": "kryształowy chalcedon",
+          "hexColor": "C5C8CD",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-041",
+          "code": "A48",
+          "name": "słoneczny cytryn",
+          "nameDE": "słoneczny cytryn",
+          "hexColor": "FDCD29",
+          "category": "yellow"
+        },
+        {
+          "id": "magnat-mag-042",
+          "code": "A49",
+          "name": "indyjski awenturyn",
+          "nameDE": "indyjski awenturyn",
+          "hexColor": "F6AC61",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-043",
+          "code": "A50",
+          "name": "marokański aragonit",
+          "nameDE": "marokański aragonit",
+          "hexColor": "FACDAB",
+          "category": "orange"
+        },
+        {
+          "id": "magnat-mag-044",
+          "code": "A51",
+          "name": "mistyczny kwarc",
+          "nameDE": "mistyczny kwarc",
+          "hexColor": "A89A9D",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-045",
+          "code": "A52",
+          "name": "harmonijny agat",
+          "nameDE": "harmonijny agat",
+          "hexColor": "FCF1E0",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-046",
+          "code": "A53",
+          "name": "dyskretny aragonit",
+          "nameDE": "dyskretny aragonit",
+          "hexColor": "FAEFE0",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-047",
+          "code": "A54",
+          "name": "promienny kwarc",
+          "nameDE": "promienny kwarc",
+          "hexColor": "D2C7B8",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-048",
+          "code": "A55",
+          "name": "czuły morganit",
+          "nameDE": "czuły morganit",
+          "hexColor": "F3DDDC",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-049",
+          "code": "A56",
+          "name": "nieśmiały turmalin",
+          "nameDE": "nieśmiały turmalin",
+          "hexColor": "D2DDDC",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-050",
+          "code": "A57",
+          "name": "malowniczy agat",
+          "nameDE": "malowniczy agat",
+          "hexColor": "F8E9D5",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-051",
+          "code": "A58",
+          "name": "morski tanzanit",
+          "nameDE": "morski tanzanit",
+          "hexColor": "CCDFDF",
+          "category": "neutral"
+        },
+        {
+          "id": "magnat-mag-052",
+          "code": "A59",
+          "name": "srebrzysty kwarc",
+          "nameDE": "srebrzysty kwarc",
+          "hexColor": "D2CDCB",
+          "category": "neutral"
+        }
+      ]
+    }
+  ]
+}

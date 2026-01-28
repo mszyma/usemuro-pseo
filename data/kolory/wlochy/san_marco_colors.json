@@ -1,0 +1,75 @@
+{
+  "manufacturer": "san_marco",
+  "displayName": "San Marco",
+  "displayNamePL": "San Marco",
+  "displayNameDE": "San Marco",
+  "displayNameEN": "San Marco",
+  "country": "Włochy",
+  "region": "wlochy",
+  "website": "https://en.san-marco.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ADSKLIB,MAT,JPG",
+  "notes": "Specjalizacja w efektach dekoracyjnych - Marcromie, Acrisyl",
+  "collections": [
+    {
+      "id": "san_marco-marcromie",
+      "name": "Marcromie",
+      "nameDE": "Marcromie",
+      "description": "Główna kolekcja kolorów - 300+ odcieni",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "san-mar-001", "code": "MAR001", "name": "Bianco", "nameDE": "Bianco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "san-mar-002", "code": "MAR002", "name": "Bianco Caldo", "nameDE": "Bianco Caldo", "hexColor": "F5F0E8", "rgb": {"r": 245, "g": 240, "b": 232}, "lrv": 87.0, "category": "white"},
+        {"id": "san-mar-003", "code": "MAR003", "name": "Avorio", "nameDE": "Avorio", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "san-mar-004", "code": "MAR004", "name": "Sabbia", "nameDE": "Sabbia", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "san-mar-005", "code": "MAR005", "name": "Grigio Perla", "nameDE": "Grigio Perla", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "san-mar-006", "code": "MAR006", "name": "Tortora", "nameDE": "Tortora", "hexColor": "887858", "rgb": {"r": 136, "g": 120, "b": 88}, "lrv": 35.0, "category": "neutral"},
+        {"id": "san-mar-007", "code": "MAR007", "name": "Blu Notte", "nameDE": "Blu Notte", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "san-mar-008", "code": "MAR008", "name": "Verde Bosco", "nameDE": "Verde Bosco", "hexColor": "385028", "rgb": {"r": 56, "g": 80, "b": 40}, "lrv": 12.0, "category": "green"},
+        {"id": "san-mar-009", "code": "MAR009", "name": "Rosso Mattone", "nameDE": "Rosso Mattone", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "san-mar-010", "code": "MAR010", "name": "Giallo Sole", "nameDE": "Giallo Sole", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "san_marco-acrisyl",
+      "name": "Acrisyl",
+      "nameDE": "Acrisyl",
+      "description": "Farba elewacyjna - 150 kolorów",
+      "productType": "exterior",
+      "finish": "satin",
+      "colors": [
+        {"id": "san-acr-001", "code": "ACR001", "name": "Acrisyl Bianco", "nameDE": "Acrisyl Bianco", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "san-acr-002", "code": "ACR002", "name": "Acrisyl Pietra", "nameDE": "Acrisyl Pietra", "hexColor": "C8C0B0", "rgb": {"r": 200, "g": 192, "b": 176}, "lrv": 68.0, "category": "neutral"},
+        {"id": "san-acr-003", "code": "ACR003", "name": "Acrisyl Travertino", "nameDE": "Acrisyl Travertino", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "san-acr-004", "code": "ACR004", "name": "Acrisyl Terre", "nameDE": "Acrisyl Terre", "hexColor": "886838", "rgb": {"r": 136, "g": 104, "b": 56}, "lrv": 28.0, "category": "brown"},
+        {"id": "san-acr-005", "code": "ACR005", "name": "Acrisyl Cotto", "nameDE": "Acrisyl Cotto", "hexColor": "A05030", "rgb": {"r": 160, "g": 80, "b": 48}, "lrv": 20.0, "category": "orange"},
+        {"id": "san-acr-006", "code": "ACR006", "name": "Acrisyl Grafite", "nameDE": "Acrisyl Grafite", "hexColor": "484848", "rgb": {"r": 72, "g": 72, "b": 72}, "lrv": 10.0, "category": "neutral"},
+        {"id": "san-acr-007", "code": "ACR007", "name": "Acrisyl Azzurro", "nameDE": "Acrisyl Azzurro", "hexColor": "68A0B8", "rgb": {"r": 104, "g": 160, "b": 184}, "lrv": 52.0, "category": "blue"},
+        {"id": "san-acr-008", "code": "ACR008", "name": "Acrisyl Verde", "nameDE": "Acrisyl Verde", "hexColor": "588848", "rgb": {"r": 88, "g": 136, "b": 72}, "lrv": 28.0, "category": "green"},
+        {"id": "san-acr-009", "code": "ACR009", "name": "Acrisyl Rosso", "nameDE": "Acrisyl Rosso", "hexColor": "A03028", "rgb": {"r": 160, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "san-acr-010", "code": "ACR010", "name": "Acrisyl Giallo", "nameDE": "Acrisyl Giallo", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "san_marco-classic",
+      "name": "San Marco Classic",
+      "nameDE": "San Marco Classic",
+      "description": "Klasyczna kolekcja - 200 kolorów",
+      "productType": "interior",
+      "finish": "eggshell",
+      "colors": [
+        {"id": "san-cls-001", "code": "CLS001", "name": "Classic Bianco", "nameDE": "Classic Bianco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "san-cls-002", "code": "CLS002", "name": "Classic Rosa Antico", "nameDE": "Classic Rosa Antico", "hexColor": "E8D8D0", "rgb": {"r": 232, "g": 216, "b": 208}, "lrv": 78.0, "category": "red"},
+        {"id": "san-cls-003", "code": "CLS003", "name": "Classic Azzurro", "nameDE": "Classic Azzurro", "hexColor": "B8D0E0", "rgb": {"r": 184, "g": 208, "b": 224}, "lrv": 72.0, "category": "blue"},
+        {"id": "san-cls-004", "code": "CLS004", "name": "Classic Verde Salvia", "nameDE": "Classic Verde Salvia", "hexColor": "A8B8A0", "rgb": {"r": 168, "g": 184, "b": 160}, "lrv": 62.0, "category": "green"},
+        {"id": "san-cls-005", "code": "CLS005", "name": "Classic Oro", "nameDE": "Classic Oro", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"},
+        {"id": "san-cls-006", "code": "CLS006", "name": "Classic Rosso", "nameDE": "Classic Rosso", "hexColor": "903028", "rgb": {"r": 144, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "san-cls-007", "code": "CLS007", "name": "Classic Viola", "nameDE": "Classic Viola", "hexColor": "785878", "rgb": {"r": 120, "g": 88, "b": 120}, "lrv": 22.0, "category": "purple"},
+        {"id": "san-cls-008", "code": "CLS008", "name": "Classic Blu", "nameDE": "Classic Blu", "hexColor": "385878", "rgb": {"r": 56, "g": 88, "b": 120}, "lrv": 18.0, "category": "blue"},
+        {"id": "san-cls-009", "code": "CLS009", "name": "Classic Marrone", "nameDE": "Classic Marrone", "hexColor": "684828", "rgb": {"r": 104, "g": 72, "b": 40}, "lrv": 14.0, "category": "brown"},
+        {"id": "san-cls-010", "code": "CLS010", "name": "Classic Nero", "nameDE": "Classic Nero", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    }
+  ]
+}

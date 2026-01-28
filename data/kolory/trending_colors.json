@@ -1,0 +1,883 @@
+{
+  "name": "Trending Colors 2025",
+  "namePL": "Trendy Kolorystyczne 2025",
+  "nameDE": "Trendfarben 2025",
+  "description": "Kolekcja najbardziej trendujących kolorów 2025 według globalnych producentów farb",
+  "sourceYear": 2025,
+  "lastUpdated": "2025-01-12",
+  "colorCount": 75,
+  "categories": ["brown", "neutral", "white", "green", "blue", "red", "yellow", "purple"],
+  "colors": [
+    // === PANTONE COLOR OF THE YEAR 2025 ===
+    {
+      "id": "trend-001",
+      "name": "Mocha Mousse",
+      "hexColor": "9A6E4A",
+      "rgb": {"r": 154, "g": 110, "b": 74},
+      "lrv": 25.0,
+      "category": "brown",
+      "brand": "Pantone",
+      "source": "Pantone Color of the Year 2025",
+      "trend": true
+    },
+    
+    // === SHERWIN-WILLIAMS 2025 ===
+    {
+      "id": "trend-002",
+      "name": "Grounded",
+      "hexColor": "8B7355",
+      "rgb": {"r": 139, "g": 115, "b": 85},
+      "lrv": 20.0,
+      "category": "brown",
+      "brand": "Sherwin-Williams",
+      "code": "SW 6089",
+      "source": "Sherwin-Williams Color of the Year 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-003",
+      "name": "Sunbleached",
+      "hexColor": "EDE8D6",
+      "rgb": {"r": 237, "g": 232, "b": 214},
+      "lrv": 88.0,
+      "category": "white",
+      "brand": "Sherwin-Williams",
+      "code": "SW 9585",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-004",
+      "name": "Chartreuse",
+      "hexColor": "8CB83D",
+      "rgb": {"r": 140, "g": 184, "b": 61},
+      "lrv": 48.0,
+      "category": "green",
+      "brand": "Sherwin-Williams",
+      "code": "SW 0073",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-005",
+      "name": "Bosc Pear",
+      "hexColor": "C4A35A",
+      "rgb": {"r": 196, "g": 163, "b": 90},
+      "lrv": 45.0,
+      "category": "yellow",
+      "brand": "Sherwin-Williams",
+      "code": "SW 6390",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-006",
+      "name": "White Snow",
+      "hexColor": "F5F5F5",
+      "rgb": {"r": 245, "g": 245, "b": 245},
+      "lrv": 95.0,
+      "category": "white",
+      "brand": "Sherwin-Williams",
+      "code": "SW 9541",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-007",
+      "name": "Rain Cloud",
+      "hexColor": "7D8491",
+      "rgb": {"r": 125, "g": 132, "b": 145},
+      "lrv": 32.0,
+      "category": "neutral",
+      "brand": "Sherwin-Williams",
+      "code": "SW 9639",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-008",
+      "name": "Clove",
+      "hexColor": "6B5B4F",
+      "rgb": {"r": 107, "g": 91, "b": 79},
+      "lrv": 18.0,
+      "category": "brown",
+      "brand": "Sherwin-Williams",
+      "code": "SW 9605",
+      "source": "Sherwin-Williams Color Capsule 2025",
+      "trend": true
+    },
+    
+    // === BENJAMIN MOORE 2025 ===
+    {
+      "id": "trend-009",
+      "name": "Cinnamon Slate",
+      "hexColor": "8E7C6B",
+      "rgb": {"r": 142, "g": 124, "b": 107},
+      "lrv": 28.0,
+      "category": "purple-brown",
+      "brand": "Benjamin Moore",
+      "code": "2113-40",
+      "source": "Benjamin Moore Color of the Year 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-010",
+      "name": "French Canvas",
+      "hexColor": "D4C5B0",
+      "rgb": {"r": 212, "g": 197, "b": 176},
+      "lrv": 68.0,
+      "category": "neutral",
+      "brand": "Benjamin Moore",
+      "source": "Benjamin Moore 2025 Trends",
+      "trend": true
+    },
+    {
+      "id": "trend-011",
+      "name": "Natural Cream",
+      "hexColor": "F5E6D3",
+      "rgb": {"r": 245, "g": 230, "b": 211},
+      "lrv": 87.0,
+      "category": "white",
+      "brand": "Benjamin Moore",
+      "source": "Benjamin Moore 2025 Trends",
+      "trend": true
+    },
+    
+    // === BEHR 2025 ===
+    {
+      "id": "trend-012",
+      "name": "Rumors",
+      "hexColor": "7B6B63",
+      "rgb": {"r": 123, "g": 107, "b": 99},
+      "lrv": 22.0,
+      "category": "neutral",
+      "brand": "Behr",
+      "source": "Behr Color of the Year 2025",
+      "trend": true
+    },
+    
+    // === CAPAROL TRENDS 2025 (brown tones) ===
+    {
+      "id": "trend-013",
+      "name": "Terra Brown",
+      "hexColor": "8B7355",
+      "rgb": {"r": 139, "g": 115, "b": 85},
+      "lrv": 22.0,
+      "category": "brown",
+      "brand": "Caparol",
+      "source": "Caparol Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-014",
+      "name": "Warm Taupe",
+      "hexColor": "A08B7D",
+      "rgb": {"r": 160, "g": 139, "b": 125},
+      "lrv": 40.0,
+      "category": "neutral",
+      "brand": "Caparol",
+      "source": "Caparol Trend 2025",
+      "trend": true
+    },
+    
+    // === DULUX FORECAST 2025 ===
+    {
+      "id": "trend-015",
+      "name": "Cornstalk",
+      "hexColor": "C4A574",
+      "rgb": {"r": 196, "g": 165, "b": 116},
+      "lrv": 52.0,
+      "category": "yellow",
+      "brand": "Dulux",
+      "code": "S17",
+      "source": "Dulux Colour Forecast 2025 - Emerge",
+      "trend": true
+    },
+    
+    // === JOTUN TRENDS 2025 ===
+    {
+      "id": "trend-016",
+      "name": "Soft Brown",
+      "hexColor": "B5A08C",
+      "rgb": {"r": 181, "g": 160, "b": 140},
+      "lrv": 52.0,
+      "category": "brown",
+      "brand": "Jotun",
+      "code": "12291",
+      "source": "Jotun 128 Colors Palette",
+      "trend": true
+    },
+    {
+      "id": "trend-017",
+      "name": "Morning Fog",
+      "hexColor": "D4D8D3",
+      "rgb": {"r": 212, "g": 216, "b": 211},
+      "lrv": 82.0,
+      "category": "neutral",
+      "brand": "Jotun",
+      "code": "9918",
+      "source": "Jotun 128 Colors Palette",
+      "trend": true
+    },
+    
+    // === POPULAR DESIGNER COLORS 2025 ===
+    {
+      "id": "trend-018",
+      "name": "Redend Point",
+      "hexColor": "B89B8C",
+      "rgb": {"r": 184, "g": 155, "b": 140},
+      "lrv": 45.0,
+      "category": "neutral",
+      "brand": "Sherwin-Williams",
+      "source": "Designer Favorite 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-019",
+      "name": "Dirty Chai",
+      "hexColor": "C4A989",
+      "rgb": {"r": 196, "g": 169, "b": 137},
+      "lrv": 55.0,
+      "category": "brown",
+      "brand": "Clare",
+      "source": "Designer Favorite 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-020",
+      "name": "De Nimes",
+      "hexColor": "6B7B6B",
+      "rgb": {"r": 107, "g": 123, "b": 107},
+      "lrv": 35.0,
+      "category": "green",
+      "brand": "Farrow & Ball",
+      "source": "Designer Favorite 2025",
+      "trend": true
+    },
+    
+    // === ADDITIONAL TRENDING NEUTRALS ===
+    {
+      "id": "trend-021",
+      "name": "Alabaster White",
+      "hexColor": "F2F0E6",
+      "rgb": {"r": 242, "g": 240, "b": 230},
+      "lrv": 92.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Trending White 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-022",
+      "name": "Edgecomb Gray",
+      "hexColor": "DDC8B9",
+      "rgb": {"r": 221, "g": 200, "b": 185},
+      "lrv": 72.0,
+      "category": "neutral",
+      "brand": "Benjamin Moore",
+      "source": "Trending Neutral 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-023",
+      "name": "Revere Pewter",
+      "hexColor": "CBC6B5",
+      "rgb": {"r": 203, "g": 198, "b": 181},
+      "lrv": 64.0,
+      "category": "neutral",
+      "brand": "Benjamin Moore",
+      "source": "Trending Neutral 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-024",
+      "name": "Stardew",
+      "hexColor": "9E9186",
+      "rgb": {"r": 158, "g": 145, "b": 134},
+      "lrv": 42.0,
+      "category": "neutral",
+      "brand": "Farrow & Ball",
+      "source": "Trending Neutral 2025",
+      "trend": true
+    },
+    
+    // === WARM BROWNS (2025 TREND) ===
+    {
+      "id": "trend-025",
+      "name": "Bungalow Brown",
+      "hexColor": "8B7355",
+      "rgb": {"r": 139, "g": 115, "b": 85},
+      "lrv": 22.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Warm Brown Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-026",
+      "name": "Chestnut",
+      "hexColor": "7B5544",
+      "rgb": {"r": 123, "g": 85, "b": 68},
+      "lrv": 15.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Warm Brown Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-027",
+      "name": "Caramel",
+      "hexColor": "A67B5B",
+      "rgb": {"r": 166, "g": 123, "b": 91},
+      "lrv": 35.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Warm Brown Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-028",
+      "name": "Cappuccino",
+      "hexColor": "6F4E37",
+      "rgb": {"r": 111, "g": 78, "b": 55},
+      "lrv": 12.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Warm Brown Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-029",
+      "name": "Espresso",
+      "hexColor": "3C280D",
+      "rgb": {"r": 60, "g": 40, "b": 13},
+      "lrv": 4.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Warm Brown Trend 2025",
+      "trend": true
+    },
+    
+    // === SAGE & EARTH GREENS (2025 TREND) ===
+    {
+      "id": "trend-030",
+      "name": "Sage Green",
+      "hexColor": "9CAF88",
+      "rgb": {"r": 156, "g": 175, "b": 136},
+      "lrv": 52.0,
+      "category": "green",
+      "brand": "Various",
+      "source": "Sage Green Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-031",
+      "name": "Olive Branch",
+      "hexColor": "7A8B6E",
+      "rgb": {"r": 122, "g": 139, "b": 110},
+      "lrv": 35.0,
+      "category": "green",
+      "brand": "Various",
+      "source": "Sage Green Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-032",
+      "name": "Forest Fern",
+      "hexColor": "5D6B4E",
+      "rgb": {"r": 93, "g": 107, "b": 78},
+      "lrv": 20.0,
+      "category": "green",
+      "brand": "Various",
+      "source": "Sage Green Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-033",
+      "name": "Moss Green",
+      "hexColor": "4A5D3F",
+      "rgb": {"r": 74, "g": 93, "b": 63},
+      "lrv": 14.0,
+      "category": "green",
+      "brand": "Various",
+      "source": "Sage Green Trend 2025",
+      "trend": true
+    },
+    
+    // === SOFT BLUES (2025 TREND) ===
+    {
+      "id": "trend-034",
+      "name": "Dusty Blue",
+      "hexColor": "8BA4B4",
+      "rgb": {"r": 139, "g": 164, "b": 180},
+      "lrv": 52.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Soft Blue Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-035",
+      "name": "Sky Glass",
+      "hexColor": "B8CDD6",
+      "rgb": {"r": 184, "g": 205, "b": 214},
+      "lrv": 75.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Soft Blue Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-036",
+      "name": "Naval Mist",
+      "hexColor": "6B7F8A",
+      "rgb": {"r": 107, "g": 127, "b": 138},
+      "lrv": 28.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Soft Blue Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-037",
+      "name": "True Blue",
+      "hexColor": "4A6FA5",
+      "rgb": {"r": 74, "g": 111, "b": 165},
+      "lrv": 25.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Soft Blue Trend 2025",
+      "trend": true
+    },
+    
+    // === WARM WHITES & CREAMS ===
+    {
+      "id": "trend-038",
+      "name": "Cream White",
+      "hexColor": "FFFDD0",
+      "rgb": {"r": 255, "g": 253, "b": 208},
+      "lrv": 92.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Warm White Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-039",
+      "name": "Antique White",
+      "hexColor": "FAEBD7",
+      "rgb": {"r": 250, "g": 235, "b": 215},
+      "lrv": 88.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Warm White Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-040",
+      "name": "Pearl White",
+      "hexColor": "F5F5DC",
+      "rgb": {"r": 245, "g": 245, "b": 220},
+      "lrv": 90.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Warm White Trend 2025",
+      "trend": true
+    },
+    
+    // === DESIGNER GRAYS ===
+    {
+      "id": "trend-041",
+      "name": "Gray Owl",
+      "hexColor": "B8C2C8",
+      "rgb": {"r": 184, "g": 194, "b": 200},
+      "lrv": 70.0,
+      "category": "neutral",
+      "brand": "Benjamin Moore",
+      "source": "Designer Gray 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-042",
+      "name": "Killer Gray",
+      "hexColor": "6A6A6A",
+      "rgb": {"r": 106, "g": 106, "b": 106},
+      "lrv": 28.0,
+      "category": "neutral",
+      "brand": "Farrow & Ball",
+      "source": "Designer Gray 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-043",
+      "name": "Pavilion Gray",
+      "hexColor": "9EA3A8",
+      "rgb": {"r": 158, "g": 163, "b": 168},
+      "lrv": 52.0,
+      "category": "neutral",
+      "brand": "Farrow & Ball",
+      "source": "Designer Gray 2025",
+      "trend": true
+    },
+    
+    // === EARTHY YELLOWS & TERRACOTTA ===
+    {
+      "id": "trend-044",
+      "name": "Mustard Seed",
+      "hexColor": "D4A84B",
+      "rgb": {"r": 212, "g": 168, "b": 75},
+      "lrv": 52.0,
+      "category": "yellow",
+      "brand": "Various",
+      "source": "Earthy Yellow 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-045",
+      "name": "Terracotta",
+      "hexColor": "C27B5C",
+      "rgb": {"r": 194, "g": 123, "b": 92},
+      "lrv": 35.0,
+      "category": "orange",
+      "brand": "Various",
+      "source": "Terracotta Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-046",
+      "name": "Burnt Sienna",
+      "hexColor": "A0522D",
+      "rgb": {"r": 160, "g": 82, "b": 45},
+      "lrv": 18.0,
+      "category": "orange",
+      "brand": "Various",
+      "source": "Terracotta Trend 2025",
+      "trend": true
+    },
+    
+    // === SOPHISTICATED PURPLES ===
+    {
+      "id": "trend-047",
+      "name": "Wisteria",
+      "hexColor": "C9A0DC",
+      "rgb": {"r": 201, "g": 160, "b": 220},
+      "lrv": 68.0,
+      "category": "purple",
+      "brand": "Various",
+      "source": "Purple Accent 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-048",
+      "name": "Plum Velvet",
+      "hexColor": "5D3A5A",
+      "rgb": {"r": 93, "g": 58, "b": 90},
+      "lrv": 12.0,
+      "category": "purple",
+      "brand": "Various",
+      "source": "Purple Accent 2025",
+      "trend": true
+    },
+    
+    // === BOLD ACCENTS ===
+    {
+      "id": "trend-049",
+      "name": "Emerald Green",
+      "hexColor": "50C878",
+      "rgb": {"r": 80, "g": 200, "b": 120},
+      "lrv": 42.0,
+      "category": "green",
+      "brand": "Various",
+      "source": "Bold Accent 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-050",
+      "name": "Navy Blue",
+      "hexColor": "1B2838",
+      "rgb": {"r": 27, "g": 40, "b": 56},
+      "lrv": 5.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Bold Accent 2025",
+      "trend": true
+    },
+    
+    // === ADDITIONAL CURATED COLORS (51-75) ===
+    {
+      "id": "trend-051",
+      "name": "Sandstone",
+      "hexColor": "C2B280",
+      "rgb": {"r": 194, "g": 178, "b": 128},
+      "lrv": 55.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-052",
+      "name": "Limestone",
+      "hexColor": "D8D0C0",
+      "rgb": {"r": 216, "g": 208, "b": 192},
+      "lrv": 78.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-053",
+      "name": "Driftwood",
+      "hexColor": "A08B72",
+      "rgb": {"r": 160, "g": 139, "b": 114},
+      "lrv": 42.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-054",
+      "name": "Seashell",
+      "hexColor": "FFF5EE",
+      "rgb": {"r": 255, "g": 245, "b": 238},
+      "lrv": 95.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-055",
+      "name": "Stone Gray",
+      "hexColor": "8A8A8A",
+      "rgb": {"r": 138, "g": 138, "b": 138},
+      "lrv": 40.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-056",
+      "name": "Charcoal",
+      "hexColor": "36454F",
+      "rgb": {"r": 54, "g": 69, "b": 79},
+      "lrv": 10.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Nature Inspired 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-057",
+      "name": "Blush Pink",
+      "hexColor": "DE6FA1",
+      "rgb": {"r": 222, "g": 111, "b": 161},
+      "lrv": 45.0,
+      "category": "red",
+      "brand": "Various",
+      "source": "Soft Pink 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-058",
+      "name": "Dusty Rose",
+      "hexColor": "DCAE96",
+      "rgb": {"r": 220, "g": 174, "b": 150},
+      "lrv": 62.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Soft Pink 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-059",
+      "name": "Coral Reef",
+      "hexColor": "FF7F50",
+      "rgb": {"r": 255, "g": 127, "b": 80},
+      "lrv": 48.0,
+      "category": "orange",
+      "brand": "Various",
+      "source": "Coral Accent 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-060",
+      "name": "Sunset Orange",
+      "hexColor": "FB5B35",
+      "rgb": {"r": 251, "g": 91, "b": 53},
+      "lrv": 32.0,
+      "category": "orange",
+      "brand": "Various",
+      "source": "Bold Orange 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-061",
+      "name": "Midnight Blue",
+      "hexColor": "191970",
+      "rgb": {"r": 25, "g": 25, "b": 112},
+      "lrv": 5.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Deep Blue 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-062",
+      "name": "Slate Blue",
+      "hexColor": "6A5ACD",
+      "rgb": {"r": 106, "g": 90, "b": 205},
+      "lrv": 28.0,
+      "category": "blue",
+      "brand": "Various",
+      "source": "Deep Blue 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-063",
+      "name": "Taupe",
+      "hexColor": "8B8589",
+      "rgb": {"r": 139, "g": 133, "b": 137},
+      "lrv": 40.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Taupe Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-064",
+      "name": "Mushroom",
+      "hexColor": "A08B80",
+      "rgb": {"r": 160, "g": 139, "b": 128},
+      "lrv": 45.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Mushroom Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-065",
+      "name": "Hazelnut",
+      "hexColor": "9E7E6B",
+      "rgb": {"r": 158, "g": 126, "b": 107},
+      "lrv": 38.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Nut Colors 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-066",
+      "name": "Walnut",
+      "hexColor": "5D432C",
+      "rgb": {"r": 93, "g": 67, "b": 44},
+      "lrv": 10.0,
+      "category": "brown",
+      "brand": "Various",
+      "source": "Nut Colors 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-067",
+      "name": "Honey Gold",
+      "hexColor": "DAA520",
+      "rgb": {"r": 218, "g": 165, "b": 32},
+      "lrv": 45.0,
+      "category": "yellow",
+      "brand": "Various",
+      "source": "Gold Accents 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-068",
+      "name": "Brass",
+      "hexColor": "B5A642",
+      "rgb": {"r": 181, "g": 166, "b": 66},
+      "lrv": 42.0,
+      "category": "yellow",
+      "brand": "Various",
+      "source": "Gold Accents 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-069",
+      "name": "Cream Puff",
+      "hexColor": "FFFACD",
+      "rgb": {"r": 255, "g": 250, "b": 205},
+      "lrv": 92.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Soft Creams 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-070",
+      "name": "Linen",
+      "hexColor": "FAF0E6",
+      "rgb": {"r": 250, "g": 240, "b": 230},
+      "lrv": 94.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Soft Creams 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-071",
+      "name": "Putty",
+      "hexColor": "DCCEB8",
+      "rgb": {"r": 220, "g": 206, "b": 184},
+      "lrv": 72.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Putty Colors 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-072",
+      "name": "Greige",
+      "hexColor": "BEB8A8",
+      "rgb": {"r": 190, "g": 184, "b": 168},
+      "lrv": 65.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Greige Trend 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-073",
+      "name": "Khaki",
+      "hexColor": "C3B091",
+      "rgb": {"r": 195, "g": 176, "b": 145},
+      "lrv": 58.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Khaki 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-074",
+      "name": "Oatmeal",
+      "hexColor": "DCCEB8",
+      "rgb": {"r": 220, "g": 206, "b": 184},
+      "lrv": 72.0,
+      "category": "neutral",
+      "brand": "Various",
+      "source": "Oatmeal 2025",
+      "trend": true
+    },
+    {
+      "id": "trend-075",
+      "name": "Ivory",
+      "hexColor": "FFFFF0",
+      "rgb": {"r": 255, "g": 255, "b": 240},
+      "lrv": 97.0,
+      "category": "white",
+      "brand": "Various",
+      "source": "Classic White 2025",
+      "trend": true
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "brandName": "Muro",
+  "tagline": "See it before you paint it",
+  "visualize": "Visualize",
+  "onYourWalls": "on your walls",
+  "seeBeforePaint": "See paint colors on your walls before you buy",
+  "downloadCTA": "Download Muro for iPhone & iPad",
+  "appStore": "Available on the App Store",
+
+  "colorDetails": "Color Details",
+  "manufacturer": "Manufacturer",
+  "colorCode": "Color Code",
+  "hexCode": "Hex Code",
+  "rgbCode": "RGB",
+  "lrvValue": "LRV (Light Reflectance Value)",
+  "category": "Category",
+  "similarColors": "Similar Colors",
+  "allColors": "All Colors",
+  "allManufacturers": "All Manufacturers",
+
+  "visualizeThisColor": "Visualize This Color on Your Walls",
+  "downloadMuroToSee": "Download Muro for iPhone and iPad to see {{colorName}} in your space using advanced AI technology",
+
+  "browseColors": "Browse {{count}} Paint Colors",
+  "colorsFrom": "Colors from {{manufacturer}}",
+  "totalColors": "{{count}} colors available",
+
+  "categories": {
+    "white": "White",
+    "neutral": "Neutral",
+    "black": "Black",
+    "red": "Red",
+    "orange": "Orange",
+    "yellow": "Yellow",
+    "green": "Green",
+    "blue": "Blue",
+    "purple": "Purple",
+    "brown": "Brown"
+  },
+
+  "footer": {
+    "tagline": "Visualize paint colors on your walls with AI",
+    "legal": "Legal",
+    "support": "Support",
+    "copyright": "© 2026 Muro. All rights reserved."
+  },
+
+  "faq": {
+    "title": "Common questions",
+    "questions": [
+      {
+        "q": "Is Muro free to use?",
+        "a": "No, Muro requires a subscription. We offer weekly, monthly, and annual plans. Pick what works for you. Think of it as way cheaper than buying paint samples you'll never use."
+      },
+      {
+        "q": "How accurate are the visualizations?",
+        "a": "Pretty accurate. We preserve your room's lighting, shadows, and details. Is it 100% perfect? No. Lighting changes throughout the day. But our users tell us the final result is very close to what they saw in the app."
+      },
+      {
+        "q": "What paint brands are available?",
+        "a": "30,000+ colors from Sherwin-Williams, Benjamin Moore, Behr, Farrow & Ball, Valspar, PPG, and lots of regional brands. We add new ones when people ask for them."
+      },
+      {
+        "q": "Can I use colors from inspiration photos?",
+        "a": "Yep! Upload any photo from Pinterest, a magazine, wherever. We'll pull the color and find you the closest real paint match you can actually buy."
+      },
+      {
+        "q": "What devices does Muro support?",
+        "a": "iPhone and iPad with iOS 16 or later. Works on both."
+      },
+      {
+        "q": "How do I cancel my subscription?",
+        "a": "Go to iPhone Settings > Apple ID > Subscriptions > Muro. Cancel anytime. You keep access until your current period ends. No hidden fees."
+      },
+      {
+        "q": "Where are my photos stored? Is my data secure?",
+        "a": "Your photos never leave your control. All images are stored locally on your device and synced to your personal iCloud account for backup. When you transform a wall color, your photo goes directly to the AI processor and back to your device—it never touches our servers. We cannot view, access, or store your images. Ever."
+      }
+    ]
+  }
+}

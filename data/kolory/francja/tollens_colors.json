@@ -1,0 +1,55 @@
+{
+  "manufacturer": "tollens",
+  "displayName": "Tollens",
+  "displayNamePL": "Tollens",
+  "displayNameDE": "Tollens",
+  "displayNameEN": "Tollens",
+  "country": "Francja",
+  "region": "francja",
+  "website": "https://www.tollens.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "notes": "Część grupy Cromology - Wzornik Nuancier Cromology",
+  "collections": [
+    {
+      "id": "tollens-cromology",
+      "name": "Nuancier Cromology",
+      "nameDE": "Cromology Farbfächer",
+      "description": "Główny wzornik - ponad 1500 kolorów",
+      "productType": "both",
+      "finish": "all",
+      "colors": [
+        {"id": "tol-001", "code": "CR001", "name": "Blanc", "nameDE": "Blanc", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "tol-002", "code": "CR002", "name": "Blanc Cassé", "nameDE": "Blanc Cassé", "hexColor": "F5F0E0", "rgb": {"r": 245, "g": 240, "b": 224}, "lrv": 87.0, "category": "white"},
+        {"id": "tol-003", "code": "CR003", "name": "Crème", "nameDE": "Crème", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "tol-004", "code": "CR004", "name": "Beige", "nameDE": "Beige", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "tol-005", "code": "CR005", "name": "Gris Clair", "nameDE": "Gris Clair", "hexColor": "C0C0B8", "rgb": {"r": 192, "g": 192, "b": 184}, "lrv": 68.0, "category": "neutral"},
+        {"id": "tol-006", "code": "CR006", "name": "Gris Foncé", "nameDE": "Gris Foncé", "hexColor": "686860", "rgb": {"r": 104, "g": 104, "b": 96}, "lrv": 28.0, "category": "neutral"},
+        {"id": "tol-007", "code": "CR007", "name": "Bleu Nuit", "nameDE": "Bleu Nuit", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "tol-008", "code": "CR008", "name": "Vert Sapin", "nameDE": "Vert Sapin", "hexColor": "284828", "rgb": {"r": 40, "g": 72, "b": 40}, "lrv": 8.0, "category": "green"},
+        {"id": "tol-009", "code": "CR009", "name": "Rouge Carmin", "nameDE": "Rouge Carmin", "hexColor": "A83028", "rgb": {"r": 168, "g": 48, "b": 40}, "lrv": 14.0, "category": "red"},
+        {"id": "tol-010", "code": "CR010", "name": "Jaune Or", "nameDE": "Jaune Or", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "tollens-interieur",
+      "name": "Tollens Intérieur",
+      "nameDE": "Tollens Innen",
+      "description": "Kolekcja do wnętrz - 300 kolorów",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "tol-int-001", "code": "INT001", "name": "Blanc Douillet", "nameDE": "Blanc Douillet", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "tol-int-002", "code": "INT002", "name": "Laine", "nameDE": "Laine", "hexColor": "D8D0C0", "rgb": {"r": 216, "g": 208, "b": 192}, "lrv": 72.0, "category": "neutral"},
+        {"id": "tol-int-003", "code": "INT003", "name": "Lin", "nameDE": "Lin", "hexColor": "C8BFA8", "rgb": {"r": 200, "g": 191, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "tol-int-004", "code": "INT004", "name": "Sésame", "nameDE": "Sésame", "hexColor": "B0A080", "rgb": {"r": 176, "g": 160, "b": 128}, "lrv": 48.0, "category": "neutral"},
+        {"id": "tol-int-005", "code": "INT005", "name": "Menthe", "nameDE": "Menthe", "hexColor": "A8C8A8", "rgb": {"r": 168, "g": 200, "b": 168}, "lrv": 62.0, "category": "green"},
+        {"id": "tol-int-006", "code": "INT006", "name": "Ciel", "nameDE": "Ciel", "hexColor": "98C8E0", "rgb": {"r": 152, "g": 200, "b": 224}, "lrv": 68.0, "category": "blue"},
+        {"id": "tol-int-007", "code": "INT007", "name": "Pêche", "nameDE": "Pêche", "hexColor": "F0C8A8", "rgb": {"r": 240, "g": 200, "b": 168}, "lrv": 72.0, "category": "orange"},
+        {"id": "tol-int-008", "code": "INT008", "name": "Fraise", "nameDE": "Fraise", "hexColor": "E88898", "rgb": {"r": 232, "g": 136, "b": 152}, "lrv": 55.0, "category": "red"},
+        {"id": "tol-int-009", "code": "INT009", "name": "Violette", "nameDE": "Violette", "hexColor": "9888B0", "rgb": {"r": 152, "g": 136, "b": 176}, "lrv": 52.0, "category": "purple"},
+        {"id": "tol-int-010", "code": "INT010", "name": "Chocolat", "nameDE": "Chocolat", "hexColor": "584828", "rgb": {"r": 88, "g": 72, "b": 40}, "lrv": 14.0, "category": "brown"}
+      ]
+    }
+  ]
+}

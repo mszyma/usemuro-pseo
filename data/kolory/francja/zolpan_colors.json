@@ -1,0 +1,54 @@
+{
+  "manufacturer": "zolpan",
+  "displayName": "Zolpan",
+  "displayNamePL": "Zolpan",
+  "displayNameDE": "Zolpan",
+  "displayNameEN": "Zolpan",
+  "country": "Francja",
+  "region": "francja",
+  "website": "https://www.zolpan.fr",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE,ZIP",
+  "collections": [
+    {
+      "id": "zolpan-cromology",
+      "name": "Nuancier Cromology",
+      "nameDE": "Cromology Farbfächer",
+      "description": "Wzornik grupowy Cromology - 1500+ kolorów",
+      "productType": "both",
+      "finish": "all",
+      "colors": [
+        {"id": "zol-001", "code": "ZCR001", "name": "Blanc Pur", "nameDE": "Blanc Pur", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "zol-002", "code": "ZCR002", "name": "Blanc Lumière", "nameDE": "Blanc Lumière", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "zol-003", "code": "ZCR003", "name": "Ivoire Clair", "nameDE": "Ivoire Clair", "hexColor": "EDE8D0", "rgb": {"r": 237, "g": 232, "b": 208}, "lrv": 82.0, "category": "white"},
+        {"id": "zol-004", "code": "ZCR004", "name": "Gris Perle", "nameDE": "Gris Perle", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "zol-005", "code": "ZCR005", "name": "Pierre", "nameDE": "Pierre", "hexColor": "A09080", "rgb": {"r": 160, "g": 144, "b": 128}, "lrv": 48.0, "category": "neutral"},
+        {"id": "zol-006", "code": "ZCR006", "name": "Brun", "nameDE": "Brun", "hexColor": "785838", "rgb": {"r": 120, "g": 88, "b": 56}, "lrv": 22.0, "category": "brown"},
+        {"id": "zol-007", "code": "ZCR007", "name": "Bleu Saphir", "nameDE": "Bleu Saphir", "hexColor": "284878", "rgb": {"r": 40, "g": 72, "b": 120}, "lrv": 14.0, "category": "blue"},
+        {"id": "zol-008", "code": "ZCR008", "name": "Vert Émeraude", "nameDE": "Vert Émeraude", "hexColor": "287848", "rgb": {"r": 40, "g": 120, "b": 72}, "lrv": 18.0, "category": "green"},
+        {"id": "zol-009", "code": "ZCR009", "name": "Rouge Grenat", "nameDE": "Rouge Grenat", "hexColor": "782828", "rgb": {"r": 120, "g": 40, "b": 40}, "lrv": 8.0, "category": "red"},
+        {"id": "zol-010", "code": "ZCR010", "name": "Jaune Soleil", "nameDE": "Jaune Soleil", "hexColor": "D8A030", "rgb": {"r": 216, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "zolpan-facades",
+      "name": "Façades Régionales",
+      "nameDE": "Regionale Fassaden",
+      "description": "Kolekcja fasadowa - 200 kolorów regionalnych Francji",
+      "productType": "exterior",
+      "finish": "matt",
+      "colors": [
+        {"id": "zol-fac-001", "code": "FAC001", "name": "Chaux", "nameDE": "Chaux", "hexColor": "F5F0E0", "rgb": {"r": 245, "g": 240, "b": 224}, "lrv": 87.0, "category": "white"},
+        {"id": "zol-fac-002", "code": "FAC002", "name": "Pierre du Midi", "nameDE": "Pierre du Midi", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "zol-fac-003", "code": "FAC003", "name": "Terre d'Ocres", "nameDE": "Terre d'Ocres", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "zol-fac-004", "code": "FAC004", "name": "Rousse", "nameDE": "Rousse", "hexColor": "A85828", "rgb": {"r": 168, "g": 88, "b": 40}, "lrv": 22.0, "category": "orange"},
+        {"id": "zol-fac-005", "code": "FAC005", "name": "Gris Ardoise", "nameDE": "Gris Ardoise", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 18.0, "category": "neutral"},
+        {"id": "zol-fac-006", "code": "FAC006", "name": "Bleu Provence", "nameDE": "Bleu Provence", "hexColor": "5878A0", "rgb": {"r": 88, "g": 120, "b": 160}, "lrv": 35.0, "category": "blue"},
+        {"id": "zol-fac-007", "code": "FAC007", "name": "Vert Lavande", "nameDE": "Vert Lavande", "hexColor": "889080", "rgb": {"r": 136, "g": 144, "b": 128}, "lrv": 42.0, "category": "green"},
+        {"id": "zol-fac-008", "code": "FAC008", "name": "Blanc Craie", "nameDE": "Blanc Craie", "hexColor": "F0E8D8", "rgb": {"r": 240, "g": 232, "b": 216}, "lrv": 83.0, "category": "white"},
+        {"id": "zol-fac-009", "code": "FAC009", "name": "Ocre Jaune", "nameDE": "Ocre Jaune", "hexColor": "D8B848", "rgb": {"r": 216, "g": 184, "b": 72}, "lrv": 52.0, "category": "yellow"},
+        {"id": "zol-fac-010", "code": "FAC010", "name": "Rouge Toulouse", "nameDE": "Rouge Toulouse", "hexColor": "A83028", "rgb": {"r": 168, "g": 48, "b": 40}, "lrv": 14.0, "category": "red"}
+      ]
+    }
+  ]
+}

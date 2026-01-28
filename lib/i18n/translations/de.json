@@ -1,0 +1,81 @@
+{
+  "brandName": "Muro",
+  "tagline": "Sehen Sie es, bevor Sie es streichen",
+  "visualize": "Visualisieren",
+  "onYourWalls": "an Ihren Wänden",
+  "seeBeforePaint": "Sehen Sie Wandfarben an Ihren Wänden, bevor Sie kaufen",
+  "downloadCTA": "Laden Sie Muro für iPhone & iPad herunter",
+  "appStore": "Im App Store verfügbar",
+
+  "colorDetails": "Farbdetails",
+  "manufacturer": "Hersteller",
+  "colorCode": "Farbcode",
+  "hexCode": "Hex-Code",
+  "rgbCode": "RGB",
+  "lrvValue": "LRV (Lichtreflexionswert)",
+  "category": "Kategorie",
+  "similarColors": "Ähnliche Farben",
+  "allColors": "Alle Farben",
+  "allManufacturers": "Alle Hersteller",
+
+  "visualizeThisColor": "Visualisieren Sie diese Farbe an Ihren Wänden",
+  "downloadMuroToSee": "Laden Sie Muro für iPhone und iPad herunter, um {{colorName}} in Ihrem Raum mit fortschrittlicher KI-Technologie zu sehen",
+
+  "browseColors": "{{count}} Wandfarben durchsuchen",
+  "colorsFrom": "Farben von {{manufacturer}}",
+  "totalColors": "{{count}} Farben verfügbar",
+
+  "categories": {
+    "white": "Weiß",
+    "neutral": "Neutral",
+    "black": "Schwarz",
+    "red": "Rot",
+    "orange": "Orange",
+    "yellow": "Gelb",
+    "green": "Grün",
+    "blue": "Blau",
+    "purple": "Lila",
+    "brown": "Braun"
+  },
+
+  "footer": {
+    "tagline": "Visualisieren Sie Wandfarben mit KI",
+    "legal": "Rechtliches",
+    "support": "Unterstützung",
+    "copyright": "© 2026 Muro. Alle Rechte vorbehalten."
+  },
+
+  "faq": {
+    "title": "Häufige Fragen",
+    "questions": [
+      {
+        "q": "Ist Muro kostenlos?",
+        "a": "Nein, Muro braucht ein Abo. Wir bieten wöchentliche, monatliche und jährliche Pläne. Wähle, was für dich passt. Deutlich günstiger als Farbmuster zu kaufen, die du nie verwendest."
+      },
+      {
+        "q": "Wie genau sind die Visualisierungen?",
+        "a": "Ziemlich genau. Wir bewahren Beleuchtung, Schatten und Details deines Raums. Ist es 100% perfekt? Nein. Licht ändert sich über den Tag. Aber unsere Nutzer sagen uns, das Endergebnis ist sehr nah an dem, was sie in der App gesehen haben."
+      },
+      {
+        "q": "Welche Farbmarken sind verfügbar?",
+        "a": "30.000+ Farben von Caparol, Brillux, Sto, Alpina, RAL und vielen regionalen Marken. Wir fügen neue hinzu, wenn Leute danach fragen."
+      },
+      {
+        "q": "Kann ich Farben aus Inspirationsfotos verwenden?",
+        "a": "Ja! Lade ein Foto hoch von Pinterest, einem Magazin, egal woher. Wir ziehen die Farbe raus und finden dir die passende echte Farbe, die du kaufen kannst."
+      },
+      {
+        "q": "Welche Geräte unterstützt Muro?",
+        "a": "iPhone und iPad mit iOS 16 oder höher. Funktioniert auf beiden."
+      },
+      {
+        "q": "Wie kündige ich mein Abo?",
+        "a": "Gehe zu iPhone Einstellungen > Apple ID > Abonnements > Muro. Jederzeit kündbar. Du behältst Zugang bis zur aktuellen Periode. Keine versteckten Gebühren."
+      },
+      {
+        "q": "Wo werden meine Fotos gespeichert? Sind meine Daten sicher?",
+        "a": "Deine Fotos verlassen nie deine Kontrolle. Alle Bilder werden lokal auf deinem Gerät gespeichert und mit deinem persönlichen iCloud-Konto synchronisiert. Wenn du eine Wandfarbe transformierst, geht dein Foto direkt zum KI-Prozessor und zurück auf dein Gerät—es berührt niemals unsere Server. Wir können deine Bilder nicht sehen, nicht darauf zugreifen und sie nicht speichern. Niemals."
+      }
+    ]
+  }
+}

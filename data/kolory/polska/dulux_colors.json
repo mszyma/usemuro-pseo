@@ -1,0 +1,581 @@
+{
+  "manufacturer": "dulux",
+  "displayName": "Dulux",
+  "displayNamePL": "Dulux",
+  "displayNameDE": "Dulux",
+  "displayNameEN": "Dulux",
+  "country": "Wielka Brytania",
+  "region": "polska",
+  "website": "https://www.dulux.pl",
+  "source": "kdybicz/adobe-swatch-for-interior-designers GitHub",
+  "lastUpdated": "2026-01-14",
+  "totalColors": 70,
+  "collections": [
+    {
+      "id": "dulux-kolory-swiata",
+      "name": "Dulux Kolory Świata",
+      "colors": [
+        {
+          "id": "dulux-001",
+          "code": "Antyczny",
+          "name": "Antyczny Marmur",
+          "nameDE": "Antyczny Marmur",
+          "hexColor": "F6F2E5",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-002",
+          "code": "Ziarno",
+          "name": "Ziarno Sezamu",
+          "nameDE": "Ziarno Sezamu",
+          "hexColor": "F4F0E4",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-003",
+          "code": "Białe",
+          "name": "Białe Żagle",
+          "nameDE": "Białe Żagle",
+          "hexColor": "E9EAE9",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-004",
+          "code": "Garść",
+          "name": "Garść Muszelek",
+          "nameDE": "Garść Muszelek",
+          "hexColor": "ECE7E4",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-005",
+          "code": "Rajska",
+          "name": "Rajska Plaża",
+          "nameDE": "Rajska Plaża",
+          "hexColor": "F0E8DD",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-006",
+          "code": "Światełka",
+          "name": "Światełka Heraklionu",
+          "nameDE": "Światełka Heraklionu",
+          "hexColor": "F5EDCF",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-007",
+          "code": "Białe",
+          "name": "Białe Wino",
+          "nameDE": "Białe Wino",
+          "hexColor": "F4E9D4",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-008",
+          "code": "Grecka",
+          "name": "Grecka Chałwa",
+          "nameDE": "Grecka Chałwa",
+          "hexColor": "F5E6D1",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-009",
+          "code": "Słońce",
+          "name": "Słońce Hellady",
+          "nameDE": "Słońce Hellady",
+          "hexColor": "F1E0C6",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-010",
+          "code": "Ogrody",
+          "name": "Ogrody Magnolii",
+          "nameDE": "Ogrody Magnolii",
+          "hexColor": "F4E0E1",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-011",
+          "code": "Lody",
+          "name": "Lody Malaga",
+          "nameDE": "Lody Malaga",
+          "hexColor": "F4DCCF",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-012",
+          "code": "Różane",
+          "name": "Różane Perfumy",
+          "nameDE": "Różane Perfumy",
+          "hexColor": "F2BCC2",
+          "category": "red"
+        },
+        {
+          "id": "dulux-013",
+          "code": "Kwitnący",
+          "name": "Kwitnący Migdałowiec",
+          "nameDE": "Kwitnący Migdałowiec",
+          "hexColor": "D3BFC1",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-014",
+          "code": "Apetyczne",
+          "name": "Apetyczne Tapas",
+          "nameDE": "Apetyczne Tapas",
+          "hexColor": "F6B99D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-015",
+          "code": "Arbuzowa",
+          "name": "Arbuzowa Fiesta",
+          "nameDE": "Arbuzowa Fiesta",
+          "hexColor": "F39578",
+          "category": "red"
+        },
+        {
+          "id": "dulux-016",
+          "code": "Malinowa",
+          "name": "Malinowa Granada",
+          "nameDE": "Malinowa Granada",
+          "hexColor": "C25C67",
+          "category": "red"
+        },
+        {
+          "id": "dulux-017",
+          "code": "Ogniste",
+          "name": "Ogniste Flamenco",
+          "nameDE": "Ogniste Flamenco",
+          "hexColor": "B94D4D",
+          "category": "red"
+        },
+        {
+          "id": "dulux-018",
+          "code": "Wino",
+          "name": "Wino z Cordoby",
+          "nameDE": "Wino z Cordoby",
+          "hexColor": "9C4C49",
+          "category": "red"
+        },
+        {
+          "id": "dulux-019",
+          "code": "Promienny",
+          "name": "Promienny Świt",
+          "nameDE": "Promienny Świt",
+          "hexColor": "FBDCAE",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-020",
+          "code": "Imbirowa",
+          "name": "Imbirowa Herbata",
+          "nameDE": "Imbirowa Herbata",
+          "hexColor": "F9D1AA",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-021",
+          "code": "Beżowy",
+          "name": "Beżowy Pled",
+          "nameDE": "Beżowy Pled",
+          "hexColor": "DBCFC0",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-022",
+          "code": "Złoty",
+          "name": "Złoty Posąg",
+          "nameDE": "Złoty Posąg",
+          "hexColor": "F2C89B",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-023",
+          "code": "Miedziany",
+          "name": "Miedziany Amulet",
+          "nameDE": "Miedziany Amulet",
+          "hexColor": "EAB696",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-024",
+          "code": "Masala",
+          "name": "Masala Chai",
+          "nameDE": "Masala Chai",
+          "hexColor": "D1B098",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-025",
+          "code": "Piaskowa",
+          "name": "Piaskowa Mandala",
+          "nameDE": "Piaskowa Mandala",
+          "hexColor": "F4AC71",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-026",
+          "code": "Buddyjskie",
+          "name": "Buddyjskie Kadzidło",
+          "nameDE": "Buddyjskie Kadzidło",
+          "hexColor": "E09B6C",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-027",
+          "code": "Szafranowe",
+          "name": "Szafranowe Szaty",
+          "nameDE": "Szafranowe Szaty",
+          "hexColor": "E9855D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-028",
+          "code": "Suszone",
+          "name": "Suszone Morele",
+          "nameDE": "Suszone Morele",
+          "hexColor": "F08948",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-029",
+          "code": "Serce",
+          "name": "Serce Tybetu",
+          "nameDE": "Serce Tybetu",
+          "hexColor": "EC6D2B",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-030",
+          "code": "Pustynny",
+          "name": "Pustynny Szlak",
+          "nameDE": "Pustynny Szlak",
+          "hexColor": "ECD8C5",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-031",
+          "code": "Tropikalne",
+          "name": "Tropikalne Słońce",
+          "nameDE": "Tropikalne Słońce",
+          "hexColor": "FADAA1",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-032",
+          "code": "Złota",
+          "name": "Złota Świątynia",
+          "nameDE": "Złota Świątynia",
+          "hexColor": "FDD28D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-033",
+          "code": "Złoto",
+          "name": "Złoto Cejlonu",
+          "nameDE": "Złoto Cejlonu",
+          "hexColor": "FAC681",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-034",
+          "code": "Dojrzewający",
+          "name": "Dojrzewający Banan",
+          "nameDE": "Dojrzewający Banan",
+          "hexColor": "FBE8B8",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-035",
+          "code": "Cytrynowy",
+          "name": "Cytrynowy Sad",
+          "nameDE": "Cytrynowy Sad",
+          "hexColor": "FFDF96",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-036",
+          "code": "Słoneczne",
+          "name": "Słoneczne Sari",
+          "nameDE": "Słoneczne Sari",
+          "hexColor": "FFE087",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-037",
+          "code": "Ciepły",
+          "name": "Ciepły Piasek",
+          "nameDE": "Ciepły Piasek",
+          "hexColor": "FFD090",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-038",
+          "code": "Egzotyczne",
+          "name": "Egzotyczne Curry",
+          "nameDE": "Egzotyczne Curry",
+          "hexColor": "FFC04D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-039",
+          "code": "Korzeń",
+          "name": "Korzeń Kurkumy",
+          "nameDE": "Korzeń Kurkumy",
+          "hexColor": "FFAF3E",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-040",
+          "code": "Plantacja",
+          "name": "Plantacja Kawy",
+          "nameDE": "Plantacja Kawy",
+          "hexColor": "C9B96D",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-041",
+          "code": "Ryżowe",
+          "name": "Ryżowe Pola",
+          "nameDE": "Ryżowe Pola",
+          "hexColor": "CFBF3B",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-042",
+          "code": "Pąki",
+          "name": "Pąki Akacji",
+          "nameDE": "Pąki Akacji",
+          "hexColor": "DFE6B7",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-043",
+          "code": "Bambusowy",
+          "name": "Bambusowy Gaj",
+          "nameDE": "Bambusowy Gaj",
+          "hexColor": "D6E0A0",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-044",
+          "code": "Ogród",
+          "name": "Ogród Zen",
+          "nameDE": "Ogród Zen",
+          "hexColor": "CBCBB0",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-045",
+          "code": "Las",
+          "name": "Las Równikowy",
+          "nameDE": "Las Równikowy",
+          "hexColor": "AFC657",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-046",
+          "code": "Zielone",
+          "name": "Zielone Tarasy",
+          "nameDE": "Zielone Tarasy",
+          "hexColor": "B5A728",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-047",
+          "code": "Dzikie",
+          "name": "Dzikie Pnącza",
+          "nameDE": "Dzikie Pnącza",
+          "hexColor": "8CA23B",
+          "category": "yellow"
+        },
+        {
+          "id": "dulux-048",
+          "code": "zieleń",
+          "name": "zieleń boho",
+          "nameDE": "zieleń boho",
+          "hexColor": "385248",
+          "category": "green"
+        },
+        {
+          "id": "dulux-049",
+          "code": "Błękitny",
+          "name": "Błękitny Lodowiec",
+          "nameDE": "Błękitny Lodowiec",
+          "hexColor": "85A6AB",
+          "category": "blue"
+        },
+        {
+          "id": "dulux-050",
+          "code": "Lodowy",
+          "name": "Lodowy Brzask",
+          "nameDE": "Lodowy Brzask",
+          "hexColor": "B9E3E5",
+          "category": "blue"
+        },
+        {
+          "id": "dulux-051",
+          "code": "Turkusowy",
+          "name": "Turkusowy Klif",
+          "nameDE": "Turkusowy Klif",
+          "hexColor": "85CCDE",
+          "category": "blue"
+        },
+        {
+          "id": "dulux-052",
+          "code": "Bezkresny",
+          "name": "Bezkresny Ocean",
+          "nameDE": "Bezkresny Ocean",
+          "hexColor": "91B5D8",
+          "category": "blue"
+        },
+        {
+          "id": "dulux-053",
+          "code": "Energia",
+          "name": "Energia Oceanu",
+          "nameDE": "Energia Oceanu",
+          "hexColor": "3A5267",
+          "category": "blue"
+        },
+        {
+          "id": "dulux-054",
+          "code": "Wrzosowy",
+          "name": "Wrzosowy Świt",
+          "nameDE": "Wrzosowy Świt",
+          "hexColor": "DBD1DD",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-055",
+          "code": "Kwiat",
+          "name": "Kwiat Rozmarynu",
+          "nameDE": "Kwiat Rozmarynu",
+          "hexColor": "BDBBDA",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-056",
+          "code": "Czar",
+          "name": "Czar Prowansji",
+          "nameDE": "Czar Prowansji",
+          "hexColor": "C3ADBD",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-057",
+          "code": "Fiołek",
+          "name": "Fiołek Alpejski",
+          "nameDE": "Fiołek Alpejski",
+          "hexColor": "A86D86",
+          "category": "red"
+        },
+        {
+          "id": "dulux-058",
+          "code": "Zapach",
+          "name": "Zapach Prowansji",
+          "nameDE": "Zapach Prowansji",
+          "hexColor": "977287",
+          "category": "red"
+        },
+        {
+          "id": "dulux-059",
+          "code": "Lawendowa",
+          "name": "Lawendowa Dolina",
+          "nameDE": "Lawendowa Dolina",
+          "hexColor": "867091",
+          "category": "purple"
+        },
+        {
+          "id": "dulux-060",
+          "code": "Neutralna",
+          "name": "Neutralna Biel",
+          "nameDE": "Neutralna Biel",
+          "hexColor": "EEEFE8",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-061",
+          "code": "Mroźny",
+          "name": "Mroźny Poranek",
+          "nameDE": "Mroźny Poranek",
+          "hexColor": "E5DFD7",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-062",
+          "code": "Fińska",
+          "name": "Fińska Sauna",
+          "nameDE": "Fińska Sauna",
+          "hexColor": "D2CFC6",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-063",
+          "code": "Zatoka",
+          "name": "Zatoka Wikingów",
+          "nameDE": "Zatoka Wikingów",
+          "hexColor": "CBC4B8",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-064",
+          "code": "Stepy",
+          "name": "Stepy Bengalu",
+          "nameDE": "Stepy Bengalu",
+          "hexColor": "D7BEA3",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-065",
+          "code": "Aromatyczny",
+          "name": "Aromatyczny Kardamon",
+          "nameDE": "Aromatyczny Kardamon",
+          "hexColor": "BEA99D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-066",
+          "code": "Szczypta",
+          "name": "Szczypta Cynamonu",
+          "nameDE": "Szczypta Cynamonu",
+          "hexColor": "C9A887",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-067",
+          "code": "Droga",
+          "name": "Droga Pielgrzyma",
+          "nameDE": "Droga Pielgrzyma",
+          "hexColor": "B1937D",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-068",
+          "code": "Drzewo",
+          "name": "Drzewo Sandałowe",
+          "nameDE": "Drzewo Sandałowe",
+          "hexColor": "B28D80",
+          "category": "orange"
+        },
+        {
+          "id": "dulux-069",
+          "code": "różowy",
+          "name": "różowy a brąz",
+          "nameDE": "różowy a brąz",
+          "hexColor": "9B8987",
+          "category": "neutral"
+        },
+        {
+          "id": "dulux-070",
+          "code": "Indyjski",
+          "name": "Indyjski Palisander",
+          "nameDE": "Indyjski Palisander",
+          "hexColor": "8F6C58",
+          "category": "orange"
+        }
+      ]
+    }
+  ]
+}

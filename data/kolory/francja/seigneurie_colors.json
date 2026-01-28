@@ -1,0 +1,55 @@
+{
+  "manufacturer": "seigneurie",
+  "displayName": "Seigneurie Gauthier",
+  "displayNamePL": "Seigneurie",
+  "displayNameDE": "Seigneurie",
+  "displayNameEN": "Seigneurie Gauthier",
+  "country": "Francja",
+  "region": "francja",
+  "website": "https://www.seigneuriegauthier.com",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE,Excel",
+  "notes": "System Chromatic - ponad 1170 kolorów",
+  "collections": [
+    {
+      "id": "seigneurie-chromatic",
+      "name": "Chromatic System",
+      "nameDE": "Chromatisches System",
+      "description": "Główny system kolorystyczny - 1170+ kolorów",
+      "productType": "both",
+      "finish": "all",
+      "colors": [
+        {"id": "sch-001", "code": "CH001", "name": "Blanc Pur", "nameDE": "Blanc Pur", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "sch-002", "code": "CH002", "name": "Blanc Optique", "nameDE": "Blanc Optique", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "sch-003", "code": "CH003", "name": "Ivoire", "nameDE": "Ivoire", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "sch-004", "code": "CH004", "name": "Sable", "nameDE": "Sable", "hexColor": "C8B090", "rgb": {"r": 200, "g": 176, "b": 144}, "lrv": 62.0, "category": "neutral"},
+        {"id": "sch-005", "code": "CH005", "name": "Gris", "nameDE": "Gris", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "sch-006", "code": "CH006", "name": "Gris Foncé", "nameDE": "Gris Foncé", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 18.0, "category": "neutral"},
+        {"id": "sch-007", "code": "CH007", "name": "Bleu Marine", "nameDE": "Bleu Marine", "hexColor": "283848", "rgb": {"r": 40, "g": 56, "b": 72}, "lrv": 8.0, "category": "blue"},
+        {"id": "sch-008", "code": "CH008", "name": "Vert Forêt", "nameDE": "Vert Forêt", "hexColor": "284828", "rgb": {"r": 40, "g": 72, "b": 40}, "lrv": 8.0, "category": "green"},
+        {"id": "sch-009", "code": "CH009", "name": "Rouge Brique", "nameDE": "Rouge Brique", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "sch-010", "code": "CH010", "name": "Jaune Paille", "nameDE": "Jaune Paille", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "seigneurie-premium",
+      "name": "Seigneurie Premium",
+      "nameDE": "Seigneurie Premium",
+      "description": "Kolekcja premium - 200 starannie dobranych kolorów",
+      "productType": "interior",
+      "finish": "satin",
+      "colors": [
+        {"id": "spr-001", "code": "PRM001", "name": "Crème Brûlée", "nameDE": "Crème Brûlée", "hexColor": "F5E8D0", "rgb": {"r": 245, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "spr-002", "code": "PRM002", "name": "Pierre", "nameDE": "Pierre", "hexColor": "C8C0B0", "rgb": {"r": 200, "g": 192, "b": 176}, "lrv": 68.0, "category": "neutral"},
+        {"id": "spr-003", "code": "PRM003", "name": "Argile", "nameDE": "Argile", "hexColor": "B89878", "rgb": {"r": 184, "g": 152, "b": 120}, "lrv": 52.0, "category": "brown"},
+        {"id": "spr-004", "code": "PRM004", "name": "Terre Cuite", "nameDE": "Terre Cuite", "hexColor": "C06030", "rgb": {"r": 192, "g": 96, "b": 48}, "lrv": 28.0, "category": "orange"},
+        {"id": "spr-005", "code": "PRM005", "name": "Sauge", "nameDE": "Sauge", "hexColor": "98A888", "rgb": {"r": 152, "g": 168, "b": 136}, "lrv": 52.0, "category": "green"},
+        {"id": "spr-006", "code": "PRM006", "name": "Ciel", "nameDE": "Ciel", "hexColor": "98C0D0", "rgb": {"r": 152, "g": 192, "b": 208}, "lrv": 62.0, "category": "blue"},
+        {"id": "spr-007", "code": "PRM007", "name": "Lavande", "nameDE": "Lavande", "hexColor": "B8A8C8", "rgb": {"r": 184, "g": 168, "b": 200}, "lrv": 65.0, "category": "purple"},
+        {"id": "spr-008", "code": "PRM008", "name": "Bordeaux", "nameDE": "Bordeaux", "hexColor": "702028", "rgb": {"r": 112, "g": 32, "b": 40}, "lrv": 10.0, "category": "red"},
+        {"id": "spr-009", "code": "PRM009", "name": "Moutarde", "nameDE": "Moutarde", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "spr-010", "code": "PRM010", "name": "Noir", "nameDE": "Noir", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    }
+  ]
+}

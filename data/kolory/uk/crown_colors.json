@@ -1,0 +1,94 @@
+{
+  "manufacturer": "crown",
+  "displayName": "Crown Paints",
+  "displayNamePL": "Crown",
+  "displayNameDE": "Crown",
+  "displayNameEN": "Crown Paints",
+  "country": "Wielka Brytania",
+  "region": "uk",
+  "website": "https://www.crownpaints.co.uk",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "collections": [
+    {
+      "id": "crown-optimum",
+      "name": "Crown Optimum",
+      "nameDE": "Crown Optimum",
+      "description": "Profesjonalna farba o doskonałym kryciu i trwałości",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "crown-opt-001", "code": "OPT1", "name": "Pure Brilliant White", "nameDE": "Pure Brilliant White", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 94.0, "category": "white"},
+        {"id": "crown-opt-002", "code": "OPT2", "name": "White", "nameDE": "White", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "crown-opt-003", "code": "OPT3", "name": "Soft Cream", "nameDE": "Soft Cream", "hexColor": "F5E8D0", "rgb": {"r": 245, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "crown-opt-004", "code": "OPT4", "name": "Dove Grey", "nameDE": "Dove Grey", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "crown-opt-005", "code": "OPT5", "name": "Manila", "nameDE": "Manila", "hexColor": "D8D0B8", "rgb": {"r": 216, "g": 208, "b": 184}, "lrv": 72.0, "category": "neutral"},
+        {"id": "crown-opt-006", "code": "OPT6", "name": "Taupe", "nameDE": "Taupe", "hexColor": "887858", "rgb": {"r": 136, "g": 120, "b": 88}, "lrv": 35.0, "category": "neutral"},
+        {"id": "crown-opt-007", "code": "OPT7", "name": "Slate", "nameDE": "Slate", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 20.0, "category": "neutral"},
+        {"id": "crown-opt-008", "code": "OPT8", "name": "Black", "nameDE": "Black", "hexColor": "303030", "rgb": {"r": 48, "g": 48, "b": 48}, "lrv": 6.0, "category": "black"},
+        {"id": "crown-opt-009", "code": "OPT9", "name": "Mocha", "nameDE": "Mocha", "hexColor": "785838", "rgb": {"r": 120, "g": 88, "b": 56}, "lrv": 22.0, "category": "brown"},
+        {"id": "crown-opt-010", "code": "OPT10", "name": "Forest Green", "nameDE": "Forest Green", "hexColor": "385028", "rgb": {"r": 56, "g": 80, "b": 40}, "lrv": 12.0, "category": "green"}
+      ]
+    },
+    {
+      "id": "crown-solo",
+      "name": "Crown Solo",
+      "nameDE": "Crown Solo",
+      "description": "Farba jednowarstwowa o szybkim schnięciu",
+      "productType": "interior",
+      "finish": "satin",
+      "colors": [
+        {"id": "crown-solo-001", "code": "SOL1", "name": "White", "nameDE": "White", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 94.0, "category": "white"},
+        {"id": "crown-solo-002", "code": "SOL2", "name": "Magnolia", "nameDE": "Magnolia", "hexColor": "F5E8D0", "rgb": {"r": 245, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "crown-solo-003", "code": "SOL3", "name": "Biscuit", "nameDE": "Biscuit", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "crown-solo-004", "code": "SOL4", "name": "Cambridge Blue", "nameDE": "Cambridge Blue", "hexColor": "98B8A8", "rgb": {"r": 152, "g": 184, "b": 168}, "lrv": 55.0, "category": "green"},
+        {"id": "crown-solo-005", "code": "SOL5", "name": "Duck Egg", "nameDE": "Duck Egg", "hexColor": "C8D8D0", "rgb": {"r": 200, "g": 216, "b": 208}, "lrv": 75.0, "category": "green"},
+        {"id": "crown-solo-006", "code": "SOL6", "name": "Pale Grey", "nameDE": "Pale Grey", "hexColor": "D0D0C8", "rgb": {"r": 208, "g": 208, "b": 200}, "lrv": 72.0, "category": "neutral"},
+        {"id": "crown-solo-007", "code": "SOL7", "name": "Heather", "nameDE": "Heather", "hexColor": "887888", "rgb": {"r": 136, "g": 120, "b": 136}, "lrv": 35.0, "category": "purple"},
+        {"id": "crown-solo-008", "code": "SOL8", "name": "Racing Green", "nameDE": "Racing Green", "hexColor": "283828", "rgb": {"r": 40, "g": 56, "b": 40}, "lrv": 5.0, "category": "green"},
+        {"id": "crown-solo-009", "code": "SOL9", "name": "Navy Blue", "nameDE": "Navy Blue", "hexColor": "383848", "rgb": {"r": 56, "g": 56, "b": 72}, "lrv": 8.0, "category": "blue"},
+        {"id": "crown-solo-010", "code": "SOL10", "name": "Crimson", "nameDE": "Crimson", "hexColor": "A83030", "rgb": {"r": 168, "g": 48, "b": 48}, "lrv": 15.0, "category": "red"}
+      ]
+    },
+    {
+      "id": "crown-matt",
+      "name": "Crown Matt",
+      "nameDE": "Crown Matt",
+      "description": "Matowa farba do ścian i sufitów",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "crown-matt-001", "code": "MATT1", "name": "Brilliant White", "nameDE": "Brilliant White", "hexColor": "F5F5F5", "rgb": {"r": 245, "g": 245, "b": 245}, "lrv": 92.0, "category": "white"},
+        {"id": "crown-matt-002", "code": "MATT2", "name": "Coconut", "nameDE": "Coconut", "hexColor": "E8E0D0", "rgb": {"r": 232, "g": 224, "b": 208}, "lrv": 80.0, "category": "white"},
+        {"id": "crown-matt-003", "code": "MATT3", "name": "Dawn", "nameDE": "Dawn", "hexColor": "D0C8B8", "rgb": {"r": 208, "g": 200, "b": 184}, "lrv": 68.0, "category": "neutral"},
+        {"id": "crown-matt-004", "code": "MATT4", "name": "Grey Seal", "nameDE": "Grey Seal", "hexColor": "A8A8A0", "rgb": {"r": 168, "g": 168, "b": 160}, "lrv": 55.0, "category": "neutral"},
+        {"id": "crown-matt-005", "code": "MATT5", "name": "Grey", "nameDE": "Grey", "hexColor": "808080", "rgb": {"r": 128, "g": 128, "b": 128}, "lrv": 32.0, "category": "neutral"},
+        {"id": "crown-matt-006", "code": "MATT6", "name": "Coral", "nameDE": "Coral", "hexColor": "E87860", "rgb": {"r": 232, "g": 120, "b": 96}, "lrv": 42.0, "category": "orange"},
+        {"id": "crown-matt-007", "code": "MATT7", "name": "Mint", "nameDE": "Mint", "hexColor": "C0D8B8", "rgb": {"r": 192, "g": 216, "b": 184}, "lrv": 72.0, "category": "green"},
+        {"id": "crown-matt-008", "code": "MATT8", "name": "Sky Blue", "nameDE": "Sky Blue", "hexColor": "98C8E0", "rgb": {"r": 152, "g": 200, "b": 224}, "lrv": 68.0, "category": "blue"},
+        {"id": "crown-matt-009", "code": "MATT9", "name": "Lemon", "nameDE": "Lemon", "hexColor": "F0D840", "rgb": {"r": 240, "g": 216, "b": 64}, "lrv": 62.0, "category": "yellow"},
+        {"id": "crown-matt-010", "code": "MATT10", "name": "Plum", "nameDE": "Plum", "hexColor": "784858", "rgb": {"r": 120, "g": 72, "b": 88}, "lrv": 15.0, "category": "purple"}
+      ]
+    },
+    {
+      "id": "crown-silk",
+      "name": "Crown Silk",
+      "nameDE": "Crown Silk",
+      "description": "Farba o jedwabistym wykończeniu",
+      "productType": "interior",
+      "finish": "satin",
+      "colors": [
+        {"id": "crown-silk-001", "code": "SILK1", "name": "White", "nameDE": "White", "hexColor": "FAFAFA", "rgb": {"r": 250, "g": 250, "b": 250}, "lrv": 93.0, "category": "white"},
+        {"id": "crown-silk-002", "code": "SILK2", "name": "Pearl", "nameDE": "Pearl", "hexColor": "F0E8D8", "rgb": {"r": 240, "g": 232, "b": 216}, "lrv": 83.0, "category": "white"},
+        {"id": "crown-silk-003", "code": "SILK3", "name": "Silver", "nameDE": "Silver", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "crown-silk-004", "code": "SILK4", "name": "Mink", "nameDE": "Mink", "hexColor": "988878", "rgb": {"r": 152, "g": 136, "b": 120}, "lrv": 42.0, "category": "brown"},
+        {"id": "crown-silk-005", "code": "SILK5", "name": "Stone", "nameDE": "Stone", "hexColor": "B8A888", "rgb": {"r": 184, "g": 168, "b": 136}, "lrv": 55.0, "category": "neutral"},
+        {"id": "crown-silk-006", "code": "SILK6", "name": "Coffee", "nameDE": "Coffee", "hexColor": "685848", "rgb": {"r": 104, "g": 88, "b": 72}, "lrv": 22.0, "category": "brown"},
+        {"id": "crown-silk-007", "code": "SILK7", "name": "Olive", "nameDE": "Olive", "hexColor": "687838", "rgb": {"r": 104, "g": 120, "b": 56}, "lrv": 22.0, "category": "green"},
+        {"id": "crown-silk-008", "code": "SILK8", "name": "Aqua", "nameDE": "Aqua", "hexColor": "68A8A0", "rgb": {"r": 104, "g": 168, "b": 160}, "lrv": 42.0, "category": "blue"},
+        {"id": "crown-silk-009", "code": "SILK9", "name": "Royal Blue", "nameDE": "Royal Blue", "hexColor": "384878", "rgb": {"r": 56, "g": 72, "b": 120}, "lrv": 14.0, "category": "blue"},
+        {"id": "crown-silk-010", "code": "SILK10", "name": "Burgundy", "nameDE": "Burgundy", "hexColor": "683028", "rgb": {"r": 104, "g": 48, "b": 40}, "lrv": 10.0, "category": "red"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "manufacturer": "valpaint",
+  "displayName": "Valpaint",
+  "displayNamePL": "Valpaint",
+  "displayNameDE": "Valpaint",
+  "displayNameEN": "Valpaint",
+  "country": "Włochy",
+  "region": "wlochy",
+  "website": "https://www.valpaint.it",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "collections": [
+    {
+      "id": "valpaint-system",
+      "name": "Valpaint System",
+      "nameDE": "Valpaint System",
+      "description": "System kolorystyczny - 500+ kolorów",
+      "productType": "both",
+      "finish": "all",
+      "colors": [
+        {"id": "val-sys-001", "code": "VAL001", "name": "Bianco", "nameDE": "Bianco", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "val-sys-002", "code": "VAL002", "name": "Bianco Perla", "nameDE": "Bianco Perla", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "val-sys-003", "code": "VAL003", "name": "Avorio", "nameDE": "Avorio", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "val-sys-004", "code": "VAL004", "name": "Sabbia", "nameDE": "Sabbia", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "val-sys-005", "code": "VAL005", "name": "Grigio", "nameDE": "Grigio", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "val-sys-006", "code": "VAL006", "name": "Antracite", "nameDE": "Antracite", "hexColor": "484848", "rgb": {"r": 72, "g": 72, "b": 72}, "lrv": 10.0, "category": "neutral"},
+        {"id": "val-sys-007", "code": "VAL007", "name": "Blu Notte", "nameDE": "Blu Notte", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "val-sys-008", "code": "VAL008", "name": "Verde", "nameDE": "Verde", "hexColor": "385028", "rgb": {"r": 56, "g": 80, "b": 40}, "lrv": 12.0, "category": "green"},
+        {"id": "val-sys-009", "code": "VAL009", "name": "Rosso", "nameDE": "Rosso", "hexColor": "A03028", "rgb": {"r": 160, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "val-sys-010", "code": "VAL010", "name": "Giallo", "nameDE": "Giallo", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "valpaint-meteore",
+      "name": "Meteore",
+      "nameDE": "Meteore",
+      "description": "Efekt starego drewna/metalu - 150 kolorów",
+      "productType": "interior",
+      "finish": "textured",
+      "colors": [
+        {"id": "val-met-001", "code": "MET001", "name": "Meteora Bianco", "nameDE": "Meteora Bianco", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "val-met-002", "code": "MET002", "name": "Meteora Grigio", "nameDE": "Meteora Grigio", "hexColor": "989890", "rgb": {"r": 152, "g": 152, "b": 144}, "lrv": 45.0, "category": "neutral"},
+        {"id": "val-met-003", "code": "MET003", "name": "Meteora Bronzo", "nameDE": "Meteora Bronzo", "hexColor": "886030", "rgb": {"r": 136, "g": 96, "b": 48}, "lrv": 28.0, "category": "brown"},
+        {"id": "val-met-004", "code": "MET004", "name": "Meteora Ruggine", "nameDE": "Meteora Ruggine", "hexColor": "A05028", "rgb": {"r": 160, "g": 80, "b": 40}, "lrv": 18.0, "category": "orange"},
+        {"id": "val-met-005", "code": "MET005", "name": "Meteora Pietra", "nameDE": "Meteora Pietra", "hexColor": "686858", "rgb": {"r": 104, "g": 104, "b": 88}, "lrv": 25.0, "category": "neutral"},
+        {"id": "val-met-006", "code": "MET006", "name": "Meteora Blu", "nameDE": "Meteora Blu", "hexColor": "385878", "rgb": {"r": 56, "g": 88, "b": 120}, "lrv": 18.0, "category": "blue"},
+        {"id": "val-met-007", "code": "MET007", "name": "Meteora Verde", "nameDE": "Meteora Verde", "hexColor": "487848", "rgb": {"r": 72, "g": 120, "b": 72}, "lrv": 28.0, "category": "green"},
+        {"id": "val-met-008", "code": "MET008", "name": "Meteora Rosso", "nameDE": "Meteora Rosso", "hexColor": "903028", "rgb": {"r": 144, "g": 48, "b": 40}, "lrv": 12.0, "category": "red"},
+        {"id": "val-met-009", "code": "MET009", "name": "Meteora Oro", "nameDE": "Meteora Oro", "hexColor": "C89830", "rgb": {"r": 200, "g": 152, "b": 48}, "lrv": 42.0, "category": "yellow"},
+        {"id": "val-met-010", "code": "MET010", "name": "Meteora Nero", "nameDE": "Meteora Nero", "hexColor": "282828", "rgb": {"r": 40, "g": 40, "b": 40}, "lrv": 5.0, "category": "black"}
+      ]
+    }
+  ]
+}

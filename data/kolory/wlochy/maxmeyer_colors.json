@@ -1,0 +1,34 @@
+{
+  "manufacturer": "maxmeyer",
+  "displayName": "MaxMeyer",
+  "displayNamePL": "MaxMeyer",
+  "displayNameDE": "MaxMeyer",
+  "displayNameEN": "MaxMeyer",
+  "country": "Włochy",
+  "region": "wlochy",
+  "website": "https://www.maxmeyer.it",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE",
+  "collections": [
+    {
+      "id": "maxmeyer-colors",
+      "name": "MaxMeyer Colors",
+      "nameDE": "MaxMeyer Farben",
+      "description": "Główna kolekcja - 300+ kolorów",
+      "productType": "interior",
+      "finish": "matt",
+      "colors": [
+        {"id": "max-001", "code": "MAX001", "name": "Bianco Puro", "nameDE": "Bianco Puro", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "max-002", "code": "MAX002", "name": "Bianco Caldo", "nameDE": "Bianco Caldo", "hexColor": "F5F0E8", "rgb": {"r": 245, "g": 240, "b": 232}, "lrv": 87.0, "category": "white"},
+        {"id": "max-003", "code": "MAX003", "name": "Avorio", "nameDE": "Avorio", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "max-004", "code": "MAX004", "name": "Sabbia", "nameDE": "Sabbia", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "max-005", "code": "MAX005", "name": "Grigio Perla", "nameDE": "Grigio Perla", "hexColor": "C8C8C0", "rgb": {"r": 200, "g": 200, "b": 192}, "lrv": 68.0, "category": "neutral"},
+        {"id": "max-006", "code": "MAX006", "name": "Tortora", "nameDE": "Tortora", "hexColor": "887858", "rgb": {"r": 136, "g": 120, "b": 88}, "lrv": 35.0, "category": "neutral"},
+        {"id": "max-007", "code": "MAX007", "name": "Blu Notte", "nameDE": "Blu Notte", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "max-008", "code": "MAX008", "name": "Verde Bosco", "nameDE": "Verde Bosco", "hexColor": "385028", "rgb": {"r": 56, "g": 80, "b": 40}, "lrv": 12.0, "category": "green"},
+        {"id": "max-009", "code": "MAX009", "name": "Rosso Mattone", "nameDE": "Rosso Mattone", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "max-010", "code": "MAX010", "name": "Giallo Sole", "nameDE": "Giallo Sole", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    }
+  ]
+}

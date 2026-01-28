@@ -1,0 +1,18 @@
+# Pliki tymczasowe
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Katalogi pobierania
+downloads/
+raw/
+
+# Pliki Excel/CSV podczas konwersji
+*.xlsx.bak
+*.csv.bak
+
+# Pliki ASE/ACO (oryginalne od producentów - przechowywać osobno)
+*.ase
+*.aco
+*.acb

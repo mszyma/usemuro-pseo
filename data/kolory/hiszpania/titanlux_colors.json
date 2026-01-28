@@ -1,0 +1,55 @@
+{
+  "manufacturer": "titanlux",
+  "displayName": "Titanlux",
+  "displayNamePL": "Titanlux",
+  "displayNameDE": "Titanlux",
+  "displayNameEN": "Titanlux",
+  "country": "Hiszpania",
+  "region": "hiszpania",
+  "website": "https://www.titanlux.es",
+  "lastUpdated": "2025-01-12",
+  "sourceFormat": "ASE,BIM",
+  "notes": "Część AkzoNobel - kolekcje TP4, TF2",
+  "collections": [
+    {
+      "id": "titanlux-tp4",
+      "name": "Titanlux TP4",
+      "nameDE": "Titanlux TP4",
+      "description": "Kolekcja fasadowa - 500+ kolorów",
+      "productType": "exterior",
+      "finish": "matt",
+      "colors": [
+        {"id": "tit-tp4-001", "code": "TP401", "name": "Blanco Puro", "nameDE": "Blanco Puro", "hexColor": "FFFFFF", "rgb": {"r": 255, "g": 255, "b": 255}, "lrv": 95.0, "category": "white"},
+        {"id": "tit-tp4-002", "code": "TP402", "name": "Blanco", "nameDE": "Blanco", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "tit-tp4-003", "code": "TP403", "name": "Hueso", "nameDE": "Hueso", "hexColor": "F0E8D0", "rgb": {"r": 240, "g": 232, "b": 208}, "lrv": 83.0, "category": "white"},
+        {"id": "tit-tp4-004", "code": "TP404", "name": "Arena", "nameDE": "Arena", "hexColor": "D8C8A8", "rgb": {"r": 216, "g": 200, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "tit-tp4-005", "code": "TP405", "name": "Gris", "nameDE": "Gris", "hexColor": "A0A0A0", "rgb": {"r": 160, "g": 160, "b": 160}, "lrv": 50.0, "category": "neutral"},
+        {"id": "tit-tp4-006", "code": "TP406", "name": "Gris Oscuro", "nameDE": "Gris Oscuro", "hexColor": "585858", "rgb": {"r": 88, "g": 88, "b": 88}, "lrv": 18.0, "category": "neutral"},
+        {"id": "tit-tp4-007", "code": "TP407", "name": "Azul Marino", "nameDE": "Azul Marino", "hexColor": "384858", "rgb": {"r": 56, "g": 72, "b": 88}, "lrv": 12.0, "category": "blue"},
+        {"id": "tit-tp4-008", "code": "TP408", "name": "Verde Botella", "nameDE": "Verde Botella", "hexColor": "385028", "rgb": {"r": 56, "g": 80, "b": 40}, "lrv": 12.0, "category": "green"},
+        {"id": "tit-tp4-009", "code": "TP409", "name": "Rojo Teja", "nameDE": "Rojo Teja", "hexColor": "984028", "rgb": {"r": 152, "g": 64, "b": 40}, "lrv": 18.0, "category": "red"},
+        {"id": "tit-tp4-010", "code": "TP410", "name": "Amarillo Oro", "nameDE": "Amarillo Oro", "hexColor": "C8A030", "rgb": {"r": 200, "g": 160, "b": 48}, "lrv": 45.0, "category": "yellow"}
+      ]
+    },
+    {
+      "id": "titanlux-tf2",
+      "name": "Titanlux TF2",
+      "nameDE": "Titanlux TF2",
+      "description": "Kolekcja wewnętrzna - 300+ kolorów",
+      "productType": "interior",
+      "finish": "satin",
+      "colors": [
+        {"id": "tit-tf2-001", "code": "TF201", "name": "Blanco Seda", "nameDE": "Blanco Seda", "hexColor": "F5F5F0", "rgb": {"r": 245, "g": 245, "b": 240}, "lrv": 91.0, "category": "white"},
+        {"id": "tit-tf2-002", "code": "TF202", "name": "Nacar", "nameDE": "Nacar", "hexColor": "EDEBD9", "rgb": {"r": 237, "g": 235, "b": 217}, "lrv": 83.0, "category": "white"},
+        {"id": "tit-tf2-003", "code": "TF203", "name": "Perla", "nameDE": "Perla", "hexColor": "D8D5C5", "rgb": {"r": 216, "g": 213, "b": 197}, "lrv": 74.0, "category": "neutral"},
+        {"id": "tit-tf2-004", "code": "TF204", "name": "Almendra", "nameDE": "Almendra", "hexColor": "C8BFA8", "rgb": {"r": 200, "g": 191, "b": 168}, "lrv": 65.0, "category": "neutral"},
+        {"id": "tit-tf2-005", "code": "TF205", "name": "Ceniza", "nameDE": "Ceniza", "hexColor": "A8A8A0", "rgb": {"r": 168, "g": 168, "b": 160}, "lrv": 55.0, "category": "neutral"},
+        {"id": "tit-tf2-006", "code": "TF206", "name": "Azul Cielo", "nameDE": "Azul Cielo", "hexColor": "98C8E0", "rgb": {"r": 152, "g": 200, "b": 224}, "lrv": 68.0, "category": "blue"},
+        {"id": "tit-tf2-007", "code": "TF207", "name": "Verde Salvia", "nameDE": "Verde Salvia", "hexColor": "98A888", "rgb": {"r": 152, "g": 168, "b": 136}, "lrv": 52.0, "category": "green"},
+        {"id": "tit-tf2-008", "code": "TF208", "name": "Rosa Palo", "nameDE": "Rosa Palo", "hexColor": "D8C8C8", "rgb": {"r": 216, "g": 200, "b": 200}, "lrv": 72.0, "category": "red"},
+        {"id": "tit-tf2-009", "code": "TF209", "name": "Lavanda", "nameDE": "Lavanda", "hexColor": "B8A8C8", "rgb": {"r": 184, "g": 168, "b": 200}, "lrv": 65.0, "category": "purple"},
+        {"id": "tit-tf2-010", "code": "TF210", "name": "Terracota", "nameDE": "Terracota", "hexColor": "C06030", "rgb": {"r": 192, "g": 96, "b": 48}, "lrv": 28.0, "category": "orange"}
+      ]
+    }
+  ]
+}

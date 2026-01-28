@@ -1,0 +1,81 @@
+{
+  "brandName": "Muro",
+  "tagline": "Zobacz to, zanim zamalujesz",
+  "visualize": "Wizualizuj",
+  "onYourWalls": "na swoich ścianach",
+  "seeBeforePaint": "Zobacz kolory farb na swoich ścianach przed zakupem",
+  "downloadCTA": "Pobierz Muro na iPhone'a i iPada",
+  "appStore": "Dostępne w App Store",
+
+  "colorDetails": "Szczegóły koloru",
+  "manufacturer": "Producent",
+  "colorCode": "Kod koloru",
+  "hexCode": "Kod Hex",
+  "rgbCode": "RGB",
+  "lrvValue": "LRV (Wartość odbicia światła)",
+  "category": "Kategoria",
+  "similarColors": "Podobne kolory",
+  "allColors": "Wszystkie kolory",
+  "allManufacturers": "Wszyscy producenci",
+
+  "visualizeThisColor": "Wizualizuj ten kolor na swoich ścianach",
+  "downloadMuroToSee": "Pobierz Muro na iPhone'a i iPada, aby zobaczyć {{colorName}} w swojej przestrzeni dzięki zaawansowanej technologii AI",
+
+  "browseColors": "Przeglądaj {{count}} kolorów farb",
+  "colorsFrom": "Kolory od {{manufacturer}}",
+  "totalColors": "{{count}} dostępnych kolorów",
+
+  "categories": {
+    "white": "Biały",
+    "neutral": "Neutralny",
+    "black": "Czarny",
+    "red": "Czerwony",
+    "orange": "Pomarańczowy",
+    "yellow": "Żółty",
+    "green": "Zielony",
+    "blue": "Niebieski",
+    "purple": "Fioletowy",
+    "brown": "Brązowy"
+  },
+
+  "footer": {
+    "tagline": "Wizualizuj kolory farb na ścianach dzięki AI",
+    "legal": "Prawne",
+    "support": "Wsparcie",
+    "copyright": "© 2026 Muro. Wszelkie prawa zastrzeżone."
+  },
+
+  "faq": {
+    "title": "Najczęstsze pytania",
+    "questions": [
+      {
+        "q": "Czy Muro jest darmowe?",
+        "a": "Nie, Muro wymaga subskrypcji. Oferujemy plany tygodniowe, miesięczne i roczne. Wybierz, co ci odpowiada. Pomyśl o tym jako o dużo tańszej opcji niż kupowanie próbek farb, których nigdy nie użyjesz."
+      },
+      {
+        "q": "Jak dokładne są wizualizacje?",
+        "a": "Całkiem dokładnie. Zachowujemy oświetlenie, cienie i detale twojego pokoju. Czy to 100% idealne? Nie. Światło zmienia się w ciągu dnia. Ale nasi użytkownicy mówią nam, że końcowy efekt jest bardzo zbliżony do tego, co widzieli w aplikacji."
+      },
+      {
+        "q": "Jakie marki farb są dostępne?",
+        "a": "30 000+ kolorów od Śnieżki, Dekoral, Tikkurila, Dulux, Beckers i wielu regionalnych marek. Dodajemy nowe, gdy ludzie o nie proszą."
+      },
+      {
+        "q": "Czy mogę użyć kolorów ze zdjęć inspiracji?",
+        "a": "Tak! Prześlij dowolne zdjęcie z Pinteresta, magazynu, skądkolwiek. Wyciągniemy kolor i znajdziemy najbliższe prawdziwe dopasowanie farby, które możesz kupić."
+      },
+      {
+        "q": "Jakie urządzenia obsługuje Muro?",
+        "a": "iPhone i iPad z iOS 16 lub nowszym. Działa na obu."
+      },
+      {
+        "q": "Jak anulować subskrypcję?",
+        "a": "Przejdź do Ustawienia iPhone > Apple ID > Subskrypcje > Muro. Anuluj w dowolnym momencie. Zachowasz dostęp do końca bieżącego okresu. Bez ukrytych opłat."
+      },
+      {
+        "q": "Gdzie przechowywane są moje zdjęcia? Czy moje dane są bezpieczne?",
+        "a": "Twoje zdjęcia nigdy nie opuszczają twojej kontroli. Wszystkie obrazy są przechowywane lokalnie na twoim urządzeniu i synchronizowane z twoim osobistym kontem iCloud. Kiedy transformujesz kolor ściany, twoje zdjęcie trafia bezpośrednio do procesora AI i wraca na twoje urządzenie—nigdy nie dotyka naszych serwerów. Nie możemy zobaczyć, uzyskać dostępu ani przechowywać twoich zdjęć. Nigdy."
+      }
+    ]
+  }
+}

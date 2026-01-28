@@ -1,0 +1,1737 @@
+{
+  "manufacturer": "farrow_ball",
+  "displayName": "Farrow & Ball",
+  "displayNamePL": "Farrow & Ball",
+  "displayNameDE": "Farrow & Ball",
+  "displayNameEN": "Farrow & Ball",
+  "country": "Wielka Brytania",
+  "region": "uk",
+  "website": "https://www.farrowball.com",
+  "source": "jpederson/colornerd GitHub repository",
+  "lastUpdated": "2025-01-12",
+  "totalColors": 132,
+  "collections": [
+    {
+      "id": "farrow_ball-main",
+      "name": "Main Collection",
+      "colors": [
+        {
+          "id": "farrow-ball-2005",
+          "code": "2005",
+          "name": "All White",
+          "hexColor": "FBF8F4",
+          "rgb": {
+            "r": 251,
+            "g": 248,
+            "b": 244
+          },
+          "lrv": 97.4,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-273",
+          "code": "273",
+          "name": "Wevet",
+          "hexColor": "EEE9E7",
+          "rgb": {
+            "r": 238,
+            "g": 233,
+            "b": 231
+          },
+          "lrv": 91.7,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-239",
+          "code": "239",
+          "name": "Wimborne White",
+          "hexColor": "F7F3E8",
+          "rgb": {
+            "r": 247,
+            "g": 243,
+            "b": 232
+          },
+          "lrv": 95.3,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-2003",
+          "code": "2003",
+          "name": "Pointing",
+          "hexColor": "F7F1E3",
+          "rgb": {
+            "r": 247,
+            "g": 241,
+            "b": 227
+          },
+          "lrv": 94.6,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-2010",
+          "code": "2010",
+          "name": "James White",
+          "hexColor": "EDE9D8",
+          "rgb": {
+            "r": 237,
+            "g": 233,
+            "b": 216
+          },
+          "lrv": 91.2,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-211",
+          "code": "211",
+          "name": "Stony Ground",
+          "hexColor": "CEC1AD",
+          "rgb": {
+            "r": 206,
+            "g": 193,
+            "b": 173
+          },
+          "lrv": 76.2,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-2002",
+          "code": "2002",
+          "name": "White Tie",
+          "hexColor": "F5ECD9",
+          "rgb": {
+            "r": 245,
+            "g": 236,
+            "b": 217
+          },
+          "lrv": 92.8,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-59",
+          "code": "59",
+          "name": "New White",
+          "hexColor": "F5E8D0",
+          "rgb": {
+            "r": 245,
+            "g": 232,
+            "b": 208
+          },
+          "lrv": 91.4,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-2013",
+          "code": "2013",
+          "name": "Matchstick",
+          "hexColor": "E4D5BC",
+          "rgb": {
+            "r": 228,
+            "g": 213,
+            "b": 188
+          },
+          "lrv": 84.1,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-8",
+          "code": "8",
+          "name": "String",
+          "hexColor": "DDCDAE",
+          "rgb": {
+            "r": 221,
+            "g": 205,
+            "b": 174
+          },
+          "lrv": 80.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-213",
+          "code": "213",
+          "name": "Savage Ground",
+          "hexColor": "D8C4A8",
+          "rgb": {
+            "r": 216,
+            "g": 196,
+            "b": 168
+          },
+          "lrv": 77.7,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-16",
+          "code": "16",
+          "name": "Cord",
+          "hexColor": "D6C39E",
+          "rgb": {
+            "r": 214,
+            "g": 195,
+            "b": 158
+          },
+          "lrv": 77.0,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-2004",
+          "code": "2004",
+          "name": "Slipper Satin",
+          "hexColor": "E8E0D1",
+          "rgb": {
+            "r": 232,
+            "g": 224,
+            "b": 209
+          },
+          "lrv": 88.1,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-1",
+          "code": "1",
+          "name": "Lime White",
+          "hexColor": "E8DEC9",
+          "rgb": {
+            "r": 232,
+            "g": 222,
+            "b": 201
+          },
+          "lrv": 87.3,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-3",
+          "code": "3",
+          "name": "Off-White",
+          "hexColor": "E0D5BE",
+          "rgb": {
+            "r": 224,
+            "g": 213,
+            "b": 190
+          },
+          "lrv": 83.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-4",
+          "code": "4",
+          "name": "Old White",
+          "hexColor": "CFC3AD",
+          "rgb": {
+            "r": 207,
+            "g": 195,
+            "b": 173
+          },
+          "lrv": 76.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-17",
+          "code": "17",
+          "name": "Light Gray",
+          "hexColor": "B4A693",
+          "rgb": {
+            "r": 180,
+            "g": 166,
+            "b": 147
+          },
+          "lrv": 65.7,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-40",
+          "code": "40",
+          "name": "Mouse's Back",
+          "hexColor": "998976",
+          "rgb": {
+            "r": 153,
+            "g": 137,
+            "b": 118
+          },
+          "lrv": 54.5,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-291",
+          "code": "291",
+          "name": "School House White",
+          "hexColor": "E6DFD1",
+          "rgb": {
+            "r": 230,
+            "g": 223,
+            "b": 209
+          },
+          "lrv": 87.6,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-282",
+          "code": "282",
+          "name": "Shadow White",
+          "hexColor": "DED8C6",
+          "rgb": {
+            "r": 222,
+            "g": 216,
+            "b": 198
+          },
+          "lrv": 84.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-201",
+          "code": "201",
+          "name": "Shaded White",
+          "hexColor": "D9D2C1",
+          "rgb": {
+            "r": 217,
+            "g": 210,
+            "b": 193
+          },
+          "lrv": 82.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-283",
+          "code": "283",
+          "name": "Drop Cloth",
+          "hexColor": "C9BEAB",
+          "rgb": {
+            "r": 201,
+            "g": 190,
+            "b": 171
+          },
+          "lrv": 74.9,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-15",
+          "code": "15",
+          "name": "Bone",
+          "hexColor": "CEC3AD",
+          "rgb": {
+            "r": 206,
+            "g": 195,
+            "b": 173
+          },
+          "lrv": 76.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-5",
+          "code": "5",
+          "name": "Hardwick White",
+          "hexColor": "B5AFA0",
+          "rgb": {
+            "r": 181,
+            "g": 175,
+            "b": 160
+          },
+          "lrv": 68.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-2008",
+          "code": "2008",
+          "name": "Dimity",
+          "hexColor": "EEE3D3",
+          "rgb": {
+            "r": 238,
+            "g": 227,
+            "b": 211
+          },
+          "lrv": 89.5,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-226",
+          "code": "226",
+          "name": "Joa's White",
+          "hexColor": "DECFB9",
+          "rgb": {
+            "r": 222,
+            "g": 207,
+            "b": 185
+          },
+          "lrv": 81.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-264",
+          "code": "264",
+          "name": "Oxford Stone",
+          "hexColor": "D6C2AC",
+          "rgb": {
+            "r": 214,
+            "g": 194,
+            "b": 172
+          },
+          "lrv": 77.1,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-6",
+          "code": "6",
+          "name": "London Stone",
+          "hexColor": "B6A38F",
+          "rgb": {
+            "r": 182,
+            "g": 163,
+            "b": 143
+          },
+          "lrv": 64.9,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-28",
+          "code": "28",
+          "name": "Dead Salmon",
+          "hexColor": "B49D8D",
+          "rgb": {
+            "r": 180,
+            "g": 157,
+            "b": 141
+          },
+          "lrv": 63.0,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-290",
+          "code": "290",
+          "name": "Salon Drab",
+          "hexColor": "726454",
+          "rgb": {
+            "r": 114,
+            "g": 100,
+            "b": 84
+          },
+          "lrv": 39.9,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-2001",
+          "code": "2001",
+          "name": "Strong White",
+          "hexColor": "E5E0DB",
+          "rgb": {
+            "r": 229,
+            "g": 224,
+            "b": 219
+          },
+          "lrv": 88.1,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-274",
+          "code": "274",
+          "name": "Ammonite",
+          "hexColor": "DDD8CF",
+          "rgb": {
+            "r": 221,
+            "g": 216,
+            "b": 207
+          },
+          "lrv": 84.9,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-228",
+          "code": "228",
+          "name": "Cornforth White",
+          "hexColor": "D1CBC3",
+          "rgb": {
+            "r": 209,
+            "g": 203,
+            "b": 195
+          },
+          "lrv": 79.9,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-275",
+          "code": "275",
+          "name": "Purbeck Stone",
+          "hexColor": "C4BEB4",
+          "rgb": {
+            "r": 196,
+            "g": 190,
+            "b": 180
+          },
+          "lrv": 74.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-284",
+          "code": "284",
+          "name": "Worsted",
+          "hexColor": "D3CFCD",
+          "rgb": {
+            "r": 211,
+            "g": 207,
+            "b": 205
+          },
+          "lrv": 81.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-276",
+          "code": "276",
+          "name": "Mole's Breath",
+          "hexColor": "8B857F",
+          "rgb": {
+            "r": 139,
+            "g": 133,
+            "b": 127
+          },
+          "lrv": 52.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-285",
+          "code": "285",
+          "name": "Cromarty",
+          "hexColor": "CFCEC0",
+          "rgb": {
+            "r": 207,
+            "g": 206,
+            "b": 192
+          },
+          "lrv": 80.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-266",
+          "code": "266",
+          "name": "Mizzle",
+          "hexColor": "C0C2B3",
+          "rgb": {
+            "r": 192,
+            "g": 194,
+            "b": 179
+          },
+          "lrv": 75.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-91",
+          "code": "91",
+          "name": "Blue Gray",
+          "hexColor": "B4B4A3",
+          "rgb": {
+            "r": 180,
+            "g": 180,
+            "b": 163
+          },
+          "lrv": 70.1,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-25",
+          "code": "25",
+          "name": "Pigeon",
+          "hexColor": "A1A093",
+          "rgb": {
+            "r": 161,
+            "g": 160,
+            "b": 147
+          },
+          "lrv": 62.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-18",
+          "code": "18",
+          "name": "French Gray",
+          "hexColor": "B5B19A",
+          "rgb": {
+            "r": 181,
+            "g": 177,
+            "b": 154
+          },
+          "lrv": 69.1,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-292",
+          "code": "292",
+          "name": "Treron",
+          "hexColor": "8B8A77",
+          "rgb": {
+            "r": 139,
+            "g": 138,
+            "b": 119
+          },
+          "lrv": 53.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-2011",
+          "code": "2011",
+          "name": "Blackened",
+          "hexColor": "DDDBD9",
+          "rgb": {
+            "r": 221,
+            "g": 219,
+            "b": 217
+          },
+          "lrv": 86.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-277",
+          "code": "277",
+          "name": "Dimpse",
+          "hexColor": "D9D8D3",
+          "rgb": {
+            "r": 217,
+            "g": 216,
+            "b": 211
+          },
+          "lrv": 84.6,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-242",
+          "code": "242",
+          "name": "Pavilion Gray",
+          "hexColor": "C8C3BC",
+          "rgb": {
+            "r": 200,
+            "g": 195,
+            "b": 188
+          },
+          "lrv": 76.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-88",
+          "code": "88",
+          "name": "Lamp Room Gray",
+          "hexColor": "B2B1A9",
+          "rgb": {
+            "r": 178,
+            "g": 177,
+            "b": 169
+          },
+          "lrv": 69.3,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-265",
+          "code": "265",
+          "name": "Manor House Gray",
+          "hexColor": "A2A29D",
+          "rgb": {
+            "r": 162,
+            "g": 162,
+            "b": 157
+          },
+          "lrv": 63.4,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-272",
+          "code": "272",
+          "name": "Plummett",
+          "hexColor": "8D8D8B",
+          "rgb": {
+            "r": 141,
+            "g": 141,
+            "b": 139
+          },
+          "lrv": 55.2,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-241",
+          "code": "241",
+          "name": "Skimming Stone",
+          "hexColor": "DFD6CB",
+          "rgb": {
+            "r": 223,
+            "g": 214,
+            "b": 203
+          },
+          "lrv": 84.4,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-229",
+          "code": "229",
+          "name": "Elephant's Breath",
+          "hexColor": "CCBFB3",
+          "rgb": {
+            "r": 204,
+            "g": 191,
+            "b": 179
+          },
+          "lrv": 75.6,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-267",
+          "code": "267",
+          "name": "Dove Tale",
+          "hexColor": "BBB1AB",
+          "rgb": {
+            "r": 187,
+            "g": 177,
+            "b": 171
+          },
+          "lrv": 70.1,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-243",
+          "code": "243",
+          "name": "Charleston Gray",
+          "hexColor": "9F9389",
+          "rgb": {
+            "r": 159,
+            "g": 147,
+            "b": 137
+          },
+          "lrv": 58.4,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-244",
+          "code": "244",
+          "name": "London Clay",
+          "hexColor": "786963",
+          "rgb": {
+            "r": 120,
+            "g": 105,
+            "b": 99
+          },
+          "lrv": 42.3,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-222",
+          "code": "222",
+          "name": "Brinjal",
+          "hexColor": "5D3B42",
+          "rgb": {
+            "r": 93,
+            "g": 59,
+            "b": 66
+          },
+          "lrv": 26.2,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-293",
+          "code": "293",
+          "name": "Jitney",
+          "hexColor": "C4B2A2",
+          "rgb": {
+            "r": 196,
+            "g": 178,
+            "b": 162
+          },
+          "lrv": 70.9,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-286",
+          "code": "286",
+          "name": "Peignoir",
+          "hexColor": "D6C8C3",
+          "rgb": {
+            "r": 214,
+            "g": 200,
+            "b": 195
+          },
+          "lrv": 79.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-270",
+          "code": "270",
+          "name": "Calluna",
+          "hexColor": "CCC8CE",
+          "rgb": {
+            "r": 204,
+            "g": 200,
+            "b": 206
+          },
+          "lrv": 78.9,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-271",
+          "code": "271",
+          "name": "Brassica",
+          "hexColor": "8D8089",
+          "rgb": {
+            "r": 141,
+            "g": 128,
+            "b": 137
+          },
+          "lrv": 51.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-254",
+          "code": "254",
+          "name": "Pelt",
+          "hexColor": "50414C",
+          "rgb": {
+            "r": 80,
+            "g": 65,
+            "b": 76
+          },
+          "lrv": 27.1,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-294",
+          "code": "294",
+          "name": "Paean Black",
+          "hexColor": "494248",
+          "rgb": {
+            "r": 73,
+            "g": 66,
+            "b": 72
+          },
+          "lrv": 26.6,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-245",
+          "code": "245",
+          "name": "Middleton Pink",
+          "hexColor": "FDE7E5",
+          "rgb": {
+            "r": 253,
+            "g": 231,
+            "b": 229
+          },
+          "lrv": 92.4,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-230",
+          "code": "230",
+          "name": "Calamine",
+          "hexColor": "E6D1CB",
+          "rgb": {
+            "r": 230,
+            "g": 209,
+            "b": 203
+          },
+          "lrv": 83.5,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-278",
+          "code": "278",
+          "name": "Nancy's Blushes",
+          "hexColor": "ECB7B8",
+          "rgb": {
+            "r": 236,
+            "g": 183,
+            "b": 184
+          },
+          "lrv": 76.2,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-64",
+          "code": "64",
+          "name": "Red Earth",
+          "hexColor": "C57B67",
+          "rgb": {
+            "r": 197,
+            "g": 123,
+            "b": 103
+          },
+          "lrv": 53.8,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-42",
+          "code": "42",
+          "name": "Picture Gallery Red",
+          "hexColor": "A15A4D",
+          "rgb": {
+            "r": 161,
+            "g": 90,
+            "b": 77
+          },
+          "lrv": 40.8,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-248",
+          "code": "248",
+          "name": "Incarnadine",
+          "hexColor": "A04344",
+          "rgb": {
+            "r": 160,
+            "g": 67,
+            "b": 68
+          },
+          "lrv": 34.1,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-2006",
+          "code": "2006",
+          "name": "Great White",
+          "hexColor": "E7DEDB",
+          "rgb": {
+            "r": 231,
+            "g": 222,
+            "b": 219
+          },
+          "lrv": 87.7,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-295",
+          "code": "295",
+          "name": "Sulking Room Pink",
+          "hexColor": "A0837F",
+          "rgb": {
+            "r": 160,
+            "g": 131,
+            "b": 127
+          },
+          "lrv": 53.7,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-246",
+          "code": "246",
+          "name": "Cinder Rose",
+          "hexColor": "C7A4A6",
+          "rgb": {
+            "r": 199,
+            "g": 164,
+            "b": 166
+          },
+          "lrv": 67.3,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-296",
+          "code": "296",
+          "name": "Rangwali",
+          "hexColor": "BF7A8F",
+          "rgb": {
+            "r": 191,
+            "g": 122,
+            "b": 143
+          },
+          "lrv": 54.2,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-202",
+          "code": "202",
+          "name": "Pink Ground",
+          "hexColor": "EFD6C7",
+          "rgb": {
+            "r": 239,
+            "g": 214,
+            "b": 199
+          },
+          "lrv": 85.6,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-231",
+          "code": "231",
+          "name": "Setting Plaster",
+          "hexColor": "DFC2AF",
+          "rgb": {
+            "r": 223,
+            "g": 194,
+            "b": 175
+          },
+          "lrv": 78.0,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-217",
+          "code": "217",
+          "name": "Rectory Red",
+          "hexColor": "A53C49",
+          "rgb": {
+            "r": 165,
+            "g": 60,
+            "b": 73
+          },
+          "lrv": 32.7,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-43",
+          "code": "43",
+          "name": "Eating Room Red",
+          "hexColor": "8F4E4D",
+          "rgb": {
+            "r": 143,
+            "g": 78,
+            "b": 77
+          },
+          "lrv": 36.0,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-96",
+          "code": "96",
+          "name": "Radicchio",
+          "hexColor": "994A50",
+          "rgb": {
+            "r": 153,
+            "g": 74,
+            "b": 80
+          },
+          "lrv": 35.8,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-297",
+          "code": "297",
+          "name": "Preference Red",
+          "hexColor": "6D4247",
+          "rgb": {
+            "r": 109,
+            "g": 66,
+            "b": 71
+          },
+          "lrv": 29.6,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-268",
+          "code": "268",
+          "name": "Charlotte's Locks",
+          "hexColor": "D65F3D",
+          "rgb": {
+            "r": 214,
+            "g": 95,
+            "b": 61
+          },
+          "lrv": 46.2,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-212",
+          "code": "212",
+          "name": "Blazer",
+          "hexColor": "B64F48",
+          "rgb": {
+            "r": 182,
+            "g": 79,
+            "b": 72
+          },
+          "lrv": 39.4,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-2012",
+          "code": "2012",
+          "name": "House White",
+          "hexColor": "F1E6C8",
+          "rgb": {
+            "r": 241,
+            "g": 230,
+            "b": 200
+          },
+          "lrv": 90.3,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-71",
+          "code": "71",
+          "name": "Pale Hound",
+          "hexColor": "EADFB7",
+          "rgb": {
+            "r": 234,
+            "g": 223,
+            "b": 183
+          },
+          "lrv": 87.2,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-233",
+          "code": "233",
+          "name": "Dayroom Yellow",
+          "hexColor": "F7E29D",
+          "rgb": {
+            "r": 247,
+            "g": 226,
+            "b": 157
+          },
+          "lrv": 88.4,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-74",
+          "code": "74",
+          "name": "Citron",
+          "hexColor": "F5D27B",
+          "rgb": {
+            "r": 245,
+            "g": 210,
+            "b": 123
+          },
+          "lrv": 82.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-218",
+          "code": "218",
+          "name": "Yellow Ground",
+          "hexColor": "F2CF86",
+          "rgb": {
+            "r": 242,
+            "g": 207,
+            "b": 134
+          },
+          "lrv": 82.0,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-223",
+          "code": "223",
+          "name": "Babouche",
+          "hexColor": "ECC363",
+          "rgb": {
+            "r": 236,
+            "g": 195,
+            "b": 99
+          },
+          "lrv": 77.2,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-203",
+          "code": "203",
+          "name": "Tallow",
+          "hexColor": "FDEDD7",
+          "rgb": {
+            "r": 253,
+            "g": 237,
+            "b": 215
+          },
+          "lrv": 93.7,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-67",
+          "code": "67",
+          "name": "Farrow's Cream",
+          "hexColor": "EFDBB3",
+          "rgb": {
+            "r": 239,
+            "g": 219,
+            "b": 179
+          },
+          "lrv": 86.4,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-68",
+          "code": "68",
+          "name": "Dorset Cream",
+          "hexColor": "EFD5A1",
+          "rgb": {
+            "r": 239,
+            "g": 213,
+            "b": 161
+          },
+          "lrv": 84.2,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-37",
+          "code": "37",
+          "name": "Hay",
+          "hexColor": "DFC795",
+          "rgb": {
+            "r": 223,
+            "g": 199,
+            "b": 149
+          },
+          "lrv": 78.6,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-51",
+          "code": "51",
+          "name": "Sudbury Yellow",
+          "hexColor": "DCB771",
+          "rgb": {
+            "r": 220,
+            "g": 183,
+            "b": 113
+          },
+          "lrv": 72.9,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-66",
+          "code": "66",
+          "name": "India Yellow",
+          "hexColor": "CB9E59",
+          "rgb": {
+            "r": 203,
+            "g": 158,
+            "b": 89
+          },
+          "lrv": 63.8,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-206",
+          "code": "206",
+          "name": "Green Ground",
+          "hexColor": "DBDAB6",
+          "rgb": {
+            "r": 219,
+            "g": 218,
+            "b": 182
+          },
+          "lrv": 84.6,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-32",
+          "code": "32",
+          "name": "Cooking Apple Green",
+          "hexColor": "C4C6A5",
+          "rgb": {
+            "r": 196,
+            "g": 198,
+            "b": 165
+          },
+          "lrv": 76.5,
+          "category": "yellow"
+        },
+        {
+          "id": "farrow-ball-75",
+          "code": "75",
+          "name": "Ball Green",
+          "hexColor": "BCB596",
+          "rgb": {
+            "r": 188,
+            "g": 181,
+            "b": 150
+          },
+          "lrv": 70.7,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-79",
+          "code": "79",
+          "name": "Card Room Green",
+          "hexColor": "899081",
+          "rgb": {
+            "r": 137,
+            "g": 144,
+            "b": 129
+          },
+          "lrv": 55.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-47",
+          "code": "47",
+          "name": "Green Smoke",
+          "hexColor": "737C70",
+          "rgb": {
+            "r": 115,
+            "g": 124,
+            "b": 112
+          },
+          "lrv": 47.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-93",
+          "code": "93",
+          "name": "Studio Green",
+          "hexColor": "464C49",
+          "rgb": {
+            "r": 70,
+            "g": 76,
+            "b": 73
+          },
+          "lrv": 29.2,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-251",
+          "code": "251",
+          "name": "Churlish Green",
+          "hexColor": "C8BD83",
+          "rgb": {
+            "r": 200,
+            "g": 189,
+            "b": 131
+          },
+          "lrv": 73.4,
+          "category": "orange"
+        },
+        {
+          "id": "farrow-ball-287",
+          "code": "287",
+          "name": "Yeabridge Green",
+          "hexColor": "919F70",
+          "rgb": {
+            "r": 145,
+            "g": 159,
+            "b": 112
+          },
+          "lrv": 59.9,
+          "category": "yellow"
+        },
+        {
+          "id": "farrow-ball-81",
+          "code": "81",
+          "name": "Breakfast Room Green",
+          "hexColor": "94A68A",
+          "rgb": {
+            "r": 148,
+            "g": 166,
+            "b": 138
+          },
+          "lrv": 62.8,
+          "category": "green"
+        },
+        {
+          "id": "farrow-ball-34",
+          "code": "34",
+          "name": "Calke Green",
+          "hexColor": "768769",
+          "rgb": {
+            "r": 118,
+            "g": 135,
+            "b": 105
+          },
+          "lrv": 50.7,
+          "category": "green"
+        },
+        {
+          "id": "farrow-ball-298",
+          "code": "298",
+          "name": "Bancha",
+          "hexColor": "686A47",
+          "rgb": {
+            "r": 104,
+            "g": 106,
+            "b": 71
+          },
+          "lrv": 40.4,
+          "category": "yellow"
+        },
+        {
+          "id": "farrow-ball-214",
+          "code": "214",
+          "name": "Arsenic",
+          "hexColor": "84B59C",
+          "rgb": {
+            "r": 132,
+            "g": 181,
+            "b": 156
+          },
+          "lrv": 66.2,
+          "category": "green"
+        },
+        {
+          "id": "farrow-ball-234",
+          "code": "234",
+          "name": "Vert de Terre",
+          "hexColor": "BABBA5",
+          "rgb": {
+            "r": 186,
+            "g": 187,
+            "b": 165
+          },
+          "lrv": 72.6,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-19",
+          "code": "19",
+          "name": "Lichen",
+          "hexColor": "A1A189",
+          "rgb": {
+            "r": 161,
+            "g": 161,
+            "b": 137
+          },
+          "lrv": 62.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-85",
+          "code": "85",
+          "name": "Oval Room Blue",
+          "hexColor": "8B9D9B",
+          "rgb": {
+            "r": 139,
+            "g": 157,
+            "b": 155
+          },
+          "lrv": 60.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-86",
+          "code": "86",
+          "name": "Stone Blue",
+          "hexColor": "7997A1",
+          "rgb": {
+            "r": 121,
+            "g": 151,
+            "b": 161
+          },
+          "lrv": 57.0,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-299",
+          "code": "299",
+          "name": "De Nimes",
+          "hexColor": "6A7C80",
+          "rgb": {
+            "r": 106,
+            "g": 124,
+            "b": 128
+          },
+          "lrv": 47.2,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-289",
+          "code": "289",
+          "name": "Inchyra Blue",
+          "hexColor": "586768",
+          "rgb": {
+            "r": 88,
+            "g": 103,
+            "b": 104
+          },
+          "lrv": 39.2,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-252",
+          "code": "252",
+          "name": "Pavilion Blue",
+          "hexColor": "E5E7DC",
+          "rgb": {
+            "r": 229,
+            "g": 231,
+            "b": 220
+          },
+          "lrv": 90.1,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-204",
+          "code": "204",
+          "name": "Pale Powder",
+          "hexColor": "D9DCD2",
+          "rgb": {
+            "r": 217,
+            "g": 220,
+            "b": 210
+          },
+          "lrv": 85.7,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-236",
+          "code": "236",
+          "name": "Teresa's Green",
+          "hexColor": "C0CDC2",
+          "rgb": {
+            "r": 192,
+            "g": 205,
+            "b": 194
+          },
+          "lrv": 79.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-84",
+          "code": "84",
+          "name": "Green Blue",
+          "hexColor": "ADBDB2",
+          "rgb": {
+            "r": 173,
+            "g": 189,
+            "b": 178
+          },
+          "lrv": 72.5,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-82",
+          "code": "82",
+          "name": "Dix Blue",
+          "hexColor": "99B0AB",
+          "rgb": {
+            "r": 153,
+            "g": 176,
+            "b": 171
+          },
+          "lrv": 67.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-288",
+          "code": "288",
+          "name": "Vardo",
+          "hexColor": "427E83",
+          "rgb": {
+            "r": 66,
+            "g": 126,
+            "b": 131
+          },
+          "lrv": 44.6,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-235",
+          "code": "235",
+          "name": "Borrowed Light",
+          "hexColor": "D5DBDB",
+          "rgb": {
+            "r": 213,
+            "g": 219,
+            "b": 219
+          },
+          "lrv": 85.4,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-205",
+          "code": "205",
+          "name": "Skylight",
+          "hexColor": "CCD0CD",
+          "rgb": {
+            "r": 204,
+            "g": 208,
+            "b": 205
+          },
+          "lrv": 81.2,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-22",
+          "code": "22",
+          "name": "Light Blue",
+          "hexColor": "B8BCB5",
+          "rgb": {
+            "r": 184,
+            "g": 188,
+            "b": 181
+          },
+          "lrv": 73.2,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-27",
+          "code": "27",
+          "name": "Parma Gray",
+          "hexColor": "B2BFC5",
+          "rgb": {
+            "r": 178,
+            "g": 191,
+            "b": 197
+          },
+          "lrv": 74.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-89",
+          "code": "89",
+          "name": "Lulworth Blue",
+          "hexColor": "A1B8CA",
+          "rgb": {
+            "r": 161,
+            "g": 184,
+            "b": 202
+          },
+          "lrv": 70.7,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-237",
+          "code": "237",
+          "name": "Cook's Blue",
+          "hexColor": "6A90B4",
+          "rgb": {
+            "r": 106,
+            "g": 144,
+            "b": 180
+          },
+          "lrv": 54.3,
+          "category": "purple"
+        },
+        {
+          "id": "farrow-ball-269",
+          "code": "269",
+          "name": "Cabbage White",
+          "hexColor": "E8EEEA",
+          "rgb": {
+            "r": 232,
+            "g": 238,
+            "b": 234
+          },
+          "lrv": 92.7,
+          "category": "white"
+        },
+        {
+          "id": "farrow-ball-210",
+          "code": "210",
+          "name": "Blue Ground",
+          "hexColor": "A1C5C8",
+          "rgb": {
+            "r": 161,
+            "g": 197,
+            "b": 200
+          },
+          "lrv": 74.3,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-280",
+          "code": "280",
+          "name": "St Giles Blue",
+          "hexColor": "599EC4",
+          "rgb": {
+            "r": 89,
+            "g": 158,
+            "b": 196
+          },
+          "lrv": 57.3,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-220",
+          "code": "220",
+          "name": "Pitch Blue",
+          "hexColor": "636E8F",
+          "rgb": {
+            "r": 99,
+            "g": 110,
+            "b": 143
+          },
+          "lrv": 43.2,
+          "category": "purple"
+        },
+        {
+          "id": "farrow-ball-281",
+          "code": "281",
+          "name": "Stiffkey Blue",
+          "hexColor": "4D5B6A",
+          "rgb": {
+            "r": 77,
+            "g": 91,
+            "b": 106
+          },
+          "lrv": 34.9,
+          "category": "purple"
+        },
+        {
+          "id": "farrow-ball-30",
+          "code": "30",
+          "name": "Hague Blue",
+          "hexColor": "3D4E57",
+          "rgb": {
+            "r": 61,
+            "g": 78,
+            "b": 87
+          },
+          "lrv": 29.4,
+          "category": "blue"
+        },
+        {
+          "id": "farrow-ball-36",
+          "code": "36",
+          "name": "Mahogany",
+          "hexColor": "534644",
+          "rgb": {
+            "r": 83,
+            "g": 70,
+            "b": 68
+          },
+          "lrv": 28.5,
+          "category": "red"
+        },
+        {
+          "id": "farrow-ball-255",
+          "code": "255",
+          "name": "Tanner's Brown",
+          "hexColor": "4D4746",
+          "rgb": {
+            "r": 77,
+            "g": 71,
+            "b": 70
+          },
+          "lrv": 28.3,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-26",
+          "code": "26",
+          "name": "Down Pipe",
+          "hexColor": "626664",
+          "rgb": {
+            "r": 98,
+            "g": 102,
+            "b": 100
+          },
+          "lrv": 39.6,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-31",
+          "code": "31",
+          "name": "Railings",
+          "hexColor": "45484B",
+          "rgb": {
+            "r": 69,
+            "g": 72,
+            "b": 75
+          },
+          "lrv": 28.1,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-57",
+          "code": "57",
+          "name": "Off-Black",
+          "hexColor": "444546",
+          "rgb": {
+            "r": 68,
+            "g": 69,
+            "b": 70
+          },
+          "lrv": 27.0,
+          "category": "neutral"
+        },
+        {
+          "id": "farrow-ball-256",
+          "code": "256",
+          "name": "Pitch Black",
+          "hexColor": "3B3938",
+          "rgb": {
+            "r": 59,
+            "g": 57,
+            "b": 56
+          },
+          "lrv": 22.5,
+          "category": "neutral"
+        }
+      ]
+    }
+  ]
+}

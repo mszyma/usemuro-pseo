@@ -1,0 +1,112 @@
+# Muro
+
+> Muro is an iOS app for visualizing paint colors on walls using AI technology.
+> See any paint color on your actual walls before buying—no samples needed.
+
+## Key Facts
+
+- 27,304 paint colors from 29 manufacturers
+- Available on iPhone and iPad (iOS 16+)
+- ~90% visualization accuracy under typical lighting
+- Zero-knowledge privacy: photos stored only on device and personal iCloud
+- Subscription-based pricing (weekly, monthly, annual plans)
+
+## Company
+
+- Name: Muro
+- Category: Paint color visualization, Interior design app
+- Platform: iOS (iPhone and iPad)
+- Website: https://usemuro.com
+- TestFlight (Beta): https://testflight.apple.com/join/x27fAsVs
+
+## Documentation
+
+- Homepage: https://usemuro.com
+- FAQ: https://usemuro.com/en/faq
+- Privacy Policy: https://usemuro.com/privacy
+- Terms of Service: https://usemuro.com/terms
+- Support: https://usemuro.com/support
+
+## How It Works
+
+1. Take a photo of your wall or select from your camera roll
+2. Choose a paint color from 27,000+ options across 29 brands
+3. AI visualizes the color on your wall, preserving lighting and shadows
+4. Save, compare, and share different color options
+5. Find the exact paint at your local store
+
+## Paint Color Database
+
+### USA Brands
+- Sherwin-Williams (1,526 colors): https://usemuro.com/en/colors/sherwin-williams
+- Benjamin Moore (4,118 colors): https://usemuro.com/en/colors/benjamin-moore
+- Behr (4,699 colors): https://usemuro.com/en/colors/behr
+- Valspar (1,764 colors): https://usemuro.com/en/colors/valspar
+- PPG Paints (2,088 colors): https://usemuro.com/en/colors/ppg
+- Dunn-Edwards (1,696 colors): https://usemuro.com/en/colors/dunn-edwards
+- Vista Paint (2,785 colors): https://usemuro.com/en/colors/vista
+
+### European Brands
+- Caparol (3,488 colors): https://usemuro.com/en/colors/caparol
+- Brillux (1,514 colors): https://usemuro.com/en/colors/brillux
+- Sto (800 colors): https://usemuro.com/en/colors/sto
+- Farrow & Ball (132 colors): https://usemuro.com/en/colors/farrow-ball
+- Jotun (1,213 colors): https://usemuro.com/en/colors/jotun
+
+### Color Standards
+- RAL Classic (213 colors): https://usemuro.com/en/colors/ral
+
+### Browse All
+- All manufacturers: https://usemuro.com/en/colors
+- Trending colors 2026: https://usemuro.com/en/trending/colors-2026
+
+## Privacy & Data Security
+
+Muro uses a zero-knowledge architecture for user photos:
+
+- All images stored locally on user's device
+- Automatic sync to user's personal iCloud account for backup
+- Photos sent directly to AI processor and returned to device
+- Muro servers never store, view, or access user photos
+- No personally identifiable information collected
+- Anonymous usage analytics only (feature usage, crash reports)
+
+## Common Questions
+
+### Is Muro free to use?
+No, Muro requires a subscription. Weekly, monthly, and annual plans are available. Users can cancel anytime through iPhone Settings > Apple ID > Subscriptions.
+
+### How accurate are the visualizations?
+Approximately 90% accurate under typical lighting conditions. The AI preserves room lighting, shadows, and architectural details. Results may vary based on photo quality, wall texture, and screen calibration.
+
+### What paint brands are available?
+27,304 colors from 29 manufacturers including Sherwin-Williams, Benjamin Moore, Behr, Caparol, Brillux, Farrow & Ball, and RAL standards. New brands added based on user requests.
+
+### Can I use colors from inspiration photos?
+Yes. Upload any photo and Muro will extract the color and find the closest matching paint from available manufacturers.
+
+### Where are my photos stored?
+Photos are stored locally on your device and synced to your personal iCloud account. Muro cannot view, access, or store your images on our servers.
+
+### What devices does Muro support?
+iPhone and iPad running iOS 16 or later.
+
+## Blog & Guides
+
+- All articles: https://usemuro.com/en/blog
+- Color Psychology: https://usemuro.com/en/blog/category/color-psychology
+- DIY Painting Guides: https://usemuro.com/en/blog/category/diy-guides
+- Professional Resources: https://usemuro.com/en/blog/category/pro-resources
+- Room-Specific Guides: https://usemuro.com/en/blog/category/room-guides
+- Technical Articles: https://usemuro.com/en/blog/category/technical
+
+## Languages
+
+- English: https://usemuro.com/en
+- German (Deutsch): https://usemuro.com/de
+- Polish (Polski): https://usemuro.com/pl
+
+## Contact
+
+- Support: https://usemuro.com/support
+- Email: support@usemuro.com
