@@ -80,6 +80,18 @@
   color: var(--text-charcoal);
 }
 
+.navLink {
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--text-charcoal);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.navLink:hover {
+  color: var(--accent-terracotta);
+}
+
 .navCta {
   display: inline-flex;
   align-items: center;

@@ -93,12 +93,36 @@ iPhone and iPad running iOS 16 or later.
 
 ## Blog & Guides
 
-- All articles: https://usemuro.com/en/blog
+### All Articles
+- Blog index: https://usemuro.com/en/blog
+
+### Color Psychology & Theory
+- What Colors Make a Small Room Look Bigger: https://usemuro.com/en/blog/what-colors-make-small-room-look-bigger
+- How LRV Affects Your Paint Choice: https://usemuro.com/en/blog/how-lrv-affects-your-paint-choice
+- White Paint Undertones Explained: https://usemuro.com/en/blog/white-paint-undertones-explained
+- Best Paint Colors for North-Facing Rooms: https://usemuro.com/en/blog/north-facing-room-paint-colors
+- How to Choose Paint Colors Flow Room to Room: https://usemuro.com/en/blog/how-to-choose-paint-colors-flow-room-to-room
+
+### DIY Painting Guides
+- How to Test Paint Colors Before Committing: https://usemuro.com/en/blog/how-to-test-paint-colors-before-committing
+- How Much Paint Do I Need Calculator: https://usemuro.com/en/blog/how-much-paint-do-i-need-calculator
+- Paint Finish Guide Flat to Gloss: https://usemuro.com/en/blog/paint-finish-guide-flat-to-gloss
+
+### Room Guides
+- Best Paint Colors for Kitchens: https://usemuro.com/en/blog/best-paint-colors-for-kitchens
+
+### Trends
+- Paint Color Trends 2025-2026: https://usemuro.com/en/blog/paint-color-trends-2025
+
+### Categories
 - Color Psychology: https://usemuro.com/en/blog/category/color-psychology
 - DIY Painting Guides: https://usemuro.com/en/blog/category/diy-guides
 - Professional Resources: https://usemuro.com/en/blog/category/pro-resources
 - Room-Specific Guides: https://usemuro.com/en/blog/category/room-guides
 - Technical Articles: https://usemuro.com/en/blog/category/technical
+- Trends: https://usemuro.com/en/blog/category/trends
+
+Available in: English (/en/blog), German (/de/blog), Polish (/pl/blog)
 
 ## Languages
 

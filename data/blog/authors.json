@@ -1,0 +1,13 @@
+{
+  "authors": [
+    {
+      "id": "mario",
+      "name": "Mario",
+      "role": {
+        "en": "Founder",
+        "de": "Gründer",
+        "pl": "Założyciel"
+      }
+    }
+  ]
+}

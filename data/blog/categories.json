@@ -1,0 +1,94 @@
+{
+  "categories": [
+    {
+      "id": "color-psychology",
+      "slug": "color-psychology",
+      "name": {
+        "en": "Color Psychology",
+        "de": "Farbpsychologie",
+        "pl": "Psychologia kolorów"
+      },
+      "description": {
+        "en": "How colors affect mood, perception, and space",
+        "de": "Wie Farben Stimmung, Wahrnehmung und Raum beeinflussen",
+        "pl": "Jak kolory wpływają na nastrój, percepcję i przestrzeń"
+      },
+      "icon": "brain"
+    },
+    {
+      "id": "diy-guides",
+      "slug": "diy-guides",
+      "name": {
+        "en": "DIY Guides",
+        "de": "DIY-Anleitungen",
+        "pl": "Poradniki DIY"
+      },
+      "description": {
+        "en": "Step-by-step painting tutorials for homeowners",
+        "de": "Schritt-für-Schritt Maleranleitungen für Hausbesitzer",
+        "pl": "Instrukcje malowania krok po kroku dla właścicieli domów"
+      },
+      "icon": "paint-roller"
+    },
+    {
+      "id": "pro-resources",
+      "slug": "pro-resources",
+      "name": {
+        "en": "Professional Resources",
+        "de": "Profi-Ressourcen",
+        "pl": "Zasoby dla profesjonalistów"
+      },
+      "description": {
+        "en": "Tools and guides for painters and designers",
+        "de": "Werkzeuge und Anleitungen für Maler und Designer",
+        "pl": "Narzędzia i poradniki dla malarzy i projektantów"
+      },
+      "icon": "briefcase"
+    },
+    {
+      "id": "room-guides",
+      "slug": "room-guides",
+      "name": {
+        "en": "Room Guides",
+        "de": "Raum-Ratgeber",
+        "pl": "Poradniki pokojowe"
+      },
+      "description": {
+        "en": "Color recommendations for specific rooms",
+        "de": "Farbempfehlungen für bestimmte Räume",
+        "pl": "Rekomendacje kolorów dla konkretnych pomieszczeń"
+      },
+      "icon": "home"
+    },
+    {
+      "id": "technical",
+      "slug": "technical",
+      "name": {
+        "en": "Technical",
+        "de": "Technisches",
+        "pl": "Techniczne"
+      },
+      "description": {
+        "en": "LRV, undertones, and color science explained",
+        "de": "LRV, Untertöne und Farbwissenschaft erklärt",
+        "pl": "LRV, podtony i nauka o kolorach wyjaśnione"
+      },
+      "icon": "beaker"
+    },
+    {
+      "id": "trends",
+      "slug": "trends",
+      "name": {
+        "en": "Trends",
+        "de": "Trends",
+        "pl": "Trendy"
+      },
+      "description": {
+        "en": "Current and upcoming paint color trends",
+        "de": "Aktuelle und kommende Farbtrends",
+        "pl": "Aktualne i nadchodzące trendy kolorystyczne"
+      },
+      "icon": "trending-up"
+    }
+  ]
+}

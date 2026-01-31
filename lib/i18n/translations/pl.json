@@ -1,11 +1,15 @@
 {
   "brandName": "Muro",
-  "tagline": "Zobacz to, zanim zamalujesz",
+  "tagline": "Zobacz to, zanim pomalujesz",
   "visualize": "Wizualizuj",
   "onYourWalls": "na swoich ścianach",
   "seeBeforePaint": "Zobacz kolory farb na swoich ścianach przed zakupem",
   "downloadCTA": "Pobierz Muro na iPhone'a i iPada",
   "appStore": "Dostępne w App Store",
+
+  "nav": {
+    "download": "Pobierz"
+  },
 
   "colorDetails": "Szczegóły koloru",
   "manufacturer": "Producent",
@@ -39,10 +43,89 @@
   },
 
   "footer": {
-    "tagline": "Wizualizuj kolory farb na ścianach dzięki AI",
-    "legal": "Prawne",
-    "support": "Wsparcie",
-    "copyright": "© 2026 Muro. Wszelkie prawa zastrzeżone."
+    "tagline": "Wizualizacja kolorów ścian z pomocą AI. Zobacz to, zanim pomalujesz.",
+    "legal": "Regulamin i prywatność",
+    "support": "Pomoc",
+    "copyright": "© 2026 Muro.",
+    "product": "Produkt",
+    "features": "Funkcje",
+    "howItWorks": "Jak to działa",
+    "browseColors": "Przeglądaj kolory",
+    "blog": "Blog",
+    "resources": "Zasoby",
+    "supportForm": "Formularz pomocy",
+    "contactUs": "Kontakt",
+    "faq": "FAQ"
+  },
+
+  "hero": {
+    "badge": "Wizualizator ścian AI",
+    "title": "Zobacz to, <em>zanim</em> pomalujesz",
+    "subtitle": "Wybierz kolor. Skieruj telefon. Zobacz go na ścianie. Bez malowania.",
+    "downloadBtn": "Pobierz z App Store",
+    "howItWorksBtn": "Jak to działa",
+    "aiProcessing": "Przetwarzanie AI",
+    "looksReal": "Wygląda realistycznie",
+    "emeraldGreen": "Szmaragdowa zieleń"
+  },
+
+  "about": {
+    "label": "O nas",
+    "title": "Czym jest Muro?",
+    "description": "<strong>Muro pokazuje ci dokładnie, jak każdy kolor farby będzie wyglądał w twoim pokoju, zanim kupisz choćby jedną puszkę.</strong> Zrób zdjęcie, wybierz kolor z {{totalColors}}+ opcji (od marek takich jak Śnieżka, Dekoral, Tikkurila, Dulux), i zobacz jak twoja ściana zmienia się w sekundy. Zachowujemy cienie, sposób padania światła na ścianę, wszystko."
+  },
+
+  "howItWorks": {
+    "label": "Jak to działa",
+    "title": "Trzy kroki do idealnego koloru",
+    "subtitle": "Przekształć swoją przestrzeń z naszą wizualizacją opartą na AI.",
+    "step1Title": "Zrób zdjęcie",
+    "step1Desc": "Skieruj telefon na ścianę. To wszystko. Nie ma znaczenia czy jest jasno, ciemno, czy cokolwiek.",
+    "step2Title": "Wybierz kolor",
+    "step2Desc": "Przeglądaj {{totalColors}}+ prawdziwych kolorów farb od Śnieżki, Dekoral, Tikkurila. Wszystkie marki, które znasz.",
+    "step3Title": "Zobacz natychmiast",
+    "step3Desc": "Twoja ściana zmienia się w sekundy. Przesuń, aby porównać przed i po. Naprawdę wygląda realistycznie."
+  },
+
+  "features": {
+    "label": "Funkcje",
+    "title": "Wszystko, czego potrzebujesz, by wybierać z pewnością",
+    "realColors": {
+      "stat": "{{count}}+",
+      "title": "Prawdziwe kolory farb",
+      "desc": "Każdy kolor ma nazwę i kod, który możesz kupić w sklepie. Koniec z zgadywaniem, jaką \"szałwię\" widziałeś online."
+    },
+    "matchPhotos": {
+      "title": "Dopasuj kolory ze zdjęć",
+      "desc": "Widziałeś kolor w magazynie lub na Pintereście? Prześlij go. Znajdziemy najbliższą prawdziwą farbę, którą możesz kupić."
+    },
+    "looksReal": {
+      "title": "Wygląda jak prawdziwe",
+      "desc": "Zachowujemy cienie, światło, wszystko. Inne aplikacje tylko nakładają filtr. My nie."
+    },
+    "compare": {
+      "title": "Porównuj natychmiast",
+      "desc": "Przesuń, aby zobaczyć przed i po. Łatwo zdecydować, czy naprawdę chcesz ten odważny kolor."
+    },
+    "save": {
+      "title": "Zapisz wszystko",
+      "desc": "Zapisz ulubione. Porównuj opcje. Pokaż partnerowi. No wiesz, ważne rzeczy."
+    }
+  },
+
+  "whyMuro": {
+    "label": "Dlaczego Muro?",
+    "title": "Dlaczego wybrać Muro zamiast innych wizualizatorów farb?",
+    "reason1": "<strong>Naprawdę wygląda realistycznie.</strong> Inne aplikacje tylko nakładają filtr kolorów na twoje zdjęcie. My zachowujemy cienie, sposób padania światła na ścianę, wszystko.",
+    "reason2": "<strong>Prawdziwe farby, które możesz kupić.</strong> Każdy kolor ma prawdziwą nazwę i kod od marek takich jak Śnieżka, Dekoral, Tikkurila. Koniec z zgadywaniem, jaką \"ciepłą szarość\" widziałeś online.",
+    "reason3": "<strong>Zobacz to w sekundy.</strong> Nie jutro. Nie za godzinę. Teraz. Twoja ściana zmienia się natychmiast.",
+    "reason4": "<strong>Pomiń próbniki.</strong> Testuj tyle kolorów, ile chcesz, bez kupowania ani jednego próbnika. Dużo taniej, dużo szybciej."
+  },
+
+  "cta": {
+    "title": "Gotowy przestać zgadywać?",
+    "subtitle": "Pobierz Muro i zacznij wizualizować. Zobacz, jak ten \"nastrojowy niebieski\" naprawdę wygląda, zanim się zdecydujesz.",
+    "downloadBtn": "Pobierz z App Store"
   },
 
   "faq": {
@@ -54,7 +137,7 @@
       },
       {
         "q": "Jak dokładne są wizualizacje?",
-        "a": "Całkiem dokładnie. Zachowujemy oświetlenie, cienie i detale twojego pokoju. Czy to 100% idealne? Nie. Światło zmienia się w ciągu dnia. Ale nasi użytkownicy mówią nam, że końcowy efekt jest bardzo zbliżony do tego, co widzieli w aplikacji."
+        "a": "Całkiem dokładne. Zachowujemy oświetlenie, cienie i detale twojego pokoju. Czy to 100% idealne? Nie. Światło zmienia się w ciągu dnia. Ale nasi użytkownicy mówią nam, że końcowy efekt jest bardzo zbliżony do tego, co widzieli w aplikacji."
       },
       {
         "q": "Jakie marki farb są dostępne?",
@@ -77,5 +160,37 @@
         "a": "Twoje zdjęcia nigdy nie opuszczają twojej kontroli. Wszystkie obrazy są przechowywane lokalnie na twoim urządzeniu i synchronizowane z twoim osobistym kontem iCloud. Kiedy transformujesz kolor ściany, twoje zdjęcie trafia bezpośrednio do procesora AI i wraca na twoje urządzenie—nigdy nie dotyka naszych serwerów. Nie możemy zobaczyć, uzyskać dostępu ani przechowywać twoich zdjęć. Nigdy."
       }
     ]
+  },
+
+  "blog": {
+    "title": "Blog Muro",
+    "subtitle": "Porady kolorystyczne, trendy i inspiracje",
+    "allPosts": "Wszystkie wpisy",
+    "featuredPost": "Wyróżnione",
+    "readMore": "Czytaj dalej",
+    "minRead": "min czytania",
+    "publishedOn": "Opublikowano",
+    "updatedOn": "Zaktualizowano",
+    "byAuthor": "Autor",
+    "shareArticle": "Udostępnij artykuł",
+    "tableOfContents": "Spis treści",
+    "relatedPosts": "Powiązane artykuły",
+    "categories": "Kategorie",
+    "tags": "Tagi",
+    "searchPlaceholder": "Szukaj artykułów...",
+    "noResults": "Nie znaleziono artykułów",
+    "backToBlog": "Wróć do bloga",
+    "copyLink": "Kopiuj link",
+    "linkCopied": "Skopiowano link!",
+    "viewAll": "Zobacz wszystkie",
+    "postsInCategory": "artykułów w {{category}}"
+  },
+
+  "faqPage": {
+    "title": "Często zadawane pytania",
+    "subtitle": "Wszystko, co musisz wiedzieć o Muro",
+    "stillHaveQuestions": "Masz jeszcze pytania?",
+    "contactUs": "Skontaktuj się z naszym zespołem wsparcia",
+    "backToHome": "Wróć na stronę główną"
   }
 }

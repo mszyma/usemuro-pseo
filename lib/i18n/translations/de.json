@@ -1,11 +1,15 @@
 {
   "brandName": "Muro",
-  "tagline": "Sehen Sie es, bevor Sie es streichen",
+  "tagline": "Sieh es, bevor du streichst",
   "visualize": "Visualisieren",
-  "onYourWalls": "an Ihren Wänden",
-  "seeBeforePaint": "Sehen Sie Wandfarben an Ihren Wänden, bevor Sie kaufen",
-  "downloadCTA": "Laden Sie Muro für iPhone & iPad herunter",
+  "onYourWalls": "an deinen Wänden",
+  "seeBeforePaint": "Sieh Wandfarben auf deinen Wänden, bevor du kaufst",
+  "downloadCTA": "Lade Muro für iPhone & iPad herunter",
   "appStore": "Im App Store verfügbar",
+
+  "nav": {
+    "download": "Laden"
+  },
 
   "colorDetails": "Farbdetails",
   "manufacturer": "Hersteller",
@@ -18,8 +22,8 @@
   "allColors": "Alle Farben",
   "allManufacturers": "Alle Hersteller",
 
-  "visualizeThisColor": "Visualisieren Sie diese Farbe an Ihren Wänden",
-  "downloadMuroToSee": "Laden Sie Muro für iPhone und iPad herunter, um {{colorName}} in Ihrem Raum mit fortschrittlicher KI-Technologie zu sehen",
+  "visualizeThisColor": "Visualisiere diese Farbe an deinen Wänden",
+  "downloadMuroToSee": "Lade Muro für iPhone und iPad herunter, um {{colorName}} in deinem Raum mit fortschrittlicher KI-Technologie zu sehen",
 
   "browseColors": "{{count}} Wandfarben durchsuchen",
   "colorsFrom": "Farben von {{manufacturer}}",
@@ -39,10 +43,89 @@
   },
 
   "footer": {
-    "tagline": "Visualisieren Sie Wandfarben mit KI",
+    "tagline": "KI-gestützte Wandfarben-Visualisierung. Sieh es, bevor du streichst.",
     "legal": "Rechtliches",
-    "support": "Unterstützung",
-    "copyright": "© 2026 Muro. Alle Rechte vorbehalten."
+    "support": "Support",
+    "copyright": "© 2026 Muro.",
+    "product": "Produkt",
+    "features": "Funktionen",
+    "howItWorks": "So funktioniert's",
+    "browseColors": "Farben durchsuchen",
+    "blog": "Blog",
+    "resources": "Ressourcen",
+    "supportForm": "Support-Formular",
+    "contactUs": "Kontakt",
+    "faq": "FAQ"
+  },
+
+  "hero": {
+    "badge": "KI-Wandvisualisierer",
+    "title": "Sieh es, <em>bevor</em> du streichst",
+    "subtitle": "Wähle eine Farbe. Halte dein Handy drauf. Sieh sie auf deiner Wand. Kein Streichen nötig.",
+    "downloadBtn": "Im App Store laden",
+    "howItWorksBtn": "So funktioniert's",
+    "aiProcessing": "KI-Verarbeitung",
+    "looksReal": "Sieht echt aus",
+    "emeraldGreen": "Smaragdgrün"
+  },
+
+  "about": {
+    "label": "Über uns",
+    "title": "Was ist Muro?",
+    "description": "<strong>Muro zeigt dir genau, wie jede Wandfarbe in deinem Raum aussehen wird, bevor du auch nur eine Dose kaufst.</strong> Mach ein Foto, wähle eine Farbe aus {{totalColors}}+ Optionen (von Marken wie Caparol, Brillux, Sto, Alpina), und sieh deine Wand in Sekunden transformiert. Wir bewahren die Schatten, wie das Licht auf deine Wand fällt, alles."
+  },
+
+  "howItWorks": {
+    "label": "So funktioniert's",
+    "title": "Drei Schritte zu deiner perfekten Farbe",
+    "subtitle": "Verwandle deinen Raum mit unserer KI-gestützten Visualisierung.",
+    "step1Title": "Mach ein Foto",
+    "step1Desc": "Richte dein Handy auf die Wand. Das war's. Egal ob hell, dunkel oder was auch immer.",
+    "step2Title": "Wähle eine Farbe",
+    "step2Desc": "Durchsuche {{totalColors}}+ echte Wandfarben von Caparol, Brillux, Sto. Alle Marken, die du kennst.",
+    "step3Title": "Sieh es sofort",
+    "step3Desc": "Deine Wand verwandelt sich in Sekunden. Wische, um vorher und nachher zu vergleichen. Es sieht wirklich echt aus."
+  },
+
+  "features": {
+    "label": "Funktionen",
+    "title": "Alles, was du brauchst, um mit Sicherheit zu wählen",
+    "realColors": {
+      "stat": "{{count}}+",
+      "title": "Echte Wandfarben",
+      "desc": "Jede Farbe hat einen Namen und Code, den du im Laden kaufen kannst. Kein Raten mehr, welches \"Salbeigrün\" du online gesehen hast."
+    },
+    "matchPhotos": {
+      "title": "Farben aus Fotos matchen",
+      "desc": "Eine Farbe in einem Magazin oder auf Pinterest gesehen? Lade es hoch. Wir finden die passende echte Farbe, die du kaufen kannst."
+    },
+    "looksReal": {
+      "title": "Sieht aus wie echt",
+      "desc": "Wir behalten die Schatten, das Licht, alles. Andere Apps klatschen nur einen Filter drauf. Wir nicht."
+    },
+    "compare": {
+      "title": "Sofort vergleichen",
+      "desc": "Wische, um vorher und nachher zu sehen. Macht es leicht zu entscheiden, ob du diese mutige Farbe wirklich willst."
+    },
+    "save": {
+      "title": "Alles speichern",
+      "desc": "Speichere deine Favoriten. Vergleiche Optionen. Zeig es deinem Partner. Du weißt schon, die wichtigen Sachen."
+    }
+  },
+
+  "whyMuro": {
+    "label": "Warum Muro?",
+    "title": "Warum Muro statt anderer Farbvisualisierer wählen?",
+    "reason1": "<strong>Es sieht wirklich echt aus.</strong> Andere Apps klatschen nur einen Farbfilter auf dein Foto. Wir bewahren die Schatten, wie das Licht auf deine Wand fällt, alles.",
+    "reason2": "<strong>Echte Farben, die du kaufen kannst.</strong> Jede Farbe hat einen echten Namen und Code von Marken wie Caparol, Brillux, Sto. Kein Raten mehr, welches \"Warmgrau\" du online gesehen hast.",
+    "reason3": "<strong>Sieh es in Sekunden.</strong> Nicht morgen. Nicht in einer Stunde. Jetzt sofort. Deine Wand verwandelt sich augenblicklich.",
+    "reason4": "<strong>Überspring die Probedosen.</strong> Teste so viele Farben wie du willst, ohne ein einziges Muster zu kaufen. Viel günstiger, viel schneller."
+  },
+
+  "cta": {
+    "title": "Bereit, mit dem Raten aufzuhören?",
+    "subtitle": "Lade Muro herunter und fang an zu visualisieren. Sieh, wie dieses \"stimmungsvolle Blau\" wirklich aussieht, bevor du dich festlegst.",
+    "downloadBtn": "Im App Store laden"
   },
 
   "faq": {
@@ -77,5 +160,37 @@
         "a": "Deine Fotos verlassen nie deine Kontrolle. Alle Bilder werden lokal auf deinem Gerät gespeichert und mit deinem persönlichen iCloud-Konto synchronisiert. Wenn du eine Wandfarbe transformierst, geht dein Foto direkt zum KI-Prozessor und zurück auf dein Gerät—es berührt niemals unsere Server. Wir können deine Bilder nicht sehen, nicht darauf zugreifen und sie nicht speichern. Niemals."
       }
     ]
+  },
+
+  "blog": {
+    "title": "Muro Blog",
+    "subtitle": "Farbentipps, Trends und Inspiration",
+    "allPosts": "Alle Beiträge",
+    "featuredPost": "Empfohlen",
+    "readMore": "Weiterlesen",
+    "minRead": "Min. Lesezeit",
+    "publishedOn": "Veröffentlicht am",
+    "updatedOn": "Aktualisiert am",
+    "byAuthor": "Von",
+    "shareArticle": "Artikel teilen",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "relatedPosts": "Verwandte Artikel",
+    "categories": "Kategorien",
+    "tags": "Tags",
+    "searchPlaceholder": "Artikel suchen...",
+    "noResults": "Keine Artikel gefunden",
+    "backToBlog": "Zurück zum Blog",
+    "copyLink": "Link kopieren",
+    "linkCopied": "Link kopiert!",
+    "viewAll": "Alle anzeigen",
+    "postsInCategory": "Artikel in {{category}}"
+  },
+
+  "faqPage": {
+    "title": "Häufig gestellte Fragen",
+    "subtitle": "Alles, was du über Muro wissen musst",
+    "stillHaveQuestions": "Noch Fragen?",
+    "contactUs": "Kontaktiere unser Support-Team",
+    "backToHome": "Zurück zur Startseite"
   }
 }

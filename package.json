@@ -9,12 +9,21 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "type-check": "tsc --noEmit"
+    "type-check": "tsc --noEmit",
+    "generate:blog-image": "npx ts-node scripts/generate-blog-image.ts",
+    "generate:blog-images": "npx ts-node scripts/generate-all-blog-images.ts",
+    "generate:article-images": "npx ts-node scripts/generate-article-images.ts"
   },
   "dependencies": {
+    "fuse.js": "^7.1.0",
+    "gray-matter": "^4.0.3",
     "next": "^15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "remark": "^15.0.1",
+    "remark-gfm": "^4.0.1",
+    "remark-html": "^16.0.1",
+    "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
@@ -23,6 +32,7 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
+    "ts-node": "^10.9.2",
     "typescript": "^5.7.2"
   },
   "engines": {

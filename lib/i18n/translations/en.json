@@ -7,6 +7,10 @@
   "downloadCTA": "Download Muro for iPhone & iPad",
   "appStore": "Available on the App Store",
 
+  "nav": {
+    "download": "Download"
+  },
+
   "colorDetails": "Color Details",
   "manufacturer": "Manufacturer",
   "colorCode": "Color Code",
@@ -39,10 +43,89 @@
   },
 
   "footer": {
-    "tagline": "Visualize paint colors on your walls with AI",
-    "legal": "Legal",
+    "tagline": "AI-powered wall color visualization. See it before you paint it.",
+    "legal": "Terms & Privacy",
     "support": "Support",
-    "copyright": "© 2026 Muro. All rights reserved."
+    "copyright": "© 2026 Muro.",
+    "product": "Product",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "browseColors": "Browse Colors",
+    "blog": "Blog",
+    "resources": "Resources",
+    "supportForm": "Support Form",
+    "contactUs": "Contact Us",
+    "faq": "FAQ"
+  },
+
+  "hero": {
+    "badge": "AI Wall Visualizer",
+    "title": "See it <em>before</em> you paint it",
+    "subtitle": "Pick a color. Point your phone. See it on your wall. No painting required.",
+    "downloadBtn": "Download on App Store",
+    "howItWorksBtn": "See How It Works",
+    "aiProcessing": "AI Processing",
+    "looksReal": "Looks real",
+    "emeraldGreen": "Emerald Green"
+  },
+
+  "about": {
+    "label": "About",
+    "title": "What is Muro?",
+    "description": "<strong>Muro shows you exactly how any paint color will look in your room before you buy a single can.</strong> Take a photo, pick a color from {{totalColors}}+ options (from brands like Sherwin-Williams, Benjamin Moore, Behr, Farrow & Ball), and see your wall transform in seconds. We preserve the shadows, the way light hits your wall, all of it."
+  },
+
+  "howItWorks": {
+    "label": "How It Works",
+    "title": "Three steps to your perfect color",
+    "subtitle": "Transform your space with our AI-powered visualization.",
+    "step1Title": "Snap a photo",
+    "step1Desc": "Point your phone at the wall. That's it. Doesn't matter if it's bright, dim, or whatever.",
+    "step2Title": "Pick a color",
+    "step2Desc": "Browse {{totalColors}}+ real paint colors from Sherwin-Williams, Benjamin Moore, Behr. All the brands you know.",
+    "step3Title": "See it instantly",
+    "step3Desc": "Your wall transforms in seconds. Swipe to compare before and after. It actually looks real."
+  },
+
+  "features": {
+    "label": "Features",
+    "title": "Everything you need to choose with confidence",
+    "realColors": {
+      "stat": "{{count}}+",
+      "title": "Real paint colors",
+      "desc": "Every color has a name and code you can buy at the store. No more guessing which \"sage green\" you saw online."
+    },
+    "matchPhotos": {
+      "title": "Match colors from photos",
+      "desc": "Saw a color in a magazine or on Pinterest? Upload it. We'll find the closest real paint you can actually buy."
+    },
+    "looksReal": {
+      "title": "Looks like the real thing",
+      "desc": "We keep the shadows, the light, all of it. Other apps just slap a filter on. Not us."
+    },
+    "compare": {
+      "title": "Compare instantly",
+      "desc": "Swipe to see before and after. Makes it easy to decide if you really want that bold color."
+    },
+    "save": {
+      "title": "Save everything",
+      "desc": "Save your favorites. Compare options. Show your partner. You know, the important stuff."
+    }
+  },
+
+  "whyMuro": {
+    "label": "Why Muro?",
+    "title": "Why choose Muro over other paint visualizers?",
+    "reason1": "<strong>It actually looks real.</strong> Other apps just slap a color filter on your photo. We preserve the shadows, the way light hits your wall, all of it.",
+    "reason2": "<strong>Real paint you can buy.</strong> Every color has an actual name and code from brands like Sherwin-Williams, Benjamin Moore, Behr. No more guessing which \"warm gray\" you saw online.",
+    "reason3": "<strong>See it in seconds.</strong> Not tomorrow. Not in an hour. Right now. Your wall transforms instantly.",
+    "reason4": "<strong>Skip the sample pots.</strong> Test as many colors as you want without buying a single sample. Way cheaper, way faster."
+  },
+
+  "cta": {
+    "title": "Ready to stop guessing?",
+    "subtitle": "Download Muro and start visualizing. See what that \"moody blue\" actually looks like before you commit.",
+    "downloadBtn": "Download on App Store"
   },
 
   "faq": {
@@ -77,5 +160,37 @@
         "a": "Your photos never leave your control. All images are stored locally on your device and synced to your personal iCloud account for backup. When you transform a wall color, your photo goes directly to the AI processor and back to your device—it never touches our servers. We cannot view, access, or store your images. Ever."
       }
     ]
+  },
+
+  "blog": {
+    "title": "Muro Blog",
+    "subtitle": "Paint color tips, trends, and inspiration",
+    "allPosts": "All Posts",
+    "featuredPost": "Featured",
+    "readMore": "Read more",
+    "minRead": "min read",
+    "publishedOn": "Published on",
+    "updatedOn": "Updated on",
+    "byAuthor": "By",
+    "shareArticle": "Share this article",
+    "tableOfContents": "Table of Contents",
+    "relatedPosts": "Related Articles",
+    "categories": "Categories",
+    "tags": "Tags",
+    "searchPlaceholder": "Search articles...",
+    "noResults": "No articles found",
+    "backToBlog": "Back to Blog",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied!",
+    "viewAll": "View all",
+    "postsInCategory": "articles in {{category}}"
+  },
+
+  "faqPage": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Muro",
+    "stillHaveQuestions": "Still have questions?",
+    "contactUs": "Contact our support team",
+    "backToHome": "Back to Home"
   }
 }

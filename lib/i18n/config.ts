@@ -11,6 +11,8 @@ export const LOCALIZED_ROUTES = {
     trending: 'trending',
     legal: 'legal',
     support: 'support',
+    blog: 'blog',
+    faq: 'faq',
   },
   de: {
     colors: 'farben',
@@ -19,6 +21,8 @@ export const LOCALIZED_ROUTES = {
     trending: 'trends',
     legal: 'rechtliches',
     support: 'unterstuetzung',
+    blog: 'blog',
+    faq: 'faq',
   },
   pl: {
     colors: 'kolory',
@@ -27,6 +31,8 @@ export const LOCALIZED_ROUTES = {
     trending: 'trendy',
     legal: 'prawne',
     support: 'wsparcie',
+    blog: 'blog',
+    faq: 'faq',
   },
 } as const;
 

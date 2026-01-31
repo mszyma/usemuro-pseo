@@ -5,16 +5,26 @@ import styles from '../landing.module.css';
 
 interface LanguageSwitcherProps {
   currentLang: string;
+  /** Optional translation mapping for blog posts: { en: 'english-slug', de: 'german-slug', pl: 'polish-slug' } */
+  translations?: Record<string, string>;
 }
 
-export default function LanguageSwitcher({ currentLang }: LanguageSwitcherProps) {
+export default function LanguageSwitcher({ currentLang, translations }: LanguageSwitcherProps) {
   const router = useRouter();
   const pathname = usePathname();
 
   const switchLanguage = (newLang: string) => {
-    // Replace the language prefix in the pathname
-    const newPathname = pathname.replace(/^\/(en|de|pl)/, `/${newLang}`);
-    router.push(newPathname);
+    // Check if we're on a blog post page and have translations
+    const blogPostMatch = pathname.match(/^\/(en|de|pl)\/blog\/([^/]+)$/);
+
+    if (blogPostMatch && translations && translations[newLang]) {
+      // Navigate to the translated blog post
+      router.push(`/${newLang}/blog/${translations[newLang]}`);
+    } else {
+      // Default behavior: just replace the language prefix
+      const newPathname = pathname.replace(/^\/(en|de|pl)/, `/${newLang}`);
+      router.push(newPathname);
+    }
   };
 
   return (
