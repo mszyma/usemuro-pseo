@@ -4,18 +4,47 @@
 
 This is the **marketing website and blog** for Muro, built with Next.js 15 and React 19. It includes:
 - Landing page with localization (EN, DE, PL)
-- 35,000+ programmatic SEO pages for paint colors
-- Blog system with Markdown articles
+- 6,500+ programmatic SEO pages for 27,000+ paint colors
+- Blog system with 10 Markdown articles (30 pages across 3 languages)
 - GEO/LLMO optimization for AI crawlers
+
+**Live URL**: https://usemuro.com
 
 ## Tech Stack
 
-- **Framework**: Next.js 15 (App Router, Static Generation)
+- **Framework**: Next.js 15 (App Router, Static Export)
 - **React**: 19
 - **Styling**: CSS Modules
 - **i18n**: Custom implementation (EN, DE, PL)
 - **Blog**: Markdown with gray-matter, remark
 - **Image Generation**: Gemini API (NanoBanana Pro)
+- **Hosting**: Cloudflare Pages (static export)
+
+## Hosting & Deployment
+
+| Aspect | Details |
+|--------|---------|
+| **Platform** | Cloudflare Pages |
+| **Project Name** | `muro-landing` |
+| **Domain** | usemuro.com |
+| **Build Mode** | Static export (`output: 'export'`) |
+| **Output Directory** | `/out` |
+| **Total Pages** | ~6,590 HTML files |
+
+### Deploy Commands
+
+```bash
+# Build static site
+npm run build
+
+# Deploy to Cloudflare Pages
+npx wrangler pages deploy out --project-name=muro-landing
+```
+
+### Cloudflare Pages Files
+
+- `public/_redirects` - URL redirects (root → /en, /support → Google Form)
+- `public/_headers` - Security headers and caching rules
 
 ---
 
@@ -347,3 +376,36 @@ light, creating the illusion of more space.
 ### Updating Translations
 
 All UI strings are in `/lib/i18n/translations/{en,de,pl}.json`
+
+---
+
+## SEO Infrastructure Reference
+
+For comprehensive documentation on:
+- **pSEO**: Programmatic SEO for 27,304 paint colors
+- **GEO**: Generative Engine Optimization for AI crawlers
+- **Schema.org**: Structured data implementations
+- **Sitemap & robots.txt**: Technical SEO files
+- **Page statistics**: Full breakdown of 6,590 pages
+
+See: **[`/specs/seo-infrastructure.md`](specs/seo-infrastructure.md)**
+
+### Quick Stats
+
+| Metric | Value |
+|--------|-------|
+| Total HTML Pages | 6,586 |
+| Paint Colors | 27,304 |
+| Manufacturers | 30 |
+| Languages | 3 (EN, DE, PL) |
+| Blog Articles | 10 |
+
+### Key SEO Files
+
+| File | Purpose |
+|------|---------|
+| `/public/sitemap.xml` | Auto-generated sitemap |
+| `/public/robots.txt` | Crawler directives + AI bot allowlist |
+| `/public/llms.txt` | LLM-optimized structured content |
+| `/lib/blog/schema.ts` | Schema.org generators |
+| `/lib/seo/metadata.ts` | SEO metadata generators |
