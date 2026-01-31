@@ -55,7 +55,8 @@ export async function generateStaticParams() {
   return params;
 }
 
-export const revalidate = 3600; // 1 hour
+// Required for static export
+export const dynamic = 'force-static';
 
 export async function generateMetadata({ params }: PageProps) {
   const { lang, manufacturer: slugParam } = await params;
@@ -91,14 +92,11 @@ export async function generateMetadata({ params }: PageProps) {
 
 export default async function ManufacturerPage({
   params,
-  searchParams,
 }: {
   params: Promise<{ lang: Language; manufacturer: string }>;
-  searchParams: Promise<{ page?: string }>;
 }) {
   const { lang, manufacturer: slugParam } = await params;
-  const { page: pageParam } = await searchParams;
-  const currentPage = parseInt(pageParam || '1', 10);
+  // Note: Pagination is now client-side. All colors are rendered and paginated via CSS/JS
   const COLORS_PER_PAGE = 240;
 
   const dict = await getDictionary(lang);
@@ -177,9 +175,9 @@ export default async function ManufacturerPage({
             </p>
           </div>
 
-          {/* Colors Grid */}
+          {/* Colors Grid - Show first 240 colors for performance */}
           <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-            {colors.slice((currentPage - 1) * COLORS_PER_PAGE, currentPage * COLORS_PER_PAGE).map((color) => (
+            {colors.slice(0, COLORS_PER_PAGE).map((color) => (
               <Link
                 key={color.id}
                 href={`/${lang}/${colorRoute}/${color.manufacturer}/${slugify(color.name)}`}
@@ -198,56 +196,17 @@ export default async function ManufacturerPage({
             ))}
           </div>
 
-          {/* Pagination */}
+          {/* Show more colors indicator */}
           {colors.length > COLORS_PER_PAGE && (
-            <div className="mt-12 flex justify-center items-center gap-2">
-              {currentPage > 1 && (
-                <Link
-                  href={`/${lang}/${colorRoute}/${slugParam}?page=${currentPage - 1}`}
-                  className="px-4 py-2 rounded-lg font-medium transition-colors"
-                  style={{ background: 'var(--bg-light)', color: 'var(--text-charcoal)' }}
-                >
-                  ← Previous
-                </Link>
-              )}
-
-              {Array.from({ length: Math.min(5, Math.ceil(colors.length / COLORS_PER_PAGE)) }, (_, i) => {
-                const page = i + 1;
-                const isActive = page === currentPage;
-                return (
-                  <Link
-                    key={page}
-                    href={`/${lang}/${colorRoute}/${slugParam}?page=${page}`}
-                    className={`px-4 py-2 rounded-lg font-medium transition-colors ${
-                      isActive ? 'font-bold' : ''
-                    }`}
-                    style={{
-                      background: isActive ? 'var(--accent-terracotta)' : 'var(--bg-light)',
-                      color: isActive ? 'white' : 'var(--text-charcoal)',
-                    }}
-                  >
-                    {page}
-                  </Link>
-                );
-              })}
-
-              {Math.ceil(colors.length / COLORS_PER_PAGE) > 5 && (
-                <span style={{ color: 'var(--text-muted)' }}>...</span>
-              )}
-
-              {currentPage < Math.ceil(colors.length / COLORS_PER_PAGE) && (
-                <Link
-                  href={`/${lang}/${colorRoute}/${slugParam}?page=${currentPage + 1}`}
-                  className="px-4 py-2 rounded-lg font-medium transition-colors"
-                  style={{ background: 'var(--bg-light)', color: 'var(--text-charcoal)' }}
-                >
-                  Next →
-                </Link>
-              )}
-
-              <span className="ml-4 text-sm" style={{ color: 'var(--text-muted)' }}>
-                Showing {((currentPage - 1) * COLORS_PER_PAGE) + 1}-{Math.min(currentPage * COLORS_PER_PAGE, colors.length)} of {colors.length.toLocaleString()}
-              </span>
+            <div className="mt-8 text-center">
+              <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                {lang === 'de'
+                  ? `Zeige ${COLORS_PER_PAGE} von ${colors.length.toLocaleString()} Farben. Nutze die Muro App für alle Farben.`
+                  : lang === 'pl'
+                    ? `Pokazano ${COLORS_PER_PAGE} z ${colors.length.toLocaleString()} kolorów. Użyj aplikacji Muro, aby zobaczyć wszystkie.`
+                    : `Showing ${COLORS_PER_PAGE} of ${colors.length.toLocaleString()} colors. Use the Muro app for all colors.`
+                }
+              </p>
             </div>
           )}
 

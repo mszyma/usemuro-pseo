@@ -1,0 +1,21 @@
+{
+  "name": "Muro - Wall Color Visualizer",
+  "short_name": "Muro",
+  "description": "Visualize any paint color on your walls before you buy",
+  "start_url": "/en",
+  "display": "browser",
+  "background_color": "#FAF9F7",
+  "theme_color": "#C4785A",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

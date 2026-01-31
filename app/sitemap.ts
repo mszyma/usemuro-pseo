@@ -2,6 +2,9 @@ import { MetadataRoute } from 'next';
 import { SUPPORTED_LANGUAGES, Language } from '@/lib/i18n/config';
 import { getAllBlogPosts } from '@/lib/blog/loader';
 
+// Required for static export
+export const dynamic = 'force-static';
+
 const BASE_URL = 'https://usemuro.com';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

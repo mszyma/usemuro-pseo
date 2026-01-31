@@ -1,0 +1,11 @@
+# Cloudflare Pages redirects
+
+# Root -> default language (EN)
+/ /en 302
+
+# Support form redirect (preserved from landing page)
+/support https://docs.google.com/forms/d/e/1FAIpQLSc-euLqmLw6T1ByhFG8K2KgL9IQrpArrkoevRFmX8jFu-f8jg/viewform?usp=header 302
+
+# Legacy redirects from old landing page
+/legal.html /en/legal 301
+/legal /en/legal 301
