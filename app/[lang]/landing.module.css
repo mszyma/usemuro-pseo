@@ -111,6 +111,132 @@
   transform: translateY(-2px);
 }
 
+/* Mobile Navigation */
+.navMobile {
+  display: none;
+  align-items: center;
+  gap: 12px;
+}
+
+.hamburger {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+  background: rgba(0, 0, 0, 0.04);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  padding: 10px;
+  transition: background 0.2s;
+}
+
+.hamburger:hover {
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: var(--text-charcoal);
+  border-radius: 2px;
+  transition: all 0.3s var(--ease-out);
+}
+
+.hamburgerOpen span:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.hamburgerOpen span:nth-child(2) {
+  opacity: 0;
+}
+
+.hamburgerOpen span:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
+.mobileMenuOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s;
+  z-index: 998;
+}
+
+.mobileMenuOverlayOpen {
+  opacity: 1;
+  visibility: visible;
+}
+
+.mobileMenu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 280px;
+  height: 100vh;
+  background: white;
+  padding: 80px 24px 24px;
+  transform: translateX(100%);
+  transition: transform 0.3s var(--ease-out);
+  z-index: 999;
+  box-shadow: -10px 0 30px rgba(0, 0, 0, 0.1);
+}
+
+.mobileMenuOpen {
+  transform: translateX(0);
+}
+
+.mobileMenuLink {
+  display: block;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-charcoal);
+  text-decoration: none;
+  padding: 16px 0;
+  transition: color 0.2s;
+}
+
+.mobileMenuLink:hover {
+  color: var(--accent-terracotta);
+}
+
+.mobileMenuDivider {
+  height: 1px;
+  background: var(--border-light);
+  margin: 8px 0 16px;
+}
+
+.mobileMenuLang {
+  padding: 8px 0;
+}
+
+/* Mobile responsive nav */
+@media (max-width: 768px) {
+  .navRight {
+    display: none;
+  }
+
+  .navMobile {
+    display: flex;
+  }
+
+  .navMobile .navCta {
+    padding: 10px 16px;
+  }
+
+  .navMobile .navCta span {
+    display: none;
+  }
+}
+
 /* Hero */
 .hero {
   min-height: 100vh;
