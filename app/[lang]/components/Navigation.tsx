@@ -121,6 +121,35 @@ export default function Navigation({ lang, downloadText = 'Download', translatio
         >
           Blog
         </Link>
+        <Link
+          href={`/${lang}/colors`}
+          className={styles.mobileMenuLink}
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          Colors
+        </Link>
+        <Link
+          href={`/${lang}/faq`}
+          className={styles.mobileMenuLink}
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          FAQ
+        </Link>
+        <div className={styles.mobileMenuDivider} />
+        <a
+          href="http://usemuro.com/support"
+          className={styles.mobileMenuLink}
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          Support
+        </a>
+        <Link
+          href={`/${lang}/legal`}
+          className={styles.mobileMenuLink}
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          Legal
+        </Link>
         <div className={styles.mobileMenuDivider} />
         <div className={styles.mobileMenuLang}>
           <LanguageSwitcher currentLang={lang} translations={translations} />
