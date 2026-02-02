@@ -108,6 +108,13 @@ export default function Navigation({ lang, downloadText = 'Download', translatio
       {/* Mobile menu panel */}
       <div className={`${styles.mobileMenu} ${isMobileMenuOpen ? styles.mobileMenuOpen : ''}`}>
         <Link
+          href={`/${lang}`}
+          className={styles.mobileMenuLink}
+          onClick={() => setIsMobileMenuOpen(false)}
+        >
+          Home
+        </Link>
+        <Link
           href={`/${lang}/blog`}
           className={styles.mobileMenuLink}
           onClick={() => setIsMobileMenuOpen(false)}
