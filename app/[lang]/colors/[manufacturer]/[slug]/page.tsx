@@ -1,4 +1,4 @@
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import {
   getAllManufacturers,
@@ -21,24 +21,30 @@ interface PageProps {
   }>;
 }
 
-// Generate static params for top colors from each manufacturer
+// Generate static params for colors from each manufacturer
+// English-only to maximize color coverage within Cloudflare Pages 20K file limit
+// DE/PL color URLs redirect to EN via _redirects
 export async function generateStaticParams() {
   const manufacturers = getAllManufacturers();
   const params: Array<{ lang: string; manufacturer: string; slug: string }> = [];
 
-  // Generate for top 100 colors per manufacturer (Tier 1)
-  const TOP_COLORS_PER_MFG = 100;
+  // With English-only color pages, we have 3x more budget
+  // (6000 colors × 1 lang × 2 files = ~12,000 files + ~400 other pages = ~12,400 files)
+  const TOTAL_COLOR_BUDGET = 6000;
+  const totalColors = manufacturers.reduce((sum, mfg) => sum + getManufacturerColors(mfg.id).length, 0);
 
   manufacturers.forEach((mfg) => {
-    const colors = getManufacturerColors(mfg.id).slice(0, TOP_COLORS_PER_MFG);
+    const allColors = getManufacturerColors(mfg.id);
+    // Proportional allocation with minimum of 100 colors per manufacturer
+    const allocation = Math.max(100, Math.floor((allColors.length / totalColors) * TOTAL_COLOR_BUDGET));
+    const colors = allColors.slice(0, allocation);
 
     colors.forEach((color) => {
-      ['en', 'de', 'pl'].forEach((lang) => {
-        params.push({
-          lang,
-          manufacturer: mfg.id,
-          slug: slugify(color.name),
-        });
+      // English only - DE/PL redirect via _redirects
+      params.push({
+        lang: 'en',
+        manufacturer: mfg.id,
+        slug: slugify(color.name),
       });
     });
   });
@@ -46,8 +52,8 @@ export async function generateStaticParams() {
   return params;
 }
 
-// Enable ISR for non-prerendered pages (Tier 2 & 3)
-export const revalidate = 3600; // 1 hour
+// Required for static export
+export const dynamic = 'force-static';
 
 export async function generateMetadata({ params }: PageProps) {
   const { lang, manufacturer, slug } = await params;
@@ -91,8 +97,6 @@ export default async function ColorPage({ params }: PageProps) {
     console.error(`Error finding similar colors for ${manufacturer}/${slug}:`, error);
   }
 
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
-
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-cream)' }}>
       {/* Navigation */}
@@ -109,14 +113,14 @@ export default async function ColorPage({ params }: PageProps) {
             </li>
             <li>/</li>
             <li>
-              <Link href={`/${lang}/${colorRoute}`} className="hover:opacity-70 transition-opacity">
+              <Link href={`/${lang}/colors`} className="hover:opacity-70 transition-opacity">
                 {dict.allColors}
               </Link>
             </li>
             <li>/</li>
             <li>
               <Link
-                href={`/${lang}/${colorRoute}/${manufacturer}`}
+                href={`/${lang}/colors/${manufacturer}`}
                 className="hover:opacity-70 transition-opacity"
               >
                 {color.manufacturerDisplayName}
@@ -216,7 +220,7 @@ export default async function ColorPage({ params }: PageProps) {
               {similarColors.map((simColor) => (
                 <Link
                   key={simColor.id}
-                  href={`/${lang}/${colorRoute}/${simColor.manufacturer}/${slugify(simColor.name)}`}
+                  href={`/en/colors/${simColor.manufacturer}/${slugify(simColor.name)}`}
                   className="group"
                 >
                   <div

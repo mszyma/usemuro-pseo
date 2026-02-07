@@ -14,9 +14,16 @@ export interface ColorMatch {
   url: string;
 }
 
-// Lazy-loaded index
-let colorIndex: Map<string, ColorMatch> | null = null;
-let codeIndex: Map<string, ColorMatch> | null = null;
+// Use globalThis to persist cache across module reloads in dev mode
+const globalCache = globalThis as typeof globalThis & {
+  __colorIndex?: Map<string, ColorMatch>;
+  __codeIndex?: Map<string, ColorMatch>;
+  __nameOnlyIndex?: Map<string, ColorMatch[]>;
+};
+
+// Lazy-loaded index (uses global cache for persistence)
+let colorIndex: Map<string, ColorMatch> | null = globalCache.__colorIndex ?? null;
+let codeIndex: Map<string, ColorMatch> | null = globalCache.__codeIndex ?? null;
 
 /**
  * Normalize a color name for lookup
@@ -83,6 +90,10 @@ function buildIndex(): void {
       }
     }
 
+    // Persist to global cache for dev mode
+    globalCache.__colorIndex = colorIndex;
+    globalCache.__codeIndex = codeIndex;
+
     console.log(`[color-index] Built index with ${colorIndex.size} colors`);
   } catch (error) {
     console.error('[color-index] Error building index:', error);
@@ -145,10 +156,14 @@ export function getColorUrl(match: ColorMatch, lang: string): string {
 export function clearColorIndex(): void {
   colorIndex = null;
   codeIndex = null;
+  nameOnlyIndex = null;
+  globalCache.__colorIndex = undefined;
+  globalCache.__codeIndex = undefined;
+  globalCache.__nameOnlyIndex = undefined;
 }
 
 // Secondary index by name only (for standalone color lookups)
-let nameOnlyIndex: Map<string, ColorMatch[]> | null = null;
+let nameOnlyIndex: Map<string, ColorMatch[]> | null = globalCache.__nameOnlyIndex ?? null;
 
 /**
  * Build the name-only index for standalone color searches
@@ -169,6 +184,9 @@ function buildNameOnlyIndex(): void {
     }
     nameOnlyIndex.get(normalizedName)!.push(match);
   }
+
+  // Persist to global cache for dev mode
+  globalCache.__nameOnlyIndex = nameOnlyIndex;
 }
 
 /**

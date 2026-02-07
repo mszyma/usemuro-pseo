@@ -197,6 +197,10 @@ export function remarkColorSwatches(options: RemarkColorSwatchesOptions) {
   const { lang } = options;
 
   return (tree: Root) => {
+    // Skip expensive color indexing in development mode for faster page loads
+    if (process.env.NODE_ENV === 'development') {
+      return;
+    }
     // We need to collect all changes first, then apply them
     // to avoid modifying the tree while iterating
     const changes: Array<{

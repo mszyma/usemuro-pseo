@@ -13,8 +13,8 @@ export function generateColorMetadata(
   const title = `${color.name} by ${color.manufacturerDisplayName} - ${SITE_NAME} Paint Visualizer`;
   const description = `Visualize ${color.name} (${color.code}) by ${color.manufacturerDisplayName} on your walls with Muro AI. Hex: #${color.hexColor}, LRV: ${color.lrv.toFixed(1)}. See before you paint.`;
 
-  const langPrefix = lang === 'en' ? 'colors' : lang === 'de' ? 'farben' : 'kolory';
-  const canonicalUrl = `${SITE_URL}/${lang}/${langPrefix}/${color.manufacturer}/${slugify(color.name)}`;
+  // Color pages are English-only (DE/PL redirect to EN via _redirects)
+  const canonicalUrl = `${SITE_URL}/en/colors/${color.manufacturer}/${slugify(color.name)}`;
 
   return {
     title,
@@ -35,7 +35,7 @@ export function generateColorMetadata(
       description: `See ${color.name} on your walls before you paint`,
       url: canonicalUrl,
       siteName: SITE_NAME,
-      locale: lang === 'en' ? 'en_US' : lang === 'de' ? 'de_DE' : 'pl_PL',
+      locale: 'en_US',
       type: 'website',
       images: [
         {
@@ -54,12 +54,11 @@ export function generateColorMetadata(
       images: [`${SITE_URL}/api/og-color?id=${color.id}`],
     },
 
+    // English-only - no DE/PL alternates since those pages redirect
     alternates: {
       canonical: canonicalUrl,
       languages: {
-        en: `${SITE_URL}/en/colors/${color.manufacturer}/${slugify(color.name)}`,
-        de: `${SITE_URL}/de/farben/${color.manufacturer}/${slugify(color.name)}`,
-        pl: `${SITE_URL}/pl/kolory/${color.manufacturer}/${slugify(color.name)}`,
+        en: canonicalUrl,
       },
     },
 
@@ -85,8 +84,8 @@ export function generateManufacturerMetadata(
   const title = `${displayName} Paint Colors - ${colorCount} Colors | ${SITE_NAME}`;
   const description = `Browse ${colorCount} ${displayName} paint colors. Visualize any color on your walls with Muro AI before you buy.`;
 
-  const langPrefix = lang === 'en' ? 'colors' : lang === 'de' ? 'farben' : 'kolory';
-  const canonicalUrl = `${SITE_URL}/${lang}/${langPrefix}/${manufacturer.id}`;
+  // Use consistent English paths for SEO (actual page paths)
+  const canonicalUrl = `${SITE_URL}/${lang}/colors/${manufacturer.id}`;
 
   return {
     title,
@@ -112,8 +111,8 @@ export function generateManufacturerMetadata(
       canonical: canonicalUrl,
       languages: {
         en: `${SITE_URL}/en/colors/${manufacturer.id}`,
-        de: `${SITE_URL}/de/farben/${manufacturer.id}`,
-        pl: `${SITE_URL}/pl/kolory/${manufacturer.id}`,
+        de: `${SITE_URL}/de/colors/${manufacturer.id}`,
+        pl: `${SITE_URL}/pl/colors/${manufacturer.id}`,
       },
     },
 

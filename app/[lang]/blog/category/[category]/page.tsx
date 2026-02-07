@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import {
   getPostsByCategory,
@@ -71,7 +71,6 @@ export default async function CategoryPage({
   }
 
   const dict = await getDictionary(lang);
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
   const posts = await getPostsByCategory(categorySlug, lang);
   const categories = getCategories();
 
@@ -131,7 +130,7 @@ export default async function CategoryPage({
                 <ul>
                   <li><Link href={`/${lang}#features`}>{dict.footer.features}</Link></li>
                   <li><Link href={`/${lang}#how-it-works`}>{dict.footer.howItWorks}</Link></li>
-                  <li><Link href={`/${lang}/${colorRoute}`}>{dict.footer.browseColors}</Link></li>
+                  <li><Link href={`/${lang}/colors`}>{dict.footer.browseColors}</Link></li>
                 </ul>
               </div>
               <div className={landingStyles.footerColumn}>

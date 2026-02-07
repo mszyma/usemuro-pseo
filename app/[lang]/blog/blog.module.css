@@ -876,29 +876,30 @@
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
-/* Hover preview - large swatch popup
-   Positioned relative to the .color-swatch anchor element */
+/* Hover preview - large swatch popup */
 .articleBody :global(.color-swatch-preview) {
   position: absolute;
-  bottom: calc(100% + 12px);
+  bottom: 100%;
   left: 0;
+  margin-bottom: 10px;
   width: 120px;
   height: 120px;
   border-radius: 12px;
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2), 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25), 0 2px 8px rgba(0, 0, 0, 0.15);
   border: 3px solid white;
   opacity: 0;
   visibility: hidden;
-  transform: translateY(8px);
-  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
-  z-index: 1000;
+  transform: scale(0.9);
+  transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+  z-index: 9999;
   pointer-events: none;
 }
 
-.articleBody :global(.color-swatch:hover .color-swatch-preview) {
+/* Show preview on hover */
+.articleBody :global(.color-swatch:hover > .color-swatch-preview) {
   opacity: 1;
   visibility: visible;
-  transform: translateY(0);
+  transform: scale(1);
 }
 
 /* Adjust preview position for swatches on mobile */

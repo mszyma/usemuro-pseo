@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { Language, SUPPORTED_LANGUAGES } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
-import { generateFAQSchema } from '@/lib/blog/schema';
+import { generateFAQSchema, generateOrganizationSchema } from '@/lib/blog/schema';
 import Navigation from '../components/Navigation';
 import FAQSection from '../components/FAQSection';
 import styles from '../landing.module.css';
@@ -54,19 +54,26 @@ export default async function FAQPage({
   const { lang } = await params;
   const dict = await getDictionary(lang);
 
-  // Generate FAQ schema
+  // Generate schemas: Organization and FAQ
   const faqItems = dict.faq.questions.map((q: { q: string; a: string }) => ({
     question: q.q,
     answer: q.a,
   }));
-  const faqSchema = generateFAQSchema(faqItems);
+  const schemas = [
+    generateOrganizationSchema(`${SITE_URL}/${lang}/faq`),
+    generateFAQSchema(faqItems),
+  ];
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-      />
+      {/* Schema.org structured data - Organization and FAQ */}
+      {schemas.map((schema, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
 
       <Navigation lang={lang} downloadText={dict.nav.download} />
 

@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { Language, SUPPORTED_LANGUAGES, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language, SUPPORTED_LANGUAGES } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import {
   getBlogPost,
@@ -11,7 +11,7 @@ import {
   getAllBlogSlugs,
   getTranslatedSlugs,
 } from '@/lib/blog/loader';
-import { generateArticleSchema, generateBreadcrumbSchema } from '@/lib/blog/schema';
+import { generateBlogPageSchemas } from '@/lib/blog/schema';
 import { addHeaderIds } from '@/lib/blog/toc';
 import Navigation from '../../components/Navigation';
 import TableOfContents from '../components/TableOfContents';
@@ -91,7 +91,6 @@ export default async function BlogArticlePage({
   }
 
   const dict = await getDictionary(lang);
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
   const author = getAuthorById(post.frontmatter.author);
   const category = getCategoryById(post.frontmatter.category);
   const relatedPosts = await getRelatedPosts(
@@ -117,8 +116,8 @@ export default async function BlogArticlePage({
     { year: 'numeric', month: 'long', day: 'numeric' }
   );
 
-  const articleSchema = generateArticleSchema(post, author, lang);
-  const breadcrumbSchema = generateBreadcrumbSchema([
+  // Generate all schemas: Organization, BlogPosting, and Breadcrumbs
+  const schemas = generateBlogPageSchemas(post, author, lang, [
     { name: 'Muro', url: `${SITE_URL}/${lang}` },
     { name: dict.blog.title, url: `${SITE_URL}/${lang}/blog` },
     { name: category.name[lang], url: `${SITE_URL}/${lang}/blog/category/${category.slug}` },
@@ -133,14 +132,14 @@ export default async function BlogArticlePage({
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
+      {/* Schema.org structured data - Organization, BlogPosting, and Breadcrumbs */}
+      {schemas.map((schema, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
 
       <Navigation lang={lang} downloadText={dict.nav.download} translations={translations} />
 
@@ -255,7 +254,7 @@ export default async function BlogArticlePage({
                 <ul>
                   <li><Link href={`/${lang}#features`}>{dict.footer.features}</Link></li>
                   <li><Link href={`/${lang}#how-it-works`}>{dict.footer.howItWorks}</Link></li>
-                  <li><Link href={`/${lang}/${colorRoute}`}>{dict.footer.browseColors}</Link></li>
+                  <li><Link href={`/${lang}/colors`}>{dict.footer.browseColors}</Link></li>
                 </ul>
               </div>
               <div className={landingStyles.footerColumn}>

@@ -1,4 +1,4 @@
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import { slugify, getColorBySlug, getAllManufacturers } from '@/lib/colors/loader';
 import Link from 'next/link';
@@ -55,7 +55,6 @@ export default async function TrendingColors2026Page({
 }) {
   const { lang } = await params;
   const dict = await getDictionary(lang);
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
 
   const colors = trendingColors.colors as TrendingColor[];
 

@@ -298,13 +298,42 @@ npm run build                  # Should generate 6000+ pages
 
 ## SEO & GEO Optimization
 
-### Schema.org Markup
+### Schema.org Markup (Automatic)
 
-Each article automatically includes:
-- **Article** schema for standard posts
-- **HowTo** schema for tutorial posts (set `schema: "HowTo"`)
-- **BreadcrumbList** for navigation
-- **WebSite** and **Organization** schemas
+**All schemas are automatically generated when you add new blog posts. No manual updates required.**
+
+The schema system is defined in `/lib/blog/schema.ts` and renders automatically on each page:
+
+| Page | Schemas Included |
+|------|------------------|
+| **Homepage** (`/[lang]`) | Organization, WebSite, SoftwareApplication |
+| **Blog Posts** (`/[lang]/blog/[slug]`) | Organization, BlogPosting, BreadcrumbList |
+| **FAQ Page** (`/[lang]/faq`) | Organization, FAQPage |
+
+**Organization Schema Fields:**
+- `name`: Muro
+- `alternateName`: Muro - Wall Color Visualizer
+- `description`: See exactly how any paint color will look on your walls before you buy a single can
+- `slogan`: See it before you paint it
+- `contactPoint`: mariusz@szyma.co
+
+**BlogPosting Schema Fields (per article):**
+- `headline`: Article title from frontmatter
+- `description`: Article description from frontmatter
+- `image`: Hero image URL
+- `datePublished` / `dateModified`: From frontmatter
+- `author`: Organization (Muro)
+- `publisher`: Organization (Muro)
+- `wordCount`, `keywords`, `articleSection`: Auto-generated
+
+**Adding Social Profiles:**
+To add Twitter, Instagram, etc., edit the `SOCIAL_PROFILES` object in `/lib/blog/schema.ts`:
+```typescript
+const SOCIAL_PROFILES = {
+  twitter: 'https://twitter.com/usemuro',
+  instagram: 'https://instagram.com/usemuro',
+};
+```
 
 ### AI Crawler Optimization
 

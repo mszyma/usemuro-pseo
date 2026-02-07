@@ -6,6 +6,40 @@
 # Support form redirect (preserved from landing page)
 /support https://docs.google.com/forms/d/e/1FAIpQLSc-euLqmLw6T1ByhFG8K2KgL9IQrpArrkoevRFmX8jFu-f8jg/viewform?usp=header 302
 
+# ===== COLOR PAGE REDIRECTS (EN-only) =====
+# DE/PL individual color pages redirect to manufacturer page with anchor
+# (since color pages only exist in English)
+/de/colors/:manufacturer/:slug /en/colors/:manufacturer#color-:slug 302
+/pl/colors/:manufacturer/:slug /en/colors/:manufacturer#color-:slug 302
+
+# ===== LOCALIZED ROUTE REDIRECTS =====
+# German (de) localized routes -> English path structure
+/de/farben/* /de/colors/:splat 301
+/de/farben /de/colors 301
+/de/hersteller/* /de/manufacturers/:splat 301
+/de/hersteller /de/manufacturers 301
+/de/rechtliches /de/legal 301
+/de/trends/* /de/trending/:splat 301
+/de/trends /de/trending 301
+/de/vergleichen/* /de/compare/:splat 301
+/de/vergleichen /de/compare 301
+/de/unterstuetzung /de/support 302
+
+# Polish (pl) localized routes -> English path structure
+/pl/kolory/* /pl/colors/:splat 301
+/pl/kolory /pl/colors 301
+/pl/producenci/* /pl/manufacturers/:splat 301
+/pl/producenci /pl/manufacturers 301
+/pl/prawne /pl/legal 301
+/pl/trendy/* /pl/trending/:splat 301
+/pl/trendy /pl/trending 301
+/pl/porownaj/* /pl/compare/:splat 301
+/pl/porownaj /pl/compare 301
+/pl/wsparcie /pl/support 302
+
+# Block .txt RSC payload files from direct access (redirect to proper pages)
+/*.txt /:splat 301
+
 # Legacy redirects from old landing page
 /legal.html /en/legal 301
 /legal /en/legal 301

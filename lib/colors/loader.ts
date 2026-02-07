@@ -1,10 +1,21 @@
 import fs from 'fs';
 import path from 'path';
 
-// In-memory cache for build performance
-const COLOR_CACHE = new Map<string, Color[]>();
-const MANUFACTURER_CACHE = new Map<string, Manufacturer>();
-let ALL_MANUFACTURERS: Manufacturer[] | null = null;
+// Use globalThis to persist cache across module reloads in dev mode
+const globalCache = globalThis as typeof globalThis & {
+  __colorCache?: Map<string, Color[]>;
+  __manufacturerCache?: Map<string, Manufacturer>;
+  __allManufacturers?: Manufacturer[];
+};
+
+// In-memory cache for build performance (uses global cache for persistence)
+const COLOR_CACHE = globalCache.__colorCache ?? new Map<string, Color[]>();
+const MANUFACTURER_CACHE = globalCache.__manufacturerCache ?? new Map<string, Manufacturer>();
+let ALL_MANUFACTURERS: Manufacturer[] | undefined = globalCache.__allManufacturers ?? undefined;
+
+// Persist to globalThis on first load
+if (!globalCache.__colorCache) globalCache.__colorCache = COLOR_CACHE;
+if (!globalCache.__manufacturerCache) globalCache.__manufacturerCache = MANUFACTURER_CACHE;
 
 export interface Color {
   id: string;              // "behr-100a-1"
@@ -88,7 +99,7 @@ function calculateLrv(rgb: { r: number; g: number; b: number }): number {
  * Get all manufacturers from the manufacturers.json index
  */
 export function getAllManufacturers(): Manufacturer[] {
-  if (ALL_MANUFACTURERS !== null) {
+  if (ALL_MANUFACTURERS !== undefined) {
     return ALL_MANUFACTURERS;
   }
 
@@ -106,6 +117,9 @@ export function getAllManufacturers(): Manufacturer[] {
     website: m.website,
     totalColors: m.colorCount,
   }));
+
+  // Persist to global cache for dev mode
+  globalCache.__allManufacturers = ALL_MANUFACTURERS;
 
   return ALL_MANUFACTURERS!;
 }

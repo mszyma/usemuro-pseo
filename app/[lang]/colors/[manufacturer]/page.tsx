@@ -1,4 +1,4 @@
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import {
   getAllManufacturers,
@@ -20,6 +20,7 @@ import { generateManufacturerMetadata } from '@/lib/seo/metadata';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import Navigation from '../../components/Navigation';
+import ColorCategoryGrid from '../components/ColorCategoryGrid';
 
 interface PageProps {
   params: Promise<{
@@ -100,7 +101,6 @@ export default async function ManufacturerPage({
   const COLORS_PER_PAGE = 240;
 
   const dict = await getDictionary(lang);
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
 
   // Check if this is a category page
   if (isValidCategoryId(slugParam)) {
@@ -153,7 +153,7 @@ export default async function ManufacturerPage({
               </li>
               <li>/</li>
               <li>
-                <Link href={`/${lang}/${colorRoute}`} className="hover:opacity-70 transition-opacity">
+                <Link href={`/${lang}/colors`} className="hover:opacity-70 transition-opacity">
                   {dict.allColors}
                 </Link>
               </li>
@@ -180,7 +180,8 @@ export default async function ManufacturerPage({
             {colors.slice(0, COLORS_PER_PAGE).map((color) => (
               <Link
                 key={color.id}
-                href={`/${lang}/${colorRoute}/${color.manufacturer}/${slugify(color.name)}`}
+                id={`color-${slugify(color.name)}`}
+                href={`/en/colors/${color.manufacturer}/${slugify(color.name)}`}
                 className="group"
               >
                 <div
@@ -302,7 +303,7 @@ export default async function ManufacturerPage({
             </li>
             <li>/</li>
             <li>
-              <Link href={`/${lang}/${colorRoute}`} className="hover:opacity-70 transition-opacity">
+              <Link href={`/${lang}/colors`} className="hover:opacity-70 transition-opacity">
                 {dict.allColors}
               </Link>
             </li>
@@ -340,40 +341,25 @@ export default async function ManufacturerPage({
           )}
         </div>
 
-        {/* Colors Grid */}
+        {/* Colors Grid - Client-side expandable categories */}
         {Object.entries(colorsByCategory).map(([category, categoryColors]) => (
-          <section key={category} className="mb-16">
-            <h2 className="mb-8 text-3xl font-semibold capitalize" style={{ color: 'var(--text-charcoal)', fontFamily: "'DM Sans', sans-serif" }}>
-              {dict.categories[category as keyof typeof dict.categories] || category}
-              <span className="ml-3 text-lg font-normal" style={{ color: 'var(--text-muted)' }}>
-                ({categoryColors.length})
-              </span>
-            </h2>
-            <div className="grid grid-cols-2 gap-6 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6">
-              {categoryColors.slice(0, 24).map((color) => (
-                <Link
-                  key={color.id}
-                  href={`/${lang}/${colorRoute}/${slugParam}/${slugify(color.name)}`}
-                  className="group"
-                >
-                  <div
-                    className="aspect-square w-full rounded-2xl shadow-lg transition-all group-hover:scale-105 group-hover:shadow-xl border-4"
-                    style={{
-                      backgroundColor: `#${color.hexColor}`,
-                      borderColor: 'var(--border-light)'
-                    }}
-                  />
-                  <p className="mt-3 text-sm font-medium truncate" style={{ color: 'var(--text-charcoal)' }}>{color.name}</p>
-                  <p className="text-xs" style={{ color: 'var(--text-muted)' }}>{color.code}</p>
-                </Link>
-              ))}
-            </div>
-            {categoryColors.length > 24 && (
-              <p className="mt-6 text-sm" style={{ color: 'var(--text-muted)' }}>
-                +{categoryColors.length - 24} more {category} colors
-              </p>
-            )}
-          </section>
+          <ColorCategoryGrid
+            key={category}
+            category={category}
+            categoryName={dict.categories[category as keyof typeof dict.categories] || category}
+            colors={categoryColors.map(c => ({
+              id: c.id,
+              name: c.name,
+              code: c.code,
+              hexColor: c.hexColor,
+              category: c.category,
+              manufacturer: c.manufacturer,
+            }))}
+            lang={lang}
+            manufacturerSlug={slugParam}
+            showAllLabel={lang === 'de' ? 'Alle anzeigen' : lang === 'pl' ? 'Pokaz wszystkie' : 'Show All'}
+            showLessLabel={lang === 'de' ? 'Weniger anzeigen' : lang === 'pl' ? 'Pokaz mniej' : 'Show Less'}
+          />
         ))}
 
         {/* CTA */}

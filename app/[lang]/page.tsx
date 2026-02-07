@@ -1,6 +1,7 @@
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import { generateHomepageMetadata } from '@/lib/seo/metadata';
+import { generateHomepageSchemas } from '@/lib/blog/schema';
 import { getColorStats } from '@/lib/colors/loader';
 import Link from 'next/link';
 import styles from './landing.module.css';
@@ -24,11 +25,19 @@ export default async function HomePage({
   const { lang } = await params;
   const dict = await getDictionary(lang);
   const stats = getColorStats();
-
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
+  const schemas = generateHomepageSchemas(lang);
 
   return (
     <>
+      {/* Schema.org structured data - Organization, WebSite, and App schemas */}
+      {schemas.map((schema, index) => (
+        <script
+          key={index}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+        />
+      ))}
+
       {/* Navigation */}
       <Navigation lang={lang} downloadText={dict.nav.download} />
 
@@ -277,7 +286,7 @@ export default async function HomePage({
                 <ul>
                   <li><a href="#features">{dict.footer.features}</a></li>
                   <li><a href="#how-it-works">{dict.footer.howItWorks}</a></li>
-                  <li><Link href={`/${lang}/${colorRoute}`}>{dict.footer.browseColors}</Link></li>
+                  <li><Link href={`/${lang}/colors`}>{dict.footer.browseColors}</Link></li>
                 </ul>
               </div>
               <div className={styles.footerColumn}>

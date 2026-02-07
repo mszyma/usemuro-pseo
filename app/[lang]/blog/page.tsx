@@ -1,5 +1,5 @@
 import { Metadata } from 'next';
-import { Language, LOCALIZED_ROUTES } from '@/lib/i18n/config';
+import { Language } from '@/lib/i18n/config';
 import { getDictionary } from '@/lib/i18n/dictionaries';
 import { getAllBlogPosts, getCategories } from '@/lib/blog/loader';
 import Link from 'next/link';
@@ -53,7 +53,6 @@ export default async function BlogIndexPage({
   const dict = await getDictionary(lang);
   const posts = await getAllBlogPosts(lang);
   const categories = getCategories();
-  const colorRoute = LOCALIZED_ROUTES[lang].colors;
 
   // Separate featured post from others
   const featuredPost = posts.find((p) => p.featured);
@@ -120,7 +119,7 @@ export default async function BlogIndexPage({
                 <ul>
                   <li><Link href={`/${lang}#features`}>{dict.footer.features}</Link></li>
                   <li><Link href={`/${lang}#how-it-works`}>{dict.footer.howItWorks}</Link></li>
-                  <li><Link href={`/${lang}/${colorRoute}`}>{dict.footer.browseColors}</Link></li>
+                  <li><Link href={`/${lang}/colors`}>{dict.footer.browseColors}</Link></li>
                 </ul>
               </div>
               <div className={landingStyles.footerColumn}>

@@ -19,6 +19,11 @@ export function middleware(request: NextRequest) {
     return NextResponse.redirect(new URL(`/${detectedLang}`, request.url));
   }
 
+  // Redirect /legal to /en/legal (canonical URL)
+  if (pathname === '/legal') {
+    return NextResponse.redirect(new URL('/en/legal', request.url), 301);
+  }
+
   // Check if pathname has a language prefix
   const pathnameHasLang = SUPPORTED_LANGUAGES.some(
     lang => pathname.startsWith(`/${lang}/`) || pathname === `/${lang}`
