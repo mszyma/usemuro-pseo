@@ -14,9 +14,9 @@ imageAlt: "Beautiful house exterior with fresh paint and excellent curb appeal"
 
 I've watched friends agonize over exterior colors like it's purely personal preference. It is personal, but if you're planning to sell within 5-10 years, some colors have measurable financial impact. The research is surprisingly clear.
 
-## What the Data Shows
+## What the data shows
 
-### Zillow's Analysis
+### Zillow's analysis
 
 Zillow analyzed over 135,000 photos from sold homes across the US. Their findings:
 
@@ -30,7 +30,7 @@ Zillow analyzed over 135,000 photos from sold homes across the US. Their finding
 - Brown/tan: -1.8%
 - Gray (too cool/stark): -1.2%
 
-### Front Door Impact
+### Front door impact
 
 The front door color has outsized impact on first impressions:
 
@@ -44,9 +44,9 @@ The front door color has outsized impact on first impressions:
 - Unpainted/weathered: Signals neglect
 - Mismatched from overall scheme: Looks like afterthought
 
-## Why These Colors Work
+## Why these colors work
 
-### Greige Works Everywhere
+### Greige works everywhere
 
 Greige (that gray-beige blend) is neutral enough to appeal broadly while having enough warmth to feel welcoming. It complements most roof colors, landscapes, and neighborhood styles.
 
@@ -55,7 +55,7 @@ Greige (that gray-beige blend) is neutral enough to appeal broadly while having 
 - Sherwin-Williams Agreeable Gray SW 7029
 - Farrow & Ball Hardwick White No. 5
 
-### Cool Grays Need Warm Accents
+### Cool grays need warm accents
 
 Pure gray exteriors can read as cold or industrial. If you go gray, add warmth through:
 - Cream or warm white trim
@@ -63,7 +63,7 @@ Pure gray exteriors can read as cold or industrial. If you go gray, add warmth t
 - Warm-toned landscaping
 - Black or navy accents
 
-### White Still Works
+### White still works
 
 Classic white exteriors remain safe choices, but the undertone matters:
 
@@ -77,7 +77,7 @@ Classic white exteriors remain safe choices, but the undertone matters:
 - Blue-undertone whites feel cold in many climates
 - Works better in warm, sunny climates
 
-## Regional Variations
+## Regional variations
 
 ### Northeast US
 
@@ -114,23 +114,23 @@ Classic and traditional:
 - Traditional grays
 - Deep blues and greens
 
-## The Psychology Behind It
+## The psychology behind it
 
-### Broad Appeal = Higher Offers
+### Broad appeal = higher offers
 
 Buyers mentally subtract renovation costs. An unusual color means "I'll have to repaint" which becomes "lower offer."
 
-### First Impressions Stick
+### First impressions stick
 
 85% of buyers decide about a home within seconds of seeing it. Exterior color is the first thing they notice.
 
-### Photography Matters
+### Photography matters
 
 Most buyers see homes online first. Colors that photograph well get more clicks, more showings, more offers.
 
-## Specific Color Recommendations
+## Specific color recommendations
 
-### Safe Choices (Maximize Resale)
+### Safe choices (maximize resale)
 
 **Body colors:**
 - Sherwin-Williams Repose Gray SW 7015
@@ -147,7 +147,7 @@ Most buyers see homes online first. Colors that photograph well get more clicks,
 - Sherwin-Williams Tricorn Black SW 6258
 - Farrow & Ball Hague Blue No. 30
 
-### Moderate Risk (Character with Appeal)
+### Moderate risk (character with appeal)
 
 **Body colors:**
 - Benjamin Moore Hale Navy HC-154
@@ -159,7 +159,7 @@ Most buyers see homes online first. Colors that photograph well get more clicks,
 - Hunter green shutters
 - Warm yellow accents
 
-### Higher Risk (Strong Personal Statement)
+### Higher risk (strong personal statement)
 
 **Body colors:**
 - Bright yellows
@@ -168,31 +168,31 @@ Most buyers see homes online first. Colors that photograph well get more clicks,
 
 These can work beautifully but narrow your buyer pool. Fine if you're staying forever; risky if selling soon.
 
-## The Trim and Accent Strategy
+## The trim and accent strategy
 
 Even with a safe body color, trim and accents add character:
 
-### Classic Formula
+### Classic formula
 
 - Neutral body (greige, warm gray, white)
 - Crisp white trim
 - Bold door color (black, navy, red)
 
-### Modern Formula
+### Modern formula
 
 - Dark body (charcoal, navy)
 - Same-tone or slightly lighter trim
 - Black or matching door
 
-### Traditional Formula
+### Traditional formula
 
 - White or cream body
 - White trim
 - Colored shutters and door
 
-## Common Mistakes
+## Common mistakes
 
-### Ignoring Fixed Elements
+### Ignoring fixed elements
 
 Your roof, brick, stone, and landscaping aren't changing. The exterior color must work with them.
 
@@ -201,39 +201,39 @@ Your roof, brick, stone, and landscaping aren't changing. The exterior color mus
 - Consider brick or stone colors
 - Look at neighboring homes
 
-### Choosing From Small Chips
+### Choosing from small chips
 
 Exterior colors look dramatically different at scale. Always test with large samples on the actual house.
 
-### Forgetting Lighting
+### Forgetting lighting
 
 North-facing facades look cooler. South-facing look warmer. The same color reads differently on each side of your house.
 
-### Trendy Over Timeless
+### Trendy over timeless
 
 Trends cycle. The "it" color of 2024 might look dated by 2030. Stick with classics if resale is the goal.
 
-## When to Ignore the Data
+## When to ignore the data
 
 The data represents averages. Your specific situation might warrant different choices:
 
-### Historic Homes
+### Historic homes
 
 Period-appropriate colors often matter more than trend data. A Victorian shouldn't be greige.
 
-### Unique Architecture
+### Unique architecture
 
 Modern architecture might demand bold choices. A mid-century modern deserves a mid-century palette.
 
-### Strong Neighborhood Character
+### Strong neighborhood character
 
 If every house on your street is a different bright color (like San Francisco Victorians), blending in might actually mean standing out.
 
-### You're Staying Forever
+### You're staying forever
 
 If you'll never sell, paint it purple. Life's too short for safe greige.
 
-## The Bottom Line
+## So what should you paint your house
 
 For maximum resale value: greige or warm gray body, white trim, black or navy door.
 

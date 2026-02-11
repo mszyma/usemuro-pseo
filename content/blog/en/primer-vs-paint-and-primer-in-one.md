@@ -14,11 +14,11 @@ imageAlt: "Paint roller applying white primer to bare drywall with paint cans ne
 
 I learned this the hard way. Tried to cover a fire-engine red accent wall with Agreeable Gray by Sherwin-Williams (SW 7029) using a "paint and primer in one." Four coats later, I could still see pink bleeding through. Bought a $25 can of dedicated primer, did one coat, then two coats of paint. Should have done that from the start.
 
-## When You Actually Need Dedicated Primer
+## When you actually need dedicated primer
 
 There are exactly four situations where you need to buy a separate primer. Everything else? The combo products work fine.
 
-### 1. Bare Drywall or New Construction
+### 1. Bare drywall or new construction
 
 Fresh drywall is porous and thirsty. It will suck the moisture out of your paint unevenly, leaving you with a blotchy mess called "flashing." No amount of extra coats fixes this.
 
@@ -26,7 +26,7 @@ Fresh drywall is porous and thirsty. It will suck the moisture out of your paint
 
 One coat of PVA primer seals the surface and gives your topcoat something uniform to grip. This is non-negotiable. I don't care what the paint can says.
 
-### 2. Covering Stains
+### 2. Covering stains
 
 Water stains, smoke damage, marker, crayon, grease spots. Regular paint, even the fancy stuff, won't block these. The stain will bleed through. Sometimes it takes a week, but it will happen.
 
@@ -34,7 +34,7 @@ Water stains, smoke damage, marker, crayon, grease spots. Regular paint, even th
 
 I once painted over what I thought was a small water stain. Used three coats of premium paint. Two weeks later, yellow ring. Had to sand it back and use proper stain-blocking primer.
 
-### 3. Dramatic Color Changes
+### 3. Dramatic color changes
 
 Going from dark to light is the classic case. Hale Navy by Benjamin Moore (HC-154) to Simply White by Benjamin Moore (OC-117)? You need primer. Going from red, orange, or deep purple to anything light? Primer.
 
@@ -42,7 +42,7 @@ Going from dark to light is the classic case. Hale Navy by Benjamin Moore (HC-15
 
 Here's a trick most people don't know: ask the paint store to tint your primer gray, roughly 50% of your final color's depth. Gray primer blocks better than white primer and requires fewer topcoats.
 
-### 4. Problem Surfaces
+### 4. Problem surfaces
 
 Glossy paint, oil-based paint you're covering with latex, slick surfaces like laminate or previously painted cabinets. Paint won't stick to these without help.
 
@@ -50,7 +50,7 @@ Glossy paint, oil-based paint you're covering with latex, slick surfaces like la
 
 If you skip this step on glossy surfaces, your new paint will peel. Maybe not today, maybe not next month, but it will peel.
 
-## When Paint-and-Primer-in-One Works Fine
+## When paint-and-primer-in-one works fine
 
 For everything else, the combo products do their job:
 
@@ -61,7 +61,7 @@ For everything else, the combo products do their job:
 
 The paint-and-primer products have more solids and better adhesion than regular paint. They're genuinely useful. They're just not magic.
 
-## The Real Cost Comparison
+## The real cost comparison
 
 Let's do the math on that red wall I mentioned.
 
@@ -78,7 +78,7 @@ Let's do the math on that red wall I mentioned.
 
 Primer isn't an extra expense. It's the thing that keeps you from buying twice as much paint.
 
-## Primer Types Explained
+## Primer types explained
 
 | Primer Type | Best For | Dry Time | Cleanup |
 |-------------|----------|----------|---------|
@@ -88,7 +88,7 @@ Primer isn't an extra expense. It's the thing that keeps you from buying twice a
 | Bonding | Glossy surfaces, tile, laminate | 1 hour | Water |
 | Gray-tinted | Dark to light color changes | 1 hour | Water |
 
-## Common Mistakes
+## Common mistakes
 
 **Mistake 1: Using white primer under dark colors**
 
@@ -106,7 +106,7 @@ Most primers say "recoat in 1 hour." That's the minimum. In humid conditions or 
 
 One coat is almost always enough. Primer isn't paint. Thick primer coats can actually cause problems, like cracking or poor topcoat adhesion.
 
-## Quick Decision Guide
+## Quick decision guide
 
 Ask yourself these questions:
 
@@ -116,7 +116,7 @@ Ask yourself these questions:
 4. **Is the old paint glossy or oil-based?** Yes = bonding primer
 5. **None of the above?** Paint-and-primer combo is fine
 
-## The Bottom Line
+## Save yourself the extra coats
 
 Dedicated primer exists to solve specific problems: sealing porous surfaces, blocking stains, enabling dramatic color changes, and helping paint stick to tricky surfaces. If you have one of those problems, buy the primer. It's cheaper than extra paint and frustration.
 

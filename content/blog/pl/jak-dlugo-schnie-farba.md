@@ -154,7 +154,7 @@ Czasem potrzebujesz, zeby rzeczy schly szybciej. Oto co naprawde dziala bez rujn
 
 **Co nie dziala:** Suszarki do wlosow, pistolety goracego powietrza lub grzejniki skierowane bezposrednio na farbe. Te powoduja, ze powierzchnia tworzy skorke, podczas gdy spod pozostaje mokry.
 
-## Podsumowanie
+## Ile czekać — w skrócie
 
 "Sucha" i "utwardzona" to nie to samo. Wiekszosc farb wydaje sie sucha w kilka godzin, ale nie osiaga pelnej trwalosci przez 2-4 tygodnie.
 

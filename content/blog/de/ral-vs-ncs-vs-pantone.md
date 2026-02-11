@@ -14,7 +14,7 @@ imageAlt: "Professionelle Farbfächer mit RAL, NCS und Pantone Farbmustern neben
 
 Ich habe am Anfang meiner Karriere peinlich viel Zeit damit verbracht anzunehmen, dass diese alle austauschbar wären. Kunde schickt eine Pantone-Referenz, ich schaue das "entsprechende" RAL nach, bestelle die Farbe. Dann erscheint der Kunde mit dem Pantone-Muster und es ist merklich anders. Wie sich herausstellte, gibt es kein echtes Äquivalent. Es gibt nur "nah genug," und manchmal ist das nicht nah genug.
 
-## RAL: Der europäische Standard
+## RAL: der europäische Standard
 
 RAL begann 1927 in Deutschland. Es ist der dominierende Farbstandard für europäische industrielle Anwendungen, besonders Bau, Fertigung und Pulverbeschichtung.
 
@@ -47,11 +47,11 @@ Die häufigsten Farben, die Sie sehen werden:
 - Industrieausrüstung
 - Gewerbliche Beschilderung in Europa
 
-### RAL Design vs RAL Classic
+### RAL Design vs. RAL Classic
 
 RAL Design ist ein neueres, grösseres System mit über 1.800 Farben mit einer anderen Notation (wie RAL 070 80 10). Es basiert auf dem CIELAB-Farbraum, was bedeutet, dass es systematischer organisiert ist. Aber die meisten Handwerker verwenden immer noch RAL Classic, weil das in ihren Farbsystemen ist.
 
-## NCS: Der skandinavische Ansatz
+## NCS: der skandinavische Ansatz
 
 NCS (Natural Color System) kommt aus Schweden und basiert darauf, wie Menschen Farbe wahrnehmen, nicht auf Pigmentmischung. Es ist der Standard für Architektur in Skandinavien und zunehmend beliebt in ganz Europa.
 
@@ -85,7 +85,7 @@ Die Farbtonnotation geht um einen Farbkreis: Y (Gelb), R (Rot), B (Blau), G (Gr�
 
 NCS-Notation sagt Ihnen genau, wie eine Farbe aussehen wird. Wenn Sie S 2030-Y90R kennen, wissen Sie, dass es 20% Schwarzanteil und 30% Farbintensität hat. Das ist nützlich, wenn Sie Farben über verschiedene Materialien hinweg spezifizieren (Farbe, Stoff, Metall) und sie koordinieren müssen.
 
-## Pantone: Der Standard der Designwelt
+## Pantone: der Standard der Designwelt
 
 Pantone ist amerikanisch, ursprünglich für die Druckindustrie geschaffen. Es ist der Standard für Grafikdesign, Produktdesign, Mode und Branding.
 
@@ -170,7 +170,7 @@ Stoppen Sie und sprechen Sie mit ihm. Fragen Sie, was er tatsächlich erreichen 
 
 **Wenn Sie im Wohnbereich arbeiten**: Das System Ihres Farbenherstellers (Caparol, Brillux, Sto, Alpina) ist wahrscheinlich alles, was Sie brauchen. Konvertieren Sie eingehende Spezifikationen in Ihr Arbeitssystem.
 
-## Das Fazit
+## Was heisst das in der Praxis?
 
 RAL, NCS und Pantone sind Werkzeuge, keine austauschbaren Bezeichnungen. Jedes dient einer bestimmten Branche und einem bestimmten Zweck. Umrechnungen existieren, aber sie sind Annäherungen.
 

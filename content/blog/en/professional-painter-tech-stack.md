@@ -14,7 +14,7 @@ imageAlt: "Professional painter using tablet and smartphone apps on a job site"
 
 Five years ago I was tracking jobs on spreadsheets, texting estimates, and keeping color selections in a notebook that I lost twice. Now everything's in apps that sync across devices, and I've cut my admin time in half while taking on more work. Here's what's actually worth paying for.
 
-## Color Visualization
+## Color visualization
 
 ### Muro
 
@@ -26,7 +26,7 @@ Five years ago I was tracking jobs on spreadsheets, texting estimates, and keepi
 
 **Best for:** Client presentations, narrowing down options, preventing "that's not what I expected" conversations
 
-### Manufacturer Apps
+### Manufacturer apps
 
 **Benjamin Moore Color Portfolio, Sherwin-Williams ColorSnap, Behr ColorSmart**
 
@@ -36,11 +36,11 @@ Five years ago I was tracking jobs on spreadsheets, texting estimates, and keepi
 
 **Best for:** Quick lookups when you already know the brand, browsing collections
 
-### The Verdict
+### The verdict
 
 Use Muro for client presentations and actual visualization. Use manufacturer apps for quick lookups and when you need formula codes.
 
-## Estimating and Proposals
+## Estimating and proposals
 
 ### PaintScout
 
@@ -72,11 +72,11 @@ Use Muro for client presentations and actual visualization. Use manufacturer app
 
 **Best for:** High-volume residential painters who need speed over complexity
 
-### The Verdict
+### The verdict
 
 PaintScout for most professional painters. ProPainter if you need quick mobile estimates. Estimate Rocket for complex commercial work.
 
-## Scheduling and Job Management
+## Scheduling and job management
 
 ### Jobber
 
@@ -108,11 +108,11 @@ PaintScout for most professional painters. ProPainter if you need quick mobile e
 
 **Best for:** Large painting companies with 10+ crews
 
-### The Verdict
+### The verdict
 
 Jobber for most painting businesses under 10 employees. Housecall Pro if marketing automation is a priority. ServiceTitan only if you've outgrown simpler tools.
 
-## Financial Tools
+## Financial tools
 
 ### QuickBooks Online
 
@@ -144,11 +144,11 @@ Jobber for most painting businesses under 10 employees. Housecall Pro if marketi
 
 **Best for:** Collecting deposits on-site, making payment easy for clients
 
-### The Verdict
+### The verdict
 
 QuickBooks for actual accounting. Square for payment collection. Wave if you're just starting and watching every dollar.
 
-## Project Documentation
+## Project documentation
 
 ### CompanyCam
 
@@ -170,11 +170,11 @@ QuickBooks for actual accounting. Square for payment collection. Wave if you're 
 
 **Best for:** Painters who do full renovations, not just painting
 
-### The Verdict
+### The verdict
 
 CompanyCam if you just need photo documentation. Buildertrend if you're managing complex multi-trade projects.
 
-## Communication
+## Communication tools
 
 ### Slack
 
@@ -196,11 +196,11 @@ CompanyCam if you just need photo documentation. Buildertrend if you're managing
 
 **Best for:** Every business
 
-### The Verdict
+### The verdict
 
 Google Workspace is non-negotiable. Add Slack when your team outgrows group texts.
 
-## The Minimum Viable Stack
+## The minimum viable stack
 
 Starting out? Here's the essentials:
 
@@ -211,7 +211,7 @@ Starting out? Here's the essentials:
 
 **Total: Under $10/month plus transaction fees**
 
-## The Professional Stack
+## The professional stack
 
 Established business with a few employees:
 
@@ -226,9 +226,9 @@ Established business with a few employees:
 
 Worth it when you're doing $10k+ monthly revenue.
 
-## Tools That Aren't Worth It
+## Tools that aren't worth it
 
-### Color matching gadgets
+### Color-matching gadgets
 
 Handheld devices that claim to scan wall colors. Accuracy is inconsistent, and the paint store's spectrophotometer does this better for free.
 
@@ -240,7 +240,7 @@ Software that tries to do everything (CRM + accounting + estimating + scheduling
 
 The time you waste fighting buggy software costs more than a proper tool subscription.
 
-## The Bottom Line
+## Start small, add as needed
 
 Your tech stack should save you time, not create more work. Start minimal, add tools as you feel specific pain points.
 

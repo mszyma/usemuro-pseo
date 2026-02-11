@@ -99,7 +99,7 @@ Ja, Sie konnen im Badezimmer dunkel werden, aber:
 
 **Gute Auswahl fur Drama:**
 
-Caparol 3D Palazzo 290 - Tief, raffiniert
+Caparol 3D Palazzo 290 - Tief, elegant
 
 Brillux Scala 90.03.30 - Fast schwarz, sehr markant
 
@@ -125,7 +125,7 @@ Wenn Sie Schimmel hatten, verwenden Sie eine schimmelblockierende Grundierung vo
 - Decke: Halbglanz (fangt den meisten Dampf)
 - Leisten: Halbglanz oder Glanz
 
-## Das Fazit
+## Beluftung schlagt Spezialfarbe
 
 Die meisten Badezimmer brauchen keine spezielle schimmelresistente Farbe. Gute Beluftung plus Satin- oder Halbglanz-Finish handhabt normale Badezimmerfeuchtigkeit.
 

@@ -87,7 +87,7 @@ Sniezka Barwy Natury Kamien Piaskowy - Idealna ciepla szarosc
 
 Dekoral Voice of Color Jasny Dab - Cieply greige, bardzo wypoczywajacy
 
-Dulux Kolory Świata Wenecka Perla - Wyrafinowany neutral
+Dulux Kolory Świata Wenecka Perla - Subtelny neutral
 
 Tikkurila Symphony N428 - Cieply bez bycia zoltym
 
@@ -128,7 +128,7 @@ LRV (Wspolczynnik Odbicia Swiatla) ma znaczenie dla sypialni. Oto dlaczego:
 
 **Idealne miejsce (50-70):** Wystarczajaco duzo odbicia swiatla, zeby czuc sie otwarcie i przewiewie, ale na tyle miekko, zeby czuc sie wypoczeto.
 
-## Podsumowanie
+## Jaki kolor wybrac do sypialni
 
 Twoja sypialnia powinna pomagac ci spac, a kolor gra wieksza role niz wiekszość ludzi sadzi. Niebieski i zielony wypadaja najlepiej we wszystkich badaniach. Cieple neutrale tez dzialaja dobrze. Unikaj jasnych bieli, energetyzujacych kolorow i czegokolwiek zbyt nasyconego.
 

@@ -16,7 +16,7 @@ I spent six months living with the wrong white in my first apartment. Chose "Pur
 
 Understanding undertones would have saved me that six months.
 
-## Why Undertones Matter More Than You Think
+## Why undertones matter more than you think
 
 The wrong white can:
 - Look dirty or dingy against your trim
@@ -33,9 +33,9 @@ The right white:
 
 This isn't subtle stuff. Get undertones wrong and you'll know something is off—you just might not know what.
 
-## The 5 Types of White Undertones
+## The 5 types of white undertones
 
-### 1. Yellow/Cream Undertones (Warm Whites)
+### 1. Yellow/cream undertones (warm whites)
 
 These are the cozy whites. Creamy, buttery, slightly vintage-feeling.
 
@@ -52,7 +52,7 @@ These are the cozy whites. Creamy, buttery, slightly vintage-feeling.
 
 **Watch out:** In south-facing rooms with intense sunlight, these can read very yellow. Almost butter-colored.
 
-### 2. Pink/Peach Undertones
+### 2. Pink/peach undertones
 
 Soft and rosy without being obviously pink. These are flattering whites—literally, they make skin tones look better.
 
@@ -64,12 +64,12 @@ Soft and rosy without being obviously pink. These are flattering whites—litera
 
 **Colors I recommend:**
 - **White Dove OC-17 (Benjamin Moore)** — The designer favorite, subtle pink
-- **Pristine OC-75** — Peachy undertone, very sophisticated
+- **Pristine OC-75** — Peachy undertone, polished without trying
 - **First Light 2102-70** — Barely-there blush
 
 **Watch out:** Under warm incandescent bulbs, pink undertones become more obvious. Test with your actual lighting.
 
-### 3. Blue Undertones (Cool Whites)
+### 3. Blue undertones (cool whites)
 
 Crisp, clean, modern. These are the "fresh" whites.
 
@@ -86,15 +86,15 @@ Crisp, clean, modern. These are the "fresh" whites.
 
 **Watch out:** In north-facing rooms or basements, these look harsh and cold. Almost clinical. I made this mistake—it's depressing.
 
-### 4. Green/Gray Undertones
+### 4. Green/gray undertones
 
-Sophisticated neutrals that avoid both yellow and pink. These are the "I can't quite figure out what color this is" whites.
+Understated neutrals that avoid both yellow and pink. These are the "I can't quite figure out what color this is" whites.
 
 **Best for:**
 - Contemporary spaces
 - Balancing warm wood floors
 - People who hate both pink and yellow undertones
-- Creating subtle sophistication
+- Creating a quiet, intentional look
 
 **Colors I recommend:**
 - **Swiss Coffee OC-45 (Benjamin Moore)** — Green-gray lean, very popular
@@ -103,7 +103,7 @@ Sophisticated neutrals that avoid both yellow and pink. These are the "I can't q
 
 **Watch out:** These can look slightly sage or gray in certain lighting. Not bad, just be aware.
 
-### 5. True Neutral (Balanced Whites)
+### 5. True neutral (balanced whites)
 
 The closest thing to "no undertone." These adapt to their surroundings.
 
@@ -118,7 +118,7 @@ The closest thing to "no undertone." These adapt to their surroundings.
 - **Snowbound SW 7004 (Sherwin-Williams)** — Balanced, slightly warm
 - **Cloud White OC-130** — Clean neutral
 
-## How Lighting Changes Everything
+## How lighting changes everything
 
 Here's the thing that messes everyone up: the same white looks different in different light.
 
@@ -139,9 +139,9 @@ Here's the thing that messes everyone up: the same white looks different in diff
 
 I live in a north-facing apartment now. Every white I use has warm undertones. It's non-negotiable.
 
-## How to Actually Test Whites
+## How to actually test whites
 
-### The Comparison Method
+### The comparison method
 
 1. Get 5-6 white paint chips
 2. Hold them against pure white paper (printer paper works)
@@ -150,7 +150,7 @@ I live in a north-facing apartment now. Every white I use has warm undertones. I
 
 This method reveals undertones that are invisible when viewing samples alone.
 
-### The Wall Method
+### The wall method
 
 1. Paint large samples (12"x12" minimum) on white poster board
 2. Hold the boards against your actual wall in your actual room
@@ -159,13 +159,13 @@ This method reveals undertones that are invisible when viewing samples alone.
 
 Don't skip the different times of day check. A white that looks perfect at 10am might look wrong at 6pm.
 
-### The App Method
+### The app method
 
 Use Muro to quickly see multiple whites on your walls before narrowing to physical samples. Saves buying eight sample pots only to hate seven of them.
 
-## Matching White to Your Stuff
+## Matching white to your stuff
 
-### With Warm Wood Floors
+### With warm wood floors
 
 Oak, pine, honey-colored hardwoods need warm whites:
 - Navajo White OC-95
@@ -174,7 +174,7 @@ Oak, pine, honey-colored hardwoods need warm whites:
 
 Cool whites make warm wood look orange by contrast. It's jarring.
 
-### With Cool Gray Floors or Furniture
+### With cool gray floors or furniture
 
 Gray flooring, gray couches, gray everything—use neutral to cool whites:
 - Chantilly Lace OC-65
@@ -183,7 +183,7 @@ Gray flooring, gray couches, gray everything—use neutral to cool whites:
 
 Yellowy creams will clash and make your gray stuff look purple-ish.
 
-### With Existing White Trim
+### With existing white trim
 
 This is where people mess up constantly. Wall white and trim white need to be from the same undertone family.
 
@@ -193,7 +193,7 @@ This is where people mess up constantly. Wall white and trim white need to be fr
 
 **When in doubt:** Use the exact same white on walls and trim. The sheen difference (eggshell walls, semi-gloss trim) creates enough visual separation.
 
-## The Foolproof Choices
+## The foolproof choices
 
 If you need a safe recommendation:
 
@@ -213,29 +213,29 @@ If you need a safe recommendation:
 - Adapts to surrounding colors
 - Safe for uncertain situations
 
-## Mistakes I See Constantly
+## Mistakes I see constantly
 
-### Mistake 1: Assuming White Is White
+### Mistake 1: Assuming white is white
 
 "Just give me white" leads to random results. Every white has an undertone. Accept this first.
 
-### Mistake 2: Testing in Store Lighting
+### Mistake 2: Testing in store lighting
 
 Store lighting lies. It's designed to make paint look good on the chip. Test in your home, in your light.
 
-### Mistake 3: Mismatched Trim and Walls
+### Mistake 3: Mismatched trim and walls
 
 Cool gray-white trim next to warm cream walls = visual chaos. Keep undertones consistent.
 
-### Mistake 4: Too Many Whites
+### Mistake 4: Too many whites
 
 I've seen homes with five different whites in five rooms. Looks chaotic and accidental. Stick to 1-2 whites maximum.
 
-### Mistake 5: Forgetting the Ceiling
+### Mistake 5: Forgetting the ceiling
 
 If your ceiling is painted white, it needs to coordinate with your wall white. Same undertone family, or just use the same color.
 
-## The Bottom Line
+## Once you see undertones, you can't unsee them
 
 1. **All whites have undertones** — Accept this as fact
 2. **Match undertone to lighting** — Warm rooms handle cool whites; cool rooms need warm whites

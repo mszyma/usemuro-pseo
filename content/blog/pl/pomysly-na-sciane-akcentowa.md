@@ -104,11 +104,11 @@ Idziesz na calosc? Granat, czern, ciemna zielen, gleboki burgund. Te dzialaja, a
 
 Dekoral Voice of Color Granatowa Noc - klasyczny granat, ktory dziala wszedzie
 
-Dulux Kolory Swiata Wulkan - wyrafinowany antracyt, prawie czarny
+Dulux Kolory Swiata Wulkan - gleboki antracyt, prawie czarny
 
 Sniezka Nature Mglisty Poranek - nastrojowa szalwiowa zielen
 
-Tikkurila Symphony N441 - ciepla, wyrafinowana brazowo-szara
+Tikkurila Symphony N441 - ciepla, stonowana brazowo-szara
 
 Dekoral Fashion Antracyt - gleboka szarosc z subtelnym cieplem
 
@@ -148,7 +148,7 @@ Sciana akcentowa powinna byc JEDYNYM akcentem. Wszystko inne gra role wspierajac
 
 **Najlepsza lokalizacja:** Za sofa lub sciana z kominkiem
 
-**Najlepsze kolory:** Glebokie niebieskie, bogate zielenie, wyrafinowane szarosci
+**Najlepsze kolory:** Glebokie niebieskie, bogate zielenie, spokojne szarosci
 
 Unikaj: Czerwieni i pomaranczy (zbyt stymulujace dla przestrzeni relaksu)
 
@@ -178,7 +178,7 @@ Tu mozesz byc odwazny. Gleboka czerwien, lesna zielen, granat. Jadalnie sa stwor
 
 Generalnie pomin sciane akcentowa. Lazienki sa male i maja juz wizualne przerywniki (lustro, armatura, plytki). Dodanie sciany akcentowej moze wydawac sie zatloczone.
 
-## Podsumowanie
+## Na koniec — jedna zasada
 
 Sciana akcentowa powinna odpowiadac na pytanie "Na co chcesz, zeby ludzie patrzyli?" Postaw ja tam, gdzie oko naturalnie podaza. Zrob ja 2-3 odcienie ciemniejsza niz glowne sciany dla latwego sukcesu, lub badz odwazny jesli masz swiatlo i wysokosc, zeby to wspierac.
 

@@ -161,7 +161,7 @@ Powiedzmy, ze pokrywasz 40 metrow kwadratowych ciemnoniebieskich scian.
 
 Grunt nie jest dodatkowym kosztem. To oszczednosc.
 
-## Podsumowanie
+## Trzy warstwy i po sprawie
 
 Zmiany kolorow ciemny-do-jasnego wymagaja szaro zabarwionego gruntu. Nie ma skrotu, ktory naprawde dziala. Grunt kosztuje mniej niz dodatkowa farba, ktora bys uzyl probujac go pominac, i oszczedza godziny frustracji.
 

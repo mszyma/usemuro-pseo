@@ -240,7 +240,7 @@ Oprogramowanie które próbuje robić wszystko (CRM + księgowość + wyceny + p
 
 Czas który tracisz walcząc z bugami kosztuje więcej niż subskrypcja porządnego narzędzia.
 
-## Podsumowanie
+## Od czego zacząć
 
 Twój tech stack powinien oszczędzać czas, nie tworzyć więcej pracy. Zacznij minimalnie, dodawaj narzędzia gdy poczujesz konkretne bolączki.
 

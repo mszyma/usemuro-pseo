@@ -17,7 +17,7 @@ Nauczyłem się tego na własnej skórze, kiedy pomalowałem swoje 10-metrowe do
 
 Więc rozłóżmy na czynniki pierwsze, co naprawdę działa.
 
-## Dlaczego jasne kolory powiększają pomieszczenia
+## Dlaczego jasne kolory sprawiaja, ze pokoj wyglada na wiekszy
 
 Sprowadza się to do fizyki. Kiedy światło uderza w twoją ścianę, farba albo je pochłania, albo odbija. Ciemne kolory pochłaniają większość światła — dlatego bary w piwnicach i speakeasy używają głębokich kolorów. Mają sprawiać wrażenie intymności i zamknięcia.
 
@@ -29,7 +29,7 @@ Jasne kolory robią odwrotnie. Odbijają światło z powrotem do pokoju, a twój
 
 Dla małego pokoju potrzebujesz kolorów z LRV powyżej 50. Powyżej 70, jeśli chcesz zmaksymalizować efekt.
 
-## Najlepsze kolory farb do małych pomieszczeń
+## Kolory, ktore sprawdzilem w malych pokojach
 
 Przetestowałem dziesiątki kolorów w małych przestrzeniach. Oto te, które konsekwentnie działają:
 
@@ -55,7 +55,7 @@ Kremowa, miękka biel, która jest bardziej wybaczająca niż czysta biel. Lekka
 
 Dla ludzi, którzy uważają biel za nudną. Ta ciepła szarość ma wystarczająco dużo koloru, by wyglądać celowo, ale jest wciąż wystarczająco jasna, by otworzyć przestrzeń. Pięknie komponuje się z białymi listwami.
 
-*Najlepszy do:* Nowoczesnych przestrzeni, gdzie chcesz wyrafinowania bez poświęcania światła.
+*Najlepszy do:* Nowoczesnych przestrzeni, gdzie chcesz elegancji bez poswiecania swiatla.
 
 ### 4. Morska sól od Dulux
 
@@ -73,7 +73,7 @@ Greige (szary + beż), który wydaje się aktualny bez bycia modnym. Neutralny p
 
 *Najlepszy do:* Przestrzeni, gdzie nie jesteś pewien, w jakim kierunku pójdzie twój wystrój.
 
-## A co z sufitem?
+## Sufit tez ma znaczenie
 
 Oto sztuczka, którą większość ludzi przegapia: **pomaluj sufit w tym samym kolorze co ściany.**
 
@@ -81,7 +81,7 @@ Kiedy używasz tego samego jasnego koloru na obu powierzchniach, twoje oko nie r
 
 Działa to szczególnie dobrze przy sufitach poniżej 2,70 m.
 
-## Kolory do unikania w małych pokojach
+## Czego unikac w malych pokojach
 
 Niektóre kolory po prostu nie działają w ciasnych przestrzeniach:
 
@@ -92,7 +92,7 @@ Niektóre kolory po prostu nie działają w ciasnych przestrzeniach:
 
 Jedyny wyjątek: pojedyncza ciemna ściana akcentowa. Jeśli trzy ściany są jasne, a jedna ciemna, ciemna ściana może faktycznie dodać głębi. Ale działa to tylko wtedy, gdy masz wystarczająco dużo światła z innych ścian.
 
-## Jak właściwie wybrać odpowiedni kolor
+## Jak w praktyce wybrac odpowiedni kolor
 
 Rzecz z próbnikami farb — kłamią. 5-centymetrowy próbnik pod sklepowym oświetleniem mówi ci prawie nic o tym, jak kolor będzie wyglądał na twoich 20-metrowych ścianach.
 
@@ -102,7 +102,7 @@ Rzecz z próbnikami farb — kłamią. 5-centymetrowy próbnik pod sklepowym oś
 
 Wizualizacja zachowuje oświetlenie i cienie twojego pokoju, więc dostajesz realistyczny podgląd.
 
-## Podsumowanie
+## Najwazniejsze
 
 Dla małych pokojów: trzymaj się kolorów z LRV powyżej 50 (powyżej 70 dla maksymalnego efektu). Biele i odcienie bieli dają ci najwięcej mocy powiększania przestrzeni, ale jasne szarości i bladoniebiesko-zielone też działają.
 

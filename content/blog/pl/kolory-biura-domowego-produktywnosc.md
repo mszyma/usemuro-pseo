@@ -14,7 +14,7 @@ imageAlt: "Nowoczesne biuro domowe ze spokojnymi niebiesko-zielonymi scianami i 
 
 Spedzilem dwa lata pracujac w biurze domowym pomalowanym na "Slonecznikowy Zolty." Myslalem, ze bedzie energetyzujacy i motywujacy. Zamiast tego czulem sie nakrecony ale nie skupiony, zawsze lekko na krawedzi. Przemalowalem go na miekka szalwiowa zielen. Natychmiast zauwazylem, ze moge sie dluzej koncentrowac i czulem sie mniej wyczerpany na koniec dnia.
 
-## Co psychologia koloru mowi o pracy
+## Co psychologia koloru mowi o skupieniu
 
 Kolory wplywaja na nasze mozgi w mierzalny sposob:
 
@@ -70,7 +70,7 @@ Dekoral Voice of Color Jasny Dab - Ciepły ale nie zolty
 
 Dulux Kolory Swiata Wenecka Perla - Profesjonalny i ciepły
 
-Tikkurila Symphony N428 - Wyrafinowany greige
+Tikkurila Symphony N428 - Stonowany greige
 
 ## Czynnik LRV dla komfortu oczu
 
@@ -118,7 +118,7 @@ Jesli prowadzisz wideorozmowy, twoj kolor sciany ma znaczenie dla tego jak wygla
 - Jasne biele (przeswietlone, kliniczne)
 - Niespokojne wzory lub ciemne kolory (rozpraszajace)
 
-## Podsumowanie
+## Ktore kolory wybrac, a ktorych unikac
 
 Niebiesko-zielenie i odcienie szalwii promuja skupienie. Cieple neutraly wygladaja dobrze na kamerze i nie rozpraszaja. Unikaj wszystkiego co zbyt stymulujace (jasne kolory) lub zbyt wyczerpujace (bardzo ciemne kolory).
 

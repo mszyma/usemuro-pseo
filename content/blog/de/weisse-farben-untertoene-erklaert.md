@@ -35,7 +35,7 @@ Das ist kein subtiles Zeug. Wenn du Untertöne falsch wählst, wirst du wissen, 
 
 ## Die 5 Arten von weißen Untertönen
 
-### 1. Gelbe/Cremige Untertöne (Warme Weißtöne)
+### 1. Gelbe/cremige Untertöne (warme Weißtöne)
 
 Das sind die gemütlichen Weißtöne. Cremig, butterig, leicht vintage-anmutend.
 
@@ -64,12 +64,12 @@ Weich und rosig, ohne offensichtlich rosa zu sein. Das sind schmeichelhafte Wei�
 
 **Farben die ich empfehle:**
 - **Taubenflügel von Caparol** — Der Designer-Favorit, subtiles Rosa
-- **Pristine von Brillux** — Pfirsichfarbener Unterton, sehr raffiniert
+- **Pristine von Brillux** — Pfirsichfarbener Unterton, sehr zurückhaltend
 - **Erstes Licht von Sto** — Kaum-da Hauch von Rouge
 
 **Achtung:** Unter warmen Glühlampen werden rosa Untertöne offensichtlicher. Teste mit deiner tatsächlichen Beleuchtung.
 
-### 3. Blaue Untertöne (Kühle Weißtöne)
+### 3. Blaue Untertöne (kühle Weißtöne)
 
 Knackig, sauber, modern. Das sind die „frischen" Weißtöne.
 
@@ -86,15 +86,15 @@ Knackig, sauber, modern. Das sind die „frischen" Weißtöne.
 
 **Achtung:** In nach Norden ausgerichteten Räumen oder Kellern wirken diese hart und kalt. Fast klinisch. Diesen Fehler habe ich gemacht – es ist deprimierend.
 
-### 4. Grüne/Graue Untertöne
+### 4. Grüne/graue Untertöne
 
-Raffinierte Neutraltöne, die sowohl Gelb als auch Rosa vermeiden. Das sind die „ich kann nicht genau sagen, welche Farbe das ist" Weißtöne.
+Unauffällige Neutraltöne, die sowohl Gelb als auch Rosa vermeiden. Das sind die „ich kann nicht genau sagen, welche Farbe das ist" Weißtöne.
 
 **Am besten für:**
 - Zeitgenössische Räume
 - Balance zu warmen Holzböden
 - Menschen, die sowohl rosa als auch gelbe Untertöne hassen
-- Subtile Raffinesse schaffen
+- Subtile Eleganz schaffen
 
 **Farben die ich empfehle:**
 - **Schweizer Kaffee von Caparol** — Grün-grau Tendenz, sehr beliebt
@@ -103,7 +103,7 @@ Raffinierte Neutraltöne, die sowohl Gelb als auch Rosa vermeiden. Das sind die 
 
 **Achtung:** Diese können bei bestimmtem Licht leicht salbei- oder graufarben aussehen. Nicht schlecht, sei dir nur bewusst.
 
-### 5. Echtes Neutral (Ausgewogene Weißtöne)
+### 5. Echtes Neutral (ausgewogene Weißtöne)
 
 Das Nächste zu „kein Unterton." Diese passen sich ihrer Umgebung an.
 
@@ -213,7 +213,7 @@ Wenn du eine sichere Empfehlung brauchst:
 - Passt sich umgebenden Farben an
 - Sicher für unsichere Situationen
 
-## Das Fazit
+## Worauf es ankommt
 
 1. **Alle Weißtöne haben Untertöne** — Akzeptiere das als Fakt
 2. **Passe Unterton an Beleuchtung an** — Warme Räume vertragen kühle Weißtöne; kühle Räume brauchen warme Weißtöne

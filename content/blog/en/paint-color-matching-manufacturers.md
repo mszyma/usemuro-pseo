@@ -14,17 +14,17 @@ imageAlt: "Multiple paint brand fan decks and color chips spread on a table for 
 
 I learned this doing a renovation where half the house had existing Benjamin Moore paint and the client wanted to extend it into new rooms using Sherwin-Williams (their painter's preference). Spent hours finding the "equivalent" colors online. Painted them side by side. Not even close. Same color name on the can, completely different on the wall.
 
-## Why Perfect Matches Don't Exist
+## Why perfect matches don't exist
 
-### Different Pigment Systems
+### Different pigment systems
 
 Every manufacturer sources and formulates pigments differently. Benjamin Moore's red oxide isn't the same as Sherwin-Williams' red oxide. These subtle differences compound when mixing complex colors.
 
-### Different Bases
+### Different bases
 
 The white base paint that gets tinted varies by brand. Some are brighter, some warmer, some have different sheens even at the "same" finish level.
 
-### Proprietary Formulas
+### Proprietary formulas
 
 Color formulas are trade secrets. When Brand A "matches" Brand B's color, they're reverse-engineering from a physical sample, not using the original recipe.
 
@@ -32,26 +32,26 @@ Color formulas are trade secrets. When Brand A "matches" Brand B's color, they'r
 
 Two paints might look identical under store lighting but different in your home. Different pigment combinations reflect light wavelengths differently.
 
-## The Best Approach: Physical Sample Matching
+## The best approach: physical sample matching
 
 Forget online conversion charts. They're starting points at best.
 
-### Step 1: Get the Physical Chip
+### Step 1: Get the physical chip
 
 If you have the original paint:
 - Cut a chip from an inconspicuous spot
 - Get a paint can lid with dried paint
 - Pull the original chip from their files if possible
 
-### Step 2: Take It to the Store
+### Step 2: Take it to the store
 
 Most major paint stores have spectrophotometers that scan colors and create formulas. This is more accurate than any conversion chart because it's measuring the actual color, not guessing from a name.
 
-### Step 3: Get a Sample
+### Step 3: Get a sample
 
 Never buy a gallon on the first match. Get a sample pot or test quart. Paint a large patch (at least 12" x 12") on the actual wall.
 
-### Step 4: Compare Under Real Conditions
+### Step 4: Compare under real conditions
 
 View the sample:
 - In morning light
@@ -59,11 +59,11 @@ View the sample:
 - Under artificial light at night
 - Next to the original color if possible
 
-### Step 5: Adjust If Needed
+### Step 5: Adjust if needed
 
 If the first match isn't right, take both samples back. Most stores can adjust the formula by adding small amounts of tint.
 
-## Common Cross-Brand Scenarios
+## Common cross-brand scenarios
 
 ### Benjamin Moore to Sherwin-Williams
 
@@ -78,7 +78,7 @@ The two most popular premium brands in the US. Their whites are notoriously diff
 | Revere Pewter HC-172 | Accessible Beige SW 7036 | Different undertones |
 | Hale Navy HC-154 | Naval SW 6244 | SW slightly deeper |
 
-### Behr to Major Brands
+### Behr to major brands
 
 Behr (Home Depot exclusive) has different pigment loading than contractor-grade paints.
 
@@ -87,7 +87,7 @@ Behr (Home Depot exclusive) has different pigment loading than contractor-grade 
 - Test larger samples, colors can look different at scale
 - Their whites can pull pink or purple compared to other brands
 
-### European to American Brands
+### European to American brands
 
 Caparol, Brillux, or Farrow & Ball colors going to Sherwin-Williams or Benjamin Moore? Expect challenges:
 
@@ -95,23 +95,23 @@ Caparol, Brillux, or Farrow & Ball colors going to Sherwin-Williams or Benjamin 
 - Saturation levels vary significantly
 - Get physical samples and do side-by-side comparisons
 
-## Using Online Conversion Tools
+## Using online conversion tools
 
 Online tools like Encyclopedia of Colors, The Paint Color Project, or brand websites offer "equivalents." Use them as starting points, not answers.
 
-### What They're Good For
+### What they're good for
 
 - Finding approximate matches to narrow your search
 - Getting color family suggestions
 - Identifying similar tones across brands
 
-### What They're Bad For
+### What they're bad for
 
 - Exact matching (no such thing exists)
 - Critical color matching for touch-ups
 - Legal or brand specifications
 
-### My Process
+### My process
 
 1. Use online tool to find 3-5 potential matches
 2. Get physical chips for all of them
@@ -119,9 +119,9 @@ Online tools like Encyclopedia of Colors, The Paint Color Project, or brand webs
 4. Sample the closest one on the wall
 5. Adjust from there
 
-## Special Cases
+## Special cases
 
-### Touch-Up Matching
+### Touch-up matching
 
 If you're touching up existing paint with a different brand, you're fighting an uphill battle. Even small color differences become obvious when painted next to each other.
 
@@ -130,7 +130,7 @@ If you're touching up existing paint with a different brand, you're fighting an 
 - Paint an entire wall if possible
 - Accept that seamless touch-ups across brands don't happen
 
-### Historic Colors
+### Historic colors
 
 Trying to match a historic Benjamin Moore color that's been discontinued? Or a Farrow & Ball color using domestic paint?
 
@@ -139,7 +139,7 @@ Trying to match a historic Benjamin Moore color that's been discontinued? Or a F
 - Accept some variation
 - Document the custom formula for future touch-ups
 
-### Brand-Specific Colors
+### Brand-specific colors
 
 Some colors are iconic to specific brands:
 
@@ -149,18 +149,18 @@ Some colors are iconic to specific brands:
 
 Matching these with other brands? You'll get close but not exact. If the specific character matters, use the original brand.
 
-## When to Just Use the Original Brand
+## When to just use the original brand
 
 Sometimes cross-brand matching isn't worth the effort:
 
-### Use Original When:
+### Use original when:
 - Client specifically requested that exact color
 - Touching up existing work
 - Color is distinctive or iconic
 - Brand quality matters for the application
 - Matching to other elements already installed
 
-### Cross-Brand Is Fine When:
+### Cross-brand is fine when:
 - Starting fresh with no existing paint
 - Color is a common neutral
 - Price or availability is a factor
@@ -179,7 +179,7 @@ When you do cross-brand matching, document everything:
 
 This saves enormous time if you need to rematch or touch up later.
 
-## The Bottom Line
+## Close enough is the best you'll get
 
 Cross-brand color matching is always an approximation. The closer to white or neutral, the easier. The more saturated or complex the color, the harder.
 

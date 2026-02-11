@@ -18,7 +18,7 @@ Popełniłem każdy błąd przy testowaniu farb, jaki można popełnić. Pomalow
 
 Więc wymyśliłem system, który naprawdę działa.
 
-## Dlaczego próbniki nie działają
+## Dlaczego próbniki ze sklepu kłamią
 
 Pomyśl, co jest różne między sklepem a twoim domem:
 
@@ -29,9 +29,9 @@ Pomyśl, co jest różne między sklepem a twoim domem:
 
 Kolory dramatycznie się zmieniają w zależności od tych czynników. Ta „ciepła szarość" może wyglądać na niebieską, fioletową, zieloną lub brązową w zależności od źródła światła w twoim pokoju i tego, co jest wokół.
 
-## 3-krokowy system testowania farb
+## 3 kroki, ktore naprawde dzialaja
 
-### Krok 1: Cyfrowa eliminacja (15 minut)
+### Krok 1: Odrzuc najgorsze cyfrowo (15 minut)
 
 Zanim kupisz choćby jedną próbkę, zawęź swój wybór cyfrowo. Tu wchodzą aplikacje jak Muro.
 
@@ -41,7 +41,7 @@ Zwykle zaczynam od 8-10 kolorów, które rozważam, i eliminuję 6-7 z nich w ok
 
 **Dlaczego to działa**: Testujesz w swojej rzeczywistej przestrzeni, z twoim rzeczywistym światłem, na twoich rzeczywistych ścianach. Bez zgadywania.
 
-### Krok 2: Duże tablice próbkowe (2-3 dni)
+### Krok 2: Kartony z farba po pokoju (2-3 dni)
 
 Dla twoich 2-3 najlepszych kolorów kup próbniki i pomaluj duże kartony (co najmniej 30x30 cm, większe lepiej). Jeszcze nie maluj bezpośrednio na ścianie.
 
@@ -60,7 +60,7 @@ Umieść każdą tablicę:
 
 Żyj z nimi przez minimum 2-3 dni. Zdziwisz się, jak twoje odczucia się zmienią, gdy minie początkowa ekscytacja.
 
-### Krok 3: Ostateczny test ścienny (1 tydzień)
+### Krok 3: Fragment na scianie (1 tydzien)
 
 Kiedy masz zwycięzcę, pomaluj sekcję 60x60 cm bezpośrednio na ścianie — najlepiej w miejscu, które dostaje zróżnicowane światło przez cały dzień. Żyj z tym przez tydzień.
 
@@ -71,29 +71,29 @@ To twoja ostatnia szansa, by wyłapać problemy:
 
 Jeśli coś wydaje się nie tak, zaufaj temu uczuciu. Dużo łatwiej przemalować 30 centymetrów kwadratowych niż 40 metrów kwadratowych.
 
-## Typowe błędy (popełniłem wszystkie)
+## Bledy, ktore sam popelnilem
 
-**Błąd 1: Testowanie w złym świetle**
+**Testowanie w zlym swietle**
 
 Większość ludzi testuje kolory za dnia, a potem nienawidzi ich w nocy pod ciepłymi żarówkami. Testuj we WSZYSTKICH twoich warunkach oświetleniowych. Ten piękny „greige" może stać się różowy pod twoimi ciepłymi żarówkami LED.
 
-**Błąd 2: Zbyt małe próbniki**
+**Za male probniki**
 
 5 cm próbnik jest bezużyteczny. Potrzebujesz co najmniej 30x30 cm próbki, by zobaczyć, jak kolor faktycznie wygląda. Farba wygląda inaczej w większej skali — co wydaje się subtelne na próbniku, może przytłaczać na ścianie.
 
-**Błąd 3: Ignorowanie podtonów**
+**Ignorowanie podtonow**
 
 Każdy kolor ma podton — subtelny kolor wtórny, który pokazuje się przy pewnym świetle. Szarość może przechodzić w niebieską, zieloną lub fioletową. Beż może przechodzić w różową lub żółtą. Naucz się, jakie podtony działają w twojej przestrzeni, zanim się zdecydujesz.
 
-**Błąd 4: Nieuwzględnianie sąsiednich pokojów**
+**Nieuwzglednianie sasiednich pokojow**
 
 Stań w przedpokoju. Czy widzisz do kilku pokojów? Te kolory muszą ze sobą współgrać, nawet jeśli są różne.
 
-**Błąd 5: Testowanie na ciemnej ścianie**
+**Testowanie na ciemnej scianie**
 
 Jeśli twoja obecna ściana jest ciemna, podtony będą przebijać i wpływać na to, jak nowy kolor wygląda. Najpierw pomaluj białą zagruntowaną tablicę lub użyj gruntu na sekcji testowej.
 
-## Podsumowanie
+## Komu nie ufac
 
 Nie ufaj próbnikom. Nie ufaj sklepowemu oświetleniu. Nie ufaj kolorowi, który widziałeś na idealnie oświetlonym poście influencera na Instagramie.
 

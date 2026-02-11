@@ -53,9 +53,9 @@ Ein cremiges, weiches Weiß, das verzeihender ist als reines Weiß. Die leichte 
 
 **LRV: ca. 75**
 
-Für Menschen, die Weiß langweilig finden. Dieses warme Grau hat genug Farbe, um beabsichtigt zu wirken, ist aber immer noch hell genug, um einen Raum zu öffnen. Passt wunderschön zu weißen Leisten.
+Für Menschen, die Weiß langweilig finden. Dieses warme Grau hat genug Farbe, um beabsichtigt zu wirken, ist aber immer noch hell genug, um einen Raum zu öffnen. Passt gut zu weißen Leisten.
 
-*Am besten für:* Moderne Räume, in denen du Raffinesse willst, ohne Licht zu opfern.
+*Am besten für:* Moderne Räume, in denen du Eleganz willst, ohne Licht zu opfern.
 
 ### 4. Salbeigrün von Sto
 
@@ -102,7 +102,7 @@ Die Sache mit Farbmustern ist – sie lügen. Ein 5-Zentimeter-Muster unter Lade
 
 Die Visualisierung bewahrt die Beleuchtung und Schatten deines Raumes, so dass du eine realistische Vorschau bekommst.
 
-## Das Fazit
+## Was du dir merken solltest
 
 Für kleine Räume: Halte dich an Farben mit LRV über 50 (über 70 für maximalen Effekt). Weiß und Weißtöne geben dir die meiste raumerweiternde Kraft, aber helle Grautöne und blasse Blau-Grüntöne funktionieren auch.
 

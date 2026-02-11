@@ -14,31 +14,31 @@ imageAlt: "Split view of dark navy wall being painted over with light color show
 
 I tried the "just use more coats" approach once. Dark red accent wall to light gray. Six coats of premium paint later, I could still see pink in certain light. The primer would have cost me $30 and saved me $150 in extra paint plus a weekend of frustration.
 
-## Why Dark-to-Light Is So Hard
+## Why dark-to-light is so hard
 
 Understanding the problem helps you solve it properly.
 
-### Pigment Bleed-Through
+### Pigment bleed-through
 
 Dark paints have concentrated pigments. Red, blue, and green pigments are especially aggressive. Even after your new paint dries, these pigments can migrate through the paint film and show on the surface.
 
 This is why you might paint over a dark wall, think it looks perfect, and then see weird shadows appear days later. The pigments are literally moving through your new paint.
 
-### Undertone Contamination
+### Undertone contamination
 
 Every paint color has an undertone. Dark blues have purple or green undertones. Dark reds have orange or pink undertones. When you paint light colors over them, those undertones mix with your new color.
 
 Trying to paint white over dark blue? You'll get a grayish, purplish cast. White over dark red? Peachy pink. No amount of additional coats fixes this because the undertone keeps bleeding through.
 
-### The Thin-Film Problem
+### The thin-film problem
 
 Paint is thinner than you think. Even multiple coats create a film that's only a few millimeters thick. Light passes through this film, bounces off the dark color underneath, and comes back altered.
 
 This is why even when you achieve full "coverage," the color looks different than expected. You're seeing your new color plus the ghost of the old color.
 
-## The 3-Step Method
+## The 3-step method
 
-### Step 1: Gray-Tinted Primer
+### Step 1: Gray-tinted primer
 
 This is the secret that changes everything. Don't use white primer. Use primer tinted to a medium gray.
 
@@ -56,7 +56,7 @@ Most stores will do this for free or a small fee. Brands like Zinsser, KILZ, and
 
 One coat is usually enough. Two if you're covering something really dark or vibrant like fire-engine red or deep purple. Let it dry completely, at least 4 hours.
 
-### Step 2: Two Coats of Your Final Color
+### Step 2: Two coats of your final color
 
 With proper primer underneath, you should achieve full coverage in two coats of your topcoat. Not one. Two.
 
@@ -78,47 +78,47 @@ This is the step everyone skips.
 
 **Wait 3-4 days before moving furniture against the walls.** Even though the paint feels dry, it's not fully cured. Dark pigments can transfer if you press things against the wall too soon.
 
-## The Colors That Cause the Most Trouble
+## The colors that cause the most trouble
 
-### Reds and Oranges
+### Reds and oranges
 
 The worst offenders. Red pigment is aggressive and loves to bleed through. Painting over a red accent wall? Plan for two coats of primer minimum.
 
 **Use:** Shellac-based primer (like Zinsser B-I-N) for red. It blocks better than latex primer.
 
-### Deep Blues and Teals
+### Deep blues and teals
 
 Blue pigments have strong purple undertones that show through lighter colors as a gray or violet cast.
 
 Covering Hale Navy by Benjamin Moore (HC-154) or Sherwin-Williams Naval (SW 6244)? Gray-tinted primer is essential.
 
-### Dark Greens
+### Dark greens
 
 Forest greens and emerald colors have yellow undertones that can make your new paint look sickly or warm.
 
 Covering a dark green? Ask for a primer with a slight blue-gray tint to neutralize the yellow.
 
-### Black and Charcoal
+### Black and charcoal
 
 Surprisingly, pure black is often easier than saturated colors. Black doesn't have strong undertones, so it's mainly about opacity, not color correction.
 
 Still use gray primer, but you might get away with one coat.
 
-## Common Mistakes
+## Common mistakes
 
-### Mistake 1: Using White Primer
+### Mistake 1: Using white primer
 
 White primer is designed for new drywall and light color changes. It has to do all the heavy lifting against dark pigments, which it wasn't designed for.
 
 Gray primer makes the job easier for everyone, including your topcoat.
 
-### Mistake 2: Skipping Primer Entirely
+### Mistake 2: Skipping primer entirely
 
 "The paint says it's paint and primer in one!"
 
 Yes, and that works great for light-to-light color changes. For dark-to-light? Those products don't have the blocking power. You'll spend more money on extra paint than you would have spent on primer.
 
-### Mistake 3: Not Letting Coats Dry Completely
+### Mistake 3: Not letting coats dry completely
 
 Rushing between coats traps solvents and moisture, which can cause:
 
@@ -129,19 +129,19 @@ Rushing between coats traps solvents and moisture, which can cause:
 
 Just wait. Put on a podcast. Do something else.
 
-### Mistake 4: Using Too Little Paint Per Coat
+### Mistake 4: Using too little paint per coat
 
 Thin coats dry faster but don't block as well. Each coat should be substantial, fully wetting the roller and applying with moderate pressure.
 
 The goal is complete, even coverage per coat, not speed.
 
-### Mistake 5: Evaluating Color Too Soon
+### Mistake 5: Evaluating color too soon
 
 Colors look different wet vs. dry, in morning light vs. evening light, near windows vs. in corners.
 
 Give the paint 24-48 hours before you decide it's wrong. Often it's exactly right and you just needed to let it cure.
 
-## The Cost Comparison
+## The cost comparison
 
 Let's say you're covering 400 square feet of dark blue walls.
 
@@ -161,15 +161,15 @@ Let's say you're covering 400 square feet of dark blue walls.
 
 The primer isn't an extra cost. It's a savings.
 
-## Special Situations
+## Special situations
 
-### Textured Walls
+### Textured walls
 
 Dark paint on textured walls is harder to cover because the texture creates shadows. You may need to use a thicker-nap roller (3/4") to get paint into all the crevices.
 
 Plan for one extra coat of everything: primer and topcoat.
 
-### Glossy Dark Paint
+### Glossy dark paint
 
 The old paint has a sheen that your new paint won't stick to. Before priming, you need to either:
 
@@ -179,7 +179,7 @@ The old paint has a sheen that your new paint won't stick to. Before priming, yo
 
 Don't skip this or your beautiful new paint will peel.
 
-### The Dark Paint Is Peeling or Damaged
+### The dark paint is peeling or damaged
 
 If the old paint is failing, you have a bigger problem than color. You need to:
 
@@ -189,11 +189,11 @@ If the old paint is failing, you have a bigger problem than color. You need to:
 4. Prime bare spots with appropriate primer
 5. Then prime the whole wall with your gray-tinted primer
 
-### You Changed Your Mind About Light Paint
+### You changed your mind about light paint
 
 Going back dark after already painting light? That's actually easier. One coat of primer to even things out, two coats of dark color. Dark covers light without the bleeding issues.
 
-## The Bottom Line
+## Gray primer is the whole secret
 
 Dark-to-light color changes require gray-tinted primer. There's no shortcut that actually works. The primer costs less than the extra paint you'd use trying to skip it, and it saves hours of frustration.
 

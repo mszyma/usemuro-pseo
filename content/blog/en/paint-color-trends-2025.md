@@ -16,7 +16,7 @@ I've watched paint trends cycle for over a decade now, and this shift feels diff
 
 Let's break down what's actually happening.
 
-## The Colors of the Year (And What They Tell Us)
+## The colors of the year (and what they tell us)
 
 Every major paint brand announced their 2025-2026 color, and the pattern is unmistakable:
 
@@ -30,7 +30,7 @@ Every major paint brand announced their 2025-2026 color, and the pattern is unmi
 
 Notice anything? Not a single cool gray. Not a single stark white. Not even a navy blue. The industry is collectively saying: "We're done with cold."
 
-## Trend 1: Terracotta Took Over
+## Trend 1: Terracotta took over
 
 I'll admit, when terracotta started showing up everywhere in 2023, I thought it was a flash trend. "Too specific," I thought. "Too tied to boho-Southwest aesthetic."
 
@@ -53,7 +53,7 @@ Terracotta moved from accent color to main event. I've seen entire living rooms 
 
 My neighbor painted her north-facing living room Cavern Clay and I thought she was crazy. Then I saw it with the furniture in. Genuinely one of the best room transformations I've witnessed.
 
-## Trend 2: Green Went Dark
+## Trend 2: Green went dark
 
 Sage green had its moment. Soft, approachable, safe. Everyone and their grandmother painted something sage in 2022-2024.
 
@@ -63,7 +63,7 @@ I painted my own home office a deep forest green (Hunt Club SW 6468, LRV 4) afte
 
 Three months later, I can't imagine it any other way. The room feels like a cocoon. I'm more focused. It's genuinely my favorite space in the house.
 
-**Why it works:** Deep green creates drama without pretension. It's sophisticated but not cold. It pairs beautifully with brass, warm wood, cream accents, and even pink.
+**Why it works:** Deep green creates drama without pretension. It's refined but not cold. It pairs beautifully with brass, warm wood, cream accents, and even pink.
 
 **Best uses:**
 - Home offices and libraries
@@ -78,7 +78,7 @@ Three months later, I can't imagine it any other way. The room feels like a coco
 
 **Warning:** These colors are LOW LRV. Like, really low. You need good lighting—natural or artificial—or they'll feel oppressive. In my office, I added warm LED strips above the bookshelves. Game changer.
 
-## Trend 3: Cool Gray Is Dead
+## Trend 3: Cool gray is dead
 
 I'm going to say something that might upset some people: cool gray was always kind of bad.
 
@@ -99,7 +99,7 @@ But to live with? In real lighting? With actual furniture? Cool gray often reads
 
 If you currently have cool gray walls and something feels "off" about your space, try painting one room a warm neutral. You'll immediately understand what I'm talking about.
 
-## Trend 4: Saturated Blues Are Back
+## Trend 4: Saturated blues are back
 
 Navy never went away, but it got company. We're seeing deeper, richer, more saturated blues—not quite primary blue, but much more vibrant than safe navy.
 
@@ -118,7 +118,7 @@ Navy never went away, but it got company. We're seeing deeper, richer, more satu
 
 I've been seeing a lot of front doors painted in these saturated blues, and they look fantastic against almost any exterior—white siding, brick, gray stone.
 
-## Trend 5: White Got Warmer
+## Trend 5: White got warmer
 
 White walls aren't going anywhere. But which white matters more than ever.
 
@@ -141,7 +141,7 @@ The stark, blue-undertone whites of minimalism are fading. In their place: cream
 
 The difference between a warm white and a cool white is subtle on a paint chip. On four walls, it's the difference between "cozy and inviting" and "is this a hospital?"
 
-## Trend 6: Black as a Main Color
+## Trend 6: Black as a main color
 
 Here's a bold one: black walls are happening. Not just as an accent. Full rooms. Sometimes full houses.
 
@@ -160,7 +160,7 @@ I was skeptical until I saw a friend's media room painted Tricorn Black (LRV 3).
 
 **Important:** Black only works with intention. You need warm lighting, contrasting textures (wood, brass, linen), and enough natural light to prevent feeling claustrophobic.
 
-## What's Officially Out
+## What's officially out
 
 Let me save you from a regrettable decision:
 
@@ -171,7 +171,7 @@ Let me save you from a regrettable decision:
 - **Blush tones** — Giving way to terracotta.
 - **Olive green** — Replaced by true greens.
 
-## How to Use Trends Without Regret
+## How to use trends without regret
 
 Here's my philosophy on trends: respect them, don't chase them.
 
@@ -183,7 +183,7 @@ Here's my philosophy on trends: respect them, don't chase them.
 
 **Consider your lighting.** Warm trends (terracotta, warm whites) look best in warm lighting. If your home has cool-toned LED bulbs, either change them or adjust your color expectations.
 
-## Regional Reality Check
+## Regional reality check
 
 Trends play differently depending on where you live:
 
@@ -195,7 +195,7 @@ Trends play differently depending on where you live:
 
 **Urban apartments:** Moody colors (deep green, black) can work well even with less natural light if you have good artificial lighting.
 
-## The Bottom Line
+## So what should you actually paint?
 
 The 2025-2026 story is simple: warmth won.
 
@@ -203,7 +203,7 @@ Warm neutrals beat cool grays. Warm whites beat stark whites. Earth tones beat s
 
 If you're repainting soon, consider:
 - Terracotta for warmth and drama
-- Forest green for sophistication
+- Forest green for depth and elegance
 - Warm white for safe versatility
 - Saturated blue for statement pieces
 

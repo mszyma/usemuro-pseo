@@ -87,7 +87,7 @@ Caparol 3D Palazzo 170 - Das perfekte warme Grau
 
 Brillux Scala 03.06.15 - Warmes Greige, sehr erholsam
 
-Sto Color Palazzo 32120 - Raffinierter Neutralton
+Sto Color Palazzo 32120 - Zurückhaltender Neutralton
 
 Alpina Feine Farben Elegante Gelassenheit - Warm ohne gelb zu sein
 
@@ -128,7 +128,7 @@ LRV (Lichtreflexionswert) ist wichtig fur Schlafzimmer. Hier ist warum:
 
 **Der ideale Bereich (50-70):** Genug Lichtreflexion, um offen und luftig zu wirken, aber weich genug, um erholsam zu sein.
 
-## Das Fazit
+## Kurz gesagt
 
 Ihr Schlafzimmer sollte Ihnen beim Schlafen helfen, und Farbe spielt eine grossere Rolle als die meisten denken. Blau und Grun schneiden in allen Forschungen am besten ab. Warme Neutraltone funktionieren auch gut. Vermeiden Sie helles Weiss, energetisierende Farben und alles was zu gesattigt ist.
 

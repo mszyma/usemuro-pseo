@@ -17,7 +17,7 @@ I learned this the hard way when I painted my 10x10 home office "Swiss Coffee" w
 
 So let's break down what actually works.
 
-## Why Light Colors Make Rooms Feel Bigger
+## Why light colors make rooms feel bigger
 
 It comes down to physics. When light hits your wall, the paint either absorbs it or bounces it back. Dark colors absorb most of the light—that's why basement bars and speakeasies use deep colors. They're meant to feel intimate, enclosed.
 
@@ -29,7 +29,7 @@ Light colors do the opposite. They reflect light back into the room, and your br
 
 For a small room, you want colors with LRV above 50. Above 70 if you really want to maximize the effect.
 
-## The Best Paint Colors for Small Rooms
+## The best paint colors for small rooms
 
 I've tested dozens of colors in small spaces. Here are the ones that consistently work:
 
@@ -55,7 +55,7 @@ A creamy, soft white that's more forgiving than pure white. The slight warmth ke
 
 For people who think white is boring. This warm gray has enough color to feel intentional, but it's still light enough to open up a space. Pairs beautifully with white trim.
 
-*Best for:* Modern spaces where you want sophistication without sacrificing light.
+*Best for:* Modern spaces where you want depth without sacrificing light.
 
 ### 4. Sea Salt by Sherwin-Williams (SW 6204)
 
@@ -73,7 +73,7 @@ A greige (gray + beige) that feels current without being trendy. The neutral und
 
 *Best for:* Spaces where you're not sure what direction your decor will go.
 
-## What About the Ceiling?
+## What about the ceiling?
 
 Here's a trick most people miss: **paint your ceiling the same color as your walls.**
 
@@ -81,7 +81,7 @@ When you use the same light color on both surfaces, your eye doesn't register th
 
 This works especially well with ceilings under 9 feet.
 
-## Colors to Avoid in Small Rooms
+## Colors to avoid in small rooms
 
 Some colors just don't work in tight spaces:
 
@@ -92,7 +92,7 @@ Some colors just don't work in tight spaces:
 
 The one exception: a single dark accent wall. If three walls are light and one is dark, the dark wall can actually add depth. But this only works if you have enough light coming from the other walls.
 
-## How to Actually Pick the Right Color
+## How to actually pick the right color
 
 Here's the thing about paint chips—they lie. A 2-inch chip under store lighting tells you almost nothing about how a color will look on your 200-square-foot walls.
 
@@ -102,7 +102,7 @@ Here's the thing about paint chips—they lie. A 2-inch chip under store lightin
 
 The visualization preserves your room's lighting and shadows, so you get a realistic preview. I've saved myself dozens of $8 sample pots since I started using it.
 
-## The Bottom Line
+## Keep it light, test before you commit
 
 For small rooms: stick to colors with LRV above 50 (above 70 for maximum effect). Whites and off-whites give you the most space-expanding power, but light grays and pale blue-greens work too.
 

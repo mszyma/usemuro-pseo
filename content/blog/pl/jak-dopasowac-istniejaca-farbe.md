@@ -14,27 +14,27 @@ imageAlt: "Proces dopasowywania kolorow farby z probkami i wzorami na scianie"
 
 Nauczylem sie tego na wlasnej skorze po zalataniu dziury w salonie. Zanioslem zdjecie sciany do sklepu z farbami, dostalem "dopasowanie" i pomalowalem zalatane miejsce. W swietle dziennym rzucalo sie w oczy. Troche za cieple, troche za blyszczace. Skonczylo sie na przemalowaniu calej sciany, zeby to ukryc.
 
-## Dlaczego dopasowania farby nigdy nie sa dokladne
+## Dlaczego dopasowania farby nigdy nie sa dokladne w 100%
 
 Zanim porozmawiamy o rozwiazaniach, zrozum dlaczego to jest trudne:
 
-### Blaknięcie
+### Farba blaknie z czasem
 
 Farba blaknie z czasem, szczegolnie w slonecznych pokojach. Twoje "dopasowanie" jest do oryginalnego koloru, nie do tego co jest teraz na scianie.
 
-### Zmiennosc partii
+### Kazda partia jest troche inna
 
 Dwie puszki "tej samej" farby moga miec drobne roznice. Farba jest mieszana z pigmentow, a drobne roznice w mieszance pokazuja sie na scianach.
 
-### Roznice w polysku
+### Polysk robi roznice
 
 Ten sam kolor w macie vs satynie wyglada zupelnie inaczej. Jesli twoja poprawka ma nawet nieznacznie inny polysk, jest widoczna.
 
-### Metoda aplikacji
+### Walek zostawia inny slad niz pedzel
 
 Walek vs pedzel pozostawia rozne tekstury. Te roznice tekstury lapią swiatlo inaczej.
 
-## Metoda 1: Zdobadz fizyczna probke
+## Zdobadz fizyczna probke ze sciany
 
 Najlepsze dopasowania pochodza z prawdziwych probek farby, nie ze zdjec.
 
@@ -57,7 +57,7 @@ Wybierz miejsce, ktore nie bedzie zauwazone:
 
 Wiekszosc sklepow z farbami ma spektrofotometry, ktore skanuja twoja probke i tworza formule. To jest dokladniejsze niz dopasowanie wizualne lub zdjecia.
 
-## Metoda 2: Znajdz oryginalna farbe
+## Znajdz oryginalna farbe, jesli mozesz
 
 Jesli wiesz jakiej farby uzyto, to jest latwiejsze.
 
@@ -72,7 +72,7 @@ Poprzedni wlasciciele czasem zostawiaja puszki z farba. Szukaj:
 
 Niektórzy malarze zostawiaja notatki o uzytych kolorach.
 
-## Rzeczywistosc poprawek
+## Prawda o poprawkach punktowych
 
 Oto prawda: idealne poprawki sa prawie niemozliwe na scianach malowanych wiecej niz kilka miesiecy temu.
 
@@ -90,33 +90,33 @@ Oto prawda: idealne poprawki sa prawie niemozliwe na scianach malowanych wiecej 
 - Obszary o wysokiej widocznosci
 - Sloneczne sciany, ktore wyblakly
 
-## Lepsze strategie
+## Jak ukryc roznice
 
-### Stopniuj do rogu
+### Maluj od latki do najblizszego rogu
 
 Zamiast poprawiac tylko miejsce, maluj od uszkodzenia do najblizszego rogu lub krawedzi. Naturalne punkty przejscia ukrywaja granice kolorow.
 
-### Pomaluj cala sciane
+### Czasem lepiej pomalowac cala sciane
 
 Czesto najlepsze rozwiazanie. Jedna przemalowana sciana wtapia sie lepiej niz widoczna poprawka na srodku sciany.
 
-### Uzyj tego samego polysku
+### Pilnuj tego samego polysku
 
 Jesli twoje sciany sa satynowe, uzyj satyny. Matowa poprawka na satynowych scianach jest natychmiast widoczna.
 
-### Dopasuj metode aplikacji
+### Poprawiaj tym samym narzedziem
 
 Jesli sciany byly walowane, uzyj walka do poprawek. Slady pedzla wygladaja inaczej niz tekstura walka.
 
-### Pozwol utwardzic sie
+### Daj farbie wyschnac do konca
 
 Swieza farba wyglada ciemniej. Poczekaj 30 dni zanim ocenisz dopasowanie.
 
-## Podsumowanie
+## Najkrotsza wersja
 
 Dla najlepszego dopasowania farby: zdobadz fizyczna probke z ukrytego miejsca i zeskanuj ja w sklepie z farbami.
 
-Dla poprawek na starszych scianach: oczekuj niedoskonalosci. Stopniuj do rogow, dopasuj polysk dokladnie.
+Dla poprawek na starszych scianach: oczekuj niedoskonalosci. Maluj od latki do rogu, dopasuj polysk dokladnie.
 
 W razie watpliwosci: pomaluj cala sciane. To wiecej pracy, ale efekt jest niewidoczny, o co chodzi.
 

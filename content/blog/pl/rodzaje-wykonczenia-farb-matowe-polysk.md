@@ -26,15 +26,15 @@ Rozłóżmy na czynniki pierwsze każde wykończenie, żebyś nie popełnił teg
 | Półpołysk | 35-70% | Słabo | Wysoka | Listwy, drzwi, szafki |
 | Wysoki połysk | 70-90% | Bardzo słabo | Bardzo wysoka | Tylko specjalne akcenty |
 
-## Matowe: Standard na sufity
+## Matowe: standard na sufity
 
-Wykończenie matowe pochłania światło zamiast je odbijać. Zero połysku. Wygląda wyrafinowanie i aksamitnie. Ukrywa niedoskonałości ścian lepiej niż jakiekolwiek inne wykończenie.
+Wykończenie matowe pochłania światło zamiast je odbijać. Zero połysku. Wygląda gładko i aksamitnie. Ukrywa niedoskonałości ścian lepiej niż jakiekolwiek inne wykończenie.
 
 Rzecz w tym: farba matowa jest piękna, ale niepraktyczna w większości sytuacji życiowych.
 
 **Co matowe robi dobrze:**
 - Całkowicie ukrywa nierówności, łaty i różnice w teksturze
-- Tworzy miękki, wyrafinowany wygląd
+- Tworzy miękki, spokojny wygląd
 - Bez odblasków i błyszczących plam
 - Poprawki wtapiają się bezproblemowo
 
@@ -58,7 +58,7 @@ Rzecz w tym: farba matowa jest piękna, ale niepraktyczna w większości sytuacj
 
 Używam matowego wyłącznie na sufitach. Nigdzie indziej. Koszmar konserwacji nie jest wart estetycznych korzyści na ścianach.
 
-## Skorupka jajka: Domyślny wybór
+## Skorupka jajka: domyślny wybór
 
 Skorupka jajka ma subtelny połysk — jak powierzchnia jajka. To najpopularniejsze wykończenie ścian nie bez powodu: balansuje wygląd i trwałość.
 
@@ -82,7 +82,7 @@ Skorupka jajka ma subtelny połysk — jak powierzchnia jajka. To najpopularniej
 
 **Moja zasada:** W razie wątpliwości wybierz skorupkę jajka. To bezpieczny wybór, który prawie nigdy nie rozczarowuje. Pomalowałem dziesiątki ścian w skorupce jajka i nie żałuję żadnej.
 
-## Satyna: Wytrzymały koń roboczy
+## Satyna: wytrzymały koń roboczy
 
 Satyna ma miękki perłowy połysk z większym odbiciem światła niż skorupka jajka. Jest zauważalnie trwalsza i dużo łatwiejsza do czyszczenia.
 
@@ -109,7 +109,7 @@ Zmieniłem kuchnię na satynę po latach ze skorupką jajka i różnica jest rea
 
 **Satyna vs. skorupka jajka — decyzja:** Jeśli pokój widzi wilgoć, tłuszcz, odciski palców lub częste dotykanie, przejdź na satynę. Dodatkowy połysk jest wart łatwości czyszczenia.
 
-## Półpołysk: Terytorium listew
+## Półpołysk: terytorium listew
 
 Półpołysk jest zauważalnie błyszczący. Odbija znaczącą ilość światła i tworzy twardą, trwałą powierzchnię.
 
@@ -139,7 +139,7 @@ Widziałem właścicieli domów malujących całe łazienki półpołyskiem myś
 
 **Nigdy nie używaj półpołysku na:** Ściany. Koniec. Nawet w łazienkach. Używaj satyny na ściany łazienkowe, a półpołysk tylko na listwy.
 
-## Wysoki połysk: Terytorium ekspertów
+## Wysoki połysk: terytorium ekspertów
 
 Wysoki połysk to maksymalny blask — prawie odbijający jak lakier. Tworzy dramatyczny, ekskluzywny wygląd, gdy jest dobrze wykonany.
 
@@ -164,9 +164,9 @@ Będę szczery: nigdy osobiście nie użyłem wysokiego połysku w żadnym proje
 
 **Unikaj wysokiego połysku przy:** Projektach DIY. Chyba że jesteś profesjonalistą lub masz profesjonalnie przygotowane powierzchnie, wysoki połysk rozczaruje.
 
-## Sztuczka z listwami: Tworzenie kontrastu
+## Sztuczka z listwami: tworzenie kontrastu
 
-Oto sztuczka projektowa, która transformuje pokoje: użyj różnych połysków na ścianach i listwach.
+Oto sztuczka projektowa, która robi ogromną różnicę: użyj różnych połysków na ścianach i listwach.
 
 **Klasyczna kombinacja:**
 - Ściany: Skorupka jajka lub matowe (LRV 60-70)
@@ -185,7 +185,7 @@ Coś, czego większość ludzi nie zdaje sobie sprawy: ten sam kolor wygląda in
 
 Granat w macie wygląda prawie jak czarny. Ten sam granat w półpołysku wygląda jasno i żywo. Jeśli testujesz kolory, testuj przy zamierzonym poziomie połysku, bo inaczej będziesz zaskoczony.
 
-## Wykończenie według pokoju: Mój osobisty setup
+## Wykończenie według pokoju: mój osobisty setup
 
 Oto, czego faktycznie używam w swoim domu:
 
@@ -234,7 +234,7 @@ Używanie tego samego wykończenia na ścianach i listwach wymazuje detale archi
 
 Twoja próbka farby powinna być testowana przy zamierzonym połysku. Kolor w macie wygląda inaczej niż ten sam kolor w satynie.
 
-## Podsumowanie
+## Jaki połysk na co
 
 Dla większości sytuacji mieszkaniowych:
 - **Matowe:** Tylko sufity

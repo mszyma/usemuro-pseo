@@ -64,7 +64,7 @@ Miękkie i różane bez bycia oczywiście różowymi. To są pochlebne biele —
 
 **Kolory, które polecam:**
 - **Biała gołębica od Śnieżki** — Ulubieniec projektantów, subtelny róż
-- **Nieskazitelna biel od Dekoral** — Brzoskwiniowy podton, bardzo wyrafinowany
+- **Nieskazitelna biel od Dekoral** — Brzoskwiniowy podton, bardzo elegancki
 - **Pierwsze światło od Tikkurila** — Ledwo widoczny rumieniec
 
 **Uwaga:** Pod ciepłymi żarówkami różowe podtony stają się bardziej oczywiste. Testuj przy swoim rzeczywistym oświetleniu.
@@ -88,13 +88,13 @@ Ostre, czyste, nowoczesne. To są „świeże" biele.
 
 ### 4. Podtony zielone/szare
 
-Wyrafinowane neutraly, które unikają zarówno żółci, jak i różu. To biele typu „nie mogę dokładnie rozgryźć, jaki to kolor".
+Stonowane neutraly, które unikają zarówno żółci, jak i różu. To biele typu „nie mogę dokładnie rozgryźć, jaki to kolor".
 
 **Najlepsze dla:**
 - Współczesnych przestrzeni
 - Balansowania ciepłych drewnianych podłóg
 - Ludzi, którzy nienawidzą zarówno różowych, jak i żółtych podtonów
-- Tworzenia subtelnego wyrafinowania
+- Tworzenia subtelnej elegancji
 
 **Kolory, które polecam:**
 - **Swiss Coffee od Śnieżki** — Zielono-szary odchył, bardzo popularny
@@ -235,7 +235,7 @@ Widziałem domy z pięcioma różnymi bielami w pięciu pokojach. Wygląda chaot
 
 Jeśli twój sufit jest pomalowany na biało, musi koordynować z białą ścianą. Ta sama rodzina podtonów, lub po prostu użyj tego samego koloru.
 
-## Podsumowanie
+## Najważniejsze zasady w pigułce
 
 1. **Wszystkie biele mają podtony** — Zaakceptuj to jako fakt
 2. **Dopasuj podton do oświetlenia** — Ciepłe pokoje znoszą chłodne biele; chłodne pokoje potrzebują ciepłych bieli

@@ -29,7 +29,7 @@ Każda duża marka farb ogłosiła swój kolor 2025-2026 i wzorzec jest niezaprz
 
 Zauważasz coś? Ani jednej chłodnej szarości. Ani jednej ostrej bieli. Nawet żadnego granatu. Branża kolektywnie mówi: „Mamy dość zimna."
 
-## Trend 1: Terakota przejęła władzę
+## Trend 1: terakota przejęła władzę
 
 Przyznam, kiedy terakota zaczęła pojawiać się wszędzie w 2023, myślałem, że to chwilowy trend. „Zbyt specyficzna", myślałem. „Zbyt związana z estetyką boho-southwest."
 
@@ -52,7 +52,7 @@ Terakota przeszła od koloru akcentowego do głównego wydarzenia. Widziałem ca
 
 Moja sąsiadka pomalowała swój salon od północy Terakotą Klasyczną i myślałem, że oszalała. Potem zobaczyłem to z meblami. Szczerze jedna z najlepszych transformacji pokoju, jakie widziałem.
 
-## Trend 2: Zieleń pociemniała
+## Trend 2: zieleń pociemniała
 
 Szałwiowa zieleń miała swój moment. Miękka, przystępna, bezpieczna. Każdy i jego babcia pomalowali coś w szałwii w latach 2022-2024.
 
@@ -62,7 +62,7 @@ Pomalowałem swoje własne domowe biuro w głębokiej leśnej zieleni (Klub Myś
 
 Trzy miesiące później nie wyobrażam sobie tego inaczej. Pokój wydaje się jak kokon. Jestem bardziej skupiony. To szczerze moja ulubiona przestrzeń w domu.
 
-**Dlaczego to działa:** Głęboka zieleń tworzy dramat bez pretensji. Jest wyrafinowana, ale nie zimna. Pięknie komponuje się z mosiądzem, ciepłym drewnem, kremowymi akcentami, a nawet różem.
+**Dlaczego to działa:** Głęboka zieleń tworzy dramat bez pretensji. Jest elegancka, ale nie zimna. Pięknie komponuje się z mosiądzem, ciepłym drewnem, kremowymi akcentami, a nawet różem.
 
 **Najlepsze zastosowania:**
 - Domowe biura i biblioteki
@@ -77,7 +77,7 @@ Trzy miesiące później nie wyobrażam sobie tego inaczej. Pokój wydaje się j
 
 **Ostrzeżenie:** Te kolory mają NISKI LRV. Naprawdę niski. Potrzebujesz dobrego oświetlenia — naturalnego lub sztucznego — albo będą przytłaczające. W moim biurze dodałem ciepłe paski LED nad regałami. Game changer.
 
-## Trend 3: Chłodna szarość umarła
+## Trend 3: chłodna szarość umarła
 
 Powiem coś, co może zdenerwować niektórych: chłodna szarość zawsze była trochę zła.
 
@@ -98,7 +98,7 @@ Ale żyć z tym? W prawdziwym oświetleniu? Z prawdziwymi meblami? Chłodna szar
 
 Jeśli obecnie masz chłodne szare ściany i coś wydaje się „nie tak" z twoją przestrzenią, spróbuj pomalować jeden pokój w ciepłym neutralu. Od razu zrozumiesz, o czym mówię.
 
-## Trend 4: Nasycone niebieskie wróciły
+## Trend 4: nasycone niebieskie wróciły
 
 Granat nigdy nie zniknął, ale dostał towarzystwo. Widzimy głębsze, bogatsze, bardziej nasycone niebieskie — nie całkiem niebieski podstawowy, ale znacznie bardziej żywy niż bezpieczny granat.
 
@@ -117,7 +117,7 @@ Granat nigdy nie zniknął, ale dostał towarzystwo. Widzimy głębsze, bogatsze
 
 Widziałem wiele drzwi wejściowych pomalowanych w tych nasyconych niebieskich i wyglądają fantastycznie na prawie każdej elewacji — białej okładzinie, cegle, szarym kamieniu.
 
-## Trend 5: Biel stała się cieplejsza
+## Trend 5: biel stała się cieplejsza
 
 Białe ściany nie idą nigdzie. Ale które białe ma coraz większe znaczenie.
 
@@ -151,7 +151,7 @@ Pozwól, że uchronię cię przed żałosną decyzją:
 - **Tony różowe** — Ustępują terakocie.
 - **Zieleń oliwkowa** — Zastąpiona przez prawdziwe zielenie.
 
-## Podsumowanie
+## Co z tego wynika na co dzień
 
 Historia 2025-2026 jest prosta: ciepło wygrało.
 
@@ -159,7 +159,7 @@ Ciepłe neutraly pokonały chłodne szarości. Ciepłe biele pokonały ostre bie
 
 Jeśli planujesz wkrótce malować, rozważ:
 - Terakotę dla ciepła i dramatu
-- Leśną zieleń dla wyrafinowania
+- Leśną zieleń dla elegancji
 - Ciepłą biel dla bezpiecznej wszechstronności
 - Nasycony niebieski dla elementów statement
 

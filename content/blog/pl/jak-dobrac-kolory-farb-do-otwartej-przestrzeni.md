@@ -41,7 +41,7 @@ Wybierz jeden neutralny kolor, który pojawi się na korytarzach, w przejściach
 **Dobre neutraly bazowe, które polecam:**
 - **Ciepły szary od Śnieżki (LRV 60)** — Ciepły greige, działa z prawie wszystkim
 - **Blade dąb od Dekoral (LRV 70)** — Uniwersalny beżowo-szary
-- **Edgecomb od Tikkurila (LRV 63)** — Wyrafinowany, lekko ciepły
+- **Edgecomb od Tikkurila (LRV 63)** — Stonowany, lekko ciepły
 - **Dostępny beż od Dulux (LRV 58)** — Ciepły i zachęcający
 
 Twój bazowy neutral pojawia się w:
@@ -192,7 +192,7 @@ Sypialnie mogą bardziej odbiegać, bo drzwi są zwykle zamknięte. Ale wejście
 
 Łazienki gościnne widoczne z wspólnych obszarów powinny koordynować. Główne łazienki mają więcej swobody, bo są prywatne.
 
-## Kompletny przykład palety
+## Przykład pełnej palety
 
 Oto faktyczna paleta, którą pomogłem komuś stworzyć:
 
@@ -210,27 +210,27 @@ Wszystko z ciepłymi tendencjami. LRV głównie w zakresie 50-65 z kuchnią jaś
 
 ## Typowe błędy
 
-### Błąd 1: Ignorowanie podtonów
+### Ignorowanie podtonów
 
 Chłodny szary salon obok ciepłego beżowego korytarza tworzy wizualny konflikt przy każdym przejściu. To był dosłownie mój błąd w pierwszym domu.
 
-### Błąd 2: Za dużo kolorów
+### Za dużo kolorów
 
 Pięć różnych kolorów ścian w domu 100 m² wygląda chaotycznie. Ogranicz się do maksymalnie 3-4 kolorów, nie licząc listew i sufitów.
 
-### Błąd 3: Zapominanie o podłogach
+### Zapominanie o podłogach
 
 Kolor twojej podłogi biegnie przez cały dom. Każdy kolor ściany musi z nią współgrać. Jeśli twoje podłogi mają ciepłe podtony, chłodne kolory ścian będą się wszędzie gryźć.
 
-### Błąd 4: Testowanie pokojów w izolacji
+### Testowanie pokojów w izolacji
 
 Testuj kolory stojąc w drzwiach, patrząc na sąsiadujące pokoje razem. Testowanie indywidualnych pokojów prowadzi do niepołączonych rezultatów.
 
-### Błąd 5: Ignorowanie naturalnego światła
+### Ignorowanie naturalnego światła
 
 Pokoje od północy potrzebują cieplejszych kolorów niż pokoje od południa, by wydawać się równoważne. Kolor, który działa w twoim słonecznym salonie, może wydawać się przygnębiający w ciemnym korytarzu.
 
-## Naprawianie istniejących konfliktów
+## Co zrobić, gdy pokoje już się gryzą
 
 Już masz niedopasowane pokoje? Opcje:
 
@@ -239,7 +239,7 @@ Już masz niedopasowane pokoje? Opcje:
 3. **Użyj mebli i dywanów** — Wystrój może tworzyć wizualne mosty między kolorami ścian
 4. **Zamknij drzwi** — Poważnie, czasem izolacja jest rozwiązaniem
 
-## Podsumowanie
+## Czego się trzymać
 
 Tworzenie przepływu kolorów wymaga:
 

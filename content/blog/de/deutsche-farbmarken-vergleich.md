@@ -248,7 +248,7 @@ Bei Deckkraft und Haltbarkeit, ja. Professionelle Farben typischerweise:
 
 Ob das wichtig ist hängt von Ihrem Projekt ab.
 
-## Das Fazit
+## Welche Marke für welchen Zweck
 
 **Für professionelle Maler:** Brillux wenn Sie Lieferanten-Support und Schulung schätzen. Caparol wenn Sie Premium-Qualität mit breiterer Verfügbarkeit wollen.
 

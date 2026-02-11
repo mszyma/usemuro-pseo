@@ -179,7 +179,7 @@ Wenn Sie markenübergreifendes Matching machen, dokumentieren Sie alles:
 
 Das spart enorm Zeit wenn Sie später erneut matchen oder ausbessern müssen.
 
-## Das Fazit
+## Annäherung ja, Perfektion nein
 
 Markenübergreifende Farbabstimmung ist immer eine Annäherung. Je näher an Weiss oder Neutral, desto einfacher. Je gesättigter oder komplexer die Farbe, desto schwieriger.
 

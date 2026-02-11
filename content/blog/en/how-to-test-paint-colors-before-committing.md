@@ -18,7 +18,7 @@ I've made every paint testing mistake in the book. Painted an entire living room
 
 So I figured out a system that actually works.
 
-## Why Paint Chips Don't Work
+## Why paint chips don't work
 
 Think about what's different between the store and your home:
 
@@ -29,9 +29,9 @@ Think about what's different between the store and your home:
 
 Colors shift dramatically based on these factors. That "warm gray" can read blue, purple, green, or brown depending on your room's light source and what's around it.
 
-## The 3-Step Paint Testing System
+## The 3-step paint testing system
 
-### Step 1: Digital Elimination (15 minutes)
+### Step 1: Digital elimination (15 minutes)
 
 Before you buy a single sample, narrow your choices digitally. This is where apps like Muro come in.
 
@@ -41,7 +41,7 @@ I usually start with 8-10 colors I'm considering and eliminate 6-7 of them in ab
 
 **Why this works**: You're testing in your actual space, with your actual light, on your actual walls. No guessing.
 
-### Step 2: Large Sample Boards (2-3 days)
+### Step 2: Large sample boards (2-3 days)
 
 For your top 2-3 colors, buy sample pots and paint large poster boards (at least 12"x12", bigger is better). Don't paint directly on your wall yet.
 
@@ -60,7 +60,7 @@ Place each board:
 
 Live with them for 2-3 days minimum. You'd be surprised how your feelings change once the initial excitement wears off.
 
-### Step 3: The Final Wall Test (1 week)
+### Step 3: The final wall test (1 week)
 
 Once you have a winner, paint a 2'x2' section directly on the wall—ideally in a spot that gets varied light throughout the day. Live with it for a week.
 
@@ -71,7 +71,7 @@ This is your last chance to catch issues:
 
 If something feels off, trust that feeling. It's much easier to repaint 4 square feet than 400.
 
-## The Common Mistakes (I Made All of These)
+## The common mistakes (I made all of these)
 
 **Mistake 1: Testing in the wrong light**
 
@@ -93,7 +93,7 @@ Stand in your hallway. Can you see into multiple rooms? Those colors need to wor
 
 If your current wall is dark, the undertones will bleed through and affect how the new color appears. Paint a white primer board first, or use an actual primer on a test section.
 
-## The Real Cost of Getting It Wrong
+## The real cost of getting it wrong
 
 Here's why testing matters:
 - 1 gallon of paint: $35-70
@@ -109,7 +109,7 @@ Compare that to:
 
 Testing costs maybe $30. Not testing costs $200+. The math is pretty clear.
 
-## My Personal Workflow
+## My personal workflow
 
 Here's exactly what I do now:
 
@@ -123,7 +123,7 @@ Here's exactly what I do now:
 
 This system has never failed me. Six rooms, zero regrets.
 
-## When You Can Skip Testing
+## When you can skip testing
 
 Sometimes testing is overkill:
 
@@ -134,10 +134,10 @@ Sometimes testing is overkill:
 
 But for main wall colors in rooms you actually live in? Always test. Always.
 
-## The Bottom Line
+## Save yourself the $200 repainting bill
 
 Don't trust paint chips. Don't trust store lighting. Don't trust that color you saw on some influencer's perfectly-lit Instagram post.
 
 Test in your actual space, with your actual light, against your actual stuff. Use digital tools to narrow down quickly, then physical samples to confirm.
 
-Your future self—the one who has to wake up to that wall color for the next five years—will thank you.
+Your future self--the one who has to wake up to that wall color for the next five years--will thank you.

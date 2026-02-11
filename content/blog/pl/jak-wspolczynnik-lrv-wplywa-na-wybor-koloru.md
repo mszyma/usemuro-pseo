@@ -16,7 +16,7 @@ Ignorowałem LRV przez lata. Wybierałem kolory na podstawie tego, jak wygląda�
 
 Kiedy zacząłem zwracać uwagę na LRV, moje wybory kolorów dramatycznie się poprawiły. Oto dlaczego to ma znaczenie i jak tego używać.
 
-## Co LRV faktycznie ci mówi
+## Co tak naprawde mowi ci LRV
 
 LRV mówi ci, jak jasno lub ciemno kolor będzie się wydawał na twoich ścianach — niezależnie od tego, czy to niebieski, zielony, szary czy beżowy. Blady niebieski z LRV 70 i blada zieleń z LRV 70 będą się wydawać równie jasne w pokoju, mimo że to różne kolory.
 
@@ -25,7 +25,7 @@ To ma znaczenie, ponieważ:
 - **Kolory poniżej LRV 50 znacząco zmieniają nastrój.** Sprawiają, że pokoje wydają się przytulniejsze, mniejsze, bardziej nastrojowe.
 - **Światło twojego pokoju dyktuje, jakie LRV będą działać.** Nie twoje preferencje.
 
-## Szybka tabela LRV
+## LRV w praktyce - tabela
 
 | LRV | Jak to się czuje | Działa najlepiej w |
 |-----|------------------|-------------------|
@@ -37,9 +37,9 @@ To ma znaczenie, ponieważ:
 
 Większość popularnych kolorów ściennych mieści się między LRV 50-75. Poniżej 50 podejmujesz zobowiązanie. Powyżej 80 jesteś praktycznie w terytorium bieli.
 
-## Jak faktycznie używać LRV
+## Jak uzywac LRV przy wyborze farby
 
-### Krok 1: Oceń sytuację oświetleniową swojego pokoju
+### Krok 1: Sprawdz, ile swiatla wpada do pokoju
 
 To jest część, którą ludzie pomijają. Nie pomijaj jej.
 
@@ -51,7 +51,7 @@ To jest część, którą ludzie pomijają. Nie pomijaj jej.
 
 **Pokoje od zachodu** dostają ostre popołudniowe światło. Ciepłe kolory mogą stać się przytłaczające. Rozważ nieco chłodniejsze lub jaśniejsze wybory.
 
-### Krok 2: Dopasuj LRV do funkcji pokoju
+### Krok 2: Dobierz LRV do funkcji pokoju
 
 **Potrzebujesz jasności?** (Kuchnie, łazienki, biura) → LRV 60-85
 
@@ -59,27 +59,27 @@ To jest część, którą ludzie pomijają. Nie pomijaj jej.
 
 **Robisz statement?** (Pokoje medialne, toalety gościnne) → LRV 15-40
 
-### Krok 3: Pomyśl o sąsiednich przestrzeniach
+### Krok 3: Sprawdz, co jest w sasiednim pokoju
 
 Otwarte plany wymagają harmonii LRV. Kolory z podobnymi LRV płyną razem, nawet jeśli to różne odcienie.
 
 Mój salon (LRV 65 greige) płynie do mojej kuchni (LRV 70 biel). Kolory są różne, ale podobne odbicie tworzy ciągłość. Gdybym miał LRV 40 w salonie? Rażące przejście.
 
-## Błędy, które popełniłem (żebyś ty nie musiał)
+## Moje bledy z LRV (zebys ty ich nie powtorzyl)
 
-**Błąd #1: Ignorowanie LRV w ciemnym pokoju**
+**Ciemny pokoj + niski LRV = jaskinia**
 
 Pomalowałem mój pokój gościnny od północy w pięknej „średniej szarości" bez sprawdzenia LRV. Było 45. Wyglądało jak jaskinia. Musiałem przemalować na LRV 65.
 
-**Błąd #2: Niedopasowane listwy**
+**Listwy, ktore wygladaly na brudne**
 
 Standardowe białe listwy mają LRV 85+. Pomalowałem ściany na białą LRV 78. Listwy wyglądały na brudne, bo nie było wystarczającego kontrastu. Powinienem był wziąć listwy LRV 90+ lub ściany LRV 70.
 
-**Błąd #3: Nietestowanie o różnych porach**
+**Kolor, ktory zmienial sie co godzine**
 
 Mój pokój od zachodu wyglądał idealnie o 10 rano z próbką. O 16 z ostrym popołudniowym światłem kolor wyglądał kompletnie inaczej. LRV się nie zmienia, ale twoje postrzeganie go tak, w zależności od oświetlenia.
 
-**Błąd #4: Zakładanie, że wszystkie pokoje potrzebują tego samego LRV**
+**Ten sam LRV wszedzie to nie jest rozwiazanie**
 
 Moja sypialnia powinna być przytulna. Pomalowałem ją w tym samym LRV co łazienkę (75), bo podobał mi się kolor. Za jasna do snu. Powinienem był wybrać 55-65.
 
@@ -96,7 +96,7 @@ Dwa kolory mogą mieć identyczny LRV, ale kompletnie różne podtony:
 
 Ta sama jasność. Zupełnie inna atmosfera. LRV daje ci właściwy zakres. Podtony decydują, czy to pokochasz czy znienawidzisz.
 
-## Gdzie znaleźć LRV
+## Skad wziac LRV koloru
 
 Większość producentów go podaje:
 - Na odwrocie kart próbników
@@ -105,7 +105,7 @@ Większość producentów go podaje:
 
 Jeśli używasz Muro do wizualizacji kolorów, LRV pokazuje się przy szczegółach każdego koloru. Super pomocne przy porównywaniu opcji bez liczenia w głowie.
 
-## Moje zasady LRV
+## Moje zasady kciuka dla LRV
 
 **Zasada „50"**: W razie wątpliwości, zostań powyżej LRV 50. Kolory powyżej 50 działają w większości warunków oświetleniowych. Poniżej 50 powinieneś wiedzieć, co robisz.
 
@@ -115,7 +115,7 @@ Jeśli używasz Muro do wizualizacji kolorów, LRV pokazuje się przy szczegół
 
 **Bonus „światła południowego"**: Dodaj 5-10 punktów dla pokojów od południa. Ten LRV 50 będzie się wydawał jak 55-60.
 
-## Podsumowanie
+## Na co zwrocic uwage przed zakupem
 
 Zanim zakochasz się w kolorze, sprawdź jego LRV. Kolor z niewłaściwym LRV dla twojego pokoju zawsze rozczaruje, bez względu na to, jak idealnie wyglądał na Pintereście.
 

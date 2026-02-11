@@ -16,7 +16,7 @@ I learned this lesson the expensive way. Painted my first apartment's living roo
 
 Let's break down each finish so you don't make the same mistake.
 
-## The Quick Reference
+## The quick reference
 
 | Finish | Sheen | Hides Imperfections | Durability | Best For |
 |--------|-------|---------------------|------------|----------|
@@ -26,15 +26,15 @@ Let's break down each finish so you don't make the same mistake.
 | Semi-Gloss | 35-70% | Poor | High | Trim, doors, cabinets |
 | High-Gloss | 70-90% | Very Poor | Very High | Specialty accents only |
 
-## Flat/Matte: The Ceiling Standard
+## Flat/Matte: The ceiling standard
 
-Flat finish absorbs light instead of reflecting it. Zero shine. Looks sophisticated and velvety. Hides wall imperfections better than any other finish.
+Flat finish absorbs light instead of reflecting it. Zero shine. Looks smooth and velvety. Hides wall imperfections better than any other finish.
 
 Here's the thing: flat paint is gorgeous but impractical for most living situations.
 
 **What flat gets right:**
 - Completely hides bumps, patches, and texture inconsistencies
-- Creates a soft, sophisticated appearance
+- Creates a soft, polished appearance
 - No glare or shiny spots
 - Touch-ups blend in seamlessly
 
@@ -58,7 +58,7 @@ Here's the thing: flat paint is gorgeous but impractical for most living situati
 
 I use flat exclusively on ceilings. Nowhere else. The maintenance nightmare isn't worth the aesthetic payoff on walls.
 
-## Eggshell: The Default Choice
+## Eggshell: The default choice
 
 Eggshell has a subtle sheen—like the surface of an egg. It's the most popular wall finish for good reason: it balances appearance and durability.
 
@@ -82,7 +82,7 @@ Eggshell has a subtle sheen—like the surface of an egg. It's the most popular 
 
 **My rule:** When in doubt, choose eggshell. It's the safe choice that almost never disappoints. I've painted dozens of walls in eggshell and regretted zero of them.
 
-## Satin: The Durable Workhorse
+## Satin: The durable workhorse
 
 Satin has a soft pearl-like sheen with more light reflection than eggshell. It's noticeably more durable and much easier to clean.
 
@@ -109,7 +109,7 @@ I switched my kitchen to satin after years of eggshell, and the difference is re
 
 **Satin vs. eggshell decision:** If the room sees moisture, grease, fingerprints, or frequent touching, upgrade to satin. The extra sheen is worth the cleanability.
 
-## Semi-Gloss: Trim Territory
+## Semi-gloss: Trim territory
 
 Semi-gloss is noticeably shiny. It reflects significant light and creates a hard, durable surface.
 
@@ -139,7 +139,7 @@ I've seen homeowners paint entire bathrooms in semi-gloss thinking "waterproof =
 
 **Never use semi-gloss for:** Walls. Period. Even in bathrooms. Use satin on bathroom walls and semi-gloss on trim only.
 
-## High-Gloss: Expert Territory
+## High-gloss: Expert territory
 
 High-gloss is maximum shine—almost reflective like lacquer. It creates a dramatic, high-end look when done right.
 
@@ -164,7 +164,7 @@ I'll be honest: I've never personally used high-gloss on any project. The risk-t
 
 **Skip high-gloss for:** DIY projects. Unless you're a professional or have professionally prepared surfaces, high-gloss will disappoint.
 
-## The Trim Trick: Create Contrast
+## The trim trick: Create contrast
 
 Here's a design trick that transforms rooms: use different sheens on walls versus trim.
 
@@ -176,7 +176,7 @@ Even when walls and trim are the same color, the sheen difference makes the trim
 
 I use this in every room. Semi-gloss white trim against eggshell colored walls creates visual hierarchy that looks intentional and designed.
 
-## How Sheen Affects Color
+## How sheen affects color
 
 Something most people don't realize: the same color looks different in different sheens.
 
@@ -185,7 +185,7 @@ Something most people don't realize: the same color looks different in different
 
 A navy blue in flat looks almost black. The same navy in semi-gloss looks bright and vibrant. If you're testing colors, test at your intended sheen level or you'll be surprised.
 
-## Finish by Room: My Personal Setup
+## Finish by room: My personal setup
 
 Here's what I actually use in my own home:
 
@@ -202,7 +202,7 @@ Here's what I actually use in my own home:
 
 Notice the pattern: eggshell for relaxed spaces, satin for high-traffic or wet spaces, semi-gloss for all trim everywhere, flat only on ceilings.
 
-## The Durability vs. Appearance Trade-Off
+## The durability vs. appearance trade-off
 
 Every finish decision is a trade-off:
 
@@ -216,7 +216,7 @@ Every finish decision is a trade-off:
 
 There's no objectively "best" finish. There's only the best finish for your situation.
 
-## Common Finish Mistakes
+## Common finish mistakes
 
 **Mistake 1: Semi-gloss on walls**
 
@@ -234,7 +234,7 @@ Using the same finish on walls and trim erases architectural detail. Use the she
 
 Your paint sample should be tested at your intended sheen. A color in flat looks different than the same color in satin.
 
-## The Bottom Line
+## Pick the right sheen and move on
 
 For most residential situations:
 - **Flat:** Ceilings only

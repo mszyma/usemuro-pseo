@@ -12,7 +12,7 @@ imageAlt: "Warmes und einladendes Wohnzimmer mit Nordausrichtung und cremefarben
 
 **Nach Norden ausgerichtete Räume brauchen warme Farben mit einem LRV über 60.** Warme Weißtöne, cremige Neutraltöne und sanftes Gelb funktionieren. Kühle Grautöne und Blautöne? Die lassen deinen Raum wie einen traurigen Krankenhauswartesaal aussehen.
 
-Ich habe zwei Jahre mit einem nach Norden ausgerichteten Wohnzimmer gelebt, das mit „Steingrau" gestrichen war, bevor ich herausgefunden habe, warum es sich immer deprimierend anfühlte. Es stellte sich heraus, dass dieses Grau blaue Untertöne hatte. Das kühle Nordlicht hat sie verstärkt. Mein „raffiniertes Grau" wirkte wie lavendel-blaue Traurigkeit.
+Ich habe zwei Jahre mit einem nach Norden ausgerichteten Wohnzimmer gelebt, das mit „Steingrau" gestrichen war, bevor ich herausgefunden habe, warum es sich immer deprimierend anfühlte. Es stellte sich heraus, dass dieses Grau blaue Untertöne hatte. Das kühle Nordlicht hat sie verstärkt. Mein „elegantes Grau" wirkte wie lavendel-blaue Traurigkeit.
 
 Lass mich dir diese zwei Jahre ersparen.
 
@@ -30,7 +30,7 @@ Es ist nicht deine Einbildung. Das Licht in diesem Raum arbeitet buchstäblich g
 
 ## Was wirklich funktioniert
 
-### Warme Weißtöne (Die sichere Wahl)
+### Warme Weißtöne (die sichere Wahl)
 
 Wenn du etwas willst, bei dem du nicht falsch liegst, wähle hier:
 
@@ -43,7 +43,7 @@ Ein cremiges, weiches Weiß, das verzeihender ist als reines Weiß. Toll, wenn d
 **Wollweiß von Sto** — LRV: ca. 82
 Etwas mehr Tiefe als reines Cremeweiß. Gut, wenn dir reines Weiß zu langweilig erscheint, du aber trotzdem „Weiß" willst.
 
-### Warme Neutraltöne (Interessanter, trotzdem sicher)
+### Warme Neutraltöne (interessanter, trotzdem sicher)
 
 Du willst echte Farbe, hast aber Angst, falsch zu liegen?
 
@@ -56,7 +56,7 @@ Ein echtes warmes Neutral. Am dunkleren Ende dessen, was ich für Nordräume emp
 **Taupe von Sto** — LRV: ca. 63
 Ein „Greige", das warm tendiert. Eine der verzeihendsten Farben für schwierige Lichtsituationen.
 
-### Sanfte Gelb- und Cremetöne (Wenn du Wärme willst)
+### Sanfte Gelb- und Cremetöne (wenn du Wärme willst)
 
 Gelbe Untertöne bekämpfen direkt das bläuliche Nordlicht. Diese fühlen sich sonnig an, auch wenn die Sonne nicht mitspielt:
 
@@ -66,7 +66,7 @@ Ein pfirsichfarbenes Creme, das sichtbare Wärme hinzufügt, ohne gelb auszusehe
 **Vanille von Brillux** — LRV: ca. 74
 Sieht bei den meisten Lichtverhältnissen weiß aus, aber der gelbe Unterton hält Nordräume davon ab, kalt zu wirken.
 
-## Was du vermeiden solltest (Lerne aus meinen Fehlern)
+## Was du vermeiden solltest (lerne aus meinen Fehlern)
 
 ### Kühle Grautöne
 
@@ -77,7 +77,7 @@ Das beinhaltet beliebte Farben wie:
 - Revere Pewter (kann im Nordlicht kalt werden)
 - Jedes Grau mit blauen oder grünen Untertönen
 
-Sie sehen nicht „raffiniert" aus. Sie sehen trist aus.
+Sie sehen nicht „edel" aus. Sie sehen trist aus.
 
 ### Blau- und Grüntöne
 
@@ -93,7 +93,7 @@ Du denkst vielleicht, Weiß ist Weiß, oder? Ist es nicht.
 
 Reine, kühle Weißtöne (wie Reinweiß oder Superweiß) werden bläulich und klinisch in Nordräumen aussehen. Du brauchst Wärme im Unterton, oder der Raum wird sich wie ein OP-Saal anfühlen.
 
-### Alles Dunkle (Unter LRV 45)
+### Alles Dunkle (unter LRV 45)
 
 Dunkle Farben brauchen Licht, um reich auszusehen. In Nordräumen sehen sie einfach flach und matschig aus – als hätte jemand die Sättigung heruntergedreht.
 
@@ -110,7 +110,7 @@ Für nach Norden ausgerichtete Räume folge ich dieser Richtlinie:
 
 Alle 10 Punkte LRV machen einen merklichen Unterschied in Nordräumen. Wenn du zwischen zwei Farben wählst, die dir gleich gut gefallen, wähle die mit dem höheren LRV.
 
-## Das Fazit
+## Die Kurzversion
 
 Für nach Norden ausgerichtete Räume: warme Untertöne, LRV über 60, und teste bevor du dich festlegst.
 

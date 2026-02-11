@@ -14,7 +14,7 @@ imageAlt: "Modernes Home-Office mit ruhigen blau-grunen Wanden und naturlichem L
 
 Ich habe zwei Jahre in einem Home-Office gearbeitet, das "Sonnenblumengelb" gestrichen war. Dachte, es wurde energetisierend und motivierend sein. Stattdessen fuhlte ich mich aufgedreht aber nicht fokussiert, immer leicht nervos. Habe es in ein weiches Salbei-Grun umgestrichen. Bemerkte sofort, dass ich mich langer konzentrieren konnte und am Ende des Tages weniger erschopft fuhlte.
 
-## Was Farbpsychologie uber Arbeit sagt
+## Was Farbpsychologie uber Arbeit sagt (und was davon stimmt)
 
 Farben beeinflussen unser Gehirn auf messbare Weise:
 
@@ -28,9 +28,9 @@ Farben beeinflussen unser Gehirn auf messbare Weise:
 
 **Rot und Orange:** Energetisierend und aufmerksamkeitsheischend. Grossartig fur kurze Ausbruche, furchtbar fur anhaltende Konzentration.
 
-## Die besten Farben fur Konzentration
+## Die besten Farben fur konzentriertes Arbeiten
 
-### Sanfte Blau-Gruntone
+### Sanfte Blau-Gruntone (meine erste Wahl)
 
 Der ideale Bereich fur Produktivitat. Blau fur Fokus, Grun fur reduzierte Augenbelastung.
 
@@ -44,7 +44,7 @@ Sto Color Salbei 34035 - Gedampftes Blau-Grau mit ausgezeichneter Balance
 
 Alpina Feine Farben Ruhe des Nordens - Blasses Blau-Grau, sehr nicht-ablenkend
 
-### Salbei und gedampfte Gruntone
+### Salbei und gedampfte Gruntone fur Bildschirmarbeiter
 
 Grun reduziert Augenermudung, was wichtig ist, wenn Sie den ganzen Tag auf Bildschirme starren.
 
@@ -58,7 +58,7 @@ Sto Color Ginster 42018 - Tiefer mit Warme
 
 Alpina Feine Farben Sanfter Morgentau - Grau-Grun, sehr professionell
 
-### Warme Neutraltone fur Videoanrufe
+### Warme Neutraltone, die auf der Kamera gut aussehen
 
 Hier ist etwas, das die meisten nicht bedenken: Ihre Wandfarbe erscheint auf der Kamera. Kuhle Grautone konnen Sie ausgewaschen aussehen lassen. Warme Neutraltone fotografieren besser.
 
@@ -70,9 +70,9 @@ Brillux Scala 03.06.15 - Warm aber nicht gelb
 
 Sto Color Palazzo 32120 - Professionell und warm
 
-Alpina Feine Farben Elegante Gelassenheit - Raffiniertes Greige
+Alpina Feine Farben Elegante Gelassenheit - Dezentes Greige
 
-## Der LRV-Faktor fur Augenkomfort
+## Warum der LRV-Wert fur Augenkomfort entscheidend ist
 
 Wenn Sie am Computer arbeiten, passen sich Ihre Augen standig zwischen dem hellen Bildschirm und Ihrer Umgebung an. Wenn dieser Kontrast zu extrem ist, bekommen Sie Augenbelastung, Kopfschmerzen und Ermudung.
 
@@ -84,9 +84,9 @@ Zu hell (LRV uber 80): Kann Blendung erzeugen, besonders bei naturlichem Licht. 
 
 Der 50-70 Bereich bietet genug Umgebungslicht ohne Belastung zu verursachen.
 
-## Farben die im Home-Office zu vermeiden sind
+## Welche Farben im Home-Office nicht funktionieren
 
-### Helle, gesattigte Farben
+### Knallige, gesattigte Farben
 
 **Feuerrot:** Erhoht die Herzfrequenz, erzeugt Dringlichkeit. Sie werden sich gestresst fuhlen, nicht fokussiert.
 
@@ -102,7 +102,7 @@ Der 50-70 Bereich bietet genug Umgebungslicht ohne Belastung zu verursachen.
 
 **Strahlend weisse Wande:** Erzeugt Blendung, besonders bei naturlichem Licht. Kalt und klinisch, was fur die meisten nicht motivierend ist.
 
-## Die Videoanruf-Uberlegung
+## Wie Ihre Wandfarbe auf Zoom aussieht
 
 Wenn Sie Videoanrufe fuhren, ist Ihre Wandfarbe wichtig fur Ihr Erscheinen auf dem Bildschirm.
 
@@ -118,9 +118,9 @@ Wenn Sie Videoanrufe fuhren, ist Ihre Wandfarbe wichtig fur Ihr Erscheinen auf d
 - Helle Weisstone (uberbelichtet, klinisch)
 - Unruhige Muster oder dunkle Farben (ablenkend)
 
-## Das Fazit
+## Was wirklich funktioniert
 
-Blau-Grun- und Salbeitone fordern den Fokus. Warme Neutraltone sehen auf der Kamera gut aus und lenken nicht ab. Vermeiden Sie alles was zu stimulierend (helle Farben) oder zu ermudend (sehr dunkle Farben) ist.
+Blau-Grun- und Salbeitone fordern den Fokus. Warme Neutraltone sehen auf der Kamera gut aus und lenken nicht ab. Vermeiden Sie alles was zu stimulierend (knallige Farben) oder zu ermudend (sehr dunkle Farben) ist.
 
 LRV ist wichtig: Zielen Sie auf 50-70, um Augenbelastung zu reduzieren und angenehmes Umgebungslicht zu erhalten.
 

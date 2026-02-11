@@ -14,7 +14,7 @@ imageAlt: "Helle und dunkle Farbmuster zeigen LRV-Kontrast in einem hellen Raum"
 
 Ich habe LRV jahrelang ignoriert. Farben danach ausgewählt, wie sie auf Mustern aussahen, in Läden, auf Pinterest. Weißt du, was passiert ist? Ich habe Räume neu gestrichen. Oft.
 
-Sobald ich angefangen habe, auf LRV zu achten, wurden meine Farbauswahlen dramatisch besser. Hier ist, warum es wichtig ist und wie du es nutzt.
+Sobald ich angefangen habe, auf LRV zu achten, wurden meine Farbauswahlen deutlich besser. Hier ist, warum es wichtig ist und wie du es nutzt.
 
 ## Was LRV dir tatsächlich sagt
 
@@ -69,7 +69,7 @@ Mein Wohnzimmer (LRV 65 Greige) fließt in meine Küche (LRV 70 Weiß). Die Farb
 
 **Fehler #1: LRV in einem dunklen Raum ignorieren**
 
-Habe mein nach Norden ausgerichtetes Gästezimmer in einem wunderschönen „mittleren Grau" gestrichen, ohne den LRV zu prüfen. Es war 45. Sah aus wie eine Höhle. Musste mit LRV 65 neu streichen.
+Habe mein nach Norden ausgerichtetes Gästezimmer in einem schicken „mittleren Grau" gestrichen, ohne den LRV zu prüfen. Es war 45. Sah aus wie eine Höhle. Musste mit LRV 65 neu streichen.
 
 **Fehler #2: Nicht passende Leisten**
 
@@ -115,7 +115,7 @@ Wenn du Muro verwendest, um Farben zu visualisieren, wird LRV bei den Details je
 
 **Der „Südlicht-Bonus"**: Addiere 5-10 Punkte für nach Süden ausgerichtete Räume. Dieser LRV 50 wird sich wie 55-60 anfühlen.
 
-## Das Fazit
+## Also, worauf kommt es an?
 
 Bevor du dich in eine Farbe verliebst, prüfe ihren LRV. Eine Farbe mit dem falschen LRV für deinen Raum wird immer enttäuschen, egal wie perfekt sie auf Pinterest aussah.
 

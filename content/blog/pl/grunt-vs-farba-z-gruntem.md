@@ -116,7 +116,7 @@ Zadaj sobie te pytania:
 4. **Czy stara farba jest blyszczaca lub olejowa?** Tak = grunt przyczepnosciowy
 5. **Nic z powyzszych?** Farba-z-gruntem jest w porzadku
 
-## Podsumowanie
+## Na koniec dnia
 
 Osobny grunt istnieje, zeby rozwiazywac konkretne problemy: uszczelniac porowate powierzchnie, blokowac plamy, umozliwiac drastyczne zmiany kolorow i pomagac farbie przyczepic sie do trudnych powierzchni. Jesli masz jeden z tych problemow, kup grunt. Jest tanszy niz dodatkowa farba i frustracja.
 

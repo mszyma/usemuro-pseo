@@ -14,7 +14,7 @@ imageAlt: "Serene bedroom with soft blue walls and cozy bedding in natural light
 
 I used to have a bright white bedroom. Thought it looked clean and modern. Also couldn't fall asleep easily and woke up feeling like I hadn't rested. Repainted it a soft blue-gray, same furniture, same bedding. Fell asleep faster and actually stayed asleep. Coincidence? Maybe. But the sleep research backs up what I experienced.
 
-## What the Research Says
+## What the research says
 
 Several studies have looked at bedroom color and sleep quality. The findings are consistent:
 
@@ -28,9 +28,9 @@ Several studies have looked at bedroom color and sleep quality. The findings are
 
 **Red and orange:** Worst for sleep. These colors are energizing by nature. They raise heart rate and create alertness, exactly what you don't want at bedtime.
 
-## The Best Bedroom Colors
+## The best bedroom colors
 
-### Soft Blues
+### Soft blues
 
 Blue is the undisputed champion of bedroom colors. But not just any blue.
 
@@ -55,7 +55,7 @@ Quiet Moments by Benjamin Moore (1563) - Pale blue-gray, very calming
 
 Sleepy Blue by Sherwin-Williams (SW 6225) - The name says it all
 
-### Soft Greens
+### Soft greens
 
 Green connects us to nature, which our brains associate with safety and relaxation.
 
@@ -80,7 +80,7 @@ Clary Sage by Sherwin-Williams (SW 6178) - Deeper sage with warmth
 
 Silver Marlin by Benjamin Moore (2139-50) - Gray-green, very soothing
 
-### Warm Neutrals
+### Warm neutrals
 
 If blue and green feel too "colored" for you, warm neutrals work beautifully.
 
@@ -102,13 +102,13 @@ Agreeable Gray by Sherwin-Williams (SW 7029) - The perfect warm gray
 
 Pale Oak by Benjamin Moore (OC-20) - Warm greige, very restful
 
-Edgecomb Gray by Benjamin Moore (HC-173) - Sophisticated neutral
+Edgecomb Gray by Benjamin Moore (HC-173) - Refined neutral
 
 Accessible Beige by Sherwin-Williams (SW 7036) - Warm without being yellow
 
-## Colors to Avoid in Bedrooms
+## Colors to avoid in bedrooms
 
-### Bright White
+### Bright white
 
 White seems like a safe choice, but pure white bedrooms can feel:
 - Clinical (like a hospital)
@@ -118,7 +118,7 @@ White seems like a safe choice, but pure white bedrooms can feel:
 
 If you want white, go for soft, warm whites with LRV around 80-85, not 95+.
 
-### Energizing Colors
+### Energizing colors
 
 **Reds and oranges:** These colors raise heart rate and stimulate the nervous system. Great for a home gym, terrible for sleep.
 
@@ -126,7 +126,7 @@ If you want white, go for soft, warm whites with LRV around 80-85, not 95+.
 
 **Hot pinks and magentas:** Stimulating and attention-grabbing. Not relaxing.
 
-### Very Dark Colors
+### Very dark colors
 
 Deep navy, charcoal, and black can feel:
 - Cave-like and oppressive
@@ -135,13 +135,13 @@ Deep navy, charcoal, and black can feel:
 
 If you want dark and moody, keep it to an accent wall behind the headboard where you won't see it while falling asleep.
 
-### Colors With High Saturation
+### Colors with high saturation
 
 It's not just about the hue, it's about the intensity. A muted sage green is calming. A saturated emerald green is stimulating.
 
 For bedrooms, always lean toward muted, dusty, or grayed-down versions of colors.
 
-## The LRV Factor
+## The LRV factor
 
 LRV (Light Reflectance Value) matters for bedrooms. Here's why:
 
@@ -153,7 +153,7 @@ LRV (Light Reflectance Value) matters for bedrooms. Here's why:
 
 This is why soft, muted colors work better than either bright whites or deep darks.
 
-## What About the Accent Wall?
+## What about the accent wall?
 
 If you want color in your bedroom, put it behind the headboard. This is the one wall you don't see while lying in bed.
 
@@ -165,7 +165,7 @@ If you want color in your bedroom, put it behind the headboard. This is the one 
 
 **Keep the walls you see while in bed** in calming, light neutrals or soft colors.
 
-## Ceiling Color Matters Too
+## Ceiling color matters too
 
 Most people paint ceilings white by default. In bedrooms, consider:
 
@@ -177,7 +177,7 @@ Most people paint ceilings white by default. In bedrooms, consider:
 
 Avoid pure white ceilings if your walls are warm colors, as the contrast can feel jarring.
 
-## My Bedroom Color Journey
+## My bedroom color journey
 
 I've tested three bedroom colors over the years:
 
@@ -192,7 +192,7 @@ The perfect soft blue-green. Feels calm without being boring. Warm enough to be 
 
 The color was $50 in paint. The improvement in sleep quality was priceless.
 
-## Quick Guidelines
+## Quick guidelines
 
 **For falling asleep faster:**
 - Blue and blue-green tones
@@ -209,7 +209,7 @@ The color was $50 in paint. The improvement in sleep quality was priceless.
 - Not too dark (avoid the cave effect)
 - Soft, not stark
 
-## The Bottom Line
+## Worth the $50 experiment
 
 Your bedroom should help you sleep, and color plays a bigger role than most people think. Blue and green test best across all the research. Warm neutrals work well too. Avoid bright whites, energizing colors, and anything too saturated.
 

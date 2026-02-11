@@ -216,7 +216,7 @@ Kennen Sie die LRV-Werte, Untertöne und Komplementärfarben. Wenn gefragt, kön
 
 Nicht: "Also... was denken Sie? Funktioniert eine davon?"
 
-## Das Fazit
+## Drei Optionen, grosse Muster, klare Empfehlung
 
 Präsentieren Sie drei Optionen: sicher, empfohlen, mutig. Verwenden Sie grosse Muster. Betrachten Sie im tatsächlichen Raum unter tatsächlicher Beleuchtung. Sprechen Sie Ihre Empfehlung mit Überzeugung aus. Bekommen Sie Entscheidungen schriftlich.
 

@@ -14,9 +14,9 @@ imageAlt: "Modern kitchen with warm white walls and natural wood cabinets"
 
 Here's the thing about kitchen paint: you're going to live with it for a long time. Kitchen repaints are a pain—you've got cabinets to tape around, appliances to move, and grease spots that need cleaning first. Pick something you'll still love in five years.
 
-## The Colors That Work Right Now
+## The colors that work right now
 
-### Warm Whites (Still King)
+### Warm whites (still king)
 
 Everyone wants a white kitchen. But there's "white" and there's *white.*
 
@@ -31,7 +31,7 @@ Slightly creamier than Simply White. Better if you're worried about looking too 
 **White Dove OC-17 (Benjamin Moore)** — LRV: 85
 A bit more depth than pure white. Great if you want white walls but not "sterile-white" walls.
 
-### Sage Green (The Pinterest Darling)
+### Sage green (the Pinterest darling)
 
 Sage has been trending for three years and shows no signs of stopping. It adds personality without being overwhelming, works with wood tones, and somehow feels both modern and timeless.
 
@@ -44,33 +44,33 @@ Slightly deeper and moodier. Great for accent walls or lower cabinets.
 **Evergreen Fog SW 9130 (Sherwin-Williams)** — LRV: 30
 The 2022 Color of the Year that people are still obsessed with. Definitely test this one—it goes dark in low light.
 
-### Warm Grays (Not Cool Grays)
+### Warm grays (not cool grays)
 
-Gray kitchens are tricky. Go cool and you get "sad office." Go warm and you get sophisticated.
+Gray kitchens are tricky. Go cool and you get "sad office." Go warm and you get elegant.
 
 **Agreeable Gray SW 7029 (Sherwin-Williams)** — LRV: 60
 Probably the most popular greige in America for a reason. It reads as warm gray without being beige.
 
 **Edgecomb Gray HC-173 (Benjamin Moore)** — LRV: 63
-A sophisticated greige that works in almost any kitchen. Warm enough to feel inviting.
+A versatile greige that works in almost any kitchen. Warm enough to feel inviting.
 
 **Pale Oak OC-20 (Benjamin Moore)** — LRV: 70
 Light and warm. Great if you want gray tones but have limited natural light.
 
-## What Goes With Your Cabinets
+## What goes with your cabinets
 
-### You Have White Cabinets
+### You have white cabinets
 
 White-on-white can look incredible or clinical. The key is **undertone contrast**.
 
 **Best wall colors:**
 - Agreeable Gray SW 7029 — adds depth without competing
-- Edgecomb Gray HC-173 — sophisticated without being cold
+- Edgecomb Gray HC-173 — warm without being cold
 - Sea Salt SW 6204 — subtle blue-green warmth (but only with good light)
 
 **Avoid:** Stark white walls with stark white cabinets. You need *some* undertone difference or it looks flat.
 
-### You Have Dark or Navy Cabinets
+### You have dark or navy cabinets
 
 Dark cabinets are already making a statement. Keep walls simple.
 
@@ -81,7 +81,7 @@ Dark cabinets are already making a statement. Keep walls simple.
 
 **The rule:** Let the dark cabinets be the star. Light walls let them shine.
 
-### You Have Natural Wood Cabinets
+### You have natural wood cabinets
 
 Wood has inherent warmth. Your wall color needs to harmonize, not fight.
 
@@ -92,7 +92,7 @@ Wood has inherent warmth. Your wall color needs to harmonize, not fight.
 
 **Avoid:** Cool grays make warm wood look orange by contrast. Not flattering.
 
-### You Have Gray Cabinets
+### You have gray cabinets
 
 Gray cabinets can feel cold. Walls need to add warmth back in.
 
@@ -101,13 +101,13 @@ Gray cabinets can feel cold. Walls need to add warmth back in.
 - Creamy SW 7012 — counteracts cool gray
 - Accessible Beige SW 7036 — warm neutral
 
-## The Light Situation
+## The light situation
 
 **Lots of windows, south-facing:** You can get away with cooler tones and darker colors. The light will warm them up.
 
 **Few windows, north-facing:** Stick to warm undertones and higher LRV (60+). Cool grays will look sad. Blues will look clinical. Trust me.
 
-## Kitchen Paint Finish (Don't Mess This Up)
+## Kitchen paint finish (don't mess this up)
 
 Kitchens get greasy. Kitchens get splattered. Your paint needs to survive.
 
@@ -118,7 +118,7 @@ Kitchens get greasy. Kitchens get splattered. Your paint needs to survive.
 
 I've seen people use flat paint on kitchen walls. You can tell. There's a haze around the stove area that won't come off. Don't do it.
 
-## Colors to Avoid in Kitchens
+## Colors to avoid in kitchens
 
 **Bright red or orange:** The "red stimulates appetite" thing is overstated. What red actually does is make your kitchen feel like a fast food restaurant.
 
@@ -128,7 +128,7 @@ I've seen people use flat paint on kitchen walls. You can tell. There's a haze a
 
 **Whatever color is trending on TikTok this week:** Kitchen repaints are expensive. Pick something you'll love for years, not months.
 
-## How to Actually Choose
+## How to actually choose
 
 1. **Look at your fixed finishes:** Countertops, backsplash, flooring—these aren't changing. Your paint needs to work with them.
 
@@ -140,9 +140,9 @@ I've seen people use flat paint on kitchen walls. You can tell. There's a haze a
 
 5. **Live with samples for 3 days:** First impressions fade. You need to see it when you're tired, when you're cooking, when you're cleaning up.
 
-## The Bottom Line
+## So what should you pick
 
-For most kitchens: warm whites work with everything, sage green adds personality without risk, and warm grays are sophisticated.
+For most kitchens: warm whites work with everything, sage green adds personality without risk, and warm grays look polished.
 
 Avoid cool grays, stark whites, and anything too trendy. Kitchens are expensive to repaint—pick something that'll make you happy for years.
 

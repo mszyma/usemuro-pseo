@@ -216,10 +216,10 @@ Znaj wartości LRV, podtony i kolory uzupełniające. Jeśli pytają, możesz i�
 
 Nie: "Więc... co myślicie? Któraś z nich działa?"
 
-## Podsumowanie
+## Trzy opcje, duże próbki, pewna rekomendacja
 
 Prezentuj trzy opcje: bezpieczna, rekomendowana, odważniejsza. Używaj dużych próbek. Oglądaj w faktycznej przestrzeni pod faktycznym oświetleniem. Przedstaw swoją rekomendację z pewnością. Uzyskaj decyzje na piśmie.
 
-Celem nie jest imponowanie klientom nieskończonymi opcjami. Celem jest poprowadzenie ich do dobrej decyzji szybko.
+Nie chodzi o to, żeby zasypać klienta opcjami. Chodzi o to, żeby doprowadzić go do dobrej decyzji szybko.
 
 Klienci nie zatrudniają projektantów żeby ich przytłaczać wyborami. Zatrudniają projektantów żeby uproszczać przytłaczające w wykonalne.

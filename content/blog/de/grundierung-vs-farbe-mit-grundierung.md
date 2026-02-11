@@ -14,7 +14,7 @@ imageAlt: "Farbroller tragt weisse Grundierung auf Rohputz auf, Farbdosen im Hin
 
 Das habe ich auf die harte Tour gelernt. Ich wollte eine feuerrote Akzentwand mit Caparol 3D Palazzo 170 (einem angenehmen Grau) uberstreichen, mit einer "Farbe und Grundierung in einem." Nach vier Anstrichen schimmerte immer noch Rosa durch. Dann kaufte ich eine 25-Euro-Dose echte Grundierung, strich einmal vor, dann zweimal mit Farbe. Das hatte ich von Anfang an tun sollen.
 
-## Wann Sie wirklich separate Grundierung brauchen
+## Wann Sie wirklich separate Grundierung brauchen sollten
 
 Es gibt genau vier Situationen, in denen Sie separate Grundierung kaufen sollten. Bei allem anderen? Die Komboprodukte funktionieren einwandfrei.
 
@@ -50,7 +50,7 @@ Glanzende Farbe, Olfarbe die Sie mit Dispersionsfarbe uberstreichen wollen, glat
 
 Wenn Sie diesen Schritt bei glanzenden Oberflachen auslassen, wird Ihre neue Farbe abplattern. Vielleicht nicht heute, vielleicht nicht nachsten Monat, aber sie wird abplattern.
 
-## Wann Farbe-mit-Grundierung ausreicht
+## Wann Farbe-mit-Grundierung ausreicht (meistens)
 
 Fur alles andere erledigen die Komboprodukte ihren Job:
 
@@ -61,7 +61,7 @@ Fur alles andere erledigen die Komboprodukte ihren Job:
 
 Die Farbe-mit-Grundierung-Produkte haben mehr Festkorper und bessere Haftung als normale Farbe. Sie sind wirklich nutzlich. Sie sind nur nicht magisch.
 
-## Der echte Kostenvergleich
+## Der echte Kostenvergleich (mit Zahlen)
 
 Rechnen wir das mal fur die rote Wand durch, die ich erwahnt habe.
 
@@ -78,7 +78,7 @@ Rechnen wir das mal fur die rote Wand durch, die ich erwahnt habe.
 
 Grundierung ist keine Zusatzausgabe. Sie ist das, was Sie davon abhalt, doppelt so viel Farbe zu kaufen.
 
-## Grundierungstypen erklart
+## Welche Grundierung wofur taugt
 
 | Grundierungstyp | Am besten fur | Trockenzeit | Reinigung |
 |-----------------|---------------|-------------|-----------|
@@ -88,7 +88,7 @@ Grundierung ist keine Zusatzausgabe. Sie ist das, was Sie davon abhalt, doppelt 
 | Haftgrund | Glanzende Oberflachen, Fliesen, Laminat | 1 Stunde | Wasser |
 | Grau getonte Grundierung | Dunkel-zu-Hell-Farbwechsel | 1 Stunde | Wasser |
 
-## Haufige Fehler
+## Fehler die ich selbst gemacht habe (oder bei anderen gesehen)
 
 **Fehler 1: Weisse Grundierung unter dunklen Farben verwenden**
 
@@ -106,7 +106,7 @@ Die meisten Grundierungen sagen "nach 1 Stunde uberstreichbar." Das ist das Mini
 
 Eine Schicht reicht fast immer. Grundierung ist keine Farbe. Dicke Grundierungsschichten konnen tatsachlich Probleme verursachen, wie Rissbildung oder schlechte Haftung des Deckanstrichs.
 
-## Schnelle Entscheidungshilfe
+## Schnelle Entscheidungshilfe in funf Fragen
 
 Stellen Sie sich diese Fragen:
 
@@ -116,7 +116,7 @@ Stellen Sie sich diese Fragen:
 4. **Ist die alte Farbe glanzend oder olbasiert?** Ja = Haftgrundierung
 5. **Nichts davon?** Farbe-mit-Grundierung-Kombi ist in Ordnung
 
-## Das Fazit
+## Grundierung oder nicht? So einfach ist die Antwort
 
 Separate Grundierung existiert, um spezifische Probleme zu losen: porose Oberflachen versiegeln, Flecken blockieren, drastische Farbwechsel ermoglichen und Farbe auf schwierigen Oberflachen haften lassen. Wenn Sie eines dieser Probleme haben, kaufen Sie die Grundierung. Sie ist gunstiger als zusatzliche Farbe und Frustration.
 

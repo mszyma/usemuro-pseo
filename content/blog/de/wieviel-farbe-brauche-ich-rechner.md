@@ -147,7 +147,7 @@ Farbtransitionen sind wichtiger als die Leute denken:
 - Dunkel zu hell: Definitiv zuerst getönte Grundierung
 - Jedes Rot, Gelb oder Orange: 3-4 Anstriche minimum
 
-Ich habe einmal versucht, ein helles Blau über dunkles Weinrot ohne Grundierung zu streichen. Vier Anstriche später konnte ich immer noch Lila durchscheinen sehen. Nutze Grundierung für dramatische Farbwechsel.
+Ich habe einmal versucht, ein helles Blau über dunkles Weinrot ohne Grundierung zu streichen. Vier Anstriche später konnte ich immer noch Lila durchscheinen sehen. Nutze Grundierung für starke Farbwechsel.
 
 ### Farbqualität
 
@@ -171,7 +171,7 @@ Das ist mir einmal passiert. Ich musste an einer sichtbaren Naht stoppen, zum La
 
 4. **Bewahre übrige Farbe auf.** Richtig versiegelte Farbe hält ein Jahrzehnt. Beschrifte Eimer mit Raum, Datum und Farbcode.
 
-## Das Fazit
+## Die Kurzversion
 
 Für akkurate Farbberechnung:
 

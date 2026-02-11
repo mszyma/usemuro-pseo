@@ -16,7 +16,7 @@ Ich habe diese Lektion auf die teure Art gelernt. Habe die Wohnzimmerwände mein
 
 Lass uns jedes Finish aufschlüsseln, damit du nicht den gleichen Fehler machst.
 
-## Die Schnellreferenz
+## Alle Finishes auf einen Blick
 
 | Finish | Glanz | Kaschiert Unebenheiten | Haltbarkeit | Am besten für |
 |--------|-------|------------------------|-------------|---------------|
@@ -26,15 +26,15 @@ Lass uns jedes Finish aufschlüsseln, damit du nicht den gleichen Fehler machst.
 | Seidenglanz | 35-70% | Schlecht | Hoch | Leisten, Türen, Schränke |
 | Hochglanz | 70-90% | Sehr schlecht | Sehr hoch | Nur Spezial-Akzente |
 
-## Matt/Stumpfmatt: Der Decken-Standard
+## Matt/Stumpfmatt: nur fur Decken sinnvoll
 
-Mattes Finish absorbiert Licht, anstatt es zu reflektieren. Null Glanz. Sieht raffiniert und samtig aus. Kaschiert Wandunebenheiten besser als jedes andere Finish.
+Mattes Finish absorbiert Licht, anstatt es zu reflektieren. Null Glanz. Sieht ruhig und samtig aus. Kaschiert Wandunebenheiten besser als jedes andere Finish.
 
 Hier ist die Sache: Matte Farbe ist wunderschön, aber unpraktisch für die meisten Wohnsituationen.
 
 **Was matt richtig macht:**
 - Kaschiert Beulen, Spachtelmasse und Texturunterschiede komplett
-- Schafft ein weiches, raffiniertes Erscheinungsbild
+- Schafft ein weiches, gleichmassiges Erscheinungsbild
 - Kein Blenden oder glänzende Stellen
 - Ausbesserungen fügen sich nahtlos ein
 
@@ -58,7 +58,7 @@ Hier ist die Sache: Matte Farbe ist wunderschön, aber unpraktisch für die meis
 
 Ich nutze matt ausschließlich auf Decken. Nirgendwo sonst. Der Wartungsalptraum ist den ästhetischen Nutzen auf Wänden nicht wert.
 
-## Seidenmatt: Die Standard-Wahl
+## Seidenmatt: die sichere Wahl fur fast jeden Raum
 
 Seidenmatt hat einen subtilen Glanz – wie die Oberfläche eines Eies. Es ist das beliebteste Wandfinish aus gutem Grund: Es balanciert Aussehen und Haltbarkeit.
 
@@ -82,7 +82,7 @@ Seidenmatt hat einen subtilen Glanz – wie die Oberfläche eines Eies. Es ist d
 
 **Meine Regel:** Im Zweifel, wähle seidenmatt. Es ist die sichere Wahl, die fast nie enttäuscht. Ich habe Dutzende Wände in seidenmatt gestrichen und keine davon bereut.
 
-## Satin: Das haltbare Arbeitspferd
+## Satin: das haltbare Arbeitspferd
 
 Satin hat einen weichen perlenartigen Glanz mit mehr Lichtreflexion als seidenmatt. Es ist merklich haltbarer und viel leichter zu reinigen.
 
@@ -109,7 +109,7 @@ Ich habe meine Küche auf Satin umgestellt nach Jahren von seidenmatt, und der U
 
 **Satin vs. seidenmatt Entscheidung:** Wenn der Raum Feuchtigkeit, Fett, Fingerabdrücke oder häufiges Berühren sieht, upgrade zu satin. Der extra Glanz ist die Reinigungsfähigkeit wert.
 
-## Seidenglanz: Leisten-Territorium
+## Seidenglanz: nur fur Leisten und Turrahmen
 
 Seidenglanz ist merklich glänzend. Es reflektiert deutlich Licht und schafft eine harte, haltbare Oberfläche.
 
@@ -139,7 +139,7 @@ Ich habe Hausbesitzer gesehen, die ganze Bäder in Seidenglanz gestrichen haben,
 
 **Nutze niemals seidenglanz für:** Wände. Punkt. Auch nicht in Bädern. Nutze satin auf Badwänden und seidenglanz nur auf Leisten.
 
-## Hochglanz: Experten-Territorium
+## Hochglanz: Finger weg (ausser Sie sind Profi)
 
 Hochglanz ist maximaler Glanz – fast reflektierend wie Lack. Es schafft einen dramatischen, hochwertigen Look, wenn es richtig gemacht wird.
 
@@ -164,7 +164,7 @@ Ich bin ehrlich: Ich habe persönlich nie Hochglanz bei irgendeinem Projekt verw
 
 **Überspring hochglanz für:** DIY-Projekte. Es sei denn, du bist ein Profi oder hast professionell vorbereitete Oberflächen, wird Hochglanz enttäuschen.
 
-## Der Leisten-Trick: Kontrast schaffen
+## Der Leisten-Trick, der Raume aufwertet
 
 Hier ist ein Design-Trick, der Räume transformiert: Nutze verschiedene Glanzgrade auf Wänden versus Leisten.
 
@@ -176,7 +176,7 @@ Selbst wenn Wände und Leisten die gleiche Farbe haben, lässt der Glanzuntersch
 
 Ich nutze das in jedem Raum. Seidenglanz-weiße Leisten gegen seidenmatt-farbige Wände schafft visuelle Hierarchie, die beabsichtigt und gestaltet aussieht.
 
-## Das Fazit
+## Welches Finish wohin gehort
 
 Für die meisten Wohnsituationen:
 - **Matt:** Nur Decken

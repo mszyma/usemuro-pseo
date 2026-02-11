@@ -14,7 +14,7 @@ imageAlt: "Profesjonalne wachlarze kolorów pokazujące próbki RAL, NCS i Panto
 
 Spędziłem zawstydzająco dużo czasu na początku kariery zakładając, że są one wymienne. Klient wysyła referencję Pantone, ja szukam "odpowiednika" RAL, zamawiam farbę. Potem klient przychodzi z próbką Pantone i jest zauważalnie inna. Okazuje się, że nie ma prawdziwego odpowiednika. Jest tylko "wystarczająco blisko," a czasem to nie jest wystarczająco blisko.
 
-## RAL: Europejski standard
+## RAL: europejski standard
 
 RAL powstał w Niemczech w 1927 roku. To dominujący standard kolorów dla europejskich zastosowań przemysłowych, szczególnie budownictwa, produkcji i malowania proszkowego.
 
@@ -51,7 +51,7 @@ Najczęstsze kolory, które zobaczysz:
 
 RAL Design to nowszy, większy system z ponad 1800 kolorami używający innej notacji (jak RAL 070 80 10). Opiera się na przestrzeni barw CIELAB, co oznacza bardziej systematyczną organizację. Ale większość wykonawców nadal używa RAL Classic, bo to jest w ich systemach farbowych.
 
-## NCS: Skandynawskie podejście
+## NCS: skandynawskie podejście
 
 NCS (Natural Color System) pochodzi ze Szwecji i opiera się na tym, jak ludzie postrzegają kolor, nie na mieszaniu pigmentów. To standard dla architektury w Skandynawii i coraz popularniejszy w całej Europie.
 
@@ -85,7 +85,7 @@ Notacja odcienia idzie wokół koła barw: Y (żółty), R (czerwony), B (niebie
 
 Notacja NCS mówi dokładnie, jak kolor będzie wyglądał. Jesli znasz S 2030-Y90R, wiesz że ma 20% czerni i 30% intensywności koloru. To przydatne gdy specyfikujesz kolory na różnych materiałach (farba, tkanina, metal) i musisz je skoordynować.
 
-## Pantone: Standard świata designu
+## Pantone: standard świata designu
 
 Pantone jest amerykański, pierwotnie stworzony dla przemysłu poligraficznego. To standard dla projektowania graficznego, produktowego, mody i brandingu.
 
@@ -170,7 +170,7 @@ Zatrzymaj się i porozmawiaj z nim. Zapytaj co faktycznie chce osiągnąć:
 
 **Jesli pracujesz w sektorze mieszkaniowym**: System twojego producenta farb (Śnieżka, Dekoral, Tikkurila, Dulux) to prawdopodobnie wszystko czego potrzebujesz. Konwertuj przychodzące specyfikacje do swojego systemu roboczego.
 
-## Podsumowanie
+## Trzy systemy, zero wymienności
 
 RAL, NCS i Pantone to narzędzia, nie wymienne etykiety. Każdy służy konkretnej branży i celowi. Konwersje istnieją ale są przybliżeniami.
 

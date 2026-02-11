@@ -14,9 +14,9 @@ imageAlt: "Professional painter measuring a room with tape measure and notepad f
 
 I lost money on my first three painting jobs. Quoted based on "feel," didn't account for a 10-foot ceiling, and completely forgot to factor in the two days of wallpaper removal the client "assumed" was included. Learned fast that feeling your way through pricing is a path to working for free.
 
-## The Two Pricing Models
+## The two pricing models
 
-### Square Foot Pricing
+### Square foot pricing
 
 Best for:
 - Standard rooms with 8-9 foot ceilings
@@ -34,7 +34,7 @@ Best for:
 | Ceilings | $1.00 - $2.00 |
 | Trim (linear foot) | $1.00 - $2.50 |
 
-### Day Rate / Hourly Pricing
+### Day rate / hourly pricing
 
 Best for:
 - Complex prep work
@@ -51,9 +51,9 @@ Best for:
 | Journeyman | $350 - $500 |
 | Master / Specialty | $500 - $800 |
 
-## Calculating Square Footage
+## Calculating square footage
 
-### Wall Square Footage
+### Wall square footage
 
 Measure each wall: length x height. Add them up.
 
@@ -64,29 +64,29 @@ Measure each wall: length x height. Add them up.
 - Wall 4: 14 x 9 = 126 sq ft
 - Total: 468 sq ft
 
-### Subtract Openings (Optional)
+### Subtract openings (optional)
 
 Some painters subtract windows and doors, some don't. I don't subtract openings under 50 sq ft because the cut-in time around them often equals or exceeds the time saved.
 
-### Ceiling Square Footage
+### Ceiling square footage
 
 Simply length x width of the room.
 
 **Same room:** 12 x 14 = 168 sq ft
 
-### Total Paintable Area
+### Total paintable area
 
 Walls (468) + Ceiling (168) = 636 sq ft
 
-## The Pricing Formula
+## The pricing formula
 
 **Price = (Square footage x Rate) + Prep + Materials + Profit margin**
 
-### Step 1: Base Labor
+### Step 1: Base labor
 
 636 sq ft x $2.50 (repaint, good condition) = $1,590
 
-### Step 2: Prep Work Add-ons
+### Step 2: Prep work add-ons
 
 - Light cleaning / deglossing: $0.25 - $0.50 / sq ft
 - Hole patching (minor): $5 - $15 per patch
@@ -109,11 +109,11 @@ Walls (468) + Ceiling (168) = 636 sq ft
 - Total: ~3.5 gallons, round to 4
 - At $55/gallon mid-range: $220 materials
 
-### Step 4: Profit Margin
+### Step 4: Profit margin
 
 Add 15-25% for overhead and profit.
 
-### Example Calculation
+### Example calculation
 
 | Line Item | Amount |
 |-----------|--------|
@@ -124,35 +124,35 @@ Add 15-25% for overhead and profit.
 | Profit margin (20%) | $400 |
 | **Total Quote** | **$2,401** |
 
-## Factors That Increase Price
+## Factors that increase price
 
-### High Ceilings
+### High ceilings
 
 - 9-10 ft: Standard pricing
 - 10-12 ft: Add 15-25%
 - 12-15 ft: Add 30-50%
 - 15+ ft (requires lift): Add 50-100%
 
-### Difficult Colors
+### Difficult colors
 
 - Dark to light: Add 25-50% (extra coats needed)
 - Bright/saturated colors: Add 15-25% (coverage issues)
 - Specialty finishes: Add 30-50%
 
-### Condition Issues
+### Condition issues
 
 - Heavy texture: Add 15-25%
 - Smoke damage: Add 25-50%
 - Water stains: Add per stain ($25-75)
 - Mold remediation needed: Refer out or add significant premium
 
-### Access Challenges
+### Access challenges
 
 - Furniture moving required: Add $100-300 or require client to clear
 - Stairs/scaffolding needed: Add 20-40%
 - Occupied home (working around residents): Add 10-20%
 
-## What to Include in Your Quote
+## What to include in your quote
 
 Always specify:
 
@@ -164,7 +164,7 @@ Always specify:
 - Basic prep (what level)
 - Timeline
 
-### Not Included:
+### Not included:
 
 - Furniture moving (or specify)
 - Wall repairs beyond minor patching
@@ -172,19 +172,19 @@ Always specify:
 - Lead paint protocols
 - Color changes during project
 
-### Payment Terms
+### Payment terms
 
 - Deposit: 25-50% to start
 - Progress payment: (for larger jobs)
 - Final: On completion and walkthrough
 
-## Common Pricing Mistakes
+## Common pricing mistakes
 
-### Underpricing Prep
+### Underpricing prep
 
 New painters consistently underestimate prep time. A room that needs wallpaper removed, holes patched, and walls sanded can take longer to prep than to paint.
 
-### Forgetting Overhead
+### Forgetting overhead
 
 Your rate must cover:
 - Vehicle costs
@@ -193,15 +193,15 @@ Your rate must cover:
 - Marketing
 - Unbillable time (estimates, travel, admin)
 
-### Pricing Based on Competition
+### Pricing based on competition
 
 Knowing competitor rates is useful, but pricing purely to undercut them is a race to bankruptcy. Price based on your costs plus profit.
 
-### Not Adjusting for Difficulty
+### Not adjusting for difficulty
 
 A simple box room and a room with 14 corners, 6 windows, and cathedral ceilings aren't the same job. Price accordingly.
 
-## When to Walk Away
+## When to walk away
 
 Some jobs aren't worth taking:
 
@@ -213,9 +213,9 @@ Some jobs aren't worth taking:
 
 A bad job at the wrong price costs you money and reputation. Better to be selective.
 
-## Getting Paid
+## Getting paid
 
-### Contracts Matter
+### Contracts matter
 
 Even for small jobs, get it in writing:
 - Scope of work
@@ -224,21 +224,21 @@ Even for small jobs, get it in writing:
 - Change order process
 - Timeline
 
-### Progress Payments
+### Progress payments
 
 For jobs over $2,000:
 - 30-50% deposit
 - Progress payment at 50% completion
 - Final on walkthrough
 
-### Change Orders
+### Change orders
 
 When clients add scope mid-project:
 - Stop and document the change
 - Provide written add-on pricing
 - Get approval before proceeding
 
-## The Bottom Line
+## Know your numbers, own your price
 
 Know your numbers. Calculate square footage accurately, account for all prep work, include materials at actual cost, and add your margin.
 

@@ -14,11 +14,11 @@ imageAlt: "Professional color fan decks showing RAL, NCS, and Pantone swatches s
 
 I spent an embarrassing amount of time early in my career assuming these were all interchangeable. Client sends a Pantone reference, I look up the "equivalent" RAL, order the paint. Then the client shows up with the Pantone swatch and it's noticeably different. Turns out there's no true equivalent. There's only "close enough," and sometimes that's not close enough.
 
-## RAL: The European Standard
+## RAL: the European standard
 
 RAL started in Germany in 1927. It's the dominant color standard for European industrial applications, especially construction, manufacturing, and powder coating.
 
-### How RAL Works
+### How RAL works
 
 RAL Classic uses a four-digit numbering system:
 
@@ -39,7 +39,7 @@ The most common colors you'll see:
 - **RAL 7016** (Anthracite Grey): Popular for windows and doors
 - **RAL 7035** (Light Grey): Common industrial gray
 
-### When You'll Use RAL
+### When you'll use RAL
 
 - European construction specifications
 - Window and door frames
@@ -51,11 +51,11 @@ The most common colors you'll see:
 
 RAL Design is a newer, larger system with over 1,800 colors using a different notation (like RAL 070 80 10). It's based on the CIELAB color space, which means it's more systematically organized. But most contractors still use RAL Classic because that's what's in their paint systems.
 
-## NCS: The Scandinavian Approach
+## NCS: the Scandinavian approach
 
 NCS (Natural Color System) comes from Sweden and is based on how humans perceive color, not on pigment mixing. It's the standard for architecture in Scandinavia and increasingly popular across Europe.
 
-### How NCS Works
+### How NCS works
 
 NCS describes colors by how much black, white, and chromatic content they contain:
 
@@ -67,29 +67,29 @@ NCS describes colors by how much black, white, and chromatic content they contai
 
 The hue notation goes around a color circle: Y (yellow), R (red), B (blue), G (green). Y90R means "yellow with 90% red," which is orange.
 
-### Common NCS Colors
+### Common NCS colors
 
 - **S 0502-Y**: Near-white with warm undertone
 - **S 2005-Y20R**: Classic Swedish beige
 - **S 3005-Y20R**: Warm medium gray
 - **S 6502-Y**: Charcoal neutral
 
-### When You'll Use NCS
+### When you'll use NCS
 
 - Architectural specifications (especially Scandinavian)
 - Swedish, Norwegian, Finnish projects
 - European government buildings
 - Projects requiring precise color communication
 
-### Why Architects Like NCS
+### Why architects like NCS
 
 NCS notation tells you exactly how a color will look. If you know S 2030-Y90R, you know it has 20% black content and 30% color intensity. That's useful when you're specifying colors across different materials (paint, fabric, metal) and need them to coordinate.
 
-## Pantone: The Design World Standard
+## Pantone: the design world standard
 
 Pantone is American, originally created for the printing industry. It's the standard for graphic design, product design, fashion, and branding.
 
-### How Pantone Works
+### How Pantone works
 
 Pantone has multiple systems:
 
@@ -99,7 +99,7 @@ Pantone has multiple systems:
 
 Colors are identified by number (like Pantone 186 C for a specific red) or by name (like "Living Coral" for Color of the Year selections).
 
-### When You'll Use Pantone
+### When you'll use Pantone
 
 - Brand color specifications
 - Corporate identity projects
@@ -107,15 +107,15 @@ Colors are identified by number (like Pantone 186 C for a specific red) or by na
 - Interior projects with designer involvement
 - Fashion and textile coordination
 
-### The Pantone Problem for Painters
+### The Pantone problem for painters
 
 Pantone was never meant for wall paint. It's optimized for print inks and product materials. When a designer sends you a Pantone reference for a wall color, they're expecting you to translate between systems that weren't designed to match.
 
-## Why Conversion Is Hard
+## Why conversion is hard
 
 Here's what they don't tell you: these systems use fundamentally different color models.
 
-### Different Color Spaces
+### Different color spaces
 
 - **RAL**: Based on specific pigment formulations
 - **NCS**: Based on human color perception
@@ -127,25 +127,25 @@ A color might exist perfectly in one system but fall between points in another.
 
 Colors that match under one light source can look completely different under another. A RAL-to-Pantone "match" might look identical under D65 daylight but obviously different under incandescent or LED light.
 
-### Material Differences
+### Material differences
 
 Pantone on paper, RAL in powder coat, and NCS in latex paint will all behave differently. Gloss, texture, and substrate affect how colors appear.
 
-### There Are No True Equivalents
+### There are no true equivalents
 
 Every "conversion chart" is an approximation. Some are better than others, but none are exact. When precision matters, get physical samples and compare under the actual lighting conditions.
 
-## Practical Guidelines
+## Practical guidelines
 
-### If Your Client Sends RAL
+### If your client sends RAL
 
 You're in good shape. Most European paint manufacturers have RAL formulations ready to go. Verify the exact RAL number (Classic vs Design) and you're set.
 
-### If Your Client Sends NCS
+### If your client sends NCS
 
 Jotun, Caparol, and most Scandinavian-distributed brands can mix NCS directly. For US-based projects, you'll likely need to get a physical NCS swatch and have it computer-matched.
 
-### If Your Client Sends Pantone
+### If your client sends Pantone
 
 Stop and talk to them. Ask what they're actually trying to achieve:
 
@@ -153,14 +153,14 @@ Stop and talk to them. Ask what they're actually trying to achieve:
 - **General color direction**: They're using Pantone as shorthand for "this kind of blue." A close paint color will work fine.
 - **Designer preference**: The designer likes working in Pantone. Translate to your working system (RAL or manufacturer colors) and verify with samples.
 
-### For All Systems
+### For all systems
 
 1. Get physical swatches, not digital references
 2. View colors under the actual project lighting
 3. Paint test patches on the actual surfaces
 4. Get client sign-off on physical samples before ordering
 
-## Which System Should You Learn?
+## Which system should you learn?
 
 **If you work in European construction**: RAL Classic is essential. You'll see it on every architectural specification.
 
@@ -170,7 +170,7 @@ Stop and talk to them. Ask what they're actually trying to achieve:
 
 **If you work residential**: Your paint manufacturer's system (Benjamin Moore, Sherwin-Williams, Caparol, Dulux) is probably all you need. Convert incoming specifications to your working system.
 
-## The Bottom Line
+## Pick the system that matches your work
 
 RAL, NCS, and Pantone are tools, not interchangeable labels. Each serves a specific industry and purpose. Conversions exist but they're approximations.
 

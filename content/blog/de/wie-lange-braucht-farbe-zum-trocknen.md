@@ -38,7 +38,7 @@ Die Farbe ist trocken genug, um eine weitere Schicht problemlos aufzunehmen. Jet
 
 **Was Sie nicht tun konnen:** Etwas an die Wand hangen. Mobel dagegen schieben. Die Oberflache reinigen oder schrubben.
 
-### Phase 3: Vollstandig Ausgehartet
+### Phase 3: Vollstandig ausgehartet
 
 Die Farbe hat ihre maximale Harte und Belastbarkeit erreicht. Alle Losungsmittel sind verdunstet und die Farbe hat sich chemisch mit der Oberflache verbunden.
 
@@ -50,9 +50,9 @@ Die Farbe hat ihre maximale Harte und Belastbarkeit erreicht. Alle Losungsmittel
 
 ## Trocknungszeiten nach Glanzgrad
 
-Der gewahlte Glanzgrad beeinflusst die Trocknungszeit dramatisch. Glanzendere Oberflachen brauchen langer, weil sie mehr Harze und weniger porose Partikel haben.
+Der gewahlte Glanzgrad beeinflusst die Trocknungszeit erheblich. Glanzendere Oberflachen brauchen langer, weil sie mehr Harze und weniger porose Partikel haben.
 
-| Glanzgrad | Staubtrocken | Uberstreichbar | Voll Ausgehartet |
+| Glanzgrad | Staubtrocken | Uberstreichbar | Voll ausgehartet |
 |-----------|--------------|----------------|------------------|
 | Matt | 30-60 Min | 2-3 Stunden | 14-21 Tage |
 | Seidenmatt | 1-2 Stunden | 3-4 Stunden | 21-30 Tage |
@@ -154,7 +154,7 @@ Manchmal mussen Dinge schneller trocknen. Hier ist, was tatsachlich funktioniert
 
 **Was nicht funktioniert:** Fohne, Heissluftpistolen oder Heizgerate direkt auf die Farbe richten. Diese lassen die Oberflache eine Haut bilden, wahrend das Darunter nass bleibt.
 
-## Das Fazit
+## Kurz zusammengefasst
 
 "Trocken" und "ausgehartet" sind nicht dasselbe. Die meiste Farbe fuhlt sich in wenigen Stunden trocken an, erreicht aber erst nach 2-4 Wochen ihre volle Belastbarkeit.
 

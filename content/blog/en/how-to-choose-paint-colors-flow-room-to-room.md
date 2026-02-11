@@ -16,7 +16,7 @@ I learned this the hard way. My first house had a cool gray living room (underto
 
 It took me two years to repaint everything correctly. Here's what I learned.
 
-## Why Color Flow Matters
+## Why color flow matters
 
 When colors don't flow:
 - Each room feels disconnected
@@ -32,16 +32,16 @@ When colors flow:
 
 Good color flow isn't about painting everything the same color. It's about creating relationships between colors that feel deliberate.
 
-## The 5-Step System
+## The 5-step system
 
-### Step 1: Choose Your Base Neutral
+### Step 1: Choose your base neutral
 
 Pick one neutral color that will appear in hallways, transitions, and any walls visible from multiple rooms. This is your connecting thread.
 
 **Good base neutrals I recommend:**
 - **Agreeable Gray SW 7029 (LRV 60)** — Warm greige, works with almost everything
 - **Pale Oak OC-20 (LRV 70)** — Versatile beige-gray
-- **Edgecomb Gray HC-173 (LRV 63)** — Sophisticated, slightly warm
+- **Edgecomb Gray HC-173 (LRV 63)** — Refined, slightly warm
 - **Accessible Beige SW 7036 (LRV 58)** — Warm and inviting
 
 Your base neutral appears in:
@@ -52,7 +52,7 @@ Your base neutral appears in:
 
 I use Agreeable Gray as my base. It's forgiving, works with both warm and cool accents, and photographs well (which matters if you're ever selling).
 
-### Step 2: Lock In Your Undertone Family
+### Step 2: Lock in your undertone family
 
 Your base color has undertones. Every other color in your home should share that undertone family.
 
@@ -77,7 +77,7 @@ Your base color has undertones. Every other color in your home should share that
 
 Mixing undertone families is the #1 cause of "something feels off" color schemes. I've seen beautiful individual colors look terrible together because one had warm undertones and the other had cool.
 
-### Step 3: Keep LRV Differences Under 15 Points
+### Step 3: Keep LRV differences under 15 points
 
 LRV (Light Reflectance Value) measures how light or dark a color appears. Colors with similar LRVs transition smoothly. Large jumps feel abrupt.
 
@@ -99,7 +99,7 @@ Everything within 10-15 points. The transitions feel natural.
 
 My house now stays within a 15-point LRV range for all connected spaces. The only exceptions are private rooms with doors (bathrooms, closets).
 
-### Step 4: Use 60-30-10 Within Each Room
+### Step 4: Use 60-30-10 within each room
 
 Within each room:
 - **60%** dominant color (walls)
@@ -108,7 +108,7 @@ Within each room:
 
 Here's the cohesion trick: repeat accent colors across rooms. The throw pillow color in your living room can appear in kitchen accessories, bedroom art, and bathroom towels. This creates rhythm throughout the house.
 
-### Step 5: Test the Sightlines
+### Step 5: Test the sightlines
 
 This is the step most people skip. Walk through your house and stand in every doorway. Look at the two rooms simultaneously.
 
@@ -119,9 +119,9 @@ Ask yourself:
 
 If something feels off, it probably is. Trust the uncomfortable feeling.
 
-## Strategies by Home Type
+## Strategies by home type
 
-### Open Floor Plan
+### Open floor plan
 
 When kitchen, living, and dining areas are one continuous space, you have limited options:
 
@@ -140,7 +140,7 @@ When kitchen, living, and dining areas are one continuous space, you have limite
 
 I have an open kitchen/living room. Same wall color everywhere. The furniture and art create zones, not the paint.
 
-### Traditional Floor Plan
+### Traditional floor plan
 
 Separate rooms with defined doorways give you more freedom:
 
@@ -154,7 +154,7 @@ Separate rooms with defined doorways give you more freedom:
 
 All warm undertones, all within reasonable LRV range.
 
-### Half-and-Half Layout
+### Half-and-half layout
 
 Many homes have open areas (kitchen/living) plus closed rooms (bedrooms/bathrooms):
 
@@ -163,9 +163,9 @@ Many homes have open areas (kitchen/living) plus closed rooms (bedrooms/bathroom
 **Open zones:** Stick to base neutral, no experiments
 **Private rooms with doors:** More color freedom—these don't need to match as precisely
 
-## Room-by-Room Relationships
+## Room-by-room relationships
 
-### Living Room to Kitchen
+### Living room to kitchen
 
 These are almost always visually connected. Keep them:
 - Same color family
@@ -174,7 +174,7 @@ These are almost always visually connected. Keep them:
 
 My living room and kitchen are both warm greiges—one slightly lighter than the other. You can see them together and they feel like a palette, not a mistake.
 
-### Hallway to Everything
+### Hallway to everything
 
 Hallways are the most important color decision. Every room connects through them.
 
@@ -182,7 +182,7 @@ Hallways are the most important color decision. Every room connects through them
 - Make sure every room visible from the hallway coordinates
 - When in doubt, make the hallway lighter than adjacent rooms
 
-### Bedrooms to Hallways
+### Bedrooms to hallways
 
 Bedrooms can diverge more since doors are usually closed. But the entrance matters.
 
@@ -192,7 +192,7 @@ Bedrooms can diverge more since doors are usually closed. But the entrance matte
 
 Guest bathrooms visible from common areas should coordinate. Master baths have more freedom since they're private.
 
-## A Complete Palette Example
+## A complete palette example
 
 Here's an actual palette I helped someone create:
 
@@ -208,29 +208,29 @@ Here's an actual palette I helped someone create:
 
 Everything warm-leaning. LRVs mostly in the 50-65 range with kitchen lighter for brightness. One cool accent (Sea Salt) in the isolated guest bath.
 
-## Common Mistakes
+## Common mistakes
 
-### Mistake 1: Ignoring Undertones
+### Mistake 1: Ignoring undertones
 
 A cool gray living room next to a warm beige hallway creates visual conflict at every transition. This was literally my mistake in my first house.
 
-### Mistake 2: Too Many Colors
+### Mistake 2: Too many colors
 
 Five different wall colors in a 1,500 sq ft home looks chaotic. Limit yourself to 3-4 colors maximum, excluding trim and ceilings.
 
-### Mistake 3: Forgetting Flooring
+### Mistake 3: Forgetting flooring
 
 Your floor color runs throughout the house. Every wall color must work with it. If your floors have warm undertones, cool wall colors will clash everywhere.
 
-### Mistake 4: Testing Rooms in Isolation
+### Mistake 4: Testing rooms in isolation
 
 Test colors while standing in doorways, looking at adjacent rooms together. Individual room testing leads to unconnected results.
 
-### Mistake 5: Ignoring Natural Light
+### Mistake 5: Ignoring natural light
 
 North-facing rooms need warmer colors than south-facing rooms to feel equivalent. A color that works in your sunny living room might feel depressing in the dark hallway.
 
-## Fixing Existing Clashes
+## Fixing existing clashes
 
 Already have mismatched rooms? Options:
 
@@ -239,14 +239,14 @@ Already have mismatched rooms? Options:
 3. **Use furniture and rugs** — Decor can create visual bridges between wall colors
 4. **Close the doors** — Seriously, sometimes isolation is the solution
 
-## The Bottom Line
+## Make every doorway feel intentional
 
 Creating color flow requires:
 
-1. **One base neutral** for hallways and shared spaces
-2. **Consistent undertones** across all colors
-3. **Similar LRVs** (within 10-15 points)
-4. **Testing at transitions** — the doorway view matters most
+1. One base neutral for hallways and shared spaces
+2. Consistent undertones across all colors
+3. Similar LRVs (within 10-15 points)
+4. Testing at transitions -- the doorway view matters most
 
 When colors share undertone families and similar brightness levels, even different hues feel connected. The result: a home that feels intentional, cohesive, and larger than the sum of its rooms.
 

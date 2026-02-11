@@ -46,13 +46,13 @@ Kolor, którym ludzie wciąż są zafascynowani. Zdecydowanie przetestuj — rob
 
 ### Ciepłe szarości (nie chłodne szarości)
 
-Szare kuchnie są podchwytliwe. Pójdziesz w chłód i dostaniesz „smutne biuro". Pójdziesz w ciepło i dostaniesz wyrafinowanie.
+Szare kuchnie są podchwytliwe. Pójdziesz w chłód i dostaniesz „smutne biuro". Pójdziesz w ciepło i dostaniesz elegancję.
 
 **Ciepły szary od Śnieżki** — LRV: około 60
 Prawdopodobnie najpopularniejszy greige nie bez powodu. Odczytuje się jako ciepła szarość bez bycia beżową.
 
 **Taupe od Tikkurila** — LRV: około 63
-Wyrafinowany greige, który działa w prawie każdej kuchni. Wystarczająco ciepły, by być zachęcający.
+Elegancki greige, który działa w prawie każdej kuchni. Wystarczająco ciepły, by być zachęcający.
 
 **Piasek od Dekoral** — LRV: około 70
 Jasny i ciepły. Świetny, jeśli chcesz szare tony, ale masz ograniczone naturalne światło.
@@ -65,7 +65,7 @@ Biel na bieli może wyglądać niesamowicie lub klinicznie. Kluczem jest **kontr
 
 **Najlepsze kolory ścian:**
 - Ciepły szary od Śnieżki — dodaje głębi bez konkurowania
-- Taupe od Tikkurila — wyrafinowany bez bycia zimnym
+- Taupe od Tikkurila — elegancki bez bycia zimnym
 - Morska sól od Dekoral — subtelne niebiesko-zielone ciepło (ale tylko przy dobrym świetle)
 
 **Unikaj:** Ostrych białych ścian z ostrymi białymi szafkami. Potrzebujesz *jakiejś* różnicy podtonów, bo inaczej wygląda płasko.
@@ -128,9 +128,9 @@ Widziałem ludzi, którzy używali matowej farby na ścianach kuchennych. Widać
 
 **Jakikolwiek kolor trendujący na TikToku w tym tygodniu:** Przemalowywanie kuchni jest drogie. Wybierz coś, co będziesz kochać latami, nie miesiącami.
 
-## Podsumowanie
+## Co wybrać, jeśli nie masz czasu na czytanie
 
-Dla większości kuchni: ciepłe biele działają ze wszystkim, szałwiowa zieleń dodaje osobowości bez ryzyka, a ciepłe szarości są wyrafinowane.
+Dla większości kuchni: ciepłe biele działają ze wszystkim, szałwiowa zieleń dodaje osobowości bez ryzyka, a ciepłe szarości wyglądają drogo.
 
 Unikaj chłodnych szarości, ostrych bieli i czegokolwiek zbyt trendowego. Kuchnie są drogie do przemalowania — wybierz coś, co będzie cię uszczęśliwiać latami.
 

@@ -14,7 +14,7 @@ imageAlt: "Modern home office with calm blue-green walls and natural light"
 
 I spent two years working in a home office painted "Sunflower Yellow." Thought it would be energizing and motivating. Instead, I felt wired but not focused, always slightly on edge. Repainted it a soft sage green. Immediately noticed I could concentrate longer and felt less drained at the end of the day.
 
-## What Color Psychology Says About Work
+## What color psychology says about work
 
 Colors affect our brains in measurable ways:
 
@@ -28,9 +28,9 @@ Colors affect our brains in measurable ways:
 
 **Red and orange:** Energizing and attention-grabbing. Great for short bursts, terrible for sustained focus.
 
-## The Best Colors for Focus
+## The best colors for focus
 
-### Soft Blue-Greens
+### Soft blue-greens
 
 The sweet spot for productivity. Blue for focus, green for reduced eye strain.
 
@@ -44,7 +44,7 @@ Silver Sage by Benjamin Moore (2150-40) - Muted blue-gray with excellent balance
 
 Quiet Moments by Benjamin Moore (1563) - Pale blue-gray, very non-distracting
 
-### Sage and Muted Greens
+### Sage and muted greens
 
 Green reduces eye fatigue, which matters when you're staring at screens all day.
 
@@ -58,7 +58,7 @@ Clary Sage by Sherwin-Williams (SW 6178) - Deeper with warmth
 
 Prescott Green by Benjamin Moore (HC-140) - Gray-green, very professional
 
-### Warm Neutrals for Video Calls
+### Warm neutrals for video calls
 
 Here's something most people don't consider: your wall color shows up on camera. Cool grays can make you look washed out. Warm neutrals photograph better.
 
@@ -70,9 +70,9 @@ Accessible Beige by Sherwin-Williams (SW 7036) - Warm but not yellow
 
 Pale Oak by Benjamin Moore (OC-20) - Professional and warm
 
-Edgecomb Gray by Benjamin Moore (HC-173) - Sophisticated greige
+Edgecomb Gray by Benjamin Moore (HC-173) - Polished greige
 
-## The LRV Factor for Eye Comfort
+## The LRV factor for eye comfort
 
 When you're working at a computer, your eyes constantly adjust between the bright screen and your surroundings. If that contrast is too extreme, you get eye strain, headaches, and fatigue.
 
@@ -84,9 +84,9 @@ Too bright (LRV above 80): Can create glare, especially with natural light. Also
 
 The 50-70 range provides enough ambient light without causing strain.
 
-## Colors to Avoid in Home Offices
+## Colors to avoid in home offices
 
-### Bright, Saturated Colors
+### Bright, saturated colors
 
 **Fire-engine red:** Increases heart rate, creates urgency. You'll feel stressed, not focused.
 
@@ -96,19 +96,19 @@ The 50-70 range provides enough ambient light without causing strain.
 
 **Hot pink or magenta:** Attention-grabbing in a way that distracts from work.
 
-### Very Dark Colors
+### Very dark colors
 
 **Deep navy or charcoal:** Can feel oppressive during long work days. Also makes small offices feel smaller.
 
 **Black accent walls:** Too much visual contrast with screens.
 
-### Pure White
+### Pure white
 
 **Stark white walls:** Creates glare, especially with natural light. Cold and clinical, which isn't motivating for most people.
 
 If you want white, choose a soft warm white with LRV around 80, not 95+.
 
-## The Video Call Consideration
+## The video call consideration
 
 If you take video calls, your wall color matters for how you appear on screen.
 
@@ -126,7 +126,7 @@ If you take video calls, your wall color matters for how you appear on screen.
 
 **Pro tip:** Take a test video call after painting. Check how you look in different lighting conditions throughout the day.
 
-## Small Home Office Strategies
+## Small home office strategies
 
 If your home office is small (under 100 square feet), color choices matter even more.
 
@@ -148,7 +148,7 @@ If your home office is small (under 100 square feet), color choices matter even 
 - Avoid dark accent walls that visually shrink the room
 - Good lighting is more important than wall color
 
-## My Home Office Color Journey
+## My home office color journey
 
 **Attempt 1: Bright Yellow**
 Thought it would be motivating. Instead, felt overstimulated and irritable. Couldn't focus for long periods.
@@ -161,7 +161,7 @@ Perfect. Calm but not boring. Focus improved noticeably. Looks great on camera. 
 
 The right color doesn't make you more productive by magic. It removes distractions and discomforts that were undermining your focus.
 
-## Quick Guide by Work Type
+## Quick guide by work type
 
 ### Analytical work (coding, accounting, research):
 **Best:** Blue and blue-gray tones
@@ -179,7 +179,7 @@ The right color doesn't make you more productive by magic. It removes distractio
 **Best:** Sage green or warm gray
 **Why:** Versatile, non-distracting, photographs well
 
-## The Accent Wall Question
+## The accent wall question
 
 Should you have an accent wall in a home office?
 
@@ -187,7 +187,7 @@ Should you have an accent wall in a home office?
 
 **Exception:** If the accent wall is behind you (what shows on video calls), a slightly deeper version of your main color can add visual interest without distraction.
 
-## Don't Forget Lighting
+## Don't forget lighting
 
 Color is only half the equation. Lighting matters just as much.
 
@@ -197,7 +197,7 @@ Color is only half the equation. Lighting matters just as much.
 
 The best wall color in the world won't help if your lighting is terrible.
 
-## The Bottom Line
+## What actually works
 
 Blue-greens and sage tones promote focus. Warm neutrals look good on camera and don't distract. Avoid anything too stimulating (bright colors) or too draining (very dark colors).
 

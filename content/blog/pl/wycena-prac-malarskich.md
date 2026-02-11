@@ -64,7 +64,7 @@ Zmierz każdą ścianę: długość x wysokość. Zsumuj.
 - Ściana 4: 5 x 2,80 = 14 m²
 - Razem: 50,4 m²
 
-### Odejmowanie otworów (Opcjonalne)
+### Odejmowanie otworów (opcjonalne)
 
 Niektórzy malarze odejmują okna i drzwi, niektórzy nie. Ja nie odejmuję otworów poniżej 3 m² bo czas przycinania wokół nich często równa się lub przekracza zaoszczędzony czas.
 
@@ -82,11 +82,11 @@ Po prostu długość x szerokość pokoju.
 
 **Cena = (Metry kwadratowe x Stawka) + Przygotowanie + Materiały + Marża zysku**
 
-### Krok 1: Podstawowa robocizna
+### Krok 1: podstawowa robocizna
 
 70,4 m² x 25 zł (odmalowanie, dobry stan) = 1 760 zł
 
-### Krok 2: Dopłaty za przygotowanie
+### Krok 2: dopłaty za przygotowanie
 
 - Lekkie czyszczenie / matowienie: 3 - 6 zł / m²
 - Szpachlowanie (drobne): 15 - 40 zł za miejsce
@@ -94,7 +94,7 @@ Po prostu długość x szerokość pokoju.
 - Zrywanie tapety: 15 - 35 zł / m²
 - Usuwanie starej farby olejnej: 20 - 50 zł / m²
 
-### Krok 3: Materiały
+### Krok 3: materiały
 
 **Koszty farby:**
 - Farba budżetowa: 80 - 150 zł / 10 litrów
@@ -109,7 +109,7 @@ Po prostu długość x szerokość pokoju.
 - Razem: ~19 litrów, zaokrąglij do 20 (2 x 10L)
 - Przy 200 zł/10L średniej klasy: 400 zł materiały
 
-### Krok 4: Marża zysku
+### Krok 4: marża zysku
 
 Dodaj 15-25% na koszty stałe i zysk.
 
@@ -238,7 +238,7 @@ Gdy klienci rozszerzają zakres w trakcie projektu:
 - Przygotuj pisemną wycenę dodatku
 - Uzyskaj zgodę przed kontynuowaniem
 
-## Podsumowanie
+## Licz, nie zgaduj
 
 Znaj swoje liczby. Oblicz metry kwadratowe dokładnie, uwzględnij wszystkie prace przygotowawcze, wlicz materiały po rzeczywistych kosztach i dodaj swoją marżę.
 

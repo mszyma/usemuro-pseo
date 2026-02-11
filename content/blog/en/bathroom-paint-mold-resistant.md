@@ -14,9 +14,9 @@ imageAlt: "Clean modern bathroom with freshly painted walls and good ventilation
 
 I learned this after buying expensive mold-resistant paint for a bathroom with a great exhaust fan and a window. Complete overkill. Regular semi-gloss would have worked just as well. Meanwhile, I used regular paint in a basement half-bath with terrible ventilation. Mold appeared within six months. That bathroom actually needed the specialty paint.
 
-## When You Need Specialty Bathroom Paint
+## When you need specialty bathroom paint
 
-### Poor Ventilation
+### Poor ventilation
 
 If your bathroom doesn't have a working exhaust fan AND a window, moisture hangs around after showers. This is where mold-resistant paint earns its premium price.
 
@@ -26,37 +26,37 @@ Signs of poor ventilation:
 - Musty smell that doesn't go away
 - Previous mold problems
 
-### No Exhaust Fan
+### No exhaust fan
 
 Some older homes have bathrooms with just a window. In winter, you're not opening that window. Moisture has nowhere to go.
 
-### Basement or Interior Bathrooms
+### Basement or interior bathrooms
 
 No windows, often minimal air circulation. These are high-risk for moisture problems.
 
-### Shower-Only Bathrooms
+### Shower-only bathrooms
 
 Showers produce more steam than tubs. Small bathrooms with just a shower need more moisture protection.
 
-## When Regular Paint Works Fine
+## When regular paint works fine
 
-### Good Ventilation
+### Good ventilation
 
 If you have a functioning exhaust fan that you actually use, plus reasonable airflow, regular satin or semi-gloss paint handles bathroom conditions just fine.
 
-### Powder Rooms
+### Powder rooms
 
 Half-baths with just a toilet and sink see minimal moisture. No special paint needed. You could use eggshell here if you wanted.
 
-### Well-Ventilated Primary Bathrooms
+### Well-ventilated primary bathrooms
 
 Large bathrooms with windows AND exhaust fans rarely have moisture problems. The steam dissipates before it can cause issues.
 
-## Finish Matters More Than Formula
+## Finish matters more than formula
 
 Here's what the paint companies don't emphasize: the finish (sheen) is more important than whether it says "bathroom" on the can.
 
-### Why Glossier Finishes Work Better
+### Why glossier finishes work better
 
 **Satin, semi-gloss, and gloss finishes:**
 - Create a harder, less porous surface
@@ -70,29 +70,23 @@ Here's what the paint companies don't emphasize: the finish (sheen) is more impo
 - Harder to clean
 - More likely to develop mold
 
-### The Minimum for Bathrooms
+### The minimum for bathrooms
 
 At minimum, use satin finish in any bathroom. Eggshell is borderline, only in powder rooms with good ventilation.
 
 For shower areas, ceilings, and high-moisture zones, semi-gloss is safer.
 
-## What Makes Bathroom Paint Different
+## What makes bathroom paint different
 
-"Bathroom paint" typically includes:
-
-**Mildewcide:** Chemicals that inhibit mold and mildew growth. This is the main difference.
-
-**Higher resin content:** Creates a harder, more washable surface.
-
-**Moisture resistance additives:** Help prevent water penetration.
+"Bathroom paint" typically includes mildewcide (chemicals that inhibit mold and mildew growth — this is the main difference), higher resin content that creates a harder, more washable surface, and moisture resistance additives that help prevent water penetration.
 
 These features matter in challenging environments. In a well-ventilated bathroom, they're nice-to-have, not need-to-have.
 
-## The Best Bathroom Colors
+## The best bathroom colors
 
 Color choice matters for how bathrooms feel, not just for mold resistance.
 
-### Light and Bright
+### Light and bright
 
 Light colors make small bathrooms feel larger and help you see what you're doing.
 
@@ -104,7 +98,7 @@ Sea Salt by Sherwin-Williams (SW 6204) - Soft blue-green, spa-like
 
 Pale Oak by Benjamin Moore (OC-20) - Warm, flattering neutral
 
-### Calming Spa Tones
+### Calming spa tones
 
 If you want a relaxing, spa-like atmosphere:
 
@@ -116,7 +110,7 @@ Rainwashed by Sherwin-Williams (SW 6211) - Soft blue-green
 
 Gray Owl by Benjamin Moore (OC-52) - Versatile gray
 
-### Bold and Dramatic
+### Bold and dramatic
 
 Yes, you can go dark in a bathroom, but:
 - Make sure you have good lighting
@@ -125,25 +119,25 @@ Yes, you can go dark in a bathroom, but:
 
 **Good choices for drama:**
 
-Hale Navy by Benjamin Moore (HC-154) - Deep, sophisticated
+Hale Navy by Benjamin Moore (HC-154) - Deep and moody
 
 Iron Ore by Sherwin-Williams (SW 7069) - Nearly black, very striking
 
 Evergreen Fog by Sherwin-Williams (SW 9130) - Moody green
 
-## Colors to Approach Carefully
+## Colors to approach carefully
 
-### Pure White
+### Pure white
 
 Bright white shows every water spot, soap scum, and imperfection. It can also feel cold and clinical.
 
 If you want white, choose a soft warm white rather than stark pure white.
 
-### Very Dark Colors
+### Very dark colors
 
 In small, poorly lit bathrooms, dark colors can feel oppressive. They also show dust and soap residue more than you'd expect.
 
-## My Bathroom Paint Mistakes
+## My bathroom paint mistakes
 
 **Mistake 1: Flat paint in a bathroom**
 Early rental, didn't know better. Within a year, the ceiling had mold spots and the walls looked dirty even when clean.
@@ -154,9 +148,9 @@ Primary bathroom with great ventilation. The $65/gallon bathroom paint was no di
 **Mistake 3: Not painting the ceiling**
 Bathroom ceilings see the most moisture. If you're painting the walls, paint the ceiling too, with the same or better finish.
 
-## Proper Bathroom Painting Process
+## Proper bathroom painting process
 
-### 1. Address Moisture Problems First
+### 1. Address moisture problems first
 
 Painting over mold doesn't fix mold. Before painting:
 - Fix any leaks
@@ -164,21 +158,21 @@ Painting over mold doesn't fix mold. Before painting:
 - Ensure ventilation works
 - Let surfaces dry completely
 
-### 2. Use Mold-Killing Primer If Needed
+### 2. Use mold-killing primer if needed
 
 If you've had mold, use a mold-blocking primer before painting. This actually matters more than mold-resistant paint.
 
-### 3. Choose the Right Finish
+### 3. Choose the right finish
 
 - Walls: Satin minimum, semi-gloss preferred
 - Ceiling: Semi-gloss (catches the most steam)
 - Trim: Semi-gloss or gloss
 
-### 4. Proper Ventilation During and After
+### 4. Proper ventilation during and after
 
 Run the exhaust fan while painting and for 24+ hours after. Bathrooms need airflow for paint to cure properly.
 
-## Quick Decision Guide
+## Quick decision guide
 
 **Use regular satin/semi-gloss if:**
 - Working exhaust fan
@@ -198,7 +192,7 @@ Run the exhaust fan while painting and for 24+ hours after. Bathrooms need airfl
 - Areas directly exposed to shower steam
 - Trim and woodwork
 
-## The Bottom Line
+## Quick recap
 
 Most bathrooms don't need specialty mold-resistant paint. Good ventilation plus satin or semi-gloss finish handles normal bathroom moisture.
 

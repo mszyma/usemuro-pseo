@@ -14,7 +14,7 @@ imageAlt: "Person measuring a room wall with a tape measure for paint calculatio
 
 That's the quick answer. But I've learned that the quick answer leads to either too little paint (running out mid-wall is a special kind of misery) or too much (gallons sitting in my garage for years). Let me show you how to calculate precisely.
 
-## The Formula
+## The formula
 
 Here's the actual math:
 
@@ -31,9 +31,9 @@ Let's work through a real example—a 12x12 bedroom with 8-foot ceilings, one do
 
 Round up to 2 gallons. Done.
 
-## Step-by-Step Calculation
+## Step-by-step calculation
 
-### Step 1: Measure Your Walls
+### Step 1: Measure your walls
 
 For rectangular rooms, there's a shortcut:
 - Add all wall lengths together (the perimeter)
@@ -44,7 +44,7 @@ For rooms with irregular shapes, measure each wall individually and add them up.
 
 **Pro tip:** Don't obsess over precise measurements. Being within a foot is fine. Paint coverage varies enough that extra precision doesn't help.
 
-### Step 2: Subtract Windows and Doors
+### Step 2: Subtract windows and doors
 
 Standard deductions I use:
 - Standard door: 20 square feet
@@ -54,7 +54,7 @@ Standard deductions I use:
 
 **Important:** Don't skip this step. I used to think "eh, close enough" and consistently overbought. A room with lots of windows needs significantly less paint.
 
-### Step 3: Determine Number of Coats
+### Step 3: Determine number of coats
 
 Here's where many people miscalculate.
 
@@ -75,7 +75,7 @@ Here's where many people miscalculate.
 
 I assume two coats for everything. The "one coat coverage" marketing claim is technically true but practically useless for most projects.
 
-### Step 4: Do the Math
+### Step 4: Do the math
 
 Use 350 sq ft/gallon as your baseline. Premium paints sometimes claim 400+ but I've never found that accurate in real conditions.
 
@@ -89,7 +89,7 @@ Use 350 sq ft/gallon as your baseline. Premium paints sometimes claim 400+ but I
 
 **Use the lower number.** Running out mid-wall means a store trip, potential batch number mismatch, and visible color variation on your wall.
 
-## Quick Reference Table
+## Quick reference table
 
 I use this constantly:
 
@@ -103,7 +103,7 @@ I use this constantly:
 
 These assume 8-foot ceilings and typical window/door counts. Adjust up for 9-10 foot ceilings.
 
-## Ceiling Paint Calculation
+## Ceiling paint calculation
 
 Ceilings are easier—just length times width:
 
@@ -113,7 +113,7 @@ Ceilings are easier—just length times width:
 
 Buy a gallon and a half or just a full gallon and accept you might need a second can.
 
-## Trim Paint Calculation
+## Trim paint calculation
 
 Trim needs way less paint than you think:
 
@@ -127,9 +127,9 @@ Trim needs way less paint than you think:
 
 For a typical room's trim—baseboards, door frame, window frames—one quart is usually plenty with some to spare.
 
-## Factors That Eat More Paint
+## Factors that eat more paint
 
-### Wall Texture
+### Wall texture
 
 Textured walls have more surface area than they appear to have:
 - Smooth drywall: 350-400 sq ft/gallon
@@ -139,7 +139,7 @@ Textured walls have more surface area than they appear to have:
 
 If your walls look like they have acne, buy more paint.
 
-### Color Changes
+### Color changes
 
 Color transitions matter more than people realize:
 - Light to light: Standard calculation
@@ -149,13 +149,13 @@ Color transitions matter more than people realize:
 
 I once tried to paint a light blue over dark maroon without primer. Four coats later, I could still see purple bleeding through. Use primer for dramatic color changes.
 
-### Paint Quality
+### Paint quality
 
 Here's a truth that took me years to accept: expensive paint is cheaper.
 
 A $50/gallon paint that actually covers in two coats costs less than a $30/gallon paint that needs three coats. Do the math including your time, and premium paint wins every time.
 
-## The Mid-Project Nightmare (And How to Avoid It)
+## The mid-project nightmare (and how to avoid it)
 
 The absolute worst scenario: running out of paint halfway through a wall.
 
@@ -171,7 +171,7 @@ This happened to me once. I had to stop at a visible seam, drive to the store, p
 
 4. **Save leftover paint.** Properly sealed paint lasts a decade. Label cans with room, date, and color code.
 
-## What to Do With Leftover Paint
+## What to do with leftover paint
 
 A little leftover is valuable:
 - Touch-ups after furniture bumps the wall
@@ -181,7 +181,7 @@ A little leftover is valuable:
 
 Store paint properly: cool, dry place, lid sealed tight, temperature-controlled (paint freezing destroys it). I write the room name and date directly on the can with a Sharpie.
 
-## Mistakes I've Made (So You Don't Have To)
+## Mistakes I've made (so you don't have to)
 
 **Mistake 1: Ignoring primer**
 
@@ -199,7 +199,7 @@ Some paint stays on rollers, brushes, trays, and drop cloths. Factor in 5-10% wa
 
 Before buying gallons, test your color choice. Use Muro to visualize colors on your actual walls before committing to anything. The worst waste isn't buying too much paint—it's buying gallons of a color you end up hating.
 
-## The Bottom Line
+## The quick version
 
 For accurate paint calculation:
 

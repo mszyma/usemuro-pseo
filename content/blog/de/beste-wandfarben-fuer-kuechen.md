@@ -16,7 +16,7 @@ Hier ist die Sache mit Küchenfarbe: Du wirst lange damit leben. Küchen neu zu 
 
 ## Die Farben, die gerade funktionieren
 
-### Warme Weißtöne (Immer noch König)
+### Warme Weißtöne (immer noch König)
 
 Jeder will eine weiße Küche. Aber es gibt „Weiß" und *Weiß.*
 
@@ -31,7 +31,7 @@ Etwas cremiger. Besser, wenn du dir Sorgen machst, zu steril auszusehen.
 **Wollweiß von Sto** — LRV: ca. 85
 Etwas mehr Tiefe als reines Weiß. Toll, wenn du weiße Wände willst, aber keine „klinisch-weißen" Wände.
 
-### Salbeigrün (Der Pinterest-Liebling)
+### Salbeigrün (der Pinterest-Liebling)
 
 Salbeigrün ist seit drei Jahren im Trend und zeigt keine Anzeichen nachzulassen. Es fügt Persönlichkeit hinzu, ohne überwältigend zu sein, funktioniert mit Holztönen und fühlt sich irgendwie sowohl modern als auch zeitlos an.
 
@@ -44,15 +44,15 @@ Etwas tiefer und stimmungsvoller. Toll für Akzentwände oder Unterschränke.
 **Evergreen Fog von Brillux** — LRV: ca. 30
 Eine Farbe, von der die Leute immer noch besessen sind. Teste diese auf jeden Fall – sie wird bei wenig Licht dunkel.
 
-### Warme Grautöne (Nicht kühle Grautöne)
+### Warme Grautöne (nicht kühle Grautöne)
 
-Graue Küchen sind knifflig. Geh kühl und du bekommst „trauriges Büro". Geh warm und du bekommst raffiniert.
+Graue Küchen sind knifflig. Geh kühl und du bekommst „trauriges Büro". Geh warm und du bekommst Gemütlichkeit.
 
 **Warmgrau von Caparol** — LRV: ca. 60
 Wahrscheinlich das beliebteste Greige aus gutem Grund. Es liest sich als warmes Grau, ohne beige zu sein.
 
 **Taupe von Sto** — LRV: ca. 63
-Ein raffiniertes Greige, das in fast jeder Küche funktioniert. Warm genug, um einladend zu wirken.
+Ein vielseitiges Greige, das in fast jeder Küche funktioniert. Warm genug, um einladend zu wirken.
 
 **Sandbeige von Brillux** — LRV: ca. 70
 Hell und warm. Toll, wenn du Grautöne willst, aber wenig natürliches Licht hast.
@@ -65,7 +65,7 @@ Weiß auf Weiß kann unglaublich oder klinisch aussehen. Der Schlüssel ist **Un
 
 **Beste Wandfarben:**
 - Warmgrau von Caparol — fügt Tiefe hinzu, ohne zu konkurrieren
-- Taupe von Sto — raffiniert, ohne kalt zu sein
+- Taupe von Sto — warm, ohne langweilig zu sein
 - Salbeigrün von Brillux — subtile blau-grüne Wärme (aber nur bei gutem Licht)
 
 **Vermeide:** Grelle weiße Wände mit grellen weißen Schränken. Du brauchst *einen* Unterton-Unterschied, sonst sieht es flach aus.
@@ -107,7 +107,7 @@ Graue Schränke können kalt wirken. Wände müssen Wärme zurückbringen.
 
 **Wenige Fenster, Nordausrichtung:** Bleib bei warmen Untertönen und höherem LRV (60+). Kühle Grautöne werden traurig aussehen. Blautöne werden klinisch wirken. Vertrau mir.
 
-## Küchenlack-Finish (Mach das nicht falsch)
+## Küchenlack-Finish (mach das nicht falsch)
 
 Küchen werden fettig. Küchen bekommen Spritzer. Deine Farbe muss das überleben.
 
@@ -128,9 +128,9 @@ Ich habe Leute gesehen, die matte Farbe auf Küchenwänden verwendet haben. Man 
 
 **Die TikTok-Trendfarbe dieser Woche:** Küchen neu zu streichen ist teuer. Wähle etwas, das du jahrelang lieben wirst, nicht nur Monate.
 
-## Das Fazit
+## Was in der Küche wirklich funktioniert
 
-Für die meisten Küchen: Warme Weißtöne funktionieren mit allem, Salbeigrün fügt Persönlichkeit ohne Risiko hinzu, und warme Grautöne sind raffiniert.
+Für die meisten Küchen: Warme Weißtöne funktionieren mit allem, Salbeigrün fügt Persönlichkeit ohne Risiko hinzu, und warme Grautöne passen zu fast jedem Schrank.
 
 Vermeide kühle Grautöne, grelle Weißtöne und alles zu Trendiges. Küchen sind teuer neu zu streichen – wähle etwas, das dich jahrelang glücklich macht.
 

@@ -219,7 +219,7 @@ Jeśli każdy dom na twojej ulicy jest w innym kolorze, dopasowanie może faktyc
 
 Jeśli nigdy nie sprzedasz, pomaluj na fioletowo. Życie jest za krótkie na bezpieczne greige.
 
-## Podsumowanie
+## Co z tego wynika dla twojego domu
 
 Dla maksymalnej wartości odsprzedaży: greige lub ciepłoszara elewacja, białe ramy, antracytowe lub ciemne drzwi.
 
@@ -229,4 +229,4 @@ Dla osobistej ekspresji: maluj co kochasz, rozumiejąc potencjalny wpływ na ods
 
 Najlepszy kolor elewacji to taki który będziesz z przyjemnością oglądał każdego dnia i który też przemawia do szerokiego grona przyszłych kupujących. Dla większości ludzi to jakaś wersja ciepłego neutralu z pewnie dobranymi akcentami.
 
-I cokolwiek wybierzesz, jakościowa farba i prawidłowe przygotowanie liczą się bardziej niż konkretny kolor. Pięknie wykonany nietypowy kolor bije źle zrobiony "bezpieczny" kolor za każdym razem.
+I cokolwiek wybierzesz, jakościowa farba i prawidłowe przygotowanie liczą się bardziej niż konkretny kolor. Solidnie wykonany nietypowy kolor bije źle zrobiony "bezpieczny" kolor za każdym razem.

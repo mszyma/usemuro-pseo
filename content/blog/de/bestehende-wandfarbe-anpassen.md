@@ -112,7 +112,7 @@ Wenn Wände gerollt wurden, verwenden Sie eine Rolle für Ausbesserungen. Pinsel
 
 Frische Farbe sieht dunkler aus. Warten Sie 30 Tage, bevor Sie die Übereinstimmung beurteilen.
 
-## Das Fazit
+## So kommen Sie der Originalfarbe am nächsten
 
 Für die beste Farbübereinstimmung: Holen Sie sich einen physischen Chip von einer versteckten Stelle und lassen Sie ihn im Farbgeschäft scannen.
 

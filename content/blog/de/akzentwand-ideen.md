@@ -104,11 +104,11 @@ Ganz mutig? Navy, Schwarz, Dunkelgrun, tiefes Burgunderrot. Diese funktionieren,
 
 Caparol 3D Palazzo 290 - Das klassische Navy, das uberall funktioniert
 
-Brillux Scala 90.03.30 - Ein raffiniertes Anthrazit, fast schwarz
+Brillux Scala 90.03.30 - Ein tiefes Anthrazit, fast schwarz
 
 Caparol 3D Ginster 45 - Stimmungsvolles Salbei-Grun
 
-Brillux Scala 06.06.24 - Warmes, raffiniertes Braun-Grau
+Brillux Scala 06.06.24 - Warmes, zurückhaltendes Braun-Grau
 
 Sto Colore Grigio 855 - Tiefes Grau mit dezenter Warme
 
@@ -148,7 +148,7 @@ Eine Akzentwand sollte der EINZIGE Akzent sein. Alles andere spielt eine unterst
 
 **Beste Position:** Hinter dem Sofa oder die Kaminwand
 
-**Beste Farben:** Tiefe Blautone, satte Gruntone, raffinierte Grautone
+**Beste Farben:** Tiefe Blautone, satte Gruntone, gedampfte Grautone
 
 Vermeiden: Rot- und Orangetone (zu anregend fur einen Entspannungsraum)
 
@@ -178,7 +178,7 @@ Hier konnen Sie mutig werden. Tiefrot, Waldgrun, Navy. Esszimmer sind fur Atmosp
 
 Uberspringen Sie generell die Akzentwand. Badezimmer sind klein und haben bereits visuelle Unterbrechungen (Spiegel, Armaturen, Fliesen). Eine Akzentwand hinzuzufugen kann uberladen wirken.
 
-## Das Fazit
+## Eine Wand, ein Blickpunkt
 
 Eine Akzentwand sollte die Frage beantworten "Was sollen die Leute anschauen?" Setzen Sie sie dorthin, wo das Auge naturlich hingeht. Machen Sie sie 2-3 Nuancen dunkler als Ihre Hauptwande fur einfachen Erfolg, oder werden Sie mutig, wenn Sie das Licht und die Hohe haben, es zu unterstutzen.
 

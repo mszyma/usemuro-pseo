@@ -199,7 +199,7 @@ Trochę farby zostaje na wałkach, pędzlach, kuwetach i folii. Uwzględnij 5-10
 
 Zanim kupisz litry, przetestuj swój wybór koloru. Użyj Muro do wizualizacji kolorów na swoich rzeczywistych ścianach przed podjęciem decyzji. Najgorszym marnotrawstwem nie jest kupienie za dużo farby — to kupienie litrów koloru, którego skończysz nienawidzić.
 
-## Podsumowanie
+## Wzór w pigułce
 
 Dla dokładnego obliczenia farby:
 

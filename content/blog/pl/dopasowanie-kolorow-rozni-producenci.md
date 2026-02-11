@@ -179,7 +179,7 @@ Kiedy robisz dopasowanie między markami, dokumentuj wszystko:
 
 To oszczędza ogromnie czasu jeśli musisz później ponownie dopasować lub poprawić.
 
-## Podsumowanie
+## Co z tego wynika
 
 Dopasowanie kolorów między markami to zawsze przybliżenie. Im bliżej bieli lub neutralności, tym łatwiej. Im bardziej nasycony lub złożony kolor, tym trudniej.
 

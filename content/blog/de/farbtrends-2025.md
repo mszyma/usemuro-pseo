@@ -63,7 +63,7 @@ Ich habe mein eigenes Homeoffice in einem tiefen Waldgrün gestrichen (Jagdclub 
 
 Drei Monate später kann ich es mir nicht mehr anders vorstellen. Der Raum fühlt sich wie ein Kokon an. Ich bin fokussierter. Es ist wirklich mein Lieblingsraum im Haus.
 
-**Warum es funktioniert:** Tiefes Grün schafft Drama ohne Anmaßung. Es ist raffiniert, aber nicht kalt. Es passt wunderschön zu Messing, warmem Holz, cremefarbenen Akzenten und sogar Rosa.
+**Warum es funktioniert:** Tiefes Grün schafft Drama ohne Anmaßung. Es wirkt edel, aber nicht kalt. Es passt wunderschön zu Messing, warmem Holz, cremefarbenen Akzenten und sogar Rosa.
 
 **Beste Verwendungen:**
 - Homeoffices und Bibliotheken
@@ -171,7 +171,7 @@ Lass mich dich vor einer bedauerlichen Entscheidung bewahren:
 - **Rouge-Töne** — Weichen Terrakotta.
 - **Olivgrün** — Ersetzt durch echte Grüntöne.
 
-## Das Fazit
+## Wärme hat gewonnen
 
 Die 2025-2026 Geschichte ist einfach: Wärme hat gewonnen.
 
@@ -179,7 +179,7 @@ Warme Neutraltöne schlagen kühle Grautöne. Warme Weißtöne schlagen grelle W
 
 Wenn du bald neu streichst, erwäge:
 - Terrakotta für Wärme und Drama
-- Waldgrün für Raffinesse
+- Waldgrün für Tiefe und Eleganz
 - Warmes Weiß für sichere Vielseitigkeit
 - Gesättigtes Blau für Statement-Stücke
 

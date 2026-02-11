@@ -16,7 +16,7 @@ I ignored LRV for years. Picked colors based on how they looked on chips, in sto
 
 Once I started paying attention to LRV, my paint picks got dramatically better. Here's why it matters and how to use it.
 
-## What LRV Actually Tells You
+## What LRV actually tells you
 
 LRV tells you how light or dark a color will feel on your walls—regardless of whether it's blue, green, gray, or beige. A pale blue with LRV 70 and a pale green with LRV 70 will feel equally light in a room, even though they're different colors.
 
@@ -25,7 +25,7 @@ This matters because:
 - **Colors below LRV 50 change the mood significantly.** They make rooms feel cozier, smaller, moodier.
 - **Your room's light dictates what LRVs will work.** Not your preferences.
 
-## The Quick LRV Reference
+## The quick LRV reference
 
 | LRV | What It Feels Like | Works Best In |
 |-----|-------------------|---------------|
@@ -37,9 +37,9 @@ This matters because:
 
 Most popular wall colors live between LRV 50-75. Below 50, you're making a commitment. Above 80, you're basically in white territory.
 
-## How to Actually Use LRV
+## How to actually use LRV
 
-### Step 1: Figure Out Your Room's Light Situation
+### Step 1: Figure out your room's light situation
 
 This is the part people skip. Don't skip it.
 
@@ -51,7 +51,7 @@ This is the part people skip. Don't skip it.
 
 **West-facing rooms** get harsh afternoon light. Warm colors can become overwhelming. Consider slightly cooler or lighter choices.
 
-### Step 2: Match LRV to Room Function
+### Step 2: Match LRV to room function
 
 **Need brightness?** (Kitchens, bathrooms, offices) → LRV 60-85
 
@@ -59,13 +59,13 @@ This is the part people skip. Don't skip it.
 
 **Making a statement?** (Media rooms, powder rooms) → LRV 15-40
 
-### Step 3: Think About Adjacent Spaces
+### Step 3: Think about adjacent spaces
 
 Open floor plans need LRV harmony. Colors with similar LRVs flow together, even if they're different hues.
 
 My living room (LRV 65 greige) flows into my kitchen (LRV 70 white). The colors are different, but the similar reflectance creates continuity. If I'd done LRV 40 in the living room? Jarring transition.
 
-## The Mistakes I Made (So You Don't Have To)
+## The mistakes I made (so you don't have to)
 
 **Mistake #1: Ignoring LRV in a dark room**
 
@@ -83,7 +83,7 @@ My west-facing room looked perfect at 10am with a sample. By 4pm with harsh afte
 
 My bedroom should be cozy. I painted it the same LRV as my bathroom (75) because I liked the color. Too bright for sleep. Should've gone 55-65.
 
-## LRV vs. Undertones
+## LRV vs. undertones
 
 People confuse these all the time.
 
@@ -96,7 +96,7 @@ Two colors can have identical LRV but completely different undertones:
 
 Same lightness. Totally different vibes. LRV gets you in the right ballpark. Undertones determine if you love or hate it.
 
-## Where to Find LRV
+## Where to find LRV
 
 Most manufacturers list it:
 - On the back of paint chip cards
@@ -105,7 +105,7 @@ Most manufacturers list it:
 
 If you're using Muro to visualize colors, LRV shows up with each color's details. Super helpful for comparing options without doing mental math.
 
-## My LRV Rules of Thumb
+## My LRV rules of thumb
 
 **The "50 Rule"**: If unsure, stay above LRV 50. Colors above 50 work in most lighting. Below 50, you need to know what you're doing.
 
@@ -115,7 +115,7 @@ If you're using Muro to visualize colors, LRV shows up with each color's details
 
 **The "South Light Bonus"**: Add 5-10 points for south-facing rooms. That LRV 50 will feel like 55-60.
 
-## The Bottom Line
+## Check the number before you fall in love
 
 Before you fall in love with a color, check its LRV. A color with the wrong LRV for your room will always disappoint, no matter how perfect it looked on Pinterest.
 

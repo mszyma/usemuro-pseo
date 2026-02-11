@@ -12,7 +12,7 @@ imageAlt: "Ciepły i zachęcający salon od północy z kremowymi ścianami"
 
 **Pokoje od północy potrzebują ciepłych kolorów z LRV powyżej 60.** Ciepłe biele, kremowe neutraly i miękkie żółcie działają. Chłodne szarości i niebieskie? Sprawią, że twój pokój będzie wyglądał jak smutna poczekalnia szpitalna.
 
-Spędziłem dwa lata mieszkając z salonem od północy pomalowanym na „Stonington Gray", zanim zrozumiałem, dlaczego zawsze wydawał się przygnębiający. Okazało się, że ta szarość miała niebieskie podtony. Chłodne światło północne je wzmocniło. Moja „wyrafinowana szarość" wyglądała jak lawendowo-niebieska żałość.
+Spędziłem dwa lata mieszkając z salonem od północy pomalowanym na „Stonington Gray", zanim zrozumiałem, dlaczego zawsze wydawał się przygnębiający. Okazało się, że ta szarość miała niebieskie podtony. Chłodne światło północne je wzmocniło. Moja „elegancka szarość" wyglądała jak lawendowo-niebieska żałość.
 
 Pozwól, że oszczędzę ci tych dwóch lat.
 
@@ -77,7 +77,7 @@ Obejmuje to popularne kolory jak:
 - Revere Pewter (może stać się zimny w świetle północnym)
 - Każda szarość z niebieskimi lub zielonymi podtonami
 
-Nie wyglądają „wyrafinowanie". Wyglądają ponuro.
+Nie wyglądają „elegancko". Wyglądają ponuro.
 
 ### Niebieskie i zielone
 
@@ -110,7 +110,7 @@ Dla pokojów od północy stosuję tę zasadę:
 
 Każde 10 punktów LRV robi zauważalną różnicę w pokojach północnych. Wybierając między dwoma kolorami, które lubisz tak samo, wybierz ten z wyższym LRV.
 
-## Podsumowanie
+## Na co postawic w pokoju od polnocy
 
 Dla pokojów od północy: ciepłe podtony, LRV powyżej 60, i testuj przed decyzją.
 

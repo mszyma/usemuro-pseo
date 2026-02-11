@@ -109,7 +109,7 @@ Regional unterschiedlich:
 
 ## Die Psychologie dahinter
 
-### Breite Anziehungskraft = Höhere Angebote
+### Breite Anziehungskraft = höhere Angebote
 
 Käufer ziehen mental Renovierungskosten ab. Eine ungewöhnliche Farbe bedeutet "Ich muss neu streichen" was zu "niedrigeres Angebot" wird.
 
@@ -152,7 +152,7 @@ Die meisten Käufer sehen Häuser zuerst online. Farben die gut fotografieren be
 - Dunkelgrüne Fensterläden
 - Warmgelbe Akzente
 
-### Höheres Risiko (Starkes persönliches Statement)
+### Höheres Risiko (starkes persönliches Statement)
 
 **Fassadenfarben:**
 - Knallige Gelbtöne
@@ -202,7 +202,7 @@ Fassadenfarben sehen im grossen Massstab dramatisch anders aus. Immer mit grosse
 
 Nordfassaden wirken kühler. Südfassaden wirken wärmer. Die gleiche Farbe liest sich auf jeder Hausseite anders.
 
-### Trendy über Zeitlos
+### Trendy über zeitlos
 
 Trends zyklieren. Die "It"-Farbe von 2024 könnte 2030 veraltet aussehen. Bei Wiederverkaufsziel zu Klassikern greifen.
 
@@ -226,7 +226,7 @@ Wenn jedes Haus in Ihrer Strasse anders farbig ist, könnte Anpassen tatsächlic
 
 Wenn Sie nie verkaufen, streichen Sie es lila. Das Leben ist zu kurz für sicheres Greige.
 
-## Das Fazit
+## Was sich wirklich lohnt
 
 Für maximalen Wiederverkaufswert: Greige oder warmgraue Fassade, weisse Rahmen, anthrazitfarbene oder dunkle Tür.
 

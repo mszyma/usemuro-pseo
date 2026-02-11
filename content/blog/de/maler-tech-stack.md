@@ -14,7 +14,7 @@ imageAlt: "Professioneller Maler nutzt Tablet und Smartphone-Apps auf der Bauste
 
 Vor fünf Jahren verfolgte ich Aufträge in Tabellen, schickte Angebote per WhatsApp und notierte Farbauswahlen in einem Notizbuch das ich zweimal verlor. Jetzt ist alles in Apps die über Geräte synchronisieren, und ich habe meine Verwaltungszeit halbiert während ich mehr Aufträge annehme. Hier ist was sich wirklich lohnt.
 
-## Farbvisualisierung
+## Farbvisualisierung fur Kundenprasentationen
 
 ### Muro
 
@@ -36,11 +36,11 @@ Vor fünf Jahren verfolgte ich Aufträge in Tabellen, schickte Angebote per What
 
 **Ideal für:** Schnelle Nachschlagen wenn Sie die Marke bereits kennen, Kollektionen durchstöbern
 
-### Das Fazit
+### Meine Empfehlung
 
 Muro für Kundenpräsentationen und echte Visualisierung. Hersteller-Apps für schnelles Nachschlagen und wenn Sie Formelcodes brauchen.
 
-## Kalkulation und Angebote
+## Kalkulation und Angebote erstellen
 
 ### Openhandwerk
 
@@ -72,11 +72,11 @@ Muro für Kundenpräsentationen und echte Visualisierung. Hersteller-Apps für s
 
 **Ideal für:** Traditionelle Handwerksbetriebe die deutsche Softwarelösungen bevorzugen
 
-### Das Fazit
+### Was ich empfehle
 
 Openhandwerk für die meisten kleineren Betriebe. Taifun für komplexere Anforderungen und öffentliche Ausschreibungen.
 
-## Terminplanung und Auftragsmanagement
+## Terminplanung und Auftrage verwalten
 
 ### Craftboxx
 
@@ -108,7 +108,7 @@ Openhandwerk für die meisten kleineren Betriebe. Taifun für komplexere Anforde
 
 **Ideal für:** Grosse Malerbetriebe mit 10+ Mitarbeitern
 
-### Das Fazit
+### Kurz gesagt
 
 Craftboxx für die meisten Malerbetriebe unter 10 Mitarbeitern. Plancraft wenn schneller Start Priorität hat.
 
@@ -144,7 +144,7 @@ Craftboxx für die meisten Malerbetriebe unter 10 Mitarbeitern. Plancraft wenn s
 
 **Ideal für:** Anzahlungen vor Ort kassieren, Zahlungen für Kunden vereinfachen
 
-### Das Fazit
+### Was sich lohnt
 
 Lexware für die Buchhaltung. SumUp für Kartenzahlungen. DATEV wenn Ihr Steuerberater es nutzt.
 
@@ -170,7 +170,7 @@ Lexware für die Buchhaltung. SumUp für Kartenzahlungen. DATEV wenn Ihr Steuerb
 
 **Ideal für:** Maler auf grösseren Baustellen mit vielen Beteiligten
 
-### Das Fazit
+### Wann was passt
 
 CompanyCam für reine Fotodokumentation. PlanRadar bei komplexen Bauprojekten.
 
@@ -196,11 +196,11 @@ CompanyCam für reine Fotodokumentation. PlanRadar bei komplexen Bauprojekten.
 
 **Ideal für:** Jedes Unternehmen
 
-### Das Fazit
+### In der Praxis
 
 Google Workspace oder Microsoft 365 ist unverzichtbar. Teams oder Slack hinzufügen wenn Ihr Team Gruppenchats entwächst.
 
-## Der Minimal-Stack
+## Der Minimal-Stack fur den Anfang
 
 Gerade am Anfang? Hier das Wesentliche:
 
@@ -211,7 +211,7 @@ Gerade am Anfang? Hier das Wesentliche:
 
 **Gesamt: Unter €25/Monat plus Transaktionsgebühren**
 
-## Der Profi-Stack
+## Der Profi-Stack fur etablierte Betriebe
 
 Etablierter Betrieb mit einigen Mitarbeitern:
 
@@ -226,7 +226,7 @@ Etablierter Betrieb mit einigen Mitarbeitern:
 
 Lohnt sich wenn Sie €10.000+ monatlichen Umsatz machen.
 
-## Tools die sich nicht lohnen
+## Wovon ich abrate
 
 ### Farbabstimmungsgeräte
 
@@ -240,7 +240,7 @@ Software die alles versucht (CRM + Buchhaltung + Kalkulation + Planung) macht me
 
 Die Zeit die Sie mit fehlerhafter Software verschwenden kostet mehr als ein richtiges Tool-Abo.
 
-## Das Fazit
+## Klein anfangen, dann ausbauen
 
 Ihr Tech Stack sollte Zeit sparen, nicht mehr Arbeit schaffen. Minimal starten, Tools hinzufügen wenn Sie spezifische Schmerzpunkte spüren.
 

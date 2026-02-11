@@ -12,11 +12,11 @@ imageAlt: "Warm and inviting north-facing living room with creamy white walls"
 
 **North-facing rooms need warm colors with an LRV above 60.** Warm whites, creamy neutrals, and soft yellows work. Cool grays and blues? They'll make your room look like a sad hospital waiting area.
 
-I spent two years living with a north-facing living room painted "Stonington Gray" before I figured out why it always felt depressing. Turns out, that gray had blue undertones. The cool north light amplified them. My "sophisticated gray" read as lavender-blue-sadness.
+I spent two years living with a north-facing living room painted "Stonington Gray" before I figured out why it always felt depressing. Turns out, that gray had blue undertones. The cool north light amplified them. My "elegant gray" read as lavender-blue-sadness.
 
 Let me save you those two years.
 
-## Why North-Facing Rooms Are Different
+## Why north-facing rooms are different
 
 In the Northern Hemisphere, north-facing windows never get direct sunlight. Ever. You only get indirect, diffused light that's naturally cooler in tone—a bit blue-ish.
 
@@ -28,9 +28,9 @@ This changes how paint looks:
 
 It's not your imagination. The light in that room is literally working against you.
 
-## What Actually Works
+## What actually works
 
-### Warm Whites (The Safe Bet)
+### Warm whites (the safe bet)
 
 If you want something you won't screw up, go here:
 
@@ -43,7 +43,7 @@ A creamy, soft white that's more forgiving than pure white. Great if you're worr
 **White Dove OC-17 (Benjamin Moore)** — LRV: 85
 Slightly more depth than Simply White. Good if plain white feels too boring but you still want "white."
 
-### Warm Neutrals (More Interesting, Still Safe)
+### Warm neutrals (more interesting, still safe)
 
 Want actual color but scared of going wrong?
 
@@ -56,7 +56,7 @@ A true warm neutral. On the darker end of what I'd recommend for north rooms, bu
 **Edgecomb Gray HC-173 (Benjamin Moore)** — LRV: 63
 A "greige" that leans warm. One of the most forgiving colors for tricky lighting.
 
-### Soft Yellows and Creams (If You Want Warmth)
+### Soft yellows and creams (if you want warmth)
 
 Yellow undertones directly fight the blue-ish north light. These feel sunny even when the sun isn't cooperating:
 
@@ -66,9 +66,9 @@ A peachy-cream that adds visible warmth without looking yellow.
 **Shoji White SW 7042 (Sherwin-Williams)** — LRV: 74
 Looks white in most light, but the yellow undertone keeps north rooms from feeling cold.
 
-## What to Avoid (Learn From My Mistakes)
+## What to avoid (learn from my mistakes)
 
-### Cool Grays
+### Cool grays
 
 I cannot stress this enough: **cool grays in north-facing rooms are a disaster.**
 
@@ -77,9 +77,9 @@ That includes popular colors like:
 - Revere Pewter (can go cold in north light)
 - Any gray with blue or green undertones
 
-They don't look "sophisticated." They look grim.
+They don't look polished. They look grim.
 
-### Blues and Greens
+### Blues and greens
 
 Blues and greens already have cool undertones. Add cool north light? Recipe for depression.
 
@@ -87,19 +87,19 @@ Sea Salt is one of the most popular paint colors on Pinterest. It looks amazing 
 
 Same goes for sage greens, blue-grays, and anything in that cool family.
 
-### Stark Whites
+### Stark whites
 
 You'd think white is white, right? It's not.
 
 Pure, cool whites (like Decorator's White or Super White) will look blue-ish and clinical in north rooms. You need warmth in the undertone, or the room will feel like an operating theater.
 
-### Anything Dark (Under LRV 45)
+### Anything dark (under LRV 45)
 
 Dark colors need light to look rich. In north rooms, they just look flat and muddy—like someone turned down the saturation.
 
 Exception: if you *want* a moody, cozy vibe and you've tested extensively. But that's intentional, not accidental.
 
-## The LRV Rule
+## The LRV rule
 
 For north-facing rooms, I follow this guideline:
 
@@ -110,9 +110,9 @@ For north-facing rooms, I follow this guideline:
 
 Every 10 points of LRV makes a noticeable difference in north rooms. When choosing between two colors you like equally, pick the one with higher LRV.
 
-## Room-Specific Recommendations
+## Room-specific recommendations
 
-**North-facing living room**: Pale Oak OC-20 or Edgecomb Gray HC-173. Both have enough color to feel sophisticated without going dark.
+**North-facing living room**: Pale Oak OC-20 or Edgecomb Gray HC-173. Both have enough color to feel intentional without going dark.
 
 **North-facing bedroom**: Simply White OC-117 or Shoji White SW 7042. You want cozy, not gloomy. Keep it light.
 
@@ -120,7 +120,7 @@ Every 10 points of LRV makes a noticeable difference in north rooms. When choosi
 
 **North-facing bathroom**: Simply White OC-117 or Alabaster SW 7008. Bathrooms can feel dingy fast. Go light and warm.
 
-## How to Test (Don't Skip This)
+## How to test (don't skip this)
 
 North-facing rooms are less forgiving than other orientations. Test more, not less.
 
@@ -132,7 +132,7 @@ North-facing rooms are less forgiving than other orientations. Test more, not le
 
 Live with samples for at least 3 days. First impressions aren't always right.
 
-## Quick Fixes If You're Stuck
+## Quick fixes if you're stuck
 
 Already painted the wrong color? Before you repaint:
 
@@ -144,7 +144,7 @@ Already painted the wrong color? Before you repaint:
 
 **Add warm decor**: Warm wood tones, gold or brass metals, warm-colored textiles can offset a too-cool wall.
 
-## The Bottom Line
+## Warm undertones, high LRV, no exceptions
 
 For north-facing rooms: warm undertones, LRV above 60, and test before you commit.
 

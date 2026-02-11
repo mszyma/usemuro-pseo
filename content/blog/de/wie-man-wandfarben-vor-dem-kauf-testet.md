@@ -27,7 +27,7 @@ Denk darüber nach, was zwischen dem Laden und deinem Zuhause unterschiedlich is
 - **Kontext**: Weiße Präsentationstafel vs. deine Möbel, Böden und festen Oberflächen
 - **Zeit**: Ein 5-Sekunden-Blick vs. rund um die Uhr damit leben
 
-Farben ändern sich dramatisch basierend auf diesen Faktoren. Das „warme Grau" kann je nach Lichtquelle deines Raumes und seiner Umgebung blau, lila, grün oder braun wirken.
+Farben ändern sich stark basierend auf diesen Faktoren. Das „warme Grau" kann je nach Lichtquelle deines Raumes und seiner Umgebung blau, lila, grün oder braun wirken.
 
 ## Das 3-Schritte-Farbtest-System
 
@@ -75,7 +75,7 @@ Wenn sich etwas komisch anfühlt, vertrau diesem Gefühl. Es ist viel einfacher,
 
 **Fehler 1: Im falschen Licht testen**
 
-Die meisten Leute testen Farben tagsüber und hassen sie dann abends unter warmen Lampen. Teste in ALLEN deinen Lichtsituationen. Das wunderschöne „Greige" könnte unter deinen warmen LED-Birnen rosa werden.
+Die meisten Leute testen Farben tagsüber und hassen sie dann abends unter warmen Lampen. Teste in ALLEN deinen Lichtsituationen. Das tolle „Greige" könnte unter deinen warmen LED-Birnen rosa werden.
 
 **Fehler 2: Zu kleine Muster**
 
@@ -93,7 +93,7 @@ Steh in deinem Flur. Kannst du in mehrere Räume sehen? Diese Farben müssen zus
 
 Wenn deine aktuelle Wand dunkel ist, werden die Untertöne durchscheinen und beeinflussen, wie die neue Farbe erscheint. Streiche zuerst eine weiß grundierte Tafel, oder verwende eine Grundierung auf einem Testbereich.
 
-## Das Fazit
+## Die wichtigste Regel
 
 Vertrau nicht auf Farbmuster. Vertrau nicht auf Ladenbeleuchtung. Vertrau nicht auf die Farbe, die du auf irgendeinem perfekt ausgeleuchteten Instagram-Post eines Influencers gesehen hast.
 

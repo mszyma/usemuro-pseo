@@ -41,7 +41,7 @@ Wähle eine neutrale Farbe, die in Fluren, Übergängen und allen Wänden ersche
 **Gute Basis-Neutraltöne die ich empfehle:**
 - **Warmgrau von Caparol (LRV 60)** — Warmes Greige, funktioniert mit fast allem
 - **Sandbeige von Brillux (LRV 70)** — Vielseitiges Beige-Grau
-- **Taupe von Sto (LRV 63)** — Raffiniert, leicht warm
+- **Taupe von Sto (LRV 63)** — Dezent, leicht warm
 - **Seidenbeige von Alpina (LRV 58)** — Warm und einladend
 
 Dein Basis-Neutral erscheint in:
@@ -163,7 +163,7 @@ Viele Häuser haben offene Bereiche (Küche/Wohnen) plus geschlossene Räume (Sc
 **Offene Zonen:** Bleib beim Basis-Neutral, keine Experimente
 **Private Räume mit Türen:** Mehr Farbfreiheit – diese müssen nicht so genau passen
 
-## Das Fazit
+## Zusammengefasst
 
 Farbfluss zu schaffen erfordert:
 

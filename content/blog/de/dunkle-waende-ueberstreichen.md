@@ -161,7 +161,7 @@ Sagen wir, Sie uberstreichen 40 Quadratmeter dunkelblaue Wande.
 
 Die Grundierung ist keine Zusatzkosten. Sie ist eine Ersparnis.
 
-## Das Fazit
+## Grau getonte Grundierung ist nicht optional
 
 Dunkel-zu-Hell-Farbwechsel erfordern grau getonte Grundierung. Es gibt keine Abkurzung, die wirklich funktioniert. Die Grundierung kostet weniger als die zusatzliche Farbe, die Sie beim Versuch sie zu uberspringen verwenden wurden, und sie spart Stunden an Frustration.
 

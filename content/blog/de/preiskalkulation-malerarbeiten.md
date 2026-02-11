@@ -14,7 +14,7 @@ imageAlt: "Professioneller Maler misst einen Raum mit Massband und Notizblock f�
 
 Ich habe bei meinen ersten drei Maleraufträgen Geld verloren. Kalkuliert nach "Gefühl," eine 3,5-Meter-Decke nicht berücksichtigt und völlig vergessen die zwei Tage Tapetenentfernung einzurechnen die der Kunde "selbstverständlich" als inkludiert annahm. Schnell gelernt dass Gefühlspreise ein Weg zu unbezahlter Arbeit sind.
 
-## Die zwei Preismodelle
+## Zwei Preismodelle, die funktionieren
 
 ### Quadratmeterpreis
 
@@ -51,7 +51,7 @@ Ideal für:
 | Geselle | €280 - €400 |
 | Meister / Spezialität | €400 - €600 |
 
-## Quadratmeterzahl berechnen
+## So berechnen Sie die Quadratmeterzahl
 
 ### Wand-Quadratmeter
 
@@ -78,7 +78,7 @@ Einfach Länge x Breite des Raums.
 
 Wände (50,4) + Decke (20) = 70,4 m²
 
-## Die Preisformel
+## Die Preisformel im Detail
 
 **Preis = (Quadratmeter x Satz) + Vorbereitung + Material + Gewinnmarge**
 
@@ -124,35 +124,35 @@ Wände (50,4) + Decke (20) = 70,4 m²
 | Gewinnmarge (20%) | €164 |
 | **Angebotssumme** | **€983** |
 
-## Faktoren die den Preis erhöhen
+## Was den Preis nach oben treibt
 
-### Hohe Decken
+### Bei hohen Decken
 
 - 2,50-3,00 m: Standardpreis
 - 3,00-3,50 m: +15-25%
 - 3,50-4,50 m: +30-50%
 - 4,50+ m (Gerüst erforderlich): +50-100%
 
-### Schwierige Farben
+### Bei schwierigen Farben
 
 - Dunkel zu Hell: +25-50% (extra Anstriche nötig)
 - Leuchtende/satte Farben: +15-25% (Deckungsprobleme)
 - Spezialeffekte: +30-50%
 
-### Zustandsprobleme
+### Bei schlechtem Wandzustand
 
 - Starke Struktur: +15-25%
 - Nikotinschäden: +25-50%
 - Wasserflecken: pro Fleck (€25-75)
 - Schimmelsanierung nötig: Weitervermitteln oder erheblichen Aufschlag
 
-### Zugangsprobleme
+### Bei schwierigem Zugang
 
 - Möbel räumen erforderlich: +€100-300 oder Kunde muss räumen
 - Treppen/Gerüst nötig: +20-40%
 - Bewohntes Haus (Arbeiten um Bewohner herum): +10-20%
 
-## Was ins Angebot gehört
+## Was unbedingt ins Angebot gehort
 
 Immer spezifizieren:
 
@@ -178,13 +178,13 @@ Immer spezifizieren:
 - Zwischenzahlung: (bei grösseren Aufträgen)
 - Schlussrechnung: Nach Abnahme und Begehung
 
-## Häufige Kalkulationsfehler
+## Fehler die am meisten Geld kosten
 
-### Vorbereitung unterschätzen
+### Vorbereitungszeit wird fast immer unterschatzt
 
 Neue Maler unterschätzen konsequent Vorbereitungszeit. Ein Raum der Tapetenentfernung, Spachtlung und Schleifen braucht, kann länger in der Vorbereitung dauern als im Streichen.
 
-### Gemeinkosten vergessen
+### Gemeinkosten nicht eingerechnet
 
 Ihr Satz muss decken:
 - Fahrzeugkosten
@@ -193,15 +193,15 @@ Ihr Satz muss decken:
 - Marketing
 - Nicht abrechenbare Zeit (Angebote, Fahrten, Verwaltung)
 
-### Nach Konkurrenz kalkulieren
+### Sich an der Konkurrenz orientieren statt an eigenen Kosten
 
 Konkurrenzpreise zu kennen ist nützlich, aber rein zu unterbieten ist ein Weg in die Insolvenz. Kalkulieren Sie basierend auf Ihren Kosten plus Gewinn.
 
-### Nicht an Schwierigkeit anpassen
+### Alle Raume gleich kalkulieren
 
 Ein einfacher Kasten-Raum und ein Raum mit 14 Ecken, 6 Fenstern und Kathedralendecke sind nicht derselbe Auftrag. Entsprechend kalkulieren.
 
-## Wann ablehnen
+## Wann Sie einen Auftrag ablehnen sollten
 
 Manche Aufträge sind es nicht wert:
 
@@ -213,9 +213,9 @@ Manche Aufträge sind es nicht wert:
 
 Ein schlechter Auftrag zum falschen Preis kostet Sie Geld und Reputation. Besser wählerisch sein.
 
-## Bezahlt werden
+## So stellen Sie sicher, dass Sie bezahlt werden
 
-### Verträge sind wichtig
+### Immer schriftlich festhalten
 
 Auch für kleine Aufträge schriftlich festhalten:
 - Leistungsumfang
@@ -238,7 +238,7 @@ Wenn Kunden Umfang mittendrin erweitern:
 - Schriftlichen Nachtragspreis erstellen
 - Freigabe vor Fortfahren einholen
 
-## Das Fazit
+## Preise mit Selbstvertrauen setzen
 
 Kennen Sie Ihre Zahlen. Berechnen Sie Quadratmeter genau, berücksichtigen Sie alle Vorarbeiten, kalkulieren Sie Material zu echten Kosten und addieren Sie Ihre Marge.
 

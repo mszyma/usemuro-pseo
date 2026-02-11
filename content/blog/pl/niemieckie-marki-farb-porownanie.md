@@ -204,7 +204,7 @@ Niemieckie marki konkurują w Polsce z lokalnymi producentami:
 - Standardowe projekty mieszkaniowe
 - Lokalne wsparcie techniczne
 
-## Podsumowanie
+## Którą markę wybrać — krótki werdykt
 
 **Dla profesjonalnych malarzy:** Brillux jeśli cenisz wsparcie dostawcy i szkolenia. Caparol jeśli chcesz premium jakości z szerszą dostępnością.
 

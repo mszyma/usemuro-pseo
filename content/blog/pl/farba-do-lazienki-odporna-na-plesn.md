@@ -99,7 +99,7 @@ Tak, mozesz isc ciemno w lazience, ale:
 
 **Dobre wybory na dramat:**
 
-Dekoral Voice of Color Granatowa Noc - Gleboka, wyrafinowana
+Dekoral Voice of Color Granatowa Noc - Gleboka, elegancka
 
 Dulux Kolory Swiata Wulkan - Prawie czarna, bardzo uderzajaca
 
@@ -125,7 +125,7 @@ Jesli miates plesn, uzyj gruntu blokujacego plesn przed malowaniem. To faktyczni
 - Sufit: Polmat (lapie najwiecej pary)
 - Listwy: Polmat lub polysk
 
-## Podsumowanie
+## Krótko mówiąc
 
 Wiekszosc lazienek nie potrzebuje specjalistycznej farby odpornej na plesn. Dobra wentylacja plus satynowe lub polmatowe wykonczenie radzi sobie z normalna wilgocia lazienkowa.
 
