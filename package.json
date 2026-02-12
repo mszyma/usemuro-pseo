@@ -13,7 +13,8 @@
     "deploy": "npm run build && npx wrangler pages deploy out --project-name=muro-landing --commit-dirty=true",
     "generate:blog-image": "npx ts-node scripts/generate-blog-image.ts",
     "generate:blog-images": "npx ts-node scripts/generate-all-blog-images.ts",
-    "generate:article-images": "npx ts-node scripts/generate-article-images.ts"
+    "generate:article-images": "npx ts-node scripts/generate-article-images.ts",
+    "generate:social-images": "npx ts-node scripts/generate-social-images.ts"
   },
   "dependencies": {
     "fuse.js": "^7.1.0",
